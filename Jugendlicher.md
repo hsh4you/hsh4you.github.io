@@ -1,6 +1,6 @@
 ## Suchst Du
 
-- [Jugendclubs](Jugendclubs.md)
+- [Jugendclubs](Jugendclubs/Jugendclubs.md)
 - Aktivitäten
 - Sportplätze
 - Sportvereine
