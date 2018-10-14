@@ -1,3 +1,3 @@
 ## Kitas
 
-- [Kita Schneckenhausen](Kita_Schneckenhausen.md)
+- [Kita Schneckenhausen](Kita Schneckenhausen.md)
