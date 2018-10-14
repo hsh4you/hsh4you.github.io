@@ -1,6 +1,6 @@
-## Willkommen bei der WebApp für Hohenschönhausen
+# Willkommen bei der WebApp für Hohenschönhausen
 
-### Bist du...
+## Bist du
 
 - [Jugendlicher](Jugendlicher.md)
 - [Mama\/Papa\/Elternteil](Eltern.md)
