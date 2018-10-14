@@ -3,5 +3,5 @@
 ### Bist du...
 
 - [Jugendlicher](Jugendlicher.md)
-- [Mama/Papa/Elternteil](Eltern.md)
+- [Mama\/Papa\/Elternteil](Eltern.md)
 - Neu in Hsh
