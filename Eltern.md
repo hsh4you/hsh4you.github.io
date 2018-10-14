@@ -1,6 +1,6 @@
 ## Suchst Du
 
-- [Kitas](Kitas.md)
+- [Kitas](Kitas/Kitas.md)
 - Schulen
 - Familienzentren
 - Jugendamt
