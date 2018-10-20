@@ -1,4 +1,7 @@
 ## Jugendclubs
 
+- [Full House](jfe_fullhouse.md)
+- [Funkloch](jfe_funkloch.md)
 - [SPIK JK](SPIK_JK.md)
-- [JFE Welseclub](jfe_welseclub.md)
+- [Trialog](jfe_trialog.md)
+- [Welseclub](jfe_welseclub.md)
