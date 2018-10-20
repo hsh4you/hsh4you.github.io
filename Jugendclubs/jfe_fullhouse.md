@@ -1,7 +1,8 @@
 ## JFE Full House
-- Adresse:      
-- Offen:        Montag-Donnerstag von 13-20 Uhr, Freitag 13-21 Uhr  
-- Kontakt:      jfe.fullhouse@pad-berlin.de, 030 / 920 928 79
-- Website:      [Website](https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-fullhouse)
+- Adresse:      Ribnitzer Straße 30, 13051 Berlin
+- Offen:        Montag-Freitag von 13-20 Uhr
+- Alter:        10 - 21 Jahre
+- Kontakt:      jfe.fullhouse@pad-berlin.de, 030 / 96 20 89 94 
+- Website:      [Website](https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-full-house)
 - Angebote:     
 - Institution:  [pad gGmbH](https://www.pad-berlin.de/)
