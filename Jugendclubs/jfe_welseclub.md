@@ -1,4 +1,4 @@
-- Name:         ##JFE Welseclub##
+- Name:         **JFE Welseclub**
 - Institution:  [pad gGmbH](https://www.pad-berlin.de/)
 - Adresse:      Vincent-van-Gogh-Str.36,  13057 Berlin
 - Offen:        Montag-Donnerstag von 13-20 Uhr, Freitag 13-21 Uhr  
