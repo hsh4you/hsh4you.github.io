@@ -3,5 +3,5 @@
 - Adresse:      Am Berl 15, 13051 - Berlin
 - Offen:        Montag-Freitag von 14-20Uhr, jeden 1.&3. Samstag Sporthalle  
 - Kontakt:      jfe@spikev.de, 030 / 920 928 79
-- [Website:](http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/)
+- [Website](http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/)
 - Angebote:     Kochen, Graffiti, Bandraum, Musik, Kunst, Keramik, Zeichnen, Aikido, Tanzen, Sport
