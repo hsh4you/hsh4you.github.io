@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<head>
 <style>
 /* 
 source 1: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_custom_radio
@@ -46,29 +47,8 @@ source 2: https://www.w3schools.com/howto/howto_css_custom_checkbox.asp
     display: block;
 }
 </style>
-<body>
-
-<h2>Du bist</h2>
-<label class="container">Jugendlicher
-  <input type="radio" name="radio" onclick="updateList()" value="Jugendlicher" checked="checked">
-  <span class="checkmark"></span>
-</label>
-<label class="container">Elternteil
-  <input type="radio" name="radio" onclick="updateList()" value="Eltern">
-  <span class="checkmark"></span>
-</label>
-<label class="container">Neu in Hsh
-  <input type="radio" name="radio" onclick="updateList()" value="Neu_in_Hsh">
-  <span class="checkmark"></span>
-</label>
-<label class="container">Senior
-  <input type="radio" name="radio" onclick="updateList()" value="Senior">
-  <span class="checkmark"></span>
-</label>
-
-<div id="list_">
-</div>
-
+<link rel="stylesheet" href="/webapp_hsh/assets/css/style.css?v=31fd849e34b82894869d2aa804629f82a6c57a76">
+    
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     
@@ -92,6 +72,35 @@ function updateList() {
   xhttp.send();
 }
 </script>
+</head>
+<body>
+<header class="page-header" role="banner">
+  <h1 class="project-name">WebApp Hsh</h1>
+  <h2 class="project-tagline"></h2>
+</header>
+<main id="content" class="main-content" role="main">
 
+<h2>Du bist</h2>
+<label class="container">Jugendlicher
+  <input type="radio" name="radio" onclick="updateList()" value="Jugendlicher" checked="checked">
+  <span class="checkmark"></span>
+</label>
+<label class="container">Elternteil
+  <input type="radio" name="radio" onclick="updateList()" value="Eltern">
+  <span class="checkmark"></span>
+</label>
+<label class="container">Neu in Hsh
+  <input type="radio" name="radio" onclick="updateList()" value="Neu_in_Hsh">
+  <span class="checkmark"></span>
+</label>
+<label class="container">Senior
+  <input type="radio" name="radio" onclick="updateList()" value="Senior">
+  <span class="checkmark"></span>
+</label>
+
+<div id="list_">
+</div>
+
+</main>
 </body>
 </html>
