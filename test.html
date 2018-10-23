@@ -84,7 +84,8 @@ function updateList() {
     if (this.readyState == 4 && this.status == 200) {
       var markdown_rawcode = this.responseText;
       var markdown_as_htmlcode = marked(markdown_rawcode);
-      document.getElementById("list_").innerHTML = markdown_as_htmlcode;
+      var htmlcode_links_fixed = markdown_as_htmlcode.replace(/\.md/g, '.html');
+      document.getElementById("list_").innerHTML = htmlcode_links_fixed;
     }
   };
   xhttp.open("GET", markdown_filename, true);
