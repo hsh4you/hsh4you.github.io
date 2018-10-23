@@ -1,4 +1,4 @@
-## Angebote für Senioren
+## Als Senior suchst du
 
 - Beratung
 - Kurse
