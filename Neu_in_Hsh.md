@@ -1,10 +1,12 @@
-## Du suchst nach
+## Du suchst
 
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
-- Bürgeramt
+- Veranstaltungen
+- Beratung
+- Kurse/Workshops
 - Familienzentren
 - Jugendamt
-- Beratung
+- Bürgeramt
 - Begegnungen
 - Sprachcafés
