@@ -70,6 +70,8 @@ source 2: https://www.w3schools.com/howto/howto_css_custom_checkbox.asp
 </div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
 <script>
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
 // source 2: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
@@ -81,7 +83,7 @@ function updateList() {
     if (this.readyState == 4 && this.status == 200) {
       list_value_new = this.responseText;
     }
-    document.getElementById("list_").innerHTML = list_value_new;
+    document.getElementById("list_").innerHTML = marked(list_value_new);
   };
   xhttp.open("GET", value_selected, true);
   xhttp.send();
