@@ -1,9 +1,9 @@
-## Du suchst nach
+## Du suchst
 
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
-- Familienzentren
-- Jugendamt
+- Veranstaltungen
 - Beratung
 - Kurse/Workshops
-- Veranstaltungen
+- Familienzentren
+- Jugendamt
