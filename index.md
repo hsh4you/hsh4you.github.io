@@ -1,6 +1,6 @@
 ## Willkommen bei der WebApp Hsh
 
-## Bist du
+## Du bist
 
 - [Jugendlicher](Jugendlicher.md)
 - [Elternteil](Eltern.md)
