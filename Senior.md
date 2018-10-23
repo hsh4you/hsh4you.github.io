@@ -1,4 +1,4 @@
-## Als Senior suchst du
+## Du suchst nach
 
 - Beratung
 - Kurse
