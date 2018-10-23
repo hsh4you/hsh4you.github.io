@@ -1,4 +1,5 @@
-- Name:         SPIK Jugendklub
+## SPIK Jugendklub
+
 - Institution:  Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
 - Adresse:      Am Berl 15, 13051 - Berlin
 - Offen:        Mo. - Fr. 14:00 - 20:00 Uhr, jeden 1. & 3. Sa: Sporthalle
