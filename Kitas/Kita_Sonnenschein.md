@@ -1,4 +1,5 @@
-- Name:         Kita "Sonnenschein"
+## Kita "Sonnenschein"
+
 - Institution:  urban consult gGmbH
 - Adresse:      Wustrower Str. 39-41, 13051 - Berlin
 - Offen:        Mo. - Fr. 6:00 - 18:00 Uhr
