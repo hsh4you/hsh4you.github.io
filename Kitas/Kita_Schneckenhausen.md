@@ -1,4 +1,5 @@
-- Name:         Kita „Schneckenhausen“
+## Kita „Schneckenhausen“
+
 - Institution:  Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
 - Adresse:      Am Berl 13, 13051 Berlin
 - Offen:        Mo. - Fr. 7:30-17:00 Uhr, 4 Wochen Schließzeit
