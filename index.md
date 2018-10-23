@@ -8,7 +8,7 @@
   <input type="radio" name="radio" onclick="updateList()" value="Eltern">
   <span class="checkmark"></span>
 </label>
-<label class="container">Neu in Hsh
+<label class="container"><nobr>Neu in Hsh</nobr>
   <input type="radio" name="radio" onclick="updateList()" value="Neu_in_Hsh">
   <span class="checkmark"></span>
 </label>
