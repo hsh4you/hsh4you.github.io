@@ -1,4 +1,4 @@
-## Neu in Hsh
+## Als neu in Hsh suchst du
 
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
