@@ -1,6 +1,5 @@
-## Für Eltern
+## Als Elternteil suchst du
 
-## Du suchst
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - Familienzentren
