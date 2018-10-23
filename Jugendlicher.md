@@ -6,3 +6,4 @@
 - Sportvereine
 - Öffentliche Plätze
 - Beratung
+- Veranstaltungen
