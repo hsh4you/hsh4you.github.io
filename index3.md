@@ -17,7 +17,5 @@
   <span class="checkmark"></span>
 </label>
 
-<br><br>
-
 <div id="list_">
 </div>
