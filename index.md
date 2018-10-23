@@ -12,7 +12,7 @@
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList()" value="Neu_in_Hsh">
-  <span class="checkmark">Neu in Hsh</span>
+  <span class="checkmark"></span><nobr>Neu in Hsh</nobr>
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList()" value="Senior">
