@@ -1,4 +1,4 @@
-## Suchst Du
+## Als Jugendlicher suchst du
 
 - [Jugendclubs](Jugendclubs/Jugendclubs.md)
 - Aktivitäten
