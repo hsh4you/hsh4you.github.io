@@ -1,4 +1,4 @@
-## Willkommen bei der WebApp für Hohenschönhausen
+## Willkommen bei der WebApp Hsh
 
 ## Bist du
 
