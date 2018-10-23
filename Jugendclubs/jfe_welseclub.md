@@ -8,6 +8,6 @@
 - Angebote:     Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Gartenprojekt, Kochen/Backen, Computerraum,  Sportraum, Billard, Kicker, Tischtennis, Familiensonntage, Theatergruppe, Kampfkunst
 - Institution:  [pad gGmbH](https://www.pad-berlin.de/)
 
-### Fotos
+## Fotos
 
 ![JFE Welseclub](../images/welseclub.jpg)
