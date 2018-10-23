@@ -1,6 +1,6 @@
-## Du suchst nach
+## Du suchst
 
-- Beratung
-- Kurse
 - Veranstaltungen
+- Beratung
+- Kurse/Workshops
 - Ehrenamt
