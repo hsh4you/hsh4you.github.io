@@ -5,3 +5,5 @@
 - Familienzentren
 - Jugendamt
 - Beratungsstellen
+- Kurse/Workshops
+- Veranstaltungen
