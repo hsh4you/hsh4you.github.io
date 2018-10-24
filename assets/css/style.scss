@@ -8,8 +8,10 @@
   background-image: linear-gradient(90deg, #0ebb00, #248000);
 }
 
-.whitelink {
+.whitelink:link, .whitelink:visited, .whitelink:link:active, .whitelink:visited:active {
   color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .project-tagline {
