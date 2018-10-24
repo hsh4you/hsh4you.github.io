@@ -1,7 +1,7 @@
 ## Du bist
 
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList()" value="Jugendlicher" checked="checked">
+  <input type="radio" name="radio" onclick="updateList()" value="Jugendlicher">
   <span class="checkmark"></span>
   Jugendlicher
 </label>
