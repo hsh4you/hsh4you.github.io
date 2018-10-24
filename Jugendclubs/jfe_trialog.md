@@ -4,5 +4,5 @@
 - Alter:        12-25 Jahre
 - Kontakt:      jfe.trialog@pad-berlin.de, 030 / 92 40 73 53 
 - [Website](https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-trialog)
-- Angebote:     
+- Angebote: Fitnessraum, kostenlose Rechtsberatung (bis 27 Jahren), Vermietung der Räumlichkeiten, Billard, Kicker, Tischtennis, Gartenprojekte, wöchentliches Kochangebot „Junge Küche“, PC-Ecke, Basketball, Beachvolleyball, Beachbar im Garten, Graffiti-Projekte, Lagerfeuerstelle, Hausaufgabenhilfe und Familiensamstage
 - Institution:  [pad gGmbH](https://www.pad-berlin.de/)
