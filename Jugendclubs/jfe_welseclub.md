@@ -11,3 +11,5 @@
 ## Fotos
 
 ![JFE Welseclub](../images/welseclub.jpg)
+![](../images/wc36-eingang.JPG)
+![](../images/wc36-seite.jpg)
