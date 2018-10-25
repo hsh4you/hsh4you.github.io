@@ -1,4 +1,4 @@
-## Jugendclubs
+## Jugendklubs
 
 - [Full House](jfe_fullhouse.md)
 - [Funkloch](jfe_funkloch.md)
