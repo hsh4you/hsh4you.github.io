@@ -6,3 +6,4 @@
 - [Website](https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-full-house)
 - Angebote:     
 - Institution:  [pad gGmbH](https://www.pad-berlin.de/)
+[![Volles Haus im Full House](../images/fullhouse.png](https://www.youtube.com/watch?v=xLhWAbKMOsA)
