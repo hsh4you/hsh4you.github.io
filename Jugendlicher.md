@@ -1,6 +1,6 @@
 ## Du suchst
 
-- [Jugendclubs](Jugendclubs/Jugendclubs.md)
+- [Jugendclubs](Jugendclubs/Jugendklubs.md)
 - Veranstaltungen
 - Beratung
 - Aktivitäten
