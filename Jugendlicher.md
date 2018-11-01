@@ -2,7 +2,7 @@
 
 - [Jugendclubs](Jugendclubs/Jugendklubs.md)
 - Veranstaltungen
-- Beratung
+- [Beratung](Beratung_Jugendlicher/Beratung_Jugendlicher.md)
 - Aktivitäten
 - Sportplätze
 - Sportvereine
