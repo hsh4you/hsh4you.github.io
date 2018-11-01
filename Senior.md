@@ -2,5 +2,4 @@
 
 - Veranstaltungen
 - Beratung
-- Kurse/Workshops
 - Ehrenamt
