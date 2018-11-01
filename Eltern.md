@@ -4,6 +4,5 @@
 - [Schulen](Schulen/Schulen.md)
 - Veranstaltungen
 - Beratung
-- Kurse/Workshops
 - Familienzentren
 - Jugendamt
