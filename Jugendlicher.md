@@ -4,6 +4,3 @@
 - Veranstaltungen
 - [Beratung](Beratung_Jugendlicher/Beratung_Jugendlicher.md)
 - Aktivitäten
-- Sportplätze
-- Sportvereine
-- Öffentliche Plätze
