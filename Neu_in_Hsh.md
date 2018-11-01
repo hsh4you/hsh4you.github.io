@@ -3,7 +3,7 @@
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - Veranstaltungen
-- Beratung
+- [Beratung](Beratung_Neu/Beratung_Neu.md)
 - Kurse/Workshops
 - Familienzentren
 - Jugendamt
