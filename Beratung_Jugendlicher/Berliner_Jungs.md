@@ -9,3 +9,7 @@
                 - Beratung von betroffenen Jungen* und ihren Angehörigen (Eltern/Erziehungsberechtigte), Fachkräfte der Jugendhilfe und Schulen
                 - Schulung pädagogischer Fachkräfte und Multiplikator*innen
 - Institution:  HILFE-FÜR-JUNGS e.V.
+
+## Fotos
+
+<img src="berliner_jungs.png" width="600" />
