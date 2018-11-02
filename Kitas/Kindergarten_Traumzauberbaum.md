@@ -1,4 +1,5 @@
-- Name:         Kindergarten Traumzauberbaum
+## Kindergarten Traumzauberbaum
+
 - Adresse:      Reriker Str. 20, 13051 - Berlin
 - Offen:        Mo. – Fr. 6:00 – 18:00 Uhr, Schließzeiten lt. Kitavertrag
 - Alter:        1 - 6 Jahre
