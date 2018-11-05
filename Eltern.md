@@ -5,4 +5,4 @@
 - Beratung
 - Familienzentren
 - Jugendamt
-- Veranstaltungen
+- [Veranstaltungen](Veranstaltungen/Veranstaltungen.md)
