@@ -3,6 +3,7 @@
 // source 3: https://github.com/markedjs/marked
 function updateList() {
   var value_selected = $('input:radio[name=radio]:checked').val();
+  if (value_selected == null) value_selected = "Startauswahl";
   var markdown_filename =  value_selected + ".md";
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
