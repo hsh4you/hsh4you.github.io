@@ -25,5 +25,8 @@
 </div>
 
 <script type="text/javascript">
-  window.onload = function() { updateList(); }
+  window.onload = function() { 
+    updateList(); 
+    alert('The body of the document has loaded');
+  }
 </script>
