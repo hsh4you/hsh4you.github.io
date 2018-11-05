@@ -22,4 +22,13 @@
 </label>
 <br>
 <div id="list_">
+  <h2>Du suchst</h2>
+
+- [Jugendklubs](Jugendclubs/Jugendklubs.md)
+- [Kitas](Kitas/Kitas.md)
+- [Schulen](Schulen/Schulen.md)
+- Beratung
+- Familienzentren
+- [Veranstaltungen](Veranstaltungen/Veranstaltungen.md)
+- [Freizeit](Freizeit/Freizeit.md)
 </div>
