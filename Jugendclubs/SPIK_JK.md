@@ -1,5 +1,4 @@
 ## SPIK Jugendklub
-
 . | .
 ---: | ---
 **Adresse** | Am Berl 15, 13051 - Berlin
