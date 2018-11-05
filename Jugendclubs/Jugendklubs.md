@@ -1,5 +1,6 @@
 ## Jugendklubs
 
+- Ferienangebote
 - [Full House](jfe_fullhouse.md)
 - [Funkloch](jfe_funkloch.md)
 - [SPIK JK](SPIK_JK.md)
