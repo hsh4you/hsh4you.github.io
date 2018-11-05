@@ -23,11 +23,11 @@ thead {
   visibility: collapse;
 }
 
-table {
+.main-content table {
   display: inline;
 }
 
 .main-content table th, .main-content table td {
-    padding: 0.0rem 0.5rem;
+    padding: 0.2rem 0.3rem;
     border: 0px;
 }
