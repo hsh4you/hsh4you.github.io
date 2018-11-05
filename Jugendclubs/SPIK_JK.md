@@ -7,5 +7,5 @@
 **Alter** | 10 - 21 Jahre
 **Kontakt** | [jfe@spikev.de](jfe@spikev.de)<br>030 / 920 928 79
 **Webseite** | [Webseite](http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/)
-**Angebote** | Kochen<br>Graffiti<br>Bandraum<br>Musik<br>Kunst<br>Keramik<br>Zeichnen<br>Aikido<br>Tanzen<br>Sport
+**Angebote** | Kochen, Graffiti, Bandraum, Musik, Kunst, Keramik, Zeichnen, Aikido, Tanzen, Sport
 **Institution** | Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
