@@ -20,6 +20,11 @@
   <span class="checkmark"></span>
   Senior
 </label>
+<label class="container">
+  <input type="radio" name="radio" onclick="updateList()" value="Startauswahl">
+  <span class="checkmark"></span>
+  Weder noch
+</label>
 <br>
 <div id="list_">
 </div>
