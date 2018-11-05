@@ -1,7 +1,7 @@
 ## SPIK Jugendklub
 
-. | .
----: | ---
+|||
+-:|-
 **Adresse** | Am Berl 15, 13051 Berlin
 **Offen** | Mo–Fr 14:00–20:00 Uhr
 **Alter** | 10–21 Jahre
