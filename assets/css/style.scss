@@ -25,6 +25,9 @@ thead {
 
 table {
   display: inline;
-  padding: 0.0rem 0.5rem;
-  border: 0px;
+}
+
+.main-content table th, .main-content table td {
+    padding: 0.0rem 0.5rem;
+    border: 0px;
 }
