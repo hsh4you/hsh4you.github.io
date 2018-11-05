@@ -21,7 +21,7 @@
   Senior
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList()" value="Startauswahl">
+  <input type="radio" name="radio" onclick="updateList()" value="Startauswahl" checked="checked">
   <span class="checkmark"></span>
   Weder noch
 </label>
