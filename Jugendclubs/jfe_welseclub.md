@@ -13,6 +13,6 @@
 
 ## Fotos
 
-<img src="../images/welseclub.jpg" />
+<img src="../images/welseclub.jpg" width="600px" />
 <img src="../images/wc36-eingang.JPG" width="600px" />
 <img src="../images/wc36-seite.jpg" width="600px" />
