@@ -6,8 +6,8 @@
 **Alter:**   |     10-27 Jahre
 **Kontakt:** |     jfe.welseclub@pad-berlin.de, 030 / 920 50 49
 **Website** | [Website](https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-welseclub) <br> [Facebook](https://www.facebook.com/Welseclub/) <br> [Instagram](https://www.instagram.com/jfe.welseclub/)
-- Angebote:     Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Gartenprojekt, Kochen/Backen, Computerraum,  Sportraum, Billard, Kicker, Tischtennis, Familiensonntage, Theatergruppe, Kampfkunst
-- Institution:  [pad gGmbH](https://www.pad-berlin.de/)
+**Angebote** | Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Gartenprojekt, Kochen/Backen, Computerraum,  Sportraum, Billard, Kicker, Tischtennis, Familiensonntage, Theatergruppe, Kampfkunst
+**Institution:** |  [pad gGmbH](https://www.pad-berlin.de/)
 
 ## Fotos
 
