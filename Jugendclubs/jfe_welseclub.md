@@ -1,6 +1,7 @@
 ## JFE Welseclub
-
-- Adresse:      Vincent-van-Gogh-Str.36,  13057 Berlin
+|||
+-:|-
+Adresse:  |    Vincent-van-Gogh-Str.36,  13057 Berlin
 - Offen:        Montag-Donnerstag von 13-20 Uhr, Freitag 13-21 Uhr
 - Alter:        10-27 Jahre
 - Kontakt:      jfe.welseclub@pad-berlin.de, 030 / 920 50 49
