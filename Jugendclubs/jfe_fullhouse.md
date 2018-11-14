@@ -2,14 +2,14 @@
 
 |||
 -:|-
-**Adresse** |       Ribnitzer Straße 30, 13051 Berlin
-**Offen** |         Montag-Freitag von 13-20 Uhr
-**Alter** |         10 - 21 Jahre
-**Kontakt** |       jfe.fullhouse@pad-berlin.de, [030 / 96 20 89 94](+493096208994)
-**Website** |  [Webseite](https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-full-house)<br>[Instagram](https://www.instagram.com/jfe.fullhouse/)
-**Angebote** |     Kochen/Backen, Volleyball, Fußball, Basketball, Fitness, Holzverarbeitung, Basteln, Malen, Graffiti, Gartenprojekt, Billard, Kicker, Dart, Tischtennis, Gesellschaftsspiele, Hausaufgabenhilfe, Bewerbungstraining, Tagesausflüge, Fahrradwerksattt, Computerraum, Mädchenraum, Workshops
-**Institution** |   [pad gGmbH](https://www.pad-berlin.de/)
+**Adresse** |     Ribnitzer Straße 30, 13051 Berlin
+**Offen** |       Mo–Fr 13–20 Uhr
+**Alter** |       10–21 Jahre
+**Kontakt** |     [jfe.fullhouse@pad-berlin.de](mailto:jfe.fullhouse@pad-berlin.de)<br>030 9620 8994
+**Website** |     <a target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-full-house">Webseite</a><br><a target="_blank" href="https://www.instagram.com/jfe.fullhouse/">Instagram</a>
+**Angebote** |    Kochen/Backen, Volleyball, Fußball, Basketball, Fitness, Holzverarbeitung, Basteln, Malen, Graffiti, Gartenprojekt, Billard, Kicker, Dart, Tischtennis, Gesellschaftsspiele, Hausaufgabenhilfe, Bewerbungstraining, Tagesausflüge, Fahrradwerksattt, Computerraum, Mädchenraum, Workshops
+**Institution** | <a target="_blank" href="https://www.pad-berlin.de/">pad gGmbH</a>
 
 ## Fotos/Videos
 
-<a href="https://www.youtube.com/watch?v=xLhWAbKMOsA"><img src="../images/fullhouse.png" /></a>
+<a target="_blank" href="https://www.youtube.com/watch?v=xLhWAbKMOsA"><img src="../images/fullhouse.png" /></a>
