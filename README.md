@@ -6,13 +6,16 @@
 
 ## Tasks
 
-- [X] Externe Links im neuen Tab öffnen
 - [ ] Zurück Funktionalität
-- [X] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
 - [ ] Veranstaltungskalender
 - [ ] Kartenfunktionalität
 - [ ] Ordnerstruktur Beratung vereinfachen
 - [ ] Auflistung aller Beratungsangebote bei "Weder noch"
+
+## Erledigt
+
+- [X] Externe Links im neuen Tab öffnen
+- [X] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
 
 ## Wünsche
 
