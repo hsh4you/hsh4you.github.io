@@ -12,4 +12,4 @@
 
 ## Fotos/Videos
 
-<a target="_blank" href="https://www.youtube.com/watch?v=xLhWAbKMOsA"><img src="../images/fullhouse.png" /></a>
+<a target="_blank" href="https://www.youtube.com/watch?v=xLhWAbKMOsA"><img src="../images/fullhouse.png" width="600px" /></a>
