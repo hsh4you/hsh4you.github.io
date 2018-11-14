@@ -23,3 +23,4 @@
 - Einbettung Youtube-Videos / Abspielbar in WebApp
 - Einbettung Social Media Streams bspw. jüngste Instagram Photos/Posts
 - Ehrenamt/Freiwilligenarbeit/Mitmachen bei allen Zielgruppen, sobald Daten verfügbar
+- Kleine Vorschaubilder/Fotos, bei Klick großes Bild/Foto
