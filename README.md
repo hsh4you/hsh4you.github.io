@@ -6,9 +6,9 @@
 
 ## Tasks
 
-- [ ] Externe Links im neuen Tab öffnen
+- [X] Externe Links im neuen Tab öffnen
 - [ ] Zurück Funktionalität
-- [ ] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
+- [X] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
 - [ ] Veranstaltungskalender
 - [ ] Kartenfunktionalität
 - [ ] Ordnerstruktur Beratung vereinfachen
