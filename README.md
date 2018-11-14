@@ -11,6 +11,7 @@
 - [ ] Kartenfunktionalität
 - [ ] Ordnerstruktur Beratung vereinfachen
 - [ ] Auflistung aller Beratungsangebote bei "Weder noch"
+- [ ] Dynamische Inhalte vorladen, siehe \*.md auf Startseite
 
 ## Erledigt
 
