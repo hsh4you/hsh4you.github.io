@@ -7,7 +7,7 @@
 **Alter** |       Jungen zwischen 6–18 Jahren und Angehörige
 **Kontakt** |     [info@jungen-netz.de](mailto:info@jungen-netz.de)<br>030 2363 3983
 **Webseite** |    <a target="_blank" href="https://www.jungen-netz.de">www.jungen-netz.de</a>
-**Angebote** |    <ul><li>Prävention von sexueller Gewalt an Jungen; vor Ort und als Projekt an Schulen und Freizeiteinrichtungen</li><li>Beratung von betroffenen Jungen und ihren Angehörigen (Eltern/Erziehungsberechtigte), Fachkräfte der Jugendhilfe und Schulen</li><li>Schulung pädagogischer Fachkräfte und Multiplikator_innen</li></ul>
+**Angebote** |    - Prävention von sexueller Gewalt an Jungen; vor Ort und als Projekt an Schulen und Freizeiteinrichtungen <br>- Beratung von betroffenen Jungen und ihren Angehörigen (Eltern/Erziehungsberechtigte), Fachkräfte der Jugendhilfe und Schulen <br>- Schulung pädagogischer Fachkräfte und Multiplikator_innen</li></ul>
 **Institution** | HILFE-FÜR-JUNGS e.V.
 
 
