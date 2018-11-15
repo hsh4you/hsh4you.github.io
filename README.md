@@ -6,7 +6,6 @@
 
 ## Tasks
 
-- [ ] Zurück Funktionalität
 - [ ] Veranstaltungskalender
 - [ ] Kartenfunktionalität
 - [ ] Ordnerstruktur Beratung vereinfachen
@@ -15,8 +14,10 @@
 
 ## Erledigt
 
-- [X] Externe Links im neuen Tab öffnen
 - [X] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
+- [x] Links in Tabellen reparieren
+- [x] Zurück Funktionalität
+- [X] Externe Links im neuen Tab öffnen
 
 ## Wünsche
 
