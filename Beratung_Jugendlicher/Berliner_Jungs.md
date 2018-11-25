@@ -10,6 +10,8 @@
 **Angebote** |    - Prävention von sexueller Gewalt an Jungen; vor Ort und als Projekt an Schulen und Freizeiteinrichtungen <br>- Beratung von betroffenen Jungen und ihren Angehörigen (Eltern/Erziehungsberechtigte), Fachkräfte der Jugendhilfe und Schulen <br>- Schulung pädagogischer Fachkräfte und Multiplikator_innen</li></ul>
 **Institution** | HILFE-FÜR-JUNGS e.V.
 
+<div id="gmap"></div>
+<script>window.onload = showMap('Leinestr. 49, 12049 Berlin')</script>
 
 ## Fotos
 
