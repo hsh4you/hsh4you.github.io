@@ -12,4 +12,4 @@
 **Institution** | Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
 
 <div id="gmap"></div>
-<script type="text/javascript">window.onload = function() { showMap(); }</script>
+<script>window.onload = showMap()</script>
