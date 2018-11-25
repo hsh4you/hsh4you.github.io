@@ -32,8 +32,8 @@ function findAddress() {
   return address;
 };
 
-function showMap() {
-  var address = findAddress();
+function showMap(address = '') {
+  if (address.length == 0) { address = findAddress(); }
   if (address.length == 0) { return };
   var zoomfactor = 14;
   var htmlcode = '';
