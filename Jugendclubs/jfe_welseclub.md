@@ -10,6 +10,9 @@
 **Angebote** |      Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Gartenprojekt, Kochen/Backen, Computerraum,  Sportraum, Billard, Kicker, Tischtennis, Familiensonntage, Theatergruppe, Kampfkunst
 **Institution** |  <a target="_blank" href="https://www.pad-berlin.de/">pad gGmbH</a>
 
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
+
 ## Fotos
 
 <img src="../images/welseclub.jpg" width="600px" />
