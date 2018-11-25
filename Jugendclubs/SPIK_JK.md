@@ -12,8 +12,5 @@
 **Institution** | Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
 
 <br>
-<div class="gmap_outer">
-    <div class="gmap_inner">
-        <iframe class="gmap_iframe" src="https://maps.google.com/maps?q=Am%20Berl%2015&z=14&output=embed" frameborder="0"></iframe>
-    </div>
-</div>
+<div class="gmap_outer"></div>
+<script>window.onload = showMap('Am Berl 15, 13051');</script>
