@@ -9,3 +9,6 @@
 **Webseite** | 		<a target="_blank" href="http://www.spikev.de/kindertagesstaette/">www.spikev.de/kindertagesstaette/</a>
 **Angebote** | 		naturnah, familiär, situativer Ansatz, viele Außenaktivitäten, großen Garten, Lernwerkstatt, Elternarbeit
 **Institution** | 	Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
+
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
