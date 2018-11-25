@@ -18,8 +18,23 @@ function updateList() {
   xhttp.send();
 }
 
+function findAddress() {
+	var address = '';
+	var td = document.getElementsByTagName("td");
+	var i;
+	for (i = 0; i < td.length; i++) {
+		cellcontent = td[i].innerHTML;
+		if (cellcontent.indexOf('Adresse') >= 0) {
+			address = td[i+1].innerHTML;
+			break;
+		}
+	}
+  return address;
+};
 
 function showMap(address) {
+  var address = findAddress();
+  if (address.length == 0) { return };
   var zoomfactor = 14;
   var htmlcode = '';
   htmlcode += '\n<h2>Karte</h2>';
