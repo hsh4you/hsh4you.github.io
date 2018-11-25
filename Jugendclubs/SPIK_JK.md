@@ -11,5 +11,5 @@
 **Bemerkung** |   1.+3. Sa Sporthalle
 **Institution** | Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
 
-<iframe id="gmap"></iframe>
+<div id="gmap"></div>
 <script onload="showMap('Am Berl 15, 13051')"></script>
