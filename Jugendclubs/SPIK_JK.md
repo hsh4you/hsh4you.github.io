@@ -10,3 +10,5 @@
 **Angebote** |    Kochen, Graffiti, Bandraum, Musik, Kunst, Keramik, Zeichnen, Aikido, Tanzen, Sport
 **Bemerkung** |   1.+3. Sa Sporthalle
 **Institution** | Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
+
+<iframe width="600" height="400" src="https://maps.google.com/maps?q=Am%20Berl%2015&z=14&output=embed" frameborder="0"></iframe>
