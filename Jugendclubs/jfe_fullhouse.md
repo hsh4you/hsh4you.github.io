@@ -10,6 +10,9 @@
 **Angebote** |    Kochen/Backen, Volleyball, Fußball, Basketball, Fitness, Holzverarbeitung, Basteln, Malen, Graffiti, Gartenprojekt, Billard, Kicker, Dart, Tischtennis, Gesellschaftsspiele, Hausaufgabenhilfe, Bewerbungstraining, Tagesausflüge, Fahrradwerksattt, Computerraum, Mädchenraum, Workshops
 **Institution** | <a target="_blank" href="https://www.pad-berlin.de/">pad gGmbH</a>
 
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
+
 ## Fotos/Videos
 
 <a target="_blank" href="https://www.youtube.com/watch?v=xLhWAbKMOsA"><img src="../images/fullhouse.png" width="600px" /></a>
