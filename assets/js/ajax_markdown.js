@@ -19,20 +19,20 @@ function updateList() {
 }
 
 function findAddress() {
-	var address = '';
-	var td = document.getElementsByTagName("td");
-	var i;
-	for (i = 0; i < td.length; i++) {
-		cellcontent = td[i].innerHTML;
-		if (cellcontent.indexOf('Adresse') >= 0) {
-			address = td[i+1].innerHTML;
-			break;
-		}
-	}
+  var address = '';
+  var td = document.getElementsByTagName("td");
+  var i;
+  for (i = 0; i < td.length; i++) {
+    cellcontent = td[i].innerHTML;
+    if (cellcontent.indexOf('Adresse') >= 0) {
+      address = td[i+1].innerHTML;
+      break;
+    }
+  }
   return address;
 };
 
-function showMap(address) {
+function showMap() {
   var address = findAddress();
   if (address.length == 0) { return };
   var zoomfactor = 14;
