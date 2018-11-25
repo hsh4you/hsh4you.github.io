@@ -17,6 +17,6 @@
 
 <div class="gmap_outer">
     <div class="gmap_inner">
-        <iframe class="map" src="https://maps.google.com/maps?q=Am%20Berl%2015&z=14&output=embed" frameborder="0"></iframe>
+        <iframe class="gmap_iframe" src="https://maps.google.com/maps?q=Am%20Berl%2015&z=14&output=embed" frameborder="0"></iframe>
     </div>
 </div>
