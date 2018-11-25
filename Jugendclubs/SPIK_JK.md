@@ -13,4 +13,4 @@
 
 ## Karte
 
-<iframe width="600" max-width="100%" height="400" src="https://maps.google.com/maps?q=Am%20Berl%2015&z=14&output=embed" frameborder="0"></iframe>
+<iframe id="embedded_map" src="https://maps.google.com/maps?q=Am%20Berl%2015&z=14&output=embed" frameborder="0"></iframe>
