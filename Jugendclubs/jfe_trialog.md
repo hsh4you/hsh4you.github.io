@@ -9,3 +9,6 @@
 **Webseite** |    <a target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-trialog">Webseite</a>
 **Angebote** |    Fitnessraum, kostenlose Rechtsberatung (bis 27 Jahren), Vermietung der Räumlichkeiten, Billard, Kicker, Tischtennis, Gartenprojekte, wöchentliches Kochangebot „Junge Küche“, PC-Ecke, Basketball, Beachvolleyball, Beachbar im Garten, Graffiti-Projekte, Lagerfeuerstelle, Hausaufgabenhilfe und Familiensamstage
 **Institution** | <a target="_blank" href="https://www.pad-berlin.de/">pad gGmbH</a>
+
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
