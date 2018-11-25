@@ -14,6 +14,7 @@
 
 ## Erledigt
 
+- [x] Eingebettete Karte
 - [X] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
 - [x] Links in Tabellen reparieren
 - [x] Zurück Funktionalität
