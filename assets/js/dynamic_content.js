@@ -38,7 +38,7 @@ function showMap(address = '') {
   var zoomfactor = 14;
   var htmlcode = '';
   htmlcode += '\n<h2>Karte</h2>';
-  htmlcode += '\n<iframe class="gmap_iframe2" src="https://maps.google.com/maps';
+  htmlcode += '\n<iframe class="gmap_iframe" src="https://maps.google.com/maps';
   htmlcode += '?q=' + address;
   htmlcode += '&z=' + zoomfactor;
   htmlcode += '&output=embed" frameborder="0"></iframe>';
