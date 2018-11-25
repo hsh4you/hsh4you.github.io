@@ -9,3 +9,6 @@
 **Webseite** |    <a target="_blank" href="http://www.kietzfuerkids.de/fort-robinson/">www.kietzfuerkids.de/fort-robinson/</a>
 **Angebote** |    Pferde AG für Anfänger & Fortgeschrittene, Reiten, Stockbrot, Hüttenbau, Bogenschießen, Grillen, Gärtnern
 **Institution** | Kietz für Kids Kinderbetreuung gGmbH
+
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
