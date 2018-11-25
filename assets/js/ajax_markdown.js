@@ -23,7 +23,7 @@ function showMap(address) {
   var zoomfactor = 14;
   var htmlcode = '';
   htmlcode += '\n<h2>Karte</h2>';
-  htmlcode += '\n<div id="gmap_outer">';
+  htmlcode += '\n<div class="gmap_outer">';
   htmlcode += '\n<div class="gmap_inner">';
   htmlcode += '\n<iframe class="gmap_iframe" src="https://maps.google.com/maps';
   htmlcode += '?q=' + address;
