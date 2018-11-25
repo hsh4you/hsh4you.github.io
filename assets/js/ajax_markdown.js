@@ -17,3 +17,16 @@ function updateList() {
   xhttp.open("GET", markdown_filename, true);
   xhttp.send();
 }
+
+
+function showMap(address) {
+  var zoomfactor = 14;
+  var htmlcode = '';
+  htmlcode += '\n<div class="gmap_inner">';
+  htmlcode += '\n<iframe class="gmap_iframe" src="https://maps.google.com/maps';
+  htmlcode += '?q=' + address;
+  htmlcode += '&z=' + zoomfactor;
+  htmlcode += '&output=embed" frameborder="0"></iframe>';
+  htmlcode += '\n</div>';
+  document.getElementById('gmap_outer').innerHTML = htmlcode;
+};
