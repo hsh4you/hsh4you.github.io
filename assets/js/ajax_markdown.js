@@ -31,5 +31,5 @@ function showMap(address) {
   htmlcode += '&output=embed" frameborder="0"></iframe>';
   htmlcode += '\n</div>';
   htmlcode += '\n</div>';
-  document.getElementById('gmap_outer').outerHTML = htmlcode;
+  document.getElementById('gmap').outerHTML = htmlcode;
 };
