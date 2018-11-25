@@ -9,3 +9,6 @@
 **Webseite** | 		<a target="_blank" href="https://www.kigaeno.de">www.kigaeno.de</a>
 **Angebote** | 		Natur- und Umweltpädagogik, Theaterpädagogik
 **Institution** | Kindergärten NordOst – Eigenbetrieb von Berlin
+
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
