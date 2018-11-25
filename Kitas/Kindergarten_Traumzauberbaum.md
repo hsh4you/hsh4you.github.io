@@ -9,3 +9,6 @@
 **Webseite** | 		<a target="_blank" href="http://www.gehrke-online.de/kita/">www.gehrke-online.de/kita/</a>
 **Angebote** | 		Naturnah und umweltorientiert, Lernen in Spielprojekten, integrativ
 **Institution** | Kindergärten NordOst – Eigenbetrieb von Berlin
+
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
