@@ -9,3 +9,6 @@
 **Webseite** | 		<a target="_blank" href="http://www.kita-sonnenschein-hsh.de">www.kita-sonnenschein-hsh.de</a>
 **Angebote** | 		umweltpädagogische Schwerpunkte, Sauna
 **Institution** | urban consult gGmbH
+
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
