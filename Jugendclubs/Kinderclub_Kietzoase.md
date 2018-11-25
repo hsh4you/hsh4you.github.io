@@ -9,3 +9,6 @@
 **Webseite** |    <a target="_blank" href="https://kietzfuerkids.de/kietzoase/">kietzfuerkids.de/kietzoase/</a>
 **Angebote** |    Tischtennis, Kletterwand, Fußball, Kicker, Airhockey, Baumhaus, Gorodki, Pool (Sommer), Computerraum, Holzwerkstatt, Musik – und Tanzraum, Kieznächte, Ferienfahrten, Gartengestaltung, Hausaufgabenhilfe, Chillen, Mädchenraum
 **Institution** | Kietz für Kids gGmbH
+
+<div id="gmap"></div>
+<script>window.onload = showMap()</script>
