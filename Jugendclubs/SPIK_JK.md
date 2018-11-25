@@ -13,4 +13,5 @@
 
 <br>
 <div class="gmap_outer"></div>
-<script>window.onload = showMap('Am Berl 15, 13051');</script>
+<script type="text/javascript">window.onload = function() { showMap('Am Berl 15, 13051'); }</script>
+
