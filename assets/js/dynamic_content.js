@@ -1,24 +1,23 @@
 var filenameprefixes = ['Startauswahl', 'Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
-var htmlcodearr = [];
+var htmlcodecached = [];
 
 function windowOnLoad() {
   for (let prefix of filenameprefixes) {
     markdownfilename = prefix + '.md';
-    cacheMarkdownAsHtmlCode(markdownfilename);
+    cacheMarkdownFileAsHtmlCode(markdownfilename);
   }
 }
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
-// source 2: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
-// source 3: https://github.com/markedjs/marked
-function cacheMarkdownAsHtmlCode(markdownfilename) {
+// source 2: https://github.com/markedjs/marked
+function cacheMarkdownFileAsHtmlCode(markdownfilename) {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       var markdowncode = this.responseText;
       htmlcode = marked(markdowncode);
       htmlcode = htmlcode.replace(/\.md/g, '.html'); // fix links
-      htmlcodearr[markdownfilename] = htmlcode;
+      htmlcodecached[markdownfilename] = htmlcode;
       if (markdownfilename.indexOf('Startauswahl') >= 0) { updateList(); }
     }
   };
@@ -26,22 +25,23 @@ function cacheMarkdownAsHtmlCode(markdownfilename) {
   xhttp.send();
 }
 
+// source: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
 function updateList() {
   var userselection = $('input:radio[name=radio]:checked').val();
   if (userselection == null) userselection = "Startauswahl";
   var markdownfilename =  userselection + ".md";
-  var htmlcode = htmlcodearr[markdownfilename];
+  var htmlcode = htmlcodecached[markdownfilename];
   document.getElementById("list_").innerHTML = htmlcode;
 }
 
 function findAddress() {
   var address = '';
-  var td = document.getElementsByTagName("td");
+  var cells = document.getElementsByTagName("td");
   var i;
-  for (i = 0; i < td.length; i++) {
-    cellcontent = td[i].innerHTML;
+  for (i = 0; i < cells.length; i++) {
+    cellcontent = cells[i].innerHTML;
     if (cellcontent.indexOf('Adresse') >= 0) {
-      address = td[i+1].innerHTML;
+      address = cells[i+1].innerHTML;
       break;
     }
   }
