@@ -6,6 +6,7 @@ function windowOnLoad() {
     markdownfilename = prefix + '.md';
     getMarkdownAsHtmlCode(markdownfilename);
   }
+  updateList();
 }
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
