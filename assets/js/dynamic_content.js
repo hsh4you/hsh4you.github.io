@@ -1,8 +1,11 @@
 var filenameprefixes = ['Startauswahl', 'Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var htmlcodearr = [];
-for (let prefix of filenameprefixes) {
-  markdownfilename = prefix + '.md';
-  htmlcodearr[markdownfilename] = getMarkdownAsHtmlCode(markdownfilename);
+
+function windowOnLoad() {
+  for (let prefix of filenameprefixes) {
+    markdownfilename = prefix + '.md';
+    htmlcodearr[markdownfilename] = getMarkdownAsHtmlCode(markdownfilename);
+  }
 }
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
