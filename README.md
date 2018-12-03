@@ -1,7 +1,7 @@
-## Willkommen bei der WebApp für Hohenschönhausen
+## Willkommen bei der WebApp Hsh4You
 - [Zur WebApp](https://danieldreke.github.io/webapp_hsh/)
 
-## Verwendung der Auszeichnungssprache Markdown
+## Verwendung von Markdown
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Tasks
@@ -10,11 +10,11 @@
 - [ ] Kartenfunktionalität
 - [ ] Ordnerstruktur Beratung vereinfachen
 - [ ] Auflistung aller Beratungsangebote bei "Weder noch"
-- [ ] Dynamische Inhalte vorladen, siehe \*.md auf Startseite
 
 ## Erledigt
 
 - [x] Eingebettete Karte
+- [x] Dynamische Inhalte vorladen, siehe \*.md auf Startseite
 - [X] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
 - [x] Links in Tabellen reparieren
 - [x] Zurück Funktionalität
