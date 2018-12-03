@@ -1,21 +1,34 @@
+var filenameprefixes = ['Startauswahl', 'Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
+var htmlcode = [];
+for (let prefix of filenameprefixes) {
+  markdownfilename = prefix + '.md';
+  htmlcode[markdownfilename] = getMarkdownAsHtmlCode(markdownfilename);
+}
+
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
 // source 2: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
 // source 3: https://github.com/markedjs/marked
-function updateList() {
-  var value_selected = $('input:radio[name=radio]:checked').val();
-  if (value_selected == null) value_selected = "Startauswahl";
-  var markdown_filename =  value_selected + ".md";
+function getMarkdownAsHtmlCode(markdown_filename) {
+  var htmlcode = "";
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      var markdown_rawcode = this.responseText;
-      var markdown_as_htmlcode = marked(markdown_rawcode);
-      var htmlcode_links_fixed = markdown_as_htmlcode.replace(/\.md/g, '.html');
-      document.getElementById("list_").innerHTML = htmlcode_links_fixed;
+      var markdowncode = this.responseText;
+      htmlcode = marked(markdowncode);
+      htmlcode = htmlcode.replace(/\.md/g, '.html'); // fix links
     }
   };
-  xhttp.open("GET", markdown_filename, true);
+  xhttp.open("GET", filename, true);
   xhttp.send();
+  return htmlcode;
+}
+
+function updateList() {
+  var userselection = $('input:radio[name=radio]:checked').val();
+  if (userselection == null) userselection = "Startauswahl";
+  var markdownfilename =  userselection + ".md";
+  var htmlcode = getMarkdownAsHtmlCode(markdownfilename);
+  document.getElementById("list_").innerHTML = htmlcode;
 }
 
 function findAddress() {
