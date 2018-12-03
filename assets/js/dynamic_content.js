@@ -4,15 +4,14 @@ var htmlcodearr = [];
 function windowOnLoad() {
   for (let prefix of filenameprefixes) {
     markdownfilename = prefix + '.md';
-    getMarkdownAsHtmlCode(markdownfilename);
+    cacheMarkdownAsHtmlCode(markdownfilename);
   }
-  updateList();
 }
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
 // source 2: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
 // source 3: https://github.com/markedjs/marked
-function getMarkdownAsHtmlCode(markdownfilename) {
+function cacheMarkdownAsHtmlCode(markdownfilename) {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -20,6 +19,7 @@ function getMarkdownAsHtmlCode(markdownfilename) {
       htmlcode = marked(markdowncode);
       htmlcode = htmlcode.replace(/\.md/g, '.html'); // fix links
       htmlcodearr[markdownfilename] = htmlcode;
+      if (markdownfilename.indexOf('Startauswahl') >= 0) { updateList(); }
     }
   };
   xhttp.open("GET", markdownfilename, true);
