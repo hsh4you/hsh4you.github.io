@@ -31,6 +31,6 @@
 
 <script type="text/javascript">
   window.onload = function() { 
-    updateList();
+    windowOnLoad();
   }
 </script>
