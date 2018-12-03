@@ -8,7 +8,7 @@ for (let prefix of filenameprefixes) {
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
 // source 2: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
 // source 3: https://github.com/markedjs/marked
-function getMarkdownAsHtmlCode(markdown_filename) {
+function getMarkdownAsHtmlCode(markdownfilename) {
   var htmlcode = "";
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
@@ -18,7 +18,7 @@ function getMarkdownAsHtmlCode(markdown_filename) {
       htmlcode = htmlcode.replace(/\.md/g, '.html'); // fix links
     }
   };
-  xhttp.open("GET", filename, true);
+  xhttp.open("GET", markdownfilename, true);
   xhttp.send();
   return htmlcode;
 }
