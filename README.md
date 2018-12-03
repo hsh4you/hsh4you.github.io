@@ -1,5 +1,5 @@
 ## Willkommen bei der WebApp Hsh4You
-- [Zur WebApp](https://danieldreke.github.io/webapp_hsh/)
+- [Zur WebApp Hsh4You](https://danieldreke.github.io/webapp_hsh/)
 
 ## Verwendung von Markdown
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
