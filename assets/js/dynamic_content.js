@@ -1,8 +1,8 @@
 var filenameprefixes = ['Startauswahl', 'Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
-var htmlcode = [];
+var htmlcodearr = [];
 for (let prefix of filenameprefixes) {
   markdownfilename = prefix + '.md';
-  htmlcode[markdownfilename] = getMarkdownAsHtmlCode(markdownfilename);
+  htmlcodearr[markdownfilename] = getMarkdownAsHtmlCode(markdownfilename);
 }
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
@@ -27,7 +27,7 @@ function updateList() {
   var userselection = $('input:radio[name=radio]:checked').val();
   if (userselection == null) userselection = "Startauswahl";
   var markdownfilename =  userselection + ".md";
-  var htmlcode = getMarkdownAsHtmlCode(markdownfilename);
+  var htmlcode = htmlcodearr[markdownfilename];
   document.getElementById("list_").innerHTML = htmlcode;
 }
 
