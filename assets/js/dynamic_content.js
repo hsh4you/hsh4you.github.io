@@ -18,7 +18,7 @@ function cacheMarkdownFileAsHtmlCode(markdownfilename) {
       htmlcode = marked(markdowncode);
       htmlcode = htmlcode.replace(/\.md/g, '.html'); // fix links
       htmlcodecached[markdownfilename] = htmlcode;
-      if (markdownfilename.indexOf('Startauswahl') >= 0) { updateList(); }
+      if (htmlcodecached.length == filenameprefixes.length) { updateList(); }
     }
   };
   xhttp.open("GET", markdownfilename, true);
