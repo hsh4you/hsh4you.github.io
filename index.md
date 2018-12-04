@@ -1,27 +1,23 @@
 ## Du bist
 
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList()" value="Jugendlicher">
-  <span class="checkmark"></span>
-  Jugendlicher
+  <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher">
+  <img id="Jugendlicher" width="48" height="48" src="images/Jugendlicher.png">
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList()" value="Eltern">
-  <span class="checkmark"></span>
-  Elternteil
+  <input type="radio" name="radio" onclick="updateList2()" value="Eltern">
+  <img id="Eltern" width="48" height="48" src="images/Eltern.png">
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList()" value="Neu_in_Hsh">
-  <span class="checkmark"></span>
-  Neu in Hsh
+  <input type="radio" name="radio" onclick="updateList2()" value="Neu_in_Hsh">
+  <img id="Neu_in_Hsh" width="48" height="48" src="images/Neu_in_Hsh.png">
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList()" value="Senior">
-  <span class="checkmark"></span>
-  Senior
+  <input type="radio" name="radio" onclick="updateList2()" value="Senior">
+  <img id="Senior" width="48" height="48" src="images/Senior.png">
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList()" value="Startauswahl" checked="checked">
+  <input type="radio" name="radio" onclick="updateList2()" value="Startauswahl" checked="checked">
   <span class="checkmark"></span>
   Weder noch
 </label>
