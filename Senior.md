@@ -1,5 +1,5 @@
 ## Du suchst
 
-- [Veranstaltungen](Veranstaltungen/Veranstaltungen.md)
+- [Veranstaltungen](calendar/calendar.html)
 - Beratung
 - Ehrenamt
