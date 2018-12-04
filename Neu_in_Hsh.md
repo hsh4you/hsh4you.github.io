@@ -7,4 +7,4 @@
 - Jugendamt
 - Bürgeramt
 - Begegnungen
-- [Veranstaltungen](Veranstaltungen/Veranstaltungen.md)
+- [Veranstaltungen](calendar/calendar.html)
