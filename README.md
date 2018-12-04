@@ -3,6 +3,7 @@
 
 ## QR Code (noch _nicht_ hsh4you.de)
 ![QR Code](images/qrcode.png)
+<!--- source: https://www.the-qrcode-generator.com/ --->
 
 ## Verwendung von Markdown
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
