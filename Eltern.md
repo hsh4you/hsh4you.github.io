@@ -6,4 +6,4 @@
 - Beratung
 - Familienzentren
 - Jugendamt
-- [Veranstaltungen](Veranstaltungen/Veranstaltungen.md)
+- [Veranstaltungen](calendar/calendar.html)
