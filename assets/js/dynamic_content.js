@@ -52,6 +52,15 @@ function updateList2() {
   if (userselection.indexOf("Jugendlicher") >= 0) {
     document.getElementById("Jugendlicher").src = "images/Jugendlicher_selected.png";
   }
+  if (userselection.indexOf("Eltern") >= 0) {
+    document.getElementById("Eltern").src = "images/Eltern_selected.png";
+  }
+  if (userselection.indexOf("Neu_in_Hsh") >= 0) {
+    document.getElementById("Neu_in_Hsh").src = "images/Neu_in_Hsh_selected.png";
+  }
+  if (userselection.indexOf("Senior") >= 0) {
+    document.getElementById("Senior").src = "images/Senior_selected.png";
+  }
 }
 
 function findAddress() {
