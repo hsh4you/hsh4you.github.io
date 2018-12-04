@@ -36,6 +36,24 @@ function updateList() {
   document.getElementById("list_").innerHTML = htmlcode;
 }
 
+// source: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
+function updateList2() {
+  document.getElementById("Jugendlicher").src = "images/Jugendlicher.png";
+  document.getElementById("Eltern").src = "images/Eltern.png";
+  document.getElementById("Neu_in_Hsh").src = "images/Neu_in_Hsh.png";
+  document.getElementById("Senior").src = "images/Senior.png";
+  
+  var userselection = $('input:radio[name=radio]:checked').val();
+  if (userselection == null) userselection = "Startauswahl";
+  var markdownfilename =  userselection + ".md";
+  var htmlcode = htmlcodecached[markdownfilename];
+  document.getElementById("list_").innerHTML = htmlcode;
+  
+  if (userselection.indexOf("Jugendlicher") >= 0) {
+    document.getElementById("Jugendlicher").src = "images/Jugendlicher_selected.png";
+  }
+}
+
 function findAddress() {
   var address = '';
   var cells = document.getElementsByTagName("td");
