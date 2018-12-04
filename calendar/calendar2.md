@@ -11,7 +11,7 @@
       header: {
         left: 'prev,next today',
         center: 'title',
-        right: 'listMonth,month'
+        right: 'listMonth'
       },
       locale: initialLocaleCode,
       buttonIcons: false, // show the prev/next text
