@@ -5,5 +5,5 @@
 - [Schulen](Schulen/Schulen.md)
 - Beratung
 - Familienzentren
-- [Veranstaltungen](Veranstaltungen/Veranstaltungen.md)
+- [Veranstaltungen](calendar/calendar.html)
 - [Freizeit](Freizeit/Freizeit.md)
