@@ -2,22 +2,18 @@
 
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher">
-  <span class="checkmark"></span>
   <img id="Jugendlicher" width="48" height="48" src="images/Jugendlicher.png">
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Eltern">
-  <span class="checkmark"></span>
   <img id="Eltern" width="48" height="48" src="images/Eltern.png">
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Neu_in_Hsh">
-  <span class="checkmark"></span>
   <img id="Neu_in_Hsh" width="48" height="48" src="images/Neu_in_Hsh.png">
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Senior">
-  <span class="checkmark"></span>
   <img id="Senior" width="48" height="48" src="images/Senior.png">
 </label>
 <label class="container">
