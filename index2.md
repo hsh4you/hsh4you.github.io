@@ -1,0 +1,36 @@
+## Du bist
+
+<label class="container">
+  <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher">
+  <span class="checkmark"></span>
+  <img id="Jugendlicher" width="48" height="48" src="images/Jugendlicher.png">
+</label>
+<label class="container">
+  <input type="radio" name="radio" onclick="updateList2()" value="Eltern">
+  <span class="checkmark"></span>
+  <img id="Eltern" width="48" height="48" src="images/Eltern.png">
+</label>
+<label class="container">
+  <input type="radio" name="radio" onclick="updateList2()" value="Neu_in_Hsh">
+  <span class="checkmark"></span>
+  <img id="Neu_in_Hsh" width="48" height="48" src="images/Neu_in_Hsh.png">
+</label>
+<label class="container">
+  <input type="radio" name="radio" onclick="updateList2()" value="Senior">
+  <span class="checkmark"></span>
+  <img id="Senior" width="48" height="48" src="images/Senior.png">
+</label>
+<label class="container">
+  <input type="radio" name="radio" onclick="updateList2()" value="Startauswahl" checked="checked">
+  <span class="checkmark"></span>
+  Weder noch
+</label>
+<br>
+<div id="list_">
+</div>
+
+<script type="text/javascript">
+  window.onload = function() { 
+    windowOnLoad();
+  }
+</script>
