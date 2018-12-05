@@ -8,7 +8,7 @@ function cacheLists() {
   }
 }
 
-function preloadImages(imagenameprefix) {
+function preloadImage(imagenameprefix) {
   var image_default = document.createElement('img');
   var image_selected = document.createElement('img');
   image_default.src = imagenameprefix + '.png';
@@ -18,7 +18,7 @@ function preloadImages(imagenameprefix) {
 function preloadImages() {
   imagenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
   for (let imagenameprefix of imagenameprefixes) {
-    preloadImages(imagenameprefix);
+    preloadImage(imagenameprefix);
   }
 }
 
