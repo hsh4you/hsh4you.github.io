@@ -9,11 +9,10 @@ function cacheLists() {
 }
 
 function preloadImages(imagenameprefix) {
-    var image_default = document.createElement('img');
-    var image_selected = document.createElement('img');
-    image_default.src = imagenameprefix + '.png';
-    image_selected.src = imagenameprefix + '_selected.png';
-  }
+  var image_default = document.createElement('img');
+  var image_selected = document.createElement('img');
+  image_default.src = imagenameprefix + '.png';
+  image_selected.src = imagenameprefix + '_selected.png';
 }
 
 function preloadImages() {
