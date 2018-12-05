@@ -10,12 +10,14 @@ function cacheLists() {
 }
 
 function preloadImage(imagenameprefix) {
+  var imagename_default = imagenameprefix + '.png';
+  var imagename_selected = imagenameprefix + '_selected.png';
   var image_default = document.createElement('img');
   var image_selected = document.createElement('img');
-  image_default.src = imagenameprefix + '.png';
-  image_selected.src = imagenameprefix + '_selected.png';
-  imagespreloaded.push(image_default);
-  imagespreloaded.push(image_selected);
+  image_default.src = imagename_default;
+  image_selected.src = imagename_selected;
+  imagespreloaded[imagename_default] = image_default;
+  imagespreloaded[imagename_selected] = image_selected;
 }
 
 function preloadImages() {
@@ -67,16 +69,16 @@ function updateList2() {
   document.getElementById("list_").innerHTML = htmlcode;
   
   if (userselection.indexOf("Jugendlicher") >= 0) {
-    document.getElementById("Jugendlicher").src = "images/Jugendlicher_selected.png";
+    document.getElementById("Jugendlicher").src = imagespreloaded["Jugendlicher_selected.png"];
   }
   if (userselection.indexOf("Eltern") >= 0) {
-    document.getElementById("Eltern").src = "images/Eltern_selected.png";
+    document.getElementById("Eltern").src = imagespreloaded["Eltern_selected.png"];
   }
   if (userselection.indexOf("Neu_in_Hsh") >= 0) {
-    document.getElementById("Neu_in_Hsh").src = "images/Neu_in_Hsh_selected.png";
+    document.getElementById("Neu_in_Hsh").src = imagespreloaded["Neu_in_Hsh_selected.png"];
   }
   if (userselection.indexOf("Senior") >= 0) {
-    document.getElementById("Senior").src = "images/Senior_selected.png";
+    document.getElementById("Senior").src = imagespreloaded["Senior_selected.png"];
   }
 }
 
