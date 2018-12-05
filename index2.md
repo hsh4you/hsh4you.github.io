@@ -2,19 +2,19 @@
 
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher">
-  <img id="Jugendlicher" width="48" height="48" src="images/Jugendlicher.png">
+  <img id="Jugendlicher" width="64" height="64" src="images/Jugendlicher.png">
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Eltern">
-  <img id="Eltern" width="48" height="48" src="images/Eltern.png">
+  <img id="Eltern" width="64" height="64" src="images/Eltern.png">
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Neu_in_Hsh">
-  <img id="Neu_in_Hsh" width="48" height="48" src="images/Neu_in_Hsh.png">
+  <img id="Neu_in_Hsh" width="64" height="64" src="images/Neu_in_Hsh.png">
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Senior">
-  <img id="Senior" width="48" height="48" src="images/Senior.png">
+  <img id="Senior" width="64" height="64" src="images/Senior.png">
 </label>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Startauswahl" checked="checked">
@@ -27,6 +27,7 @@
 
 <script type="text/javascript">
   window.onload = function() { 
-    windowOnLoad();
+    cacheLists();
+    preloadImages();
   }
 </script>
