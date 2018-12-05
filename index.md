@@ -27,6 +27,7 @@
 
 <script type="text/javascript">
   window.onload = function() { 
-    windowOnLoad();
+    cacheLists();
+    preloadImages();
   }
 </script>
