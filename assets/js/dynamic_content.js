@@ -1,5 +1,6 @@
 var filenameprefixes = ['Startauswahl', 'Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var htmlcodecached = [];
+var imagespreloaded = [];
 
 function cacheLists() {
   for (let filenameprefix of filenameprefixes) {
@@ -13,6 +14,8 @@ function preloadImage(imagenameprefix) {
   var image_selected = document.createElement('img');
   image_default.src = imagenameprefix + '.png';
   image_selected.src = imagenameprefix + '_selected.png';
+  imagespreloaded.push(image_default);
+  imagespreloaded.push(image_selected);
 }
 
 function preloadImages() {
