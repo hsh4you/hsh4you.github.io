@@ -1,10 +1,25 @@
 var filenameprefixes = ['Startauswahl', 'Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var htmlcodecached = [];
 
-function windowOnLoad() {
-  for (let prefix of filenameprefixes) {
-    markdownfilename = prefix + '.md';
+function cacheLists() {
+  for (let filenameprefix of filenameprefixes) {
+    markdownfilename = filenameprefix + '.md';
     cacheMarkdownFileAsHtmlCode(markdownfilename);
+  }
+}
+
+function preloadImages(imagenameprefix) {
+    var image_default = document.createElement('img');
+    var image_selected = document.createElement('img');
+    image_default.src = imagenameprefix + '.png';
+    image_selected.src = imagenameprefix + '_selected.png';
+  }
+}
+
+function preloadImages() {
+  imagenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
+  for (let imagenameprefix of imagenameprefixes) {
+    preloadImages(imagenameprefix);
   }
 }
 
