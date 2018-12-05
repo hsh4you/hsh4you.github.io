@@ -1,10 +1,11 @@
 var filenameprefixes = ['Startauswahl', 'Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
+var imagenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var htmlcodecached = [];
 var imagespreloaded = [];
 
 function cacheLists() {
   for (let filenameprefix of filenameprefixes) {
-    markdownfilename = filenameprefix + '.md';
+    var markdownfilename = filenameprefix + '.md';
     cacheMarkdownFileAsHtmlCode(markdownfilename);
   }
 }
@@ -21,7 +22,6 @@ function preloadImage(imagenameprefix) {
 }
 
 function preloadImages() {
-  imagenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
   for (let imagenameprefix of imagenameprefixes) {
     preloadImage(imagenameprefix);
   }
@@ -56,30 +56,21 @@ function updateList() {
 }
 
 // source: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
-function updateList2() {
-  document.getElementById("Jugendlicher").src = "images/Jugendlicher.png";
-  document.getElementById("Eltern").src = "images/Eltern.png";
-  document.getElementById("Neu_in_Hsh").src = "images/Neu_in_Hsh.png";
-  document.getElementById("Senior").src = "images/Senior.png";
-  
+function updateList2() {  
   var userselection = $('input:radio[name=radio]:checked').val();
   if (userselection == null) userselection = "Startauswahl";
+  
+  for (let imagenameprefix of imagenameprefixes) {
+    if (userselection.indexOf(imagenameprefix) == -1) {
+      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
+    } else {
+      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + "_selected.png";
+    }
+  }
+  
   var markdownfilename =  userselection + ".md";
   var htmlcode = htmlcodecached[markdownfilename];
   document.getElementById("list_").innerHTML = htmlcode;
-  
-  if (userselection.indexOf("Jugendlicher") >= 0) {
-    document.getElementById("Jugendlicher").src = imagespreloaded["Jugendlicher_selected.png"];
-  }
-  if (userselection.indexOf("Eltern") >= 0) {
-    document.getElementById("Eltern").src = imagespreloaded["Eltern_selected.png"];
-  }
-  if (userselection.indexOf("Neu_in_Hsh") >= 0) {
-    document.getElementById("Neu_in_Hsh").src = imagespreloaded["Neu_in_Hsh_selected.png"];
-  }
-  if (userselection.indexOf("Senior") >= 0) {
-    document.getElementById("Senior").src = imagespreloaded["Senior_selected.png"];
-  }
 }
 
 function findAddress() {
