@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  padding: 1rem;
+  background-image: linear-gradient(90deg, #0ebb00, #248000);
+}
+
+.whitelink:link, .whitelink:visited, .whitelink:link:active, .whitelink:visited:active {
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.project-tagline {
+  margin-bottom: 0rem;
+  visibility: collapse;
+}
+
+thead {
+  visibility: collapse;
+}
+
+.main-content table {
+  display: inline;
+}
+
+.main-content table th, .main-content table td {
+    padding: 0.2rem 0.3rem;
+    border: 0px;
+    vertical-align: top;
+}
+
+.gmap_iframe {
+    width: 100%;
+    height: 92vh;
+    max-height: 98vw;
+}
