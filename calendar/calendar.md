@@ -79,6 +79,21 @@
           url:   'https://www.google.com/maps/?q=SPIK-Jugendklub Berlin',
           start: '2018-12-19T15:00',
           end:   '2018-12-19T18:00'
+        },
+        {
+          title: 'AG Brush im Jugendklub Mikado',
+          start: '2018-12-12T14:30',
+          end:   '2018-12-12T16:30'
+        },
+        {
+          title: 'AG Brush im Jugendklub Mikado',
+          start: '2018-12-19T14:30',
+          end:   '2018-12-19T16:30'
+        },
+        {
+          title: 'AG Brush im Jugendklub Mikado',
+          start: '2018-12-19T14:30',
+          end:   '2018-12-19T16:30'
         }
       ]
     });
