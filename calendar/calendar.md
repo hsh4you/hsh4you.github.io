@@ -92,8 +92,8 @@
         },
         {
           title: 'AG Brush im Jugendklub Mikado',
-          start: '2018-12-19T14:30',
-          end:   '2018-12-19T16:30'
+          start: '2018-12-26T14:30',
+          end:   '2018-12-26T16:30'
         }
       ]
     });
