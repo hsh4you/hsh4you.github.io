@@ -65,17 +65,20 @@
         {
           title: 'Graffiti im SPIK-Jugendklub',
           url:   'https://www.google.com/maps/?q=SPIK-Jugendklub Berlin',
-          start: '2018-12-05'
+          start: '2018-12-05T15:00'
+          end:   '2018-12-05T18:00'
         },
         {
           title: 'Graffiti im SPIK-Jugendklub',
           url:   'https://www.google.com/maps/?q=SPIK-Jugendklub Berlin',
-          start: '2018-12-12'
+          start: '2018-12-12T15:00'
+          end:   '2018-12-12T18:00'
         },
         {
           title: 'Graffiti im SPIK-Jugendklub',
           url:   'https://www.google.com/maps/?q=SPIK-Jugendklub Berlin',
-          start: '2018-12-19'
+          start: '2018-12-19T15:00'
+          end:   '2018-12-19T18:00'
         }
       ]
     });
