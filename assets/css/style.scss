@@ -3,15 +3,26 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: Ubuntu, Open Sans, sans-serif;
+}
+
+a:link, a:hover, a:visited, a:active {
+  text-decoration: none;
+  cursor: pointer;
+}
+
 .page-header {
   padding: 1rem;
-  background-image: linear-gradient(90deg, #0ebb00, #248000);
+  background-image: linear-gradient(90deg, #00cc00, #00cc00);
+}
+
+h2 {
+  color: #00cc00;
 }
 
 .whitelink:link, .whitelink:visited, .whitelink:link:active, .whitelink:visited:active {
   color: #ffffff;
-  text-decoration: none;
-  cursor: pointer;
 }
 
 .project-tagline {

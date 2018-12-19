@@ -1,25 +1,19 @@
 ## Du bist
 
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher">
-  <img id="Jugendlicher" width="64" height="64" src="images/Jugendlicher.png">
+  <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher"><img id="Jugendlicher" width="64" height="64" src="images/Jugendlicher.png"><br>Jugendliche/r
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Eltern">
-  <img id="Eltern" width="64" height="64" src="images/Eltern.png">
+  <input type="radio" name="radio" onclick="updateList2()" value="Eltern"><img id="Eltern" width="64" height="64" src="images/Eltern.png"><br>Mama/Papa
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Neu_in_Hsh">
-  <img id="Neu_in_Hsh" width="64" height="64" src="images/Neu_in_Hsh.png">
+  <input type="radio" name="radio" onclick="updateList2()" value="Neu_in_Hsh"><img id="Neu_in_Hsh" width="64" height="64" src="images/Neu_in_Hsh.png"><br>Neu in Hsh
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Senior">
-  <img id="Senior" width="64" height="64" src="images/Senior.png">
+  <input type="radio" name="radio" onclick="updateList2()" value="Senior"><img id="Senior" width="64" height="64" src="images/Senior.png"><br>Senior/in
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Startauswahl" checked="checked">
-  <span class="checkmark"></span>
-  Weder noch
+  <input type="radio" name="radio" onclick="updateList2()" value="Startauswahl" checked="checked"><br><br><span class="checkmark"></span><br>neugierig?
 </label>
 <br>
 <div id="list_">
