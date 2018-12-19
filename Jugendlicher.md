@@ -2,5 +2,5 @@
 
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Veranstaltungen](calendar/calendar.html)
-- [Beratung](Beratung_Jugendlicher/Beratung_Jugendlicher.md)
+- [Beratung](Beratung/Beratung_Jugendlicher.md)
 - Aktivitäten
