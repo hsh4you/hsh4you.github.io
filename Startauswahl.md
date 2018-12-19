@@ -1,6 +1,6 @@
 ## Du suchst
 
-- [Jugendklubs](Jugendclubs/Jugendklubs.md)
+- [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - Beratung
