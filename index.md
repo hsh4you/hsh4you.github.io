@@ -1,5 +1,6 @@
 ## Du bist
 
+<center>
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher"><img id="Jugendlicher" width="64" height="64" src="images/Jugendlicher.png"><br>Jugendliche/r
 </label>
@@ -13,7 +14,7 @@
   <input type="radio" name="radio" onclick="updateList2()" value="Senior"><img id="Senior" width="64" height="64" src="images/Senior.png"><br>Senior/in
 </label>
 <label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Startauswahl" checked="checked"><br><br><span class="checkmark"></span><br>neugierig?
+  <input type="radio" name="radio" onclick="updateList2()" value="Startauswahl" checked="checked"><br><br><span class="checkmark"></span>neugierig?
 </label>
 <br>
 <div id="list_">
