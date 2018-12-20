@@ -12,3 +12,10 @@
 
 <div id="gmap"></div>
 <script>window.onload = showMap()</script>
+
+## Fotos
+
+<img src="images/JFE_Trialog/1.jpg" width="600px" />
+<img src="images/JFE_Trialog/2.jpg" width="600px" />
+<img src="images/JFE_Trialog/3.jpg" width="600px" />
+<img src="images/JFE_Trialog/4.jpg" />
