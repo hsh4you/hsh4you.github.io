@@ -1,7 +1,7 @@
 ## Kita Schneckenhausen
 
 |||
--:|-
+-:|:-
 **Adresse** | 		Am Berl 13, 13051 Berlin
 **Offen** | 		Mo–Fr 7:30–17:00 Uhr
 **Alter** | 		1–6 Jahre

@@ -1,7 +1,7 @@
 ## JFE Funkloch
 
 |||
--:|-
+-:|:-
 **Adresse** |     Malchower Weg 48, 13053 Berlin
 **Offen** |       Mo–Fr 13–20 Uhr
 **Alter** |       6–14 Jahre

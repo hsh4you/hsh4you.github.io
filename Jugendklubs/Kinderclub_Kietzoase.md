@@ -1,7 +1,7 @@
 ## Kinderclub Kietzoase (KIO)
 
 |||
--:|-
+-:|:-
 **Adresse** |     Ahrenshooper Str. 5, 13051 Berlin
 **Offen** |       Mo–Do 13–18 Uhr<br>Fr 13–17 Uhr<br>(in den Ferien ab 12 Uhr)
 **Alter** |       10–21 Jahre

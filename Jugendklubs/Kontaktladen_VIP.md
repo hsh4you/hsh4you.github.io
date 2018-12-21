@@ -1,7 +1,7 @@
 ## Kontaktladen VIP
 
 |||
--:|-
+-:|:-
 **Adresse** |     Rüdickenstraße 29, 13053 Berlin
 **Offen** |       Mo-Fr 14–20 Uhr
 **Alter** |       12–21 Jahre

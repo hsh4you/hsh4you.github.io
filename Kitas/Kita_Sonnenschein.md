@@ -1,7 +1,7 @@
 ## Kita Sonnenschein
 
 |||
--:|-
+-:|:-
 **Adresse** | 		Wustrower Str. 39-41, 13051 Berlin
 **Offen** | 		  Mo–Fr 6:00–18:00 Uhr
 **Alter** | 		  1–6 Jahre

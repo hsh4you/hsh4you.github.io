@@ -1,4 +1,4 @@
-##Du bist
+## Du bist
 
 <label class="container">
   <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher"><img id="Jugendlicher" width="64" height="64" src="images/Jugendlicher.png"><br>Jugendliche/r

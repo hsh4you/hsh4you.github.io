@@ -1,7 +1,7 @@
 ## JFE Trialog
 
 |||
--:|-
+-:|:-
 **Adresse** |     Ahrenshooper Straße 7, 13051 Berlin
 **Offen** |       Mo–Fr 13–20 Uhr<br>Familiensamstage 12–18 Uhr
 **Alter** |       12–27 Jahre

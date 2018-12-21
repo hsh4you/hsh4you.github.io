@@ -1,7 +1,7 @@
 ## JFE Full House
 
 |||
--:|-
+-:|:-
 **Adresse** |     Ribnitzer Straße 30, 13051 Berlin
 **Offen** |       Mo–Fr 13–20 Uhr
 **Alter** |       10–21 Jahre

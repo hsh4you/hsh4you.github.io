@@ -1,7 +1,7 @@
 ## JFE Mikado
 
 |||
--:|-
+-:|:-
 **Adresse** |     Egon-Erwin-Kisch-Straße 1a, 13059 Berlin
 **Offen** |       Mo–Fr 13–20 Uhr
 **Alter** |       12–21 Jahre

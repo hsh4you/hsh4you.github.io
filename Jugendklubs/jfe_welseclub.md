@@ -1,7 +1,7 @@
 ## JFE Welseclub
 
 |||
--:|-
+-:|:-
 **Adresse**  |     Vincent-van-Gogh-Str. 36, 13057 Berlin
 **Offen** |        Mo–Do 13–20 Uhr<br>Fr 13–21 Uhr
 **Alter**   |      10–27 Jahre

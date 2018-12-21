@@ -1,7 +1,7 @@
 ## Kindergarten Falkenberg
 
 |||
--:|-
+-:|:-
 **Adresse** | 		Dorfstraße 5, 13051 Berlin
 **Offen** | 		  Mo–Fr 6:00–18:00 Uhr<br>(keine Sommerschließzeit)
 **Alter** | 		  10 Monate bis Schuleintritt
