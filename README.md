@@ -1,7 +1,7 @@
 ## Willkommen bei der WebApp Hsh4You Beta
 - [Zur WebApp Hsh4You Beta](https://danieldreke.github.io/webapp_hsh/)
 
-## QR Code hsh4you.de (Achtung: verlinkt auf hsh4you.de, also nicht aktueller Stand)
+## QR Code hsh4you.de (hsh4you.de ist nicht aktueller Stand)
 <a href="images/qr-code.png"><img src="images/qr-code.png" width="240px"></a>
 
 ## Verwendung von Markdown
