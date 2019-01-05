@@ -12,7 +12,6 @@
 - [ ] Auswahl neugierig entfernen und Klickverhalten ändern
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wer (Inet, Tel, Mail, Fotos), Wo (Karte)
 - [ ] Telnummern zu klickbaren Links erweitern
-- [ ] QR-Code mit hsh4you.de erstellen
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events
 - [ ] Kartenfunktionalität
@@ -22,6 +21,7 @@
 
 ## Erledigt
 
+- [x] QR-Code mit hsh4you.de erstellen
 - [x] Symbolunterschriften bei Startauswahl "Du bist"
 - [x] Ordnerstruktur Beratung vereinfachen
 - [x] Eingebettete Karte
@@ -33,6 +33,7 @@
 
 ## Wünsche
 
+- Mehrsprachigkeit
 - Einbettung Youtube-Videos / Abspielbar in WebApp
 - Einbettung Social Media Streams bspw. jüngste Instagram Photos/Posts
 - Ehrenamt/Freiwilligenarbeit/Mitmachen bei allen Zielgruppen, sobald Daten verfügbar
