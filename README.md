@@ -9,18 +9,18 @@
 
 ## Tasks
 
+- [ ] Icon erstellen und verwenden
 - [ ] Auswahl neugierig entfernen und Klickverhalten ändern
-- [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wer (Inet, Tel, Mail, Fotos), Wo (Karte)
-- [ ] Telnummern zu klickbaren Links erweitern
+- [ ] Ubuntu Schrift bei allen Browsern
+- [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events
 - [ ] Kartenfunktionalität
-- [ ] Ubuntu Schrift bei allen Browsern
-- [ ] Icon erstellen und verwenden
 - [ ] Auflistung aller Beratungsangebote bei "Weder noch"
 
 ## Erledigt
 
+- [x] Telnummern zu klickbaren Links erweitern
 - [x] QR-Code mit hsh4you.de erstellen
 - [x] Symbolunterschriften bei Startauswahl "Du bist"
 - [x] Ordnerstruktur Beratung vereinfachen
