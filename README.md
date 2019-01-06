@@ -1,8 +1,8 @@
-## Willkommen bei der WebApp Hsh4You
-- [Zur WebApp Hsh4You](https://danieldreke.github.io/webapp_hsh/)
+## Willkommen bei der WebApp Hsh4You Beta
+- [Zur WebApp Hsh4You Beta](https://danieldreke.github.io/webapp_hsh/)
 
-## QR Code hsh4you.de (nicht endgültige Version)
-![QR Code](images/qr-code.png)
+## QR Code hsh4you.de (hsh4you.de ist nicht aktueller Stand)
+<a href="images/qr-code.png"><img src="images/qr-code.png" width="240px"></a>
 
 ## Verwendung von Markdown
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -12,7 +12,6 @@
 - [ ] Auswahl neugierig entfernen und Klickverhalten ändern
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wer (Inet, Tel, Mail, Fotos), Wo (Karte)
 - [ ] Telnummern zu klickbaren Links erweitern
-- [ ] QR-Code mit hsh4you.de erstellen
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events
 - [ ] Kartenfunktionalität
@@ -22,6 +21,7 @@
 
 ## Erledigt
 
+- [x] QR-Code mit hsh4you.de erstellen
 - [x] Symbolunterschriften bei Startauswahl "Du bist"
 - [x] Ordnerstruktur Beratung vereinfachen
 - [x] Eingebettete Karte
@@ -33,6 +33,7 @@
 
 ## Wünsche
 
+- Mehrsprachigkeit
 - Einbettung Youtube-Videos / Abspielbar in WebApp
 - Einbettung Social Media Streams bspw. jüngste Instagram Photos/Posts
 - Ehrenamt/Freiwilligenarbeit/Mitmachen bei allen Zielgruppen, sobald Daten verfügbar
