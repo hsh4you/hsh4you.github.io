@@ -20,6 +20,7 @@
 </div>
 
 <script type="text/javascript">
+  document.onload = function() { document.title = "Hsh4You"; }
   window.onload = function() { 
     cacheLists();
     preloadImages();
