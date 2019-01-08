@@ -95,8 +95,8 @@ function toggleImage(elem) {
       if (elem.value.valueOf() == "0".valueOf()) {
         elem.src = "images/" + imagenameprefix + "_selected.png";
         elem.value = "1";
-      }
-      if (elem.value.valueOf() == "1".valueOf()) {
+      } 
+      else {
         elem.src = "images/" + imagenameprefix + ".png";
         elem.value = "0";
         userselection = "Startauswahl";
