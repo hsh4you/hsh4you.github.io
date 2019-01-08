@@ -9,7 +9,6 @@
 
 ## Tasks
 
-- [ ] Icon erstellen und verwenden
 - [ ] Auswahl neugierig entfernen und Klickverhalten ändern
 - [ ] Ubuntu Schrift bei allen Browsern
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
@@ -20,6 +19,7 @@
 
 ## Erledigt
 
+- [x] Icon erstellen und verwenden
 - [x] Telnummern zu klickbaren Links erweitern
 - [x] QR-Code mit hsh4you.de erstellen
 - [x] Symbolunterschriften bei Startauswahl "Du bist"
