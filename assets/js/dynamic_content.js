@@ -77,14 +77,6 @@ function updateList2() {
 function updateList3(userselection = null) {
   if (userselection == null) userselection = "Startauswahl";
   
-  for (let imagenameprefix of imagenameprefixes) {
-    if (userselection.indexOf(imagenameprefix) == -1) {
-      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
-    } else {
-      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + "_selected.png";
-    }
-  }
-  
   var markdownfilename =  userselection + ".md";
   var htmlcode = htmlcodecached[markdownfilename];
   document.getElementById("list_").innerHTML = htmlcode;
@@ -93,6 +85,22 @@ function updateList3(userselection = null) {
 // source: https://stackoverflow.com/a/9844161
 function toggleImage(elem) {
   var userselection = elem.id;
+
+  for (let imagenameprefix of imagenameprefixes) {
+    if (userselection.indexOf(imagenameprefix) == -1) {
+      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
+    } else {
+      if (elem.value == "0") {
+        document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + "_selected.png";
+        elem.value = "1";
+      }
+      else {
+        elem.value = "0";
+        userselection = null;
+      }
+    }
+  }
+
   updateList3(userselection);
 }
 
