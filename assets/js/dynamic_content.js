@@ -89,13 +89,15 @@ function toggleImage(elem) {
   for (let imagenameprefix of imagenameprefixes) {
     if (userselection.indexOf(imagenameprefix) == -1) {
       document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
-    } else {
+      document.getElementById(imagenameprefix).value = "0";
+    } 
+    else {
       if (elem.value == "0") {
-        document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + "_selected.png";
+        elem.src = "images/" + imagenameprefix + "_selected.png";
         elem.value = "1";
       }
       if (elem.value == "1") {
-        document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
+        elem.src = "images/" + imagenameprefix + ".png";
         elem.value = "0";
         userselection = "Startauswahl";
       }
