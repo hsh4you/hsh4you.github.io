@@ -94,9 +94,10 @@ function toggleImage(elem) {
         document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + "_selected.png";
         elem.value = "1";
       }
-      else {
+      if (elem.value == "1") {
+        document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
         elem.value = "0";
-        userselection = null;
+        userselection = "Startauswahl";
       }
     }
   }
