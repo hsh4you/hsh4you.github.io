@@ -92,11 +92,11 @@ function toggleImage(elem) {
       document.getElementById(imagenameprefix).value = "0";
     } 
     else {
-      if (elem.value == "0") {
+      if (elem.value.valueOf() == "0".valueOf()) {
         elem.src = "images/" + imagenameprefix + "_selected.png";
         elem.value = "1";
       }
-      if (elem.value == "1") {
+      if (elem.value.valueOf() == "1".valueOf()) {
         elem.src = "images/" + imagenameprefix + ".png";
         elem.value = "0";
         userselection = "Startauswahl";
