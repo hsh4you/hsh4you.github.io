@@ -73,6 +73,29 @@ function updateList2() {
   document.getElementById("list_").innerHTML = htmlcode;
 }
 
+// source: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
+function updateList3(userselection = null) {
+  if (userselection == null) userselection = "Startauswahl";
+  
+  for (let imagenameprefix of imagenameprefixes) {
+    if (userselection.indexOf(imagenameprefix) == -1) {
+      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
+    } else {
+      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + "_selected.png";
+    }
+  }
+  
+  var markdownfilename =  userselection + ".md";
+  var htmlcode = htmlcodecached[markdownfilename];
+  document.getElementById("list_").innerHTML = htmlcode;
+}
+
+// source: https://stackoverflow.com/a/9844161
+function toggleImage(elem) {
+  var userselection = elem.id;
+  updateList3(userselection);
+}
+
 function findAddress() {
   var address = '';
   var cells = document.getElementsByTagName("td");
