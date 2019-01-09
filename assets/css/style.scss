@@ -6,7 +6,10 @@
 body {
   font-family: Ubuntu, Open Sans, sans-serif;
   color: #777777;
-  overflow: hidden;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
 }
 
 a:link, a:hover, a:visited, a:active {
