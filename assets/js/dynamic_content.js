@@ -3,7 +3,26 @@ var imagenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var htmlcodecached = [];
 var imagespreloaded = [];
 
-function cacheLists() {
+// source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
+// source 2: https://github.com/markedjs/marked
+function cacheMarkdownFileAsHtmlCode(markdownfilename) {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var markdowncode = this.responseText;
+      htmlcode = marked(markdowncode);
+      htmlcode = htmlcode.replace(/\.md/g, '.html'); // fix links
+      htmlcodecached[markdownfilename] = htmlcode;
+      if (Object.keys(htmlcodecached).length == filenameprefixes.length) { 
+        document.getElementById("list_").innerHTML = htmlcodecached["Startauswahl.md"]; 
+      }
+    }
+  };
+  xhttp.open("GET", markdownfilename, true);
+  xhttp.send();
+}
+
+function preloadLists() {
   for (let filenameprefix of filenameprefixes) {
     var markdownfilename = filenameprefix + '.md';
     cacheMarkdownFileAsHtmlCode(markdownfilename);
@@ -28,63 +47,13 @@ function preloadImages() {
   }
 }
 
-// source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
-// source 2: https://github.com/markedjs/marked
-function cacheMarkdownFileAsHtmlCode(markdownfilename) {
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      var markdowncode = this.responseText;
-      htmlcode = marked(markdowncode);
-      htmlcode = htmlcode.replace(/\.md/g, '.html'); // fix links
-      htmlcodecached[markdownfilename] = htmlcode;
-      if (Object.keys(htmlcodecached).length == filenameprefixes.length) { 
-        updateList(); 
-      }
-    }
-  };
-  xhttp.open("GET", markdownfilename, true);
-  xhttp.send();
-}
-
-// source: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
-function updateList() {
-  var userselection = $('input:radio[name=radio]:checked').val();
-  if (userselection == null) userselection = "Startauswahl";
+function updateList(userselection = "Startauswahl") {
   var markdownfilename =  userselection + ".md";
   var htmlcode = htmlcodecached[markdownfilename];
   document.getElementById("list_").innerHTML = htmlcode;
 }
 
-// source: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
-function updateList2() {  
-  var userselection = $('input:radio[name=radio]:checked').val();
-  if (userselection == null) userselection = "Startauswahl";
-  
-  for (let imagenameprefix of imagenameprefixes) {
-    if (userselection.indexOf(imagenameprefix) == -1) {
-      document.getElementById(imagenameprefix).src = "images/startpage/" + imagenameprefix + ".png";
-    } else {
-      document.getElementById(imagenameprefix).src = "images/startpage/" + imagenameprefix + "_selected.png";
-    }
-  }
-  
-  var markdownfilename =  userselection + ".md";
-  var htmlcode = htmlcodecached[markdownfilename];
-  document.getElementById("list_").innerHTML = htmlcode;
-}
-
-// source: https://www.codexworld.com/how-to/get-value-selected-radio-button-jquery/
-function updateList3(userselection = null) {
-  if (userselection == null) userselection = "Startauswahl";
-  
-  var markdownfilename =  userselection + ".md";
-  var htmlcode = htmlcodecached[markdownfilename];
-  document.getElementById("list_").innerHTML = htmlcode;
-}
-
-// source: https://stackoverflow.com/a/9844161
-function toggleImage(elem) {
+function updateSelection(elem) {
   var userselection = elem.id;
 
   for (let imagenameprefix of imagenameprefixes) {
@@ -104,8 +73,7 @@ function toggleImage(elem) {
       }
     }
   }
-
-  updateList3(userselection);
+  updateList(userselection);
 }
 
 function findAddress() {

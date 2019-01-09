@@ -1,19 +1,16 @@
 ## Du bist
 
-<label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Jugendlicher"><img id="Jugendlicher" width="64" height="64" src="images/startpage/Jugendlicher.png"><br>Jugendliche/r
+<label class="userselectioncontainer">
+  <img onclick="toggleImage(this)" id="Jugendlicher" src="images/startpage/Jugendlicher.png"><br>Jugendliche/r
 </label>
-<label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Eltern"><img id="Eltern" width="64" height="64" src="images/startpage/Eltern.png"><br>Mama/Papa
+<label class="userselectioncontainer">
+  <img onclick="toggleImage(this)" id="Eltern" src="images/startpage/Eltern.png"><br>Mama/Papa
 </label>
-<label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Neu_in_Hsh"><img id="Neu_in_Hsh" width="64" height="64" src="images/startpage/Neu_in_Hsh.png"><br>Neu in Hsh
+<label class="userselectioncontainer">
+  <img onclick="toggleImage(this)" id="Neu_in_Hsh" src="images/startpage/Neu_in_Hsh.png"><br>Neu in Hsh
 </label>
-<label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Senior"><img id="Senior" width="64" height="64" src="images/startpage/Senior.png"><br>Senior/in
-</label>
-<label class="container">
-  <input type="radio" name="radio" onclick="updateList2()" value="Startauswahl" checked="checked"><br><br><span class="checkmark"></span>neugierig?
+<label class="userselectioncontainer">
+  <img onclick="toggleImage(this)" id="Senior" src="images/startpage/Senior.png"><br>Senior/in
 </label>
 <br>
 <div id="list_">
@@ -22,7 +19,7 @@
 <script type="text/javascript">
   window.onload = function() { 
   	document.title = "Hsh4You";
-    cacheLists();
+    preloadLists();
     preloadImages();
   }
 </script>

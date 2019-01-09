@@ -1,0 +1,25 @@
+.userselectioncontainer {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 17px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    width: 98px;
+    text-align: center;
+}
+
+.userselectioncontainer img {
+    width: 64px;
+    height: 64px;
+}
+
+.whitelink:link, .whitelink:visited, .whitelink:link:active, .whitelink:visited:active {
+  color: #ffffff;
+}
+
+.gmap_iframe {
+    width: 100%;
+    height: 92vh;
+    max-height: 98vw;
+}

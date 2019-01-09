@@ -9,7 +9,6 @@
 
 ## Tasks
 
-- [ ] Auswahl neugierig entfernen und Klickverhalten ändern
 - [ ] Ubuntu Schrift bei allen Browsern
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [ ] Suchfunktionalität
@@ -19,6 +18,7 @@
 
 ## Erledigt
 
+- [x] Auswahl neugierig entfernen und Klickverhalten ändern
 - [x] Scrollbars verstecken
 - [x] Icon erstellen und verwenden
 - [x] Telnummern zu klickbaren Links erweitern
