@@ -15,8 +15,9 @@ function preloadImage(imagenameprefix) {
   var imagename_selected = imagenameprefix + '_selected.png';
   var image_default = document.createElement('img');
   var image_selected = document.createElement('img');
-  image_default.src = imagename_default;
-  image_selected.src = imagename_selected;
+  var imagepath = "images/startpage/";
+  image_default.src = imagepath + imagename_default;
+  image_selected.src = imagepath + imagename_selected;
   imagespreloaded[imagename_default] = image_default;
   imagespreloaded[imagename_selected] = image_selected;
 }
