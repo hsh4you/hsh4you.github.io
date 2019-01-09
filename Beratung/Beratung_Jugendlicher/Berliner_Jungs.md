@@ -1,7 +1,7 @@
 ## berliner jungs
 
 |||
--:|-
+-:|:-
 **Adresse** |     Leinestr. 49, 12049 Berlin (Büro)<br>mobil & aufsuchend im Bezirk unterwegs
 **Offen** |       Mo–Fr auf Anfrage<br>Di 15–17 Uhr Vorplatz Allee-Center
 **Alter** |       Jungen zwischen 6–18 Jahren und Angehörige
