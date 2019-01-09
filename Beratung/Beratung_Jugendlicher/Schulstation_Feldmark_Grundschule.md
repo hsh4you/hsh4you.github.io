@@ -11,7 +11,7 @@
 **Institution** | Sozialpädagogische Arbeit im Kiez/SPIK e.V.
 
 <div id="gmap"></div>
-<script>window.onload = showMap('Leinestr. 49, 12049 Berlin')</script>
+<script>window.onload = showMap('Wartiner Str.23, 13057 Berlin')</script>
 
 ## Fotos
 
