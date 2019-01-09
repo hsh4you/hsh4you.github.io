@@ -10,11 +10,12 @@
 ## Tasks
 
 - [ ] Ubuntu Schrift bei allen Browsern
+- [ ] Auflistung aller Beratungsangebote bei "Weder noch"
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events
+- [ ] Aktivitäten -> Auflistung Top x und bei Klick Institutionen auflisten und/oder auf Map darstellen
 - [ ] Kartenfunktionalität
-- [ ] Auflistung aller Beratungsangebote bei "Weder noch"
 
 ## Erledigt
 
