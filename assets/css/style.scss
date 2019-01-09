@@ -3,13 +3,17 @@
 
 @import "{{ site.theme }}";
 
-body {
-  font-family: Ubuntu, Open Sans, sans-serif;
-  color: #777777;
+html {
+  scrollbar-width: none; /* hide scrollbars in Firefox 64 */
 }
 
 ::-webkit-scrollbar { 
-    display: none; 
+    display: none; /* hide scrollbars in Chrome and Safari */
+}
+
+body {
+  font-family: Ubuntu, Open Sans, sans-serif;
+  color: #777777;
 }
 
 a:link, a:hover, a:visited, a:active {
