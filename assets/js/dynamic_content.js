@@ -93,7 +93,7 @@ function toggleImage(elem) {
       document.getElementById(imagenameprefix).value = "0";
     } 
     else {
-      if (elem.value.valueOf() == "0".valueOf()) {
+      if (elem.value == null || elem.value.valueOf() == "0".valueOf()) {
         elem.src = "images/startpage/" + imagenameprefix + "_selected.png";
         elem.value = "1";
       } 
