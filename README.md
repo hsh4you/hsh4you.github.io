@@ -19,6 +19,7 @@
 
 ## Erledigt
 
+- [x] Scrollbars verstecken
 - [x] Icon erstellen und verwenden
 - [x] Telnummern zu klickbaren Links erweitern
 - [x] QR-Code mit hsh4you.de erstellen
