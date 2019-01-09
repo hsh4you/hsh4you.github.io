@@ -1,16 +1,16 @@
 ## Du bist
 
 <label class="container2">
-  <input type="image" onclick="toggleImage(this)" value="0" class="toggle" id="Jugendlicher" src="images/Jugendlicher.png"><br>Jugendliche/r
+  <input type="image" onclick="toggleImage(this)" value="0" class="toggle" id="Jugendlicher" src="images/startpage/Jugendlicher.png"><br>Jugendliche/r
 </label>
 <label class="container2">
-  <input type="image" onclick="toggleImage(this)" value="0" class="toggle" id="Eltern" src="images/Eltern.png"><br>Mama/Papa
+  <input type="image" onclick="toggleImage(this)" value="0" class="toggle" id="Eltern" src="images/startpage/Eltern.png"><br>Mama/Papa
 </label>
 <label class="container2">
-  <input type="image" onclick="toggleImage(this)" value="0" class="toggle" id="Neu_in_Hsh" src="images/Neu_in_Hsh.png"><br>Neu in Hsh
+  <input type="image" onclick="toggleImage(this)" value="0" class="toggle" id="Neu_in_Hsh" src="images/startpage/Neu_in_Hsh.png"><br>Neu in Hsh
 </label>
 <label class="container2">
-  <input type="image" onclick="toggleImage(this)" value="0" class="toggle" id="Senior" src="images/Senior.png"><br>Senior/in
+  <input type="image" onclick="toggleImage(this)" value="0" class="toggle" id="Senior" src="images/startpage/Senior.png"><br>Senior/in
 </label>
 <br>
 <div id="list_">

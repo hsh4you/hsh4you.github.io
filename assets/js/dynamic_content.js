@@ -62,9 +62,9 @@ function updateList2() {
   
   for (let imagenameprefix of imagenameprefixes) {
     if (userselection.indexOf(imagenameprefix) == -1) {
-      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
+      document.getElementById(imagenameprefix).src = "images/startpage/" + imagenameprefix + ".png";
     } else {
-      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + "_selected.png";
+      document.getElementById(imagenameprefix).src = "images/startpage/" + imagenameprefix + "_selected.png";
     }
   }
   
@@ -88,16 +88,16 @@ function toggleImage(elem) {
 
   for (let imagenameprefix of imagenameprefixes) {
     if (userselection.indexOf(imagenameprefix) == -1) {
-      document.getElementById(imagenameprefix).src = "images/" + imagenameprefix + ".png";
+      document.getElementById(imagenameprefix).src = "images/startpage/" + imagenameprefix + ".png";
       document.getElementById(imagenameprefix).value = "0";
     } 
     else {
       if (elem.value.valueOf() == "0".valueOf()) {
-        elem.src = "images/" + imagenameprefix + "_selected.png";
+        elem.src = "images/startpage/" + imagenameprefix + "_selected.png";
         elem.value = "1";
       } 
       else {
-        elem.src = "images/" + imagenameprefix + ".png";
+        elem.src = "images/startpage/" + imagenameprefix + ".png";
         elem.value = "0";
         userselection = "Startauswahl";
       }
