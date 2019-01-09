@@ -15,4 +15,6 @@
 
 ## Fotos
 
-<img src="images/berliner_jungs.png" width="600" />
+<img src="images/Schulstation_Stachelbaer/1.jpg" width="600" />
+<img src="images/Schulstation_Stachelbaer/2.jpg" width="600" />
+<img src="images/Schulstation_Stachelbaer/3.jpg" width="600" />
