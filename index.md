@@ -57,7 +57,10 @@
 <script type="text/javascript">
   window.onload = function() {
   	document.title = "Hsh4You";
-  	formatLists();
     preloadImages();
+  }
+  // format lists after page has loaded
+  document.onload = function() {
+  	formatLists();
   }
 </script>
