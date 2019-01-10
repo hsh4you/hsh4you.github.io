@@ -88,13 +88,13 @@ function updateImages(selectedimageelem) {
       document.getElementById(loopimagenameprefix).value = "0";
     } 
     else {
-      if (elem.value == null || elem.value.valueOf() == "0".valueOf()) {
-        elem.src = "images/startpage/" + selectedimagenameprefix + "_selected.png";
-        elem.value = "1";
+      if (selectedimageelem.value == null || selectedimageelem.value.valueOf() == "0".valueOf()) {
+        selectedimageelem.src = "images/startpage/" + selectedimagenameprefix + "_selected.png";
+        selectedimageelem.value = "1";
       } 
       else {
-        elem.src = "images/startpage/" + selectedimagenameprefix + ".png";
-        elem.value = "0";
+        selectedimageelem.src = "images/startpage/" + selectedimagenameprefix + ".png";
+        selectedimageelem.value = "0";
       }
     }
   }
