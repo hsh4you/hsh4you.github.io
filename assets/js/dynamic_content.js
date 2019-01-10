@@ -4,7 +4,9 @@ var htmlcodecached = [];
 var imagespreloaded = [];
 
 function backupDefaultList() {
-  htmlcodecached["Startauswahl.md"] = document.getElementById("list_").innerHTML; 
+  var markdowncode = document.getElementById("list_").innerHTML;
+  htmlcodecached["Startauswahl.md"] = marked(markdowncode); 
+  document.getElementById("list_").innerHTML = htmlcodecached["Startauswahl.md"];
 }
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
