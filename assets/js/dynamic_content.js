@@ -108,7 +108,7 @@ function showList(selectedlistelem) {
   for (let looplistname of listnames) {
     if (selectedlistname.indexOf(looplistname) >= 0) {
       selectedlistelem.style.visibility = "visible";
-    else {
+    } else {
       document.getElementById(looplistname).style.visibility = "hidden";
     }
   } 
