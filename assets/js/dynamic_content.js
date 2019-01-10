@@ -99,10 +99,10 @@ function updateImages(selectedimagenameprefix) {
   }
 }
 
-function showList(selectedlistelem) {
-  var selectedlistname = selectedlistelem.id;
-  var imagename = selectedlistname.slice(5);
-  updateImages(imagename);
+function showList(selectedimageelem) {
+  var selectedimagename = selectedimageelem.id;
+  updateImages(selectedimagename);
+  var selectedlistname = 'liste' + selectedimagename;
   // show selected list and hide all others
   var listnames = ['listeKeineAngabe', 'listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
   for (let looplistname of listnames) {
