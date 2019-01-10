@@ -57,6 +57,7 @@
 <script type="text/javascript">
   window.onload = function() {
   	document.title = "Hsh4You";
+  	formatLists();
     preloadImages();
   }
 </script>

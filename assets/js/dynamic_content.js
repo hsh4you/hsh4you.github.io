@@ -112,6 +112,16 @@ function showList(elem) {
   } 
 }
 
+function formatLists() {
+  var listnames = ['listeKeineAngabe', 'listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
+  for (let listname of listnames) {
+    var elem = document.getElementById(listname);
+    var markdowncode = elem.src;
+    var htmlcode = marked(markdowncode);
+    elem.src = htmlcode;
+  }
+}
+
 function findAddress() {
   var address = '';
   var cells = document.getElementsByTagName("td");
