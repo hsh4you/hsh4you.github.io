@@ -1,7 +1,11 @@
-var filenameprefixes = ['Startauswahl', 'Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
+var filenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var imagenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var htmlcodecached = [];
 var imagespreloaded = [];
+
+function backupDefaultList() {
+  htmlcodecached["Startauswahl.md"] = document.getElementById("list_").innerHTML; 
+}
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
 // source 2: https://github.com/markedjs/marked
@@ -13,9 +17,6 @@ function preloadMarkdownFile(markdownfilename) {
       htmlcode = marked(markdowncode);
       htmlcode = htmlcode.replace(/\.md/g, '.html'); // fix links
       htmlcodecached[markdownfilename] = htmlcode;
-      if (Object.keys(htmlcodecached).length == filenameprefixes.length) { 
-        document.getElementById("list_").innerHTML = htmlcodecached["Startauswahl.md"]; 
-      }
     }
   };
   xhttp.open("GET", markdownfilename, true);
