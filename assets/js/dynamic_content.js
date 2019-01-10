@@ -80,6 +80,38 @@ function updateSelection(elem) {
   updateList(userselection);
 }
 
+function updateImages(userselection) {
+  for (let imagenameprefix of imagenameprefixes) {
+    if (userselection.indexOf(imagenameprefix) == -1) {
+      document.getElementById(imagenameprefix).src = "images/startpage/" + imagenameprefix + ".png";
+      document.getElementById(imagenameprefix).value = "0";
+    } 
+    else {
+      if (elem.value == null || elem.value.valueOf() == "0".valueOf()) {
+        elem.src = "images/startpage/" + imagenameprefix + "_selected.png";
+        elem.value = "1";
+      } 
+      else {
+        elem.src = "images/startpage/" + imagenameprefix + ".png";
+        elem.value = "0";
+      }
+    }
+  }
+}
+
+function showList(elem) {
+  var selectedlistname = elem.id;
+  updateImages(selectedlist);
+  // make selected list visible
+  elem.style.visibility = "visible";
+  // hide all other lists
+  for (let imagenameprefix of imagenameprefixes) {
+    if (userselection.indexOf(imagenameprefix) == -1) {
+      document.getElementById('liste' + imagenameprefix).style.visibility = "hidden";
+    }
+  } 
+}
+
 function findAddress() {
   var address = '';
   var cells = document.getElementsByTagName("td");
