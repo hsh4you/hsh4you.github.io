@@ -1,10 +1,11 @@
-## Willkommen bei der WebApp Hsh4You Beta
-- [Zur WebApp Hsh4You Beta](https://danieldreke.github.io/webapp_hsh/)
+## Willkommen bei der WebApp Hsh4You
+- official and stable: https://www.hsh4you.de
+- evolving and unstable: https://danieldreke.github.io/webapp_hsh/
 
-## QR Code hsh4you.de (hsh4you.de ist nicht aktueller Stand)
+## QR Code hsh4you.de
 <a href="images/qr-code.png"><img src="images/qr-code.png" width="240px"></a>
 
-## Verwendung von Markdown
+## Formatierung
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Tasks
