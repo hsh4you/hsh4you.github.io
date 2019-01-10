@@ -5,7 +5,7 @@ var imagespreloaded = [];
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first
 // source 2: https://github.com/markedjs/marked
-function cacheMarkdownFileAsHtmlCode(markdownfilename) {
+function preloadMarkdownFile(markdownfilename) {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -25,7 +25,7 @@ function cacheMarkdownFileAsHtmlCode(markdownfilename) {
 function preloadLists() {
   for (let filenameprefix of filenameprefixes) {
     var markdownfilename = filenameprefix + '.md';
-    cacheMarkdownFileAsHtmlCode(markdownfilename);
+    preloadMarkdownFile(markdownfilename);
   }
 }
 
