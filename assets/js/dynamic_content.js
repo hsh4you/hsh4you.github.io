@@ -7,6 +7,7 @@ function backupDefaultList() {
   var markdowncode = document.getElementById("list_").innerHTML;
   htmlcodecached["Startauswahl.md"] = marked(markdowncode); 
   document.getElementById("list_").innerHTML = htmlcodecached["Startauswahl.md"];
+  document.getElementById("list_").visibility = "visible";
 }
 
 // source 1: https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first

@@ -14,6 +14,10 @@
     height: 64px;
 }
 
+.list_ {
+    visibility: hidden;
+}
+
 .whitelink:link, .whitelink:visited, .whitelink:link:active, .whitelink:visited:active {
   color: #ffffff;
 }
