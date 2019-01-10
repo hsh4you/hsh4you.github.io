@@ -109,7 +109,10 @@ function showList(selectedlistelem) {
     if (selectedlistname.indexOf(looplistname) >= 0) {
       selectedlistelem.style.visibility = "visible";
     } else {
-      document.getElementById(looplistname).style.visibility = "hidden";
+      var looplistelem = document.getElementById(looplistname);
+      if (looplistelem != null) {
+        looplistelem.style.visibility = "hidden";
+      }
     }
   } 
 }
