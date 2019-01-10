@@ -80,7 +80,8 @@ function updateSelection(elem) {
   updateList(userselection);
 }
 
-function updateImages(selectedimagenameprefix) {
+function updateImages(selectedimageelem) {
+  var selectedimagenameprefix = selectedimageelem.id;
   for (let loopimagenameprefix of imagenameprefixes) {
     if (selectedimagenameprefix.indexOf(loopimagenameprefix) == -1) {
       document.getElementById(loopimagenameprefix).src = "images/startpage/" + loopimagenameprefix + ".png";
@@ -100,14 +101,17 @@ function updateImages(selectedimagenameprefix) {
 }
 
 function showList(selectedimageelem) {
-  var selectedimagename = selectedimageelem.id;
-  updateImages(selectedimagename);
-  var selectedlistname = 'liste' + selectedimagename;
+  updateImages(selectedimageelem);
+  var selectedimagenameprefix = selectedimageelem.id;
+  var selectedlistname = 'liste' + selectedimagenameprefix;
   // show selected list and hide all others
   var listnames = ['listeKeineAngabe', 'listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
   for (let looplistname of listnames) {
     if (selectedlistname.indexOf(looplistname) >= 0) {
-      selectedlistelem.style.visibility = "visible";
+      var selectedlistelem = document.getElementById(looplistname);
+      if (selectedlistelem != null) {
+        selectedlistelem.style.visibility = "visible";
+      }
     } else {
       var looplistelem = document.getElementById(looplistname);
       if (looplistelem != null) {
