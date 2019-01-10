@@ -80,34 +80,36 @@ function updateSelection(elem) {
   updateList(userselection);
 }
 
-function updateImages(userselection) {
-  for (let imagenameprefix of imagenameprefixes) {
-    if (userselection.indexOf(imagenameprefix) == -1) {
-      document.getElementById(imagenameprefix).src = "images/startpage/" + imagenameprefix + ".png";
-      document.getElementById(imagenameprefix).value = "0";
+function updateImages(selectedimagenameprefix) {
+  for (let loopimagenameprefix of imagenameprefixes) {
+    if (selectedimagenameprefix.indexOf(loopimagenameprefix) == -1) {
+      document.getElementById(loopimagenameprefix).src = "images/startpage/" + loopimagenameprefix + ".png";
+      document.getElementById(loopimagenameprefix).value = "0";
     } 
     else {
       if (elem.value == null || elem.value.valueOf() == "0".valueOf()) {
-        elem.src = "images/startpage/" + imagenameprefix + "_selected.png";
+        elem.src = "images/startpage/" + selectedimagenameprefix + "_selected.png";
         elem.value = "1";
       } 
       else {
-        elem.src = "images/startpage/" + imagenameprefix + ".png";
+        elem.src = "images/startpage/" + selectedimagenameprefix + ".png";
         elem.value = "0";
       }
     }
   }
 }
 
-function showList(elem) {
-  var listname = elem.id;
-  updateImages(listname);
-  // make selected list visible
-  elem.style.visibility = "visible";
-  // hide all other lists
-  for (let imagenameprefix of imagenameprefixes) {
-    if (listname.indexOf(imagenameprefix) == -1) {
-      document.getElementById('liste' + imagenameprefix).style.visibility = "hidden";
+function showList(selectedlistelem) {
+  var selectedlistname = selectedlistelem.id;
+  var imagename = selectedlistname.slice(5);
+  updateImages(imagename);
+  // show selected list and hide all others
+  var listnames = ['listeKeineAngabe', 'listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
+  for (let looplistname of listnames) {
+    if (selectedlistname.indexOf(looplistname) >= 0) {
+      selectedlistelem.style.visibility = "visible";
+    else {
+      document.getElementById(looplistname).style.visibility = "hidden";
     }
   } 
 }
