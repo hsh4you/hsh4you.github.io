@@ -120,7 +120,7 @@ function formatLists() {
     var listelem = document.getElementById(listname);
     var markdowncode = listelem.innerHTML;
     var htmlcode = marked(markdowncode);
-    elem.src = htmlcode;
+    listelem.innerHTML = htmlcode;
   }
 }
 
