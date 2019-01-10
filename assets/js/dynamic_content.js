@@ -110,12 +110,12 @@ function showList(selectedimageelem) {
     if (selectedlistname.indexOf(looplistname) >= 0) {
       var selectedlistelem = document.getElementById(looplistname);
       if (selectedlistelem != null) {
-        selectedlistelem.style.visibility = "visible";
+        selectedlistelem.style.display = "block";
       }
     } else {
       var looplistelem = document.getElementById(looplistname);
       if (looplistelem != null) {
-        looplistelem.style.visibility = "hidden";
+        looplistelem.style.display = "none";
       }
     }
   } 

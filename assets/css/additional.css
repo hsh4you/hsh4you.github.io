@@ -15,7 +15,7 @@
 }
 
 #listeKeineAngabe, #listeJugendlicher, #listeEltern, #listeNeu_In_Hsh, #listeSenior {
-    visibility: hidden;
+    display: none;
 }
 
 .whitelink:link, .whitelink:visited, .whitelink:link:active, .whitelink:visited:active {
