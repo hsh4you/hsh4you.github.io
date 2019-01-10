@@ -100,13 +100,13 @@ function updateImages(userselection) {
 }
 
 function showList(elem) {
-  var selectedlistname = elem.id;
-  updateImages(selectedlist);
+  var listname = elem.id;
+  updateImages(listname);
   // make selected list visible
   elem.style.visibility = "visible";
   // hide all other lists
   for (let imagenameprefix of imagenameprefixes) {
-    if (userselection.indexOf(imagenameprefix) == -1) {
+    if (listname.indexOf(imagenameprefix) == -1) {
       document.getElementById('liste' + imagenameprefix).style.visibility = "hidden";
     }
   } 
