@@ -125,9 +125,11 @@ function formatLists() {
   var listnames = ['listeKeineAngabe', 'listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
   for (let listname of listnames) {
     var listelem = document.getElementById(listname);
-    var markdowncode = listelem.innerHTML;
-    var htmlcode = marked(markdowncode);
-    listelem.innerHTML = htmlcode;
+    if (listelem != null) {
+      var markdowncode = listelem.innerHTML;
+      var htmlcode = marked(markdowncode);
+      listelem.innerHTML = htmlcode;
+    }
   }
 }
 

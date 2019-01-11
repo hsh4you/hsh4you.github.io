@@ -58,6 +58,7 @@
   window.onload = function() {
   	document.title = "Hsh4You";
     preloadImages();
+  	formatLists();
   }
   // format lists after page has loaded
   document.onload = function() {
