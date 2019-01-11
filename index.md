@@ -1,5 +1,12 @@
 ## Du bist
 
+<script type="text/javascript">
+  window.onload = function() {
+  	document.title = "Hsh4You";
+    preloadImages();
+  }
+</script>
+
 <label class="userselectioncontainer">
   <img onclick="showList(this)" id="Jugendlicher" src="images/startpage/Jugendlicher.png"><br>Jugendliche/r
 </label>
@@ -55,13 +62,8 @@
 </div>
 
 <script type="text/javascript">
-  window.onload = function() {
-  	document.title = "Hsh4You";
-    preloadImages();
-  	formatLists();
-  }
   // format lists after page has loaded
-  document.onload = function() {
+  document.addEventListener("DOMContentLoaded", function(event) { 
   	formatLists();
-  }
+  });
 </script>
