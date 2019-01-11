@@ -28,14 +28,15 @@
     <link rel="icon" type="image/png" sizes="196x196" href="{{ '/images/favicon/favicon-196.png' | relative_url }}">
     <link rel="shortcut icon" href="{{ '/images/favicon/favicon.ico' | relative_url }}">
     
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/marked.min.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/dynamic_content.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/startpage.js' | relative_url }}"></script>
   </head>
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name"><a class="whitelink" href="javascript:history.back()"><b>&lt;</b></a>&nbsp;&nbsp;<a class="whitelink" href="{{ site.github.repository_name }}">{{ site.title | default: site.github.repository_name }}</a>&nbsp;&nbsp;<a class="whitelink" href="javascript:history.forward()"><a class="whitelink" href="javascript:history.forward()"><b>&gt;</b></a>&nbsp;</h1>
+      <h1 class="project-name"><a class="whitelink" href="javascript:history.back()"><b>&lt;</b></a>&nbsp;&nbsp;<a class="whitelink" href="/{{ site.github.repository_name }}">{{ site.title | default: site.github.repository_name }}</a>&nbsp;&nbsp;<a class="whitelink" href="javascript:history.forward()"><a class="whitelink" href="javascript:history.forward()"><b>&gt;</b></a>&nbsp;</h1>
       <!--<h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>//-->
     </header>
 
