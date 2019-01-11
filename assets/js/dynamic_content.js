@@ -113,7 +113,7 @@ function updateLists(selectedlistelem) {
   else {
     selectedlistelem.style.display = "none";
     defaultlistelem.style.display = "block";
-    lastselectedlistname = defaultlistelem;
+    lastselectedlistname = defaultlistelem.id;
   }
 }
 
