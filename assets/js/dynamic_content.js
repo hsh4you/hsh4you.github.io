@@ -119,12 +119,12 @@ function showList(selectedimageelem) {
   if (selectedlistelem != null) {
     if (selectedlistelem.value == null || selectedlistelem.value.valueOf() == "0".valueOf()) {
       document.getElementById('listeKeineAngabe').style.display = "none";
-      selectedimageelem.style.display = "block";
-      selectedimageelem.value = "1";
+      selectedlistelem.style.display = "block";
+      selectedlistelem.value = "1";
     } 
     else {
-      selectedimageelem.style.display = "none";
-      selectedimageelem.value = "0";
+      selectedlistelem.style.display = "none";
+      selectedlistelem.value = "0";
       document.getElementById('listeKeineAngabe').style.display = "block";
     }
   }
