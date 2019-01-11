@@ -14,7 +14,11 @@
     height: 64px;
 }
 
-#listeKeineAngabe, #listeJugendlicher, #listeEltern, #listeNeu_in_Hsh, #listeSenior {
+#imgJugendlicherClicked, #imgElternClicked, #imgNeuClicked, #imgSeniorClicked {
+    display: none;
+}
+
+#listDefault, #listJugendlicher, #listEltern, #listNeu, #listSenior {
     display: none;
 }
 
