@@ -3,6 +3,7 @@
 <script type="text/javascript"> window.onload = function() { document.title = "Hsh4You"; } </script>
 <script type="text/javascript">
   var lastselectedlistname = '';
+  var lastclickedimagebasename = '';
   const DEFAULTLISTNAME = 'listDefault';
 
   function updateLists(selectedlistelem) {
@@ -42,14 +43,16 @@
       showImage(imagedefaultversionelem);
     }
     else {
-      var lastclickedimagedefaultversionelem = document.getElementById(lastclickedimagebasename + 'Default');
-      var lastclickedimageclickedversionelem = document.getElementById(lastclickedimagebasename + 'Clicked');
-      hideImage(lastclickedimageclickedversionelem);
-      showImage(lastclickedimagedefaultversionelem);
-      hideImage(imagedefaultelem);
-      showImage(imageclickedelem);
+      if (lastclickedimagebasename.length > 0) {        
+        var lastclickedimagedefaultversionelem = document.getElementById(lastclickedimagebasename + 'Default');
+        var lastclickedimageclickedversionelem = document.getElementById(lastclickedimagebasename + 'Clicked');
+        hideImage(lastclickedimageclickedversionelem);
+        showImage(lastclickedimagedefaultversionelem);
+      }
+      hideImage(imagedefaultversionelem);
+      showImage(imageclickedversionelem);
     }
-    lastclickedimagebasename = imagebasename;
+    lastclickedimagebasename = clickedimagebasename;
     //var listtoshowname = clickedimagename.replace('img', 'list').replace('Default', '');
     // listtoshowelem = document.getElementById(listtoshowname);
     //updateLists(listtoshowelem);
