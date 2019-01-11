@@ -3,7 +3,7 @@
 <script type="text/javascript"> window.onload = function() { document.title = "Hsh4You"; } </script>
 <script type="text/javascript">
   var lastselectedlistname = '';
-  var defaultlistelem = document.getElementById('listDefault');
+  const DEFAULTLISTNAME = 'listDefault';
 
   function updateLists(selectedlistelem) {
     var selectedlistname = selectedlistelem.id;
@@ -15,6 +15,7 @@
     }
     else {
       selectedlistelem.style.display = "none";
+      var defaultlistelem = document.getElementById(DEFAULTLISTNAME);
       defaultlistelem.style.display = "block";
       lastselectedlistname = defaultlistelem.id;
     }
