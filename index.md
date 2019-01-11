@@ -8,16 +8,16 @@
 </script>
 
 <label class="userselectioncontainer">
-  <img onclick="updateImageAndList(this)" id="Jugendlicher" src="images/startpage/Jugendlicher.png"><br>Jugendliche/r
+  <img onclick="updateImagesAndLists(this)" id="Jugendlicher" src="images/startpage/Jugendlicher.png"><br>Jugendliche/r
 </label>
 <label class="userselectioncontainer">
-  <img onclick="updateImageAndList(this)" id="Eltern" src="images/startpage/Eltern.png"><br>Mama/Papa
+  <img onclick="updateImagesAndLists(this)" id="Eltern" src="images/startpage/Eltern.png"><br>Mama/Papa
 </label>
 <label class="userselectioncontainer">
-  <img onclick="updateImageAndList(this)" id="Neu_in_Hsh" src="images/startpage/Neu_in_Hsh.png"><br>Neu in Hsh
+  <img onclick="updateImagesAndLists(this)" id="Neu_in_Hsh" src="images/startpage/Neu_in_Hsh.png"><br>Neu in Hsh
 </label>
 <label class="userselectioncontainer">
-  <img onclick="updateImageAndList(this)" id="Senior" src="images/startpage/Senior.png"><br>Senior/in
+  <img onclick="updateImagesAndLists(this)" id="Senior" src="images/startpage/Senior.png"><br>Senior/in
 </label>
 
 ## Du suchst
