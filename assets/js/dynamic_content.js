@@ -2,6 +2,7 @@ var filenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var imagenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var htmlcodecached = [];
 var imagespreloaded = [];
+var lastselectedlistname = '';
 
 function backupDefaultList() {
   var markdowncode = document.getElementById("list_").innerHTML;
@@ -100,36 +101,31 @@ function updateImages(selectedimageelem) {
   }
 }
 
-function showList(selectedimageelem) {
-  updateImages(selectedimageelem);
-  var selectedimagenameprefix = selectedimageelem.id;
-  var selectedlistname = 'liste' + selectedimagenameprefix;
-  // hide all non selected lists
-  var selectablelistnames = ['listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
-  for (let looplistname of selectablelistnames) {
-    if (selectedlistname.indexOf(looplistname) == -1) {
-      var looplistelem = document.getElementById(looplistname);
-      if (looplistelem != null) {
-        looplistelem.style.display = "none";
-      }
-    }
-  }
-  // show selected list if newly selected else load default list
-  var selectedlistelem = document.getElementById(selectedlistname);
+function updateLists(selectedlistelem) {
+  var selectedlistname = selectedlistelem.id;
   var defaultlistelem = document.getElementById('listeKeineAngabe');
-  if (selectedlistelem != null && defaultlistelem != null) {
-    if (selectedimageelem.value == null || selectedimageelem.value.valueOf() == "0".valueOf()) {
-      defaultlistelem.style.display = "none";
-      selectedlistelem.style.display = "block";
-    } 
-    else {
-      selectedlistelem.style.display = "none";
-      defaultlistelem.style.display = "block";
-    }
+  var lastselectedlistelem = document.getElementById(lastselectedlistname);
+  if (selectedlistname.valueOf() != lastselectedlistname.valueOf()) {
+    lastselectedlistelem.style.display = "none";
+    selectedlistelem.style.display = "block";
+    lastselectedlistname = selectedlistname;
+  }
+  else {
+    selectedlistelem.style.display = "none";
+    defaultlistelem.style.display = "block";
+    lastselectedlistname = defaultlistelem;
   }
 }
 
+function updateImagesAndLists(selectedimageelem) {
+  updateImages(selectedimageelem);
+  var selectedlistname = 'liste' + selectedimageelem.id;
+  var selectedlistelem = document.getElementById(selectedlistname);
+  updateLists(selectedlistelem);
+}
+
 function formatLists() {
+  // replace all lists markdown code with html code
   var listnames = ['listeKeineAngabe', 'listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
   for (let listname of listnames) {
     var listelem = document.getElementById(listname);
@@ -139,6 +135,10 @@ function formatLists() {
       listelem.innerHTML = htmlcode;
     }
   }
+  // show default list
+  var defaultlistelem = document.getElementById('listeKeineAngabe');
+  defaultlistelem.style.display = "block";
+  lastselectedlistname = 'listeKeineAngabe';
 }
 
 function findAddress() {
