@@ -16,7 +16,8 @@
 </label>
 
 ## Du suchst
-<div id="listDefault">
+<div id="listStartpage"></div>
+<div class="displaynone" id="listDefault">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
@@ -25,13 +26,13 @@
 - [Freizeit](Freizeit/Freizeit.md)
 - Familienzentren
 </div>
-<div id="listJugendlicher">
+<div class="displaynone" id="listJugendlicher">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Jugendlicher.md)
 - Aktivitäten
 </div>
-<div id="listEltern">
+<div class="displaynone" id="listEltern">
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
@@ -40,7 +41,7 @@
 - Familienzentren
 - Jugendamt
 </div>
-<div id="listNeu">
+<div class="displaynone" id="listNeu">
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Veranstaltungen](calendar/calendar.html)
@@ -50,7 +51,7 @@
 - Bürgeramt
 - Begegnungen
 </div>
-<div id="listSenior">
+<div class="displaynone" id="listSenior">
 - [Veranstaltungen](calendar/calendar.html)
 - Beratung
 - Ehrenamt
