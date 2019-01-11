@@ -31,19 +31,21 @@
 
   function updateImagesAndLists(clickedimageelem) {
     var clickedimagename = clickedimageelem.id;
-    var defaultimagename = clickedimagename.replace('Clicked', 'Default')
-    var defaultimageelem = document.getElementById(defaultimagename);
+    var imagedefaultname = clickedimagename.replace('Clicked', 'Default');
+    var imagedefaultelem = document.getElementById(defaultimagename);
+    var imageclickedname = clickedimagename.replace('Default', 'Clicked')
+    var imageclickedelem = document.getElementById(imagetoshowname);
     var hasimagebeenclickedagain = (clickedimagename.indexOf('Clicked') > 0);
     if (hasimagebeenclickedagain) {
-      hideImage(clickedimageelem);
-      showImage(defaultimageelem);
+      hideImage(imageclickedelem);
+      showImage(imagedefaultelem);
     }
     else {
-      hideImage(defaultimageelem);
-      showImage(clickedimageelem);
+      hideImage(imagedefaultelem);
+      showImage(imageclickedelem);
     }
-    var listtoshowname = clickedimagename.replace('img', 'list').replace('Default', '');
-    var listtoshowelem = document.getElementById(listtoshowname);
+    //var listtoshowname = clickedimagename.replace('img', 'list').replace('Default', '');
+    // listtoshowelem = document.getElementById(listtoshowname);
     //updateLists(listtoshowelem);
   }  
 </script>
