@@ -105,29 +105,28 @@ function showList(selectedimageelem) {
   var selectedimagenameprefix = selectedimageelem.id;
   var selectedlistname = 'liste' + selectedimagenameprefix;
   // hide all non selected lists
-  var listnames = ['listeKeineAngabe', 'listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
-  for (let looplistname of listnames) {
+  var selectablelistnames = ['listeJugendlicher', 'listeEltern', 'listeNeu_in_Hsh', 'listeSenior'];
+  for (let looplistname of selectablelistnames) {
     if (selectedlistname.indexOf(looplistname) == -1) {
       var looplistelem = document.getElementById(looplistname);
       if (looplistelem != null) {
-
-        if (looplistelem.value == null || looplistelem.value.valueOf() == "0".valueOf()) {
-          document.getElementById('listeKeineAngabe').style.display = "none";
-          selectedimageelem.style.display = "block";
-          selectedimageelem.value = "1";
-        } 
-        else {
-          selectedimageelem.style.display = "none";
-          selectedimageelem.value = "0";
-          document.getElementById('listeKeineAngabe').style.display = "block";
-        }
+        looplistelem.style.display = "none";
       }
     }
   }
   // show selected list if newly selected else load default list
   var selectedlistelem = document.getElementById(looplistname);
   if (selectedlistelem != null) {
-    selectedlistelem.style.display = "block";
+    if (looplistelem.value == null || looplistelem.value.valueOf() == "0".valueOf()) {
+      document.getElementById('listeKeineAngabe').style.display = "none";
+      selectedimageelem.style.display = "block";
+      selectedimageelem.value = "1";
+    } 
+    else {
+      selectedimageelem.style.display = "none";
+      selectedimageelem.value = "0";
+      document.getElementById('listeKeineAngabe').style.display = "block";
+    }
   }
 }
 
