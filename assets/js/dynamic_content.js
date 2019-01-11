@@ -115,9 +115,9 @@ function showList(selectedimageelem) {
     }
   }
   // show selected list if newly selected else load default list
-  var selectedlistelem = document.getElementById(looplistname);
+  var selectedlistelem = document.getElementById(selectedlistname);
   if (selectedlistelem != null) {
-    if (looplistelem.value == null || looplistelem.value.valueOf() == "0".valueOf()) {
+    if (selectedlistelem.value == null || selectedlistelem.value.valueOf() == "0".valueOf()) {
       document.getElementById('listeKeineAngabe').style.display = "none";
       selectedimageelem.style.display = "block";
       selectedimageelem.value = "1";
