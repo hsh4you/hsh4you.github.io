@@ -28,6 +28,7 @@ function updateImages(selectedimageelem) {
   // toggle image if already selected
   if (selectedimagenameprefix.valueOf() == lastselectedimagenameprefix.valueOf()) {
     selectedimageelem.src = "images/startpage/" + selectedimagenameprefix + ".png";
+    lastselectedimagenameprefix = '';
   }
   else {
     // show selected version of selected image
@@ -37,6 +38,7 @@ function updateImages(selectedimageelem) {
       var lastselectedimageelem = document.getElementById(lastselectedimagenameprefix);
       lastselectedimageelem.src = "images/startpage/" + lastselectedimagenameprefix + ".png";
     }
+    lastselectedimagenameprefix = selectedimagenameprefix;
   }
 }
 
