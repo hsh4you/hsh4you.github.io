@@ -116,16 +116,17 @@ function showList(selectedimageelem) {
   }
   // show selected list if newly selected else load default list
   var selectedlistelem = document.getElementById(selectedlistname);
-  if (selectedlistelem != null) {
+  var defaultlistelem = document.getElementById('listeKeineAngabe');
+  if (selectedlistelem != null && defaultlistelem != null) {
     if (selectedlistelem.value == null || selectedlistelem.value.valueOf() == "0".valueOf()) {
-      document.getElementById('listeKeineAngabe').style.display = "none";
+      defaultlistelem.style.display = "none";
       selectedlistelem.style.display = "block";
       selectedlistelem.value = "1";
     } 
     else {
       selectedlistelem.style.display = "none";
       selectedlistelem.value = "0";
-      document.getElementById('listeKeineAngabe').style.display = "block";
+      defaultlistelem.style.display = "block";
     }
   }
 }
