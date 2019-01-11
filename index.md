@@ -19,7 +19,7 @@
 <label class="userselectioncontainer">
   <img onclick="showList(this)" id="Senior" src="images/startpage/Senior.png"><br>Senior/in
 </label>
-<br>
+
 ## Du suchst
 <div id="listeKeineAngabe">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
