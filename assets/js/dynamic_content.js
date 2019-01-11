@@ -3,6 +3,7 @@ var imagenameprefixes = ['Jugendlicher', 'Eltern', 'Neu_in_Hsh', 'Senior'];
 var htmlcodecached = [];
 var imagespreloaded = [];
 var lastselectedlistname = '';
+var lastselectedimagenameprefix = '';
 
 function preloadImage(imagenameprefix) {
   var imagename_default = imagenameprefix + '.png';
@@ -24,20 +25,17 @@ function preloadImages() {
 
 function updateImages(selectedimageelem) {
   var selectedimagenameprefix = selectedimageelem.id;
-  for (let loopimagenameprefix of imagenameprefixes) {
-    if (selectedimagenameprefix.indexOf(loopimagenameprefix) == -1) {
-      document.getElementById(loopimagenameprefix).src = "images/startpage/" + loopimagenameprefix + ".png";
-      document.getElementById(loopimagenameprefix).value = "0";
-    } 
-    else {
-      if (selectedimageelem.value == null || selectedimageelem.value.valueOf() == "0".valueOf()) {
-        selectedimageelem.src = "images/startpage/" + selectedimagenameprefix + "_selected.png";
-        selectedimageelem.value = "1";
-      } 
-      else {
-        selectedimageelem.src = "images/startpage/" + selectedimagenameprefix + ".png";
-        selectedimageelem.value = "0";
-      }
+  // toggle image if already selected
+  if (selectedimagenameprefix.valueOf() == lastselectedimagenameprefix.valueOf()) {
+    selectedimageelem.src = "images/startpage/" + selectedimagenameprefix + ".png";
+  }
+  else {
+    // show selected version of selected image
+    selectedimageelem.src = "images/startpage/" + selectedimagenameprefix + "_selected.png";
+    // show unselected version of previously selected image
+    if (lastselectedimagenameprefix.length > 0) {
+      var lastselectedimageelem = document.getElementById(lastselectedimagenameprefix);
+      lastselectedimageelem.src = "images/startpage/" + lastselectedimagenameprefix + ".png";
     }
   }
 }
