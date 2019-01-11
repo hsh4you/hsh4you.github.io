@@ -99,7 +99,7 @@
     }
     var listtoshowname = clickedimagename.replace('img', 'list').replace('Default', '');
     var listtoshowelem = document.getElementById(listtoshowname);
-    updateLists(listtoshowelem);
+    //updateLists(listtoshowelem);
   }
 
   function formatLists() {
