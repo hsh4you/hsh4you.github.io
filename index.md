@@ -115,6 +115,7 @@
       }
     }
     // show default list
+    var defaultlistelem = document.getElementById(DEFAULTLISTNAME);
     defaultlistelem.style.display = "block";
   }
 
