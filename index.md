@@ -1,6 +1,51 @@
 ## Du bist
 
 <script type="text/javascript"> window.onload = function() { document.title = "Hsh4You"; } </script>
+<script type="text/javascript">
+  var lastselectedlistname = '';
+  var defaultlistelem = document.getElementById('listDefault');
+
+  function updateLists(selectedlistelem) {
+    var selectedlistname = selectedlistelem.id;
+    var lastselectedlistelem = document.getElementById(lastselectedlistname);
+    if (selectedlistname.valueOf() != lastselectedlistname.valueOf()) {
+      lastselectedlistelem.style.display = "none";
+      selectedlistelem.style.display = "block";
+      lastselectedlistname = selectedlistname;
+    }
+    else {
+      selectedlistelem.style.display = "none";
+      defaultlistelem.style.display = "block";
+      lastselectedlistname = defaultlistelem.id;
+    }
+  }
+
+  function showImage(imageelem) {
+    imageelem.style.display = 'inline';
+  }
+
+  function hideImage(imageelem) {
+    imageelem.style.display = 'none';
+  }
+
+  function updateImagesAndLists(clickedimageelem) {
+    var clickedimagename = clickedimageelem.id;
+    var defaultimagename = clickedimagename.replace('Clicked', 'Default')
+    var defaultimageelem = document.getElementById(defaultimagename);
+    var hasimagebeenclickedagain = (clickedimagename.indexOf('Clicked') > 0);
+    if (hasimagebeenclickedagain) {
+      hideImage(clickedimageelem);
+      showImage(defaultimageelem);
+    }
+    else {
+      hideImage(defaultimageelem);
+      showImage(clickedimageelem);
+    }
+    var listtoshowname = clickedimagename.replace('img', 'list').replace('Default', '');
+    var listtoshowelem = document.getElementById(listtoshowname);
+    //updateLists(listtoshowelem);
+  }  
+</script>
 
 <label class="userselectioncontainer">
   <img onclick="updateImagesAndLists(this)" id="imgJugendlicherDefault" src="images/startpage/Jugendlicher.png"><img onclick="updateImagesAndLists(this)" id="imgJugendlicherClicked" src="images/startpage/Jugendlicher_selected.png"><br>Jugendliche/r
@@ -57,50 +102,6 @@
 </div>
 
 <script type="text/javascript">
-  var lastselectedlistname = '';
-  var defaultlistelem = document.getElementById('listDefault');
-
-  function updateLists(selectedlistelem) {
-    var selectedlistname = selectedlistelem.id;
-    var lastselectedlistelem = document.getElementById(lastselectedlistname);
-    if (selectedlistname.valueOf() != lastselectedlistname.valueOf()) {
-      lastselectedlistelem.style.display = "none";
-      selectedlistelem.style.display = "block";
-      lastselectedlistname = selectedlistname;
-    }
-    else {
-      selectedlistelem.style.display = "none";
-      defaultlistelem.style.display = "block";
-      lastselectedlistname = defaultlistelem.id;
-    }
-  }
-
-  function showImage(imageelem) {
-    imageelem.style.display = 'inline';
-  }
-
-  function hideImage(imageelem) {
-    imageelem.style.display = 'none';
-  }
-
-  function updateImagesAndLists(clickedimageelem) {
-    var clickedimagename = clickedimageelem.id;
-    var defaultimagename = clickedimagename.replace('Clicked', 'Default')
-    var defaultimageelem = document.getElementById(defaultimagename);
-    var hasimagebeenclickedagain = (clickedimagename.indexOf('Clicked') > 0);
-    if (hasimagebeenclickedagain) {
-      hideImage(clickedimageelem);
-      showImage(defaultimageelem);
-    }
-    else {
-      hideImage(defaultimageelem);
-      showImage(clickedimageelem);
-    }
-    var listtoshowname = clickedimagename.replace('img', 'list').replace('Default', '');
-    var listtoshowelem = document.getElementById(listtoshowname);
-    //updateLists(listtoshowelem);
-  }
-
   function formatLists() {
     // replace all lists markdown code with html code
     var listnames = ['listDefault', 'listJugendlicher', 'listEltern', 'listNeu', 'listSenior'];
