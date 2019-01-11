@@ -58,10 +58,10 @@
 
 <script type="text/javascript">
   var lastselectedlistname = '';
+  var defaultlistelem = document.getElementById('listDefault');
 
   function updateLists(selectedlistelem) {
     var selectedlistname = selectedlistelem.id;
-    var defaultlistelem = document.getElementById('listeKeineAngabe');
     var lastselectedlistelem = document.getElementById(lastselectedlistname);
     if (selectedlistname.valueOf() != lastselectedlistname.valueOf()) {
       lastselectedlistelem.style.display = "none";
@@ -86,8 +86,7 @@
   function updateImagesAndLists(clickedimageelem) {
     var clickedimagename = clickedimageelem.id;
     var defaultimagename = clickedimagename.replace('Clicked', 'Default')
-    var defaultimageelem = document.getElementById(defaultimagename);    
-    var defaultlistelem = document.getElementById('listDefault');
+    var defaultimageelem = document.getElementById(defaultimagename);
     var hasimagebeenclickedagain = (clickedimagename.indexOf('Clicked') > 0);
     if (hasimagebeenclickedagain) {
       hideImage(clickedimageelem);
@@ -114,9 +113,7 @@
       }
     }
     // show default list
-    var defaultlistelem = document.getElementById('listeKeineAngabe');
     defaultlistelem.style.display = "block";
-    lastselectedlistname = 'listeKeineAngabe';
   }
 
   // format lists after page has loaded
