@@ -32,9 +32,9 @@
   function updateImagesAndLists(clickedimageelem) {
     var clickedimagename = clickedimageelem.id;
     var imagedefaultname = clickedimagename.replace('Clicked', 'Default');
-    var imagedefaultelem = document.getElementById(defaultimagename);
+    var imagedefaultelem = document.getElementById(imagedefaultname);
     var imageclickedname = clickedimagename.replace('Default', 'Clicked')
-    var imageclickedelem = document.getElementById(imagetoshowname);
+    var imageclickedelem = document.getElementById(imageclickedname);
     var hasimagebeenclickedagain = (clickedimagename.indexOf('Clicked') > 0);
     if (hasimagebeenclickedagain) {
       hideImage(imageclickedelem);
