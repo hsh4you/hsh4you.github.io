@@ -1,3 +1,8 @@
+#indexpagetitle {
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
 .userselectioncontainer {
     position: relative;
     display: inline-block;
