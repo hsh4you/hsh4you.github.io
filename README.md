@@ -10,8 +10,8 @@
 
 ## Tasks
 
+- [ ] Verlinkung vorheriger/nächster Jugendklub/Schule/Kita/Beratung mittels: < "Jugendklubname" >
 - [ ] Ubuntu Schrift bei allen Browsern
-- [ ] Auflistung aller Beratungsangebote bei "Weder noch"
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events
@@ -20,6 +20,7 @@
 
 ## Erledigt
 
+- [x] Auflistung aller Beratungsangebote bei keiner Auswahl
 - [x] Auswahl neugierig entfernen und Klickverhalten ändern
 - [x] Scrollbars verstecken
 - [x] Icon erstellen und verwenden
