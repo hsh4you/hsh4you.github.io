@@ -9,19 +9,25 @@
 }
 
 .userselectioncontainer {
-    position: relative;
     display: inline-block;
-    padding-bottom: 17px;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bold;
-    width: 98px;
-    text-align: center;
+    width: 15vw;
+    max-width: 96px;
+    min-width: 76px;
 }
 
 .userselectioncontainer img {
-    width: 64px;
-    height: 64px;
+    width: 60px;
+}
+
+.userselectioncontainer span {
+  white-space: nowrap;
+}
+
+.userselectioncontainer span:hover {
+  color: #00cc00
 }
 
 #imgJugendlicherClicked, #imgElternClicked, #imgNeuClicked, #imgSeniorClicked {

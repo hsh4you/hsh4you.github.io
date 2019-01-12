@@ -23,12 +23,19 @@ table a, table a:link, table a:hover, table a:visited, table a:active {
 }
 
 .page-header {
+  padding: 0.5rem;
+  background-color: #00cc00;
+  background-image: unset;
+}
+
+.main-content {
   padding: 1rem;
-  background-image: linear-gradient(90deg, #00cc00, #00cc00);
 }
 
 .main-content h2 {
   color: #00cc00;
+  margin: 0.5rem 0.5rem;
+  white-space: nowrap;
 }
 
 .project-tagline {
@@ -61,6 +68,7 @@ thead {
 
 .main-content li {
   color: lightgrey;
+  white-space: nowrap;
 }
 
 a, a:link, a:hover, a:active, a:visited {  
