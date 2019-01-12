@@ -29,7 +29,8 @@ table a, table a:link, table a:hover, table a:visited, table a:active {
 }
 
 .main-content {
-  padding: 1rem;
+  padding: 1rem 0.5rem;
+  text-align: center;
 }
 
 .main-content h2 {
@@ -45,10 +46,6 @@ table a, table a:link, table a:hover, table a:visited, table a:active {
 
 thead {
   visibility: collapse;
-}
-
-.main-content {
-  text-align: center;
 }
 
 .main-content table {
