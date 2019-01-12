@@ -3,6 +3,11 @@
     padding-right: 22px;
 }
 
+.imgcontainer img {
+    width: 600px;
+    padding-bottom: 1.1vw;
+}
+
 .userselectioncontainer {
     position: relative;
     display: inline-block;

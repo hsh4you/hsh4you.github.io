@@ -15,4 +15,6 @@
 
 ## Fotos/Videos
 
-<a target="_blank" href="https://www.youtube.com/watch?v=xLhWAbKMOsA"><img src="images/JFE_Fullhouse/fullhouse.png" width="600px" /></a>
+<div class="imgcontainer">
+  <a target="_blank" href="https://www.youtube.com/watch?v=xLhWAbKMOsA"><img src="images/JFE_Fullhouse/fullhouse.png" /></a>
+</div>

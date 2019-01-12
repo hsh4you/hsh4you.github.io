@@ -15,7 +15,9 @@
 
 ## Fotos
 
-<img src="images/JFE_Trialog/1.jpg" width="600px" />
-<img src="images/JFE_Trialog/2.jpg" width="600px" />
-<img src="images/JFE_Trialog/3.jpg" width="600px" />
-<img src="images/JFE_Trialog/4.jpg" />
+<div class="imgcontainer">
+  <img src="images/JFE_Trialog/1.jpg" />
+  <img src="images/JFE_Trialog/2.jpg" />
+  <img src="images/JFE_Trialog/3.jpg" />
+  <img src="images/JFE_Trialog/4.jpg" />
+</div>

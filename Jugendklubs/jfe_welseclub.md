@@ -15,6 +15,8 @@
 
 ## Fotos
 
-<img src="images/JFE_Welseclub/welseclub.jpg" width="600px" />
-<img src="images/JFE_Welseclub/wc36-eingang.JPG" width="600px" />
-<img src="images/JFE_Welseclub/wc36-seite.jpg" width="600px" />
+<div class="imgcontainer">
+  <img src="images/JFE_Welseclub/welseclub.jpg" />
+  <img src="images/JFE_Welseclub/wc36-eingang.JPG" />
+  <img src="images/JFE_Welseclub/wc36-seite.jpg" />
+</div>

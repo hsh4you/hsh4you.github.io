@@ -15,11 +15,13 @@
 
 ## Fotos
 
-<img src="images/SPIK_JK/1.jpg" width="600px" />
-<img src="images/SPIK_JK/2.jpg" width="600px" />
-<img src="images/SPIK_JK/3.jpg" width="600px" />
-<img src="images/SPIK_JK/4.jpg" width="600px" />
-<img src="images/SPIK_JK/5.jpg" width="600px" />
-<img src="images/SPIK_JK/6.jpg" width="600px" />
-<img src="images/SPIK_JK/7.jpg" width="600px" />
-<img src="images/SPIK_JK/8.jpg" width="600px" />
+<div class="imgcontainer">
+  <img src="images/SPIK_JK/1.jpg" />
+  <img src="images/SPIK_JK/3.jpg" />
+  <img src="images/SPIK_JK/2.jpg" />
+  <img src="images/SPIK_JK/4.jpg" />
+  <img src="images/SPIK_JK/5.jpg" />
+  <img src="images/SPIK_JK/6.jpg" />
+  <img src="images/SPIK_JK/7.jpg" />
+  <img src="images/SPIK_JK/8.jpg" />
+</div>

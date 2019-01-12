@@ -15,5 +15,7 @@
 
 ## Fotos
 
-<img src="images/Schulstation_FMS/1.jpg" width="600" />
-<img src="images/Schulstation_FMS/2.jpg" width="600" />
+<div class="imgcontainer">
+  <img src="images/Schulstation_FMS/1.jpg" />
+  <img src="images/Schulstation_FMS/2.jpg" />
+</div>

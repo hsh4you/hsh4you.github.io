@@ -15,4 +15,6 @@
 
 ## Fotos
 
-<img src="images/berliner_jungs.png" width="600" />
+<div class="imgcontainer">
+  <img src="images/berliner_jungs.png" />
+</div>
