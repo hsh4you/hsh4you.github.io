@@ -8,14 +8,18 @@
     padding-bottom: 1.1vw;
 }
 
+#spannowrap {
+    white-space: nowrap;
+}
+
 .userselectioncontainer {
     display: inline-block;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bold;
     width: 15vw;
     max-width: 96px;
-    min-width: 76px;
+    min-width: 70px;
 }
 
 .userselectioncontainer img {

@@ -2,18 +2,20 @@
 
 <script type="text/javascript"> window.onload = function() { document.title = "Hsh4You"; } </script>
 
-<label class="userselectioncontainer">
-  <img onclick="updateImagesAndLists(this)" id="imgJugendlicherDefault" src="images/startpage/Jugendlicher.png"><img onclick="updateImagesAndLists(this)" id="imgJugendlicherClicked" src="images/startpage/Jugendlicher_selected.png"><br><span>Jugendlich</span>
-</label>
-<label class="userselectioncontainer">
-  <img onclick="updateImagesAndLists(this)" id="imgElternDefault" src="images/startpage/Eltern.png"><img onclick="updateImagesAndLists(this)" id="imgElternClicked" src="images/startpage/Eltern_selected.png"><br><span>Mama/Papa</span>
-</label>
-<label class="userselectioncontainer">
-  <img onclick="updateImagesAndLists(this)" id="imgNeuDefault" src="images/startpage/Neu_in_Hsh.png"><img onclick="updateImagesAndLists(this)" id="imgNeuClicked" src="images/startpage/Neu_in_Hsh_selected.png"><br><span>Neu in Hsh</span>
-</label>
-<label class="userselectioncontainer">
-  <img onclick="updateImagesAndLists(this)" id="imgSeniorDefault" src="images/startpage/Senior.png"><img onclick="updateImagesAndLists(this)" id="imgSeniorClicked" src="images/startpage/Senior_selected.png"><br><span>Senior/in</span>
-</label>
+<span id="spannowrap">
+  <label class="userselectioncontainer">
+    <img onclick="updateImagesAndLists(this)" id="imgJugendlicherDefault" src="images/startpage/Jugendlicher.png"><img onclick="updateImagesAndLists(this)" id="imgJugendlicherClicked" src="images/startpage/Jugendlicher_selected.png"><br><span>Jugendlich</span>
+  </label>
+  <label class="userselectioncontainer">
+    <img onclick="updateImagesAndLists(this)" id="imgElternDefault" src="images/startpage/Eltern.png"><img onclick="updateImagesAndLists(this)" id="imgElternClicked" src="images/startpage/Eltern_selected.png"><br><span>Mama/Papa</span>
+  </label>
+  <label class="userselectioncontainer">
+    <img onclick="updateImagesAndLists(this)" id="imgNeuDefault" src="images/startpage/Neu_in_Hsh.png"><img onclick="updateImagesAndLists(this)" id="imgNeuClicked" src="images/startpage/Neu_in_Hsh_selected.png"><br><span>Neu in Hsh</span>
+  </label>
+  <label class="userselectioncontainer">
+    <img onclick="updateImagesAndLists(this)" id="imgSeniorDefault" src="images/startpage/Senior.png"><img onclick="updateImagesAndLists(this)" id="imgSeniorClicked" src="images/startpage/Senior_selected.png"><br><span>Senior/in</span>
+  </label>
+</span>
 
 ## Du suchst
 <div id="listStartpage"></div>
