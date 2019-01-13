@@ -10,7 +10,6 @@
 
 ## Tasks
 
-- [ ] Verlinkung vorheriger/nächster Jugendklub/Schule/Kita/Beratung mittels: < "Jugendklubname" >
 - [ ] Ubuntu Schrift bei allen Browsern
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [ ] Suchfunktionalität
@@ -20,6 +19,7 @@
 
 ## Erledigt
 
+- [x] Einbettung Youtube-Videos / Abspielbar in WebApp
 - [x] Auflistung aller Beratungsangebote bei keiner Auswahl
 - [x] Auswahl neugierig entfernen und Klickverhalten ändern
 - [x] Scrollbars verstecken
@@ -38,7 +38,7 @@
 ## Wünsche
 
 - Mehrsprachigkeit
-- Einbettung Youtube-Videos / Abspielbar in WebApp
+- Verlinkung vorheriger/nächster Jugendklub/Schule/Kita/Beratung mittels: < "Jugendklubname" >
 - Einbettung Social Media Streams bspw. jüngste Instagram Photos/Posts
 - Ehrenamt/Freiwilligenarbeit/Mitmachen bei allen Zielgruppen, sobald Daten verfügbar
 - Kleine Vorschaubilder/Fotos, bei Klick großes Bild/Foto
