@@ -7,7 +7,7 @@
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 400;
-    src: local('Ubuntu'), url({{ '/assets/css/Ubuntu.woff' | relative_url }}) format('woff');
+    src: local('Ubuntu'), url(https://danieldreke.github.io/webapp_hsh/assets/css/Ubuntu.woff) format('woff');
 }
 
 body {
