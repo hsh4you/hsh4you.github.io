@@ -15,11 +15,13 @@
     line-height: 0px;
 }
 
-.imgcontainer img, .imgcontainer iframe {
-    width: 600px;
-    padding-top: 1rem;
+.imgcontainer * {
+    width: 100%;
     max-width: 100%;
 }
+
+@media screen and (min-width: 42em) { .imgcontainer * { padding-top: 2rem; } }
+@media screen and (max-width: 42em) { .imgcontainer * { padding-top: 1rem; } }
 
 .imgcontainer :first-child {
     padding-top: 0px;

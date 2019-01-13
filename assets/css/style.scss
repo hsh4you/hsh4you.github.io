@@ -20,19 +20,20 @@ table a, table a:link, table a:hover, table a:visited, table a:active {
   background-image: unset;
 }
 
-@media screen and (min-width: 64em) { .main-content { max-width: 50rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .main-content { max-width: 50rem; margin: 0 auto; } }
+@media screen and (min-width: 64em) { .main-content { max-width: 50rem; padding: 2rem 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .main-content { max-width: 50rem; margin: 0 auto; padding: 2rem; } }
+@media screen and (max-width: 42em) { .main-content { padding: 1rem; } }
 
 .main-content {
-  padding: 1rem 1rem;
   text-align: center;
 }
 
 .main-content h2 {
   color: #00cc00;
-  margin: 0.5rem 0.5rem;
   white-space: nowrap;
 }
+
+@media screen and (max-width: 42em) { .main-content h2 { margin: 0.5rem 0.5rem; } }
 
 .project-tagline {
   margin-bottom: 0rem;
