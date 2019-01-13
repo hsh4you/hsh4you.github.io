@@ -11,9 +11,13 @@
     max-height: 53vw;
 }
 
-.imgcontainer img iframe {
+.imgcontainer {
+    line-height: 0px;
+}
+
+.imgcontainer img, iframe {
     width: 600px;
-    padding-top: 1.1vw;
+    padding-top: 1rem;
     max-width: 100%;
 }
 
