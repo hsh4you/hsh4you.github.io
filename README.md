@@ -10,7 +10,6 @@
 
 ## Tasks
 
-- [ ] Ubuntu Schrift bei allen Browsern
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events
@@ -19,6 +18,7 @@
 
 ## Erledigt
 
+- [x] Ubuntu Schrift bei allen Browsern
 - [x] Einbettung Youtube-Videos / Abspielbar in WebApp
 - [x] Auflistung aller Beratungsangebote bei keiner Auswahl
 - [x] Auswahl neugierig entfernen und Klickverhalten ändern
