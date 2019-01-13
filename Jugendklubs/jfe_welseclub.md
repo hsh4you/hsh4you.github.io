@@ -15,7 +15,7 @@
 
 ## Fotos
 
-<div class="imgcontainer">
+<div class="mediacontainer">
   <img src="images/JFE_Welseclub/welseclub.jpg" />
   <img src="images/JFE_Welseclub/wc36-eingang.JPG" />
   <img src="images/JFE_Welseclub/wc36-seite.jpg" />

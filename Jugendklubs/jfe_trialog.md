@@ -15,7 +15,7 @@
 
 ## Fotos
 
-<div class="imgcontainer">
+<div class="mediacontainer">
   <img src="images/JFE_Trialog/1.jpg" />
   <img src="images/JFE_Trialog/2.jpg" />
   <img src="images/JFE_Trialog/3.jpg" />

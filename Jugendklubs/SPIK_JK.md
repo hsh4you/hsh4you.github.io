@@ -15,7 +15,7 @@
 
 ## Fotos
 
-<div class="imgcontainer">
+<div class="mediacontainer">
   <img src="images/SPIK_JK/1.jpg" />
   <img src="images/SPIK_JK/3.jpg" />
   <img src="images/SPIK_JK/2.jpg" />

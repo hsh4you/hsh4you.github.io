@@ -15,6 +15,6 @@
 
 ## Fotos
 
-<div class="imgcontainer">
+<div class="mediacontainer">
   <img src="images/berliner_jungs.png" />
 </div>

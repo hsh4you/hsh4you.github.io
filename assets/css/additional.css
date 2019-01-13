@@ -3,11 +3,11 @@
     padding-right: 22px;
 }
 
-.imgcontainer {
+.mediacontainer {
     line-height: 0px;
 }
 
-.imgcontainer * {
+.mediacontainer * {
     width: 100%;
 }
 
@@ -28,14 +28,14 @@
     max-height: 100%;
 }
 
-@media screen and (min-width: 42em) { .imgcontainer * { padding-top: 2rem; } }
-@media screen and (max-width: 42em) { .imgcontainer * { padding-top: 1rem; } }
+@media screen and (min-width: 42em) { .mediacontainer * { padding-top: 2rem; } }
+@media screen and (max-width: 42em) { .mediacontainer * { padding-top: 1rem; } }
 
-.imgcontainer :first-child {
+.mediacontainer :first-child {
     padding-top: 0px;
 }
 
-@media screen and (min-width: 64em) { .imgcontainer  { margin-bottom: 1rem; } }
+@media screen and (min-width: 64em) { .mediacontainer  { margin-bottom: 1rem; } }
 
 #spannowrap {
     white-space: nowrap;

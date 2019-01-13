@@ -15,7 +15,7 @@
 
 ## Fotos
 
-<div class="imgcontainer">
+<div class="mediacontainer">
   <img src="images/Schulstation_FMS/1.jpg" />
   <img src="images/Schulstation_FMS/2.jpg" />
 </div>
