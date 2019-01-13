@@ -10,6 +10,7 @@
 .mediacontainer * {
     display: block;
     max-height: 98vh;
+    margin: auto;
 }
 
 /* source: https://fettblog.eu/blog/2013/06/16/preserving-aspect-ratio-for-embedded-iframes/ */
