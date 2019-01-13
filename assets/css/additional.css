@@ -15,7 +15,7 @@
     line-height: 0px;
 }
 
-.imgcontainer img, iframe {
+.imgcontainer img, .imgcontainer iframe {
     width: 600px;
     padding-top: 1rem;
     max-width: 100%;
