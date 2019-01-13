@@ -3,13 +3,6 @@
 
 @import "{{ site.theme }}";
 
-@font-face {
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 400;
-    src: url('https://danieldreke.github.io/webapp_hsh/assets/css/Ubuntu.woff') format('woff');
-}
-
 body {
   font-family: Ubuntu, Open Sans, sans-serif;
   color: #777777;
