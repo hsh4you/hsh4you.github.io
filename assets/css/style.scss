@@ -3,14 +3,6 @@
 
 @import "{{ site.theme }}";
 
-html {
-  scrollbar-width: none; /* hide scrollbars in Firefox 64 */
-}
-
-::-webkit-scrollbar { 
-    display: none; /* hide scrollbars in Chrome and Safari */
-}
-
 body {
   font-family: Ubuntu, Open Sans, sans-serif;
   color: #777777;
