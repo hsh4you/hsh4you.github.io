@@ -15,12 +15,24 @@
 .userselectioncontainer {
     display: inline-block;
     cursor: pointer;
-    font-size: 11px;
     font-weight: bold;
     width: 15vw;
     max-width: 96px;
     min-width: 70px;
+    font-size: 11px;
 }
+
+@media screen and (min-width: 64em) { .userselectioncontainer { font-size: 13px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .userselectioncontainer { font-size: 12px; } }
+@media screen and (max-width: 42em) { .userselectioncontainer { font-size: 11px; } }
+
+@media screen and (min-width: 64em) { h2 { font-size: 32px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { h2 { font-size: 28px; } }
+@media screen and (max-width: 42em) { h2 { font-size: 24px; } }
+
+@media screen and (min-width: 64em) { li { font-size: 18px; line-height: 28px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { li { font-size: 17px; line-height: 26px; } }
+@media screen and (max-width: 42em) { li { font-size: 16px; line-height: 24px; } }
 
 .userselectioncontainer img {
     width: 60px;
