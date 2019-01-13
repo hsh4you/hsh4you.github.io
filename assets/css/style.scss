@@ -22,7 +22,7 @@ table a, table a:link, table a:hover, table a:visited, table a:active {
 
 @media screen and (min-width: 64em) { .main-content { max-width: 50rem; padding: 2rem 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { max-width: 50rem; margin: 0 auto; padding: 2rem; } }
-@media screen and (max-width: 42em) { .main-content { padding: 1rem; } }
+@media screen and (max-width: 42em) { .main-content { padding: 1rem; min-width: 300px; } }
 
 .main-content {
   text-align: center;
