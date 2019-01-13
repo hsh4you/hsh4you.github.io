@@ -16,5 +16,7 @@
 ## Fotos/Videos
 
 <div class="imgcontainer">
-  <iframe class="embeddedyoutubevideo" src="https://www.youtube-nocookie.com/embed/xLhWAbKMOsA" allow="encrypted-media" allowfullscreen></iframe>
+  <div class="iframecontainer">
+    <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube-nocookie.com/embed/xLhWAbKMOsA" allow="encrypted-media" allowfullscreen></iframe>
+  </div>
 </div>
