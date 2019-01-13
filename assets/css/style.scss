@@ -20,6 +20,9 @@ table a, table a:link, table a:hover, table a:visited, table a:active {
   background-image: unset;
 }
 
+@media screen and (min-width: 64em) { .main-content { max-width: 50rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .main-content { max-width: 50rem; margin: 0 auto; } }
+
 .main-content {
   padding: 1rem 1rem;
   text-align: center;
