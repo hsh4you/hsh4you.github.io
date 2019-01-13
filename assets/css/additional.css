@@ -3,9 +3,22 @@
     padding-right: 22px;
 }
 
-.imgcontainer img {
+.embeddedyoutubevideo {
+    border: 0px;
     width: 600px;
-    padding-bottom: 1.1vw;
+    height: 337.5px;
+    max-width: 100%;
+    max-height: 53vw;
+}
+
+.imgcontainer img iframe {
+    width: 600px;
+    padding-top: 1.1vw;
+    max-width: 100%;
+}
+
+.imgcontainer :first-child {
+    padding-top: 0px;
 }
 
 #spannowrap {

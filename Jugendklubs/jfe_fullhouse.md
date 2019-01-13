@@ -16,5 +16,5 @@
 ## Fotos/Videos
 
 <div class="imgcontainer">
-  <a target="_blank" href="https://www.youtube.com/watch?v=xLhWAbKMOsA"><img src="images/JFE_Fullhouse/fullhouse.png" /></a>
+  <iframe class="embeddedyoutubevideo" src="https://www.youtube-nocookie.com/embed/xLhWAbKMOsA" allow="encrypted-media" allowfullscreen></iframe>
 </div>
