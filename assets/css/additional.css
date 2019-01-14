@@ -126,12 +126,11 @@
 .main-content pre {
     font-family: Ubuntu Mono, monospace;
     margin-bottom: 0px;
-    color: white;
-    font-size: 1.1rem;
-    background-color: #00cb0070;
+    color: #777777;
+    font-size: 1.0rem;
+    background-color: #00000007;
     border: solid 2px lightgrey;
     border-radius: 0.5rem;
-    font-weight: bold;
 }
 
 .weeklyschedule {
