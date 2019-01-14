@@ -138,3 +138,9 @@
     display: inline-block; 
     width: 15.8rem;
 }
+
+#activities { 
+    max-width: 80%; 
+    display: inline-block;
+    margin: auto;
+}

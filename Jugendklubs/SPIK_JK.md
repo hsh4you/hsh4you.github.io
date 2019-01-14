@@ -1,9 +1,11 @@
 ## SPIK Jugendklub
-<div id="gmap"></div>
+<p><div id="gmap"></div></p>
 <script>window.onload = showMap('Am Berl 15, 13051 Berlin', 0, 'gmap_mini')</script>
-<a class="activelink" target="_blank" href="http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/">Webseite</a><br>
-Mo-Fr 14-20 Uhr<br>
-Am Berl 15, 13051 Berlin<br>
+<p>
+  <a class="activelink" target="_blank" href="http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/">Webseite</a><br>
+  Am Berl 15, 13051 Berlin<br>
+  Mo-Fr 14-20 Uhr<br>
+</p>
 
 ## Kontakt
 [jfe@spikev.de](mailto:jfe@spikev.de)<br>
@@ -21,7 +23,9 @@ Am Berl 15, 13051 Berlin<br>
 </p>
 
 ## Aktivitäten
+<p id="activities">
 Kochen, Graffiti, Bandraum, Musik, Kunst, Keramik, Zeichnen, Aikido, Tanzen, Sport (Tischtennis, Fußball, Basketball, Frisbee), Billard, Kicker, Jonglieren, Garten mit Hängematten, Holzwerkstatt, Gesellschaftsspiele, PC-Ecke, Hausaufgabenhilfe, Beratung, Ferienangebote, Ausflüge, Übernachtungen, Lagerfeuer, Grillen, Chillen, Interkulturelles
+</p>
 
 ## Zielgruppe
 Jugendliche 10-21 Jahre<br>
