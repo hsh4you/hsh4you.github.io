@@ -93,6 +93,5 @@
     width: 100%;
 }
 
-@media screen and (min-width: 64em) { .gmap_iframe { height: 82vmin; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .gmap_iframe { height: 94vmin; } }
+@media screen and (min-width: 42em) { .gmap_iframe { height: 82vmin; } }
 @media screen and (max-width: 42em) { .gmap_iframe { height: 88vmin; } }
