@@ -9,7 +9,7 @@
 
 .mediacontainer * {
     display: block;
-    max-height: 98vh;
+    max-height: 98vmin;
     margin: auto;
 }
 
@@ -91,6 +91,13 @@
 
 .gmap_iframe {
     width: 100%;
+}
+.gmap_iframe {
+    width: 100%;
     height: 92vh;
     max-height: 98vw;
 }
+
+@media screen and (min-width: 64em) { .gmap_iframe { height: 82vmin; } }
+@media screen and (max-width: 64em) and (max-width: 64em) { .gmap_iframe { height: 92vmin; } }
+@media screen and (max-width: 42em) { .gmap_iframe { height: 88vmin; } }
