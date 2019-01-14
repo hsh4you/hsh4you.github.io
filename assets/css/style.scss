@@ -40,15 +40,21 @@ table a, table a:link, table a:hover, table a:visited, table a:active {
   visibility: collapse;
 }
 
-thead {
+.main-content table thead {
   visibility: collapse;
+  display: none;
+}
+
+.main-content table th {
+  padding: 0px;
+  border: 0px;
 }
 
 .main-content table {
   display: inline;
 }
 
-.main-content table th, .main-content table td {
+.main-content table td {
     padding: 0.2rem 0.3rem;
     border: 0px;
     vertical-align: top;
