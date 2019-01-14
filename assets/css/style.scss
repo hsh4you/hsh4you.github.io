@@ -8,12 +8,6 @@ body {
   color: #777777;
 }
 
-table a, table a:link, table a:hover, table a:visited, table a:active {
-  text-decoration: none;
-  cursor: pointer;
-  color: #00cc00;
-}
-
 .page-header {
   padding: 0.5rem;
   background-color: #00cc00;
@@ -81,4 +75,9 @@ a, a:link, a:visited {
 
 a:hover, a:active {
   color: #00cc00
+}
+
+table a, table a:link, table a:hover, table a:visited, table a:active {
+  cursor: pointer;
+  color: #00cc00;
 }

@@ -13,15 +13,19 @@ function findAddress() {
 };
 
 // source: https://www.embedgooglemap.net/
-function showMap(address = '') {
+function showMap(address = '', showheader=1, id='') {
   if (address.length == 0) { address = findAddress(); }
   if (address.length == 0) { return };
   var zoomfactor = 14;
   var htmlcode = '';
-  htmlcode += '\n<h2>Karte</h2>';
-  htmlcode += '\n<iframe class="gmap_iframe" src="https://maps.google.com/maps';
+  if (showheader == 1) {
+    htmlcode += '\n<h2>Karte</h2>'; 
+  }
+  htmlcode += '\n<iframe ';
+  htmlcode += (id.length > 0) ? 'id="' + id + '" ' : '';
+  htmlcode += 'class="gmap_iframe" src="https://maps.google.com/maps';
   htmlcode += '?q=' + address;
   htmlcode += '&z=' + zoomfactor;
   htmlcode += '&output=embed" frameborder="0"></iframe>';
-  document.getElementById('gmap').outerHTML = htmlcode;
+  document.getElementById('gmap').innerHTML = htmlcode;
 };

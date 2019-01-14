@@ -1,20 +1,33 @@
 ## SPIK Jugendklub
-
-|||
--:|:-
-**Adresse** |     Am Berl 15, 13051 Berlin
-**Offen** |       Mo–Fr 14–20 Uhr<br>1.+ 3. Sa Sporthalle 13-17 Uhr
-**Alter** |       10–21 Jahre
-**Kontakt** |     [jfe@spikev.de](mailto:jfe@spikev.de)<br><a href="tel:+493092092879">030 9209 2879</a>
-**Social Media** |    <a target="_blank" href="http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/">Webseite</a><br><a target="_blank" href="https://www.facebook.com/spik.ev.3/">Facebook</a><br><a target="_blank" href="https://www.instagram.com/jugendclub.spik/">Instagram</a>
-**Angebote** |    Kochen, Graffiti, Bandraum, Musik, Kunst, Keramik, Zeichnen, Aikido, Tanzen, Sport (Tischtennis, Fußball, Basketball, Frisbee), Billard, Kicker, Jonglieren, Garten mit Hängematten, Holzwerkstatt, Gesellschaftsspiele, PC-Ecke, Hausaufgabenhilfe, Beratung, Ferienangebote, Ausflüge, Übernachtungen, Lagerfeuer, Grillen, Chillen, Interkulturelles
-**Institution** | Sozialpädagogische Arbeit im Kiez (SPIK) e.V.
-
 <div id="gmap"></div>
-<script>window.onload = showMap()</script>
+<script>window.onload = showMap('Am Berl 15, 13051 Berlin', 0, 'gmap_mini')</script>
+<a class="activelink" target="_blank" href="http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/">SPIK Jugendklub Webseite</a><br>
+Mo-Fr 14-20 Uhr<br>
+Am Berl 15, 13051 Berlin<br>
 
-## Fotos
+## Kontakt
+Sozialpädagogische Arbeit im Kiez e.V.<br>
+[jfe@spikev.de](mailto:jfe@spikev.de)<br>
+<a href="tel:+493092092879">030 9209 2879</a><br>
 
+## Wochenplan
+<div style="text-align: left; margin: auto; display: inline-block; font-family: Ubuntu mono">
+Mo 16:00-17:00 Jamsession<br>
+Di 15:00-18:00 Kunstatelier<br>
+Mi 16:00-18:00 Snack & Speak<br>
+Fr 15:00-18:00 Kochen<br>
+Sa 13:00-17:00 Hallensport<br></div>
+
+## Aktivitäten
+Kochen, Graffiti, Bandraum, Musik, Kunst, Keramik, Zeichnen, Aikido, Tanzen, Sport (Tischtennis, Fußball, Basketball, Frisbee), Billard, Kicker, Jonglieren, Garten mit Hängematten, Holzwerkstatt, Gesellschaftsspiele, PC-Ecke, Hausaufgabenhilfe, Beratung, Ferienangebote, Ausflüge, Übernachtungen, Lagerfeuer, Grillen, Chillen, Interkulturelles
+
+## Zielgruppe
+Jugendliche 10–21 Jahre<br>
+
+## Social Media
+<a target="_blank" href="https://www.facebook.com/spik.ev.3/">Facebook</a><br><a target="_blank" href="https://www.instagram.com/jugendclub.spik/">Instagram</a>
+
+## Eindrücke
 <div class="mediacontainer">
   <img src="images/SPIK_JK/4.jpg" />
   <img src="images/SPIK_JK/1.jpg" />
