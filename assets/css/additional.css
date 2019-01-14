@@ -91,5 +91,6 @@
 
 .gmap_iframe {
     width: 100%;
-    height: 92vmin;
 }
+
+@media screen and (max-width: 64em) { .gmap_iframe { height: 92vmin; } }
