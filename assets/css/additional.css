@@ -1,6 +1,6 @@
 #indexpagetitle {
-    padding-left: 22px;
-    padding-right: 22px;
+    margin-left: 22px;
+    margin-right: 22px;
 }
 
 .mediacontainer {
@@ -10,6 +10,8 @@
 .mediacontainer * {
     display: block;
     margin: auto;
+    border-radius: 0.5rem;
+    border: 2px solid darkgrey;
 }
 
 @media screen and (min-width: 42em) { .mediacontainer * { max-height: 98vmin; } }
@@ -31,11 +33,11 @@
     max-height: 100%;
 }
 
-@media screen and (min-width: 42em) { .mediacontainer * { padding-top: 2rem; } }
-@media screen and (max-width: 42em) { .mediacontainer * { padding-top: 1rem; } }
+@media screen and (min-width: 42em) { .mediacontainer * { margin-top: 2rem; } }
+@media screen and (max-width: 42em) { .mediacontainer * { margin-top: 1rem; } }
 
 .mediacontainer :first-child {
-    padding-top: 0px;
+    margin-top: 0px;
 }
 
 @media screen and (min-width: 64em) { .mediacontainer  { margin-bottom: 1rem; } }
@@ -107,6 +109,7 @@
     overflow: hidden;
     border: 2px solid lightgrey;
     margin: auto;
+    border-radius: 0.5rem;
 }
 
 #gmap_mini {
@@ -118,4 +121,20 @@
 
 .activelink, .activelink:link, .activelink:hover, .activelink:active, .activelink:visited {  
   color: #00cc00;
+}
+
+.main-content pre {
+    font-family: Ubuntu Mono, monospace;
+    margin-bottom: 0px;
+    color: white;
+    font-size: 1.1rem;
+    background-color: #00cb0070;
+    border: solid 2px lightgrey;
+    border-radius: 0.5rem;
+    font-weight: bold;
+}
+
+.weeklyschedule {
+    text-align: left;
+    display: inline-block; 
 }
