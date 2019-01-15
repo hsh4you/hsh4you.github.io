@@ -14,10 +14,11 @@
 ## Wochenplan
 <p>
 <pre class="weeklyschedule">
-  Mo  16-17  Jamsession
-  Di  15-18  Kunstatelier
-  Mi  16-18  Snack & Speak
-  Fr  15-18  Kochen
+  Mo  15-17  Bandraum
+  Di  15-17  Kunst & Werken
+  Mi  15-18  Graffiti, 1x mtl. Klubrat
+  Do  15-17  Fitness/Jin-Jitsu, 1x mtl. Filmabend
+  Fr  14-20  PC-Tag & Kochen 
   Sa  13-17  Hallensport
 </pre>
 </p>
