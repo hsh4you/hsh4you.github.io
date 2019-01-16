@@ -6,6 +6,7 @@
 - [Kinderclub Kietzoase](Kinderclub_Kietzoase.md)
 - [Kontaktladen VIP](Kontaktladen_VIP.md)
 - [Mikado](Mikado.md)
+- [Mädchenzentrum Pia Olymp](Pia_Olymp.md)
 - [SPIK JK](SPIK_JK.md)
 - [Trialog](jfe_trialog.md)
 - [Welseclub](jfe_welseclub.md)
