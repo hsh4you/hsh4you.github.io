@@ -6,7 +6,7 @@
 **Offen** |       Mo–Fr 13–20 Uhr
 **Alter** |       12–21 Jahre
 **Kontakt** |     [mikado@kietzfuerkids.de](mailto:mikado@kietzfuerkids.de)<br><a href="tel:+493086459276">030 8645 9276</a>
-**Webseite** |    <a target="_blank" href="https://kietzfuerkids.de/mikado/">kietzfuerkids.de/mikado/</a>
+**Webseite** |    <a target="_blank" href="https://kietzfuerkids.de/mikado/">kietzfuerkids.de/mikado/</a><br><a target="_blank" href="https://www.facebook.com/jugendclub.mikado</a>
 **Angebote** |    Kreativangebote z.B. Airbrush, Graffiti  u. Siebdruck / Airbrush, Gärtnern im Garten, ernährungsbewusstes Kochen & Backen, Klavierstunden & Musizieren im Tonstudio, Tanzgruppen, Tischtennis, Basketball, Billiard, Kickern, Chillen, Dart, Trampolinspringen, Holzbrandmalerei, Playstation 3, Kinoabende, Bewerbungstraining, Hausaufgabenhilfe / Hausaufgabenbetreuung, Hilfestellungen bei Alltagsproblemen jeglicher Art, Fahrrad- & Holzwerkstatt, Gesellschafts- & Rollenspiele, Ausflüge, Ferienfahrten
 **Institution** | <a target="_blank" href="https://kietzfuerkids.de/">Kietz für Kids</a>
 
