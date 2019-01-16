@@ -2,6 +2,7 @@
 
 - [ASP Fort Robinson](ASP_Fort_Robinson.md)
 - [Full House](jfe_fullhouse.md)
+- [JFE JUMP](JUMP.md)
 - [Kinder- & Jugendclub Holzwurmhaus](Holzwurmhaus.md)
 - [Kinderclub Kietzoase](Kinderclub_Kietzoase.md)
 - [Kontaktladen VIP](Kontaktladen_VIP.md)
