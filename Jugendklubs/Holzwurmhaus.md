@@ -1,14 +1,14 @@
-## Kinder- & Jugendclub Holzwurmhaus
+## JFE „LEO’S HÜTTE“
 
 |||
 -:|:-
-**Adresse** |     Falkenberger Chaussee 141, 13059 Berlin 
+**Adresse** |     Grevesmühlener Str. 43, 13059 Berlin
 **Offen** |       Di-Do 14-20 Uhr, Fr & Sa 13-20 Uhr
-**Alter** |       8-18 Jahre
-**Kontakt** |     [Holzwurmhaus@sozdia.de](mailto:mikado@kietzfuerkids.deHolzwurmhaus@sozdia.de)<br><a href="tel:+493096201977">030 9620 1977</a>
-**Website** |    <a target="_blank" href="http://www.sozdia.de/Wir-ueber-uns.1751.0.html">Website</a><br><a target="_blank" href="https://www.facebook.com/j.mann.lindner">Facebook</a>
-**Angebote** |    Billiard, Kicker, Dart, Airhockey, im Sommer: Pool, kleines Fußball-& Volleyballfeld, Hüttenbau, Kochangebote usw.
-**Institution** | Sozialdiakonische Arbeit Berlin GmbH
+**Alter** |       6-18 Jahre
+**Kontakt** |     [info@leos.libg-jugend.de](mailto:info@leos.libg-jugend.de)
+**Website** |    <a target="_blank" href="http://leos-huette.de/">Website</a>
+**Angebote** |    Sport (Volleyball, Fußball, Basketball, Kreativangebote, Graffiti, Yoga, Breakdance, Zumba, Schreibwerkstatt, digitale Medien, Gartenprojekt, Partizipationprojekte, Hausaufgabenhilfe 
+**Institution** | Bezirksamt Lichtenberg
 
 
 
