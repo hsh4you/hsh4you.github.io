@@ -15,8 +15,8 @@
 }
 
 @media screen and (min-width: 64em) { .mediacontainer * { max-height: 92vmin; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .mediacontainer * { width: 100%; max-height: 92vmin; } }
-@media screen and (max-width: 42em) { .mediacontainer * { width: 100%; max-height: 92vmin; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .mediacontainer * { max-height: 92vmin; } }
+@media screen and (max-width: 42em) { .mediacontainer * { max-height: 92vmin; } }
 
 /* source: https://fettblog.eu/blog/2013/06/16/preserving-aspect-ratio-for-embedded-iframes/ */
 .iframecontainer {
@@ -148,3 +148,7 @@
     display: inline-block;
     margin: auto;
 }
+
+@media screen and (min-width: 42em) { #topmedia { width: 444px; } }
+@media screen and (max-width: 42em) { #topmedia { width: 60vmin; min-width: 70%; } }
+@media screen and (max-width: 21em) { #topmedia { width: 60vmin; min-width: 90%; } }
