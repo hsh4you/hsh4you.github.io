@@ -17799,3 +17799,10 @@
 </script>
 
 <div id='calendar'></div>
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    document.getElementsByClassName('fc-scroller')[0].style.overflow = 'unset';
+  });
+</script>

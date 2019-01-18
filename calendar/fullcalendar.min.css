@@ -1084,7 +1084,7 @@ a.fc-more:hover {
 }
 
 .fc-list-view {
-    border-width: 1px;
+    border-width: 0px;
     border-style: solid
 }
 
