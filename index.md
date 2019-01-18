@@ -64,4 +64,5 @@
   document.addEventListener("DOMContentLoaded", function(event) { 
     formatLists();
   });
+  document.body.style.overflow = 'hidden';
 </script>
