@@ -1,0 +1,154 @@
+#indexpagetitle {
+    margin-left: 33px;
+    margin-right: 33px;
+}
+
+.mediacontainer {
+    line-height: 0px;
+}
+
+.mediacontainer * {
+    display: block;
+    margin: auto;
+    border-radius: 0.5rem;
+    border: 2px solid darkgrey;
+}
+
+@media screen and (min-width: 64em) { .mediacontainer * { max-height: 92vmin; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .mediacontainer * { max-height: 92vmin; } }
+@media screen and (max-width: 42em) { .mediacontainer * { max-height: 92vmin; } }
+
+/* source: https://fettblog.eu/blog/2013/06/16/preserving-aspect-ratio-for-embedded-iframes/ */
+.iframecontainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.iframecontainer iframe {
+    border: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+@media screen and (min-width: 42em) { .mediacontainer * { margin-top: 2rem; } }
+@media screen and (max-width: 42em) { .mediacontainer * { margin-top: 1rem; } }
+
+.mediacontainer :first-child {
+    margin-top: 0px;
+}
+
+@media screen and (min-width: 64em) { .mediacontainer  { margin-bottom: 1rem; } }
+
+#spannowrap {
+    white-space: nowrap;
+}
+
+.userselectioncontainer {
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bold;
+    width: 15vw;
+    max-width: 96px;
+    min-width: 70px;
+    font-size: 11px;
+}
+
+@media screen and (min-width: 64em) { .userselectioncontainer { font-size: 13px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .userselectioncontainer { font-size: 12px; } }
+@media screen and (max-width: 42em) { .userselectioncontainer { font-size: 11px; } }
+
+@media screen and (min-width: 64em) { h2 { font-size: 32px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { h2 { font-size: 28px; } }
+@media screen and (max-width: 42em) { h2 { font-size: 24px; } }
+
+@media screen and (min-width: 64em) { li { font-size: 18px; line-height: 28px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { li { font-size: 17px; line-height: 26px; } }
+@media screen and (max-width: 42em) { li { font-size: 16px; line-height: 24px; } }
+
+.userselectioncontainer img {
+    width: 60px;
+}
+
+.userselectioncontainer span {
+  white-space: nowrap;
+}
+
+.userselectioncontainer span:hover {
+  color: #00cc00
+}
+
+#imgJugendlicherClicked, #imgElternClicked, #imgNeuClicked, #imgSeniorClicked {
+    display: none;
+}
+
+.displaynone {
+    display: none;
+}
+
+.whitelink:link, .whitelink:visited, .whitelink:link:active, .whitelink:visited:active {
+  color: #ffffff;
+}
+
+.gmap_iframe {
+    width: 100%;
+}
+
+@media screen and (min-width: 64em) { .gmap_iframe { height: 82vmin; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .gmap_iframe { height: 92vmin; } }
+@media screen and (max-width: 42em) { .gmap_iframe { height: 90vmin; } }
+
+#gmap {
+    resize: both;
+    overflow: hidden;
+    border: 2px solid lightgrey;
+    margin: auto;
+    border-radius: 0.5rem;
+}
+
+@media screen and (min-width: 64em) { #gmap { width: 500px; height: 250px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { #gmap { width: 100%; height: 96vmin; } }
+@media screen and (max-width: 42em) { #gmap { height: 92vmin; } }
+
+#gmap_mini {
+    width: 100vw;
+    height: 100vh;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.activelink, .activelink:link, .activelink:hover, .activelink:active, .activelink:visited {  
+  color: #00cc00;
+}
+
+.main-content pre {
+    font-family: Ubuntu Mono, monospace;
+    margin-bottom: 0px;
+    color: #777777;
+    background-color: #00000007;
+    border: solid 2px lightgrey;
+    border-radius: 0.5rem;
+}
+
+#weeklyschedule {
+    text-align: left;
+    display: inline-block;
+    padding: 0.6rem 0.9rem;
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 42em) { #weeklyschedule { font-size: 0.9rem; } }
+
+#activities { 
+    max-width: 80%; 
+    display: inline-block;
+    margin: auto;
+}
+
+@media screen and (min-width: 42em) { #topmedia { width: 555px; } }
+@media screen and (max-width: 42em) { #topmedia { width: 444px; } }
+@media screen and (max-width: 21em) { #topmedia { width: 333px; } }

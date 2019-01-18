@@ -3,38 +3,81 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-  padding: 1rem;
-  background-image: linear-gradient(90deg, #0ebb00, #248000);
+body {
+  font-family: Ubuntu, Open Sans, sans-serif;
+  color: #777777;
 }
 
-.whitelink:link, .whitelink:visited, .whitelink:link:active, .whitelink:visited:active {
-  color: #ffffff;
-  text-decoration: none;
-  cursor: pointer;
+.page-header {
+  padding: 0.5rem;
+  background-color: #00cc00;
+  background-image: unset;
 }
+
+@media screen and (min-width: 64em) { .main-content { max-width: 50rem; padding: 2rem 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .main-content { max-width: 50rem; margin: 0 auto; padding: 2rem; } }
+@media screen and (max-width: 42em) { .main-content { padding: 1rem; min-width: 300px; } }
+
+.main-content {
+  text-align: center;
+}
+
+.main-content h2 {
+  color: #00cc00;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 42em) { .main-content h2 { margin: 0.5rem 0.5rem; } }
 
 .project-tagline {
   margin-bottom: 0rem;
   visibility: collapse;
 }
 
-thead {
+.main-content table thead {
   visibility: collapse;
+  display: none;
+}
+
+.main-content table th {
+  padding: 0px;
+  border: 0px;
 }
 
 .main-content table {
   display: inline;
 }
 
-.main-content table th, .main-content table td {
+.main-content table td {
     padding: 0.2rem 0.3rem;
     border: 0px;
     vertical-align: top;
 }
 
-.gmap_iframe {
-    width: 100%;
-    height: 92vh;
-    max-height: 98vw;
+.main-content ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.main-content li {
+  color: lightgrey;
+  white-space: nowrap;
+}
+
+a, a:link, a:hover, a:active, a:visited {  
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a, a:link, a:visited {
+  color: #777777
+}
+
+a:hover, a:active {
+  color: #00cc00
+}
+
+table a, table a:link, table a:hover, table a:visited, table a:active {
+  cursor: pointer;
+  color: #00cc00;
 }
