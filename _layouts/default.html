@@ -30,6 +30,9 @@
     <style type="text/css">
       html { scrollbar-width: none; /* hide scrollbars in Firefox 64 */ }
       ::-webkit-scrollbar { display: none; /* hide scrollbars in Chrome and Safari */ }
+      #historyback, #historyforward {
+        visibility: hidden;
+      }
     </style>
     {% endif %}
 
@@ -50,7 +53,11 @@
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name"><a class="whitelink" href="javascript:history.back()"><b>&lt;</b></a><a class="whitelink" id="indexpagetitle" href="/{{ site.github.repository_name }}">hsh4you</a><a class="whitelink" href="javascript:history.forward()"><a class="whitelink" href="javascript:history.forward()"><b>&gt;</b></a></h1>
+      <h1 class="project-name">
+          <a class="whitelink" href="javascript:history.back()" id='historyback'><b>&lt;</b></a>
+          <a class="whitelink" id="indexpagetitle" href="/{{ site.github.repository_name }}">hsh4you</a>
+          <a class="whitelink" href="javascript:history.forward()" id='historyforward'><b>&gt;</b></a>
+      </h1>
     </header>
 
     <main id="content" class="main-content" role="main">

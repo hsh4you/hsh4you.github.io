@@ -1,6 +1,5 @@
 #indexpagetitle {
-    margin-left: 33px;
-    margin-right: 33px;
+    margin: auto 22px;
 }
 
 .mediacontainer {
@@ -44,7 +43,7 @@
 
 @media screen and (min-width: 64em) { .mediacontainer  { margin-bottom: 1rem; } }
 
-#spannowrap {
+.nowrap {
     white-space: nowrap;
 }
 
@@ -152,3 +151,14 @@
 @media screen and (min-width: 42em) { #topmedia { width: 555px; } }
 @media screen and (max-width: 42em) { #topmedia { width: 444px; } }
 @media screen and (max-width: 21em) { #topmedia { width: 333px; } }
+
+#historyforward {
+    visibility: hidden;
+}
+
+.inline {
+    display: inline;
+}
+
+#headeractionitem {
+}

@@ -29,6 +29,10 @@ body {
 
 @media screen and (max-width: 42em) { .main-content h2 { margin: 0.5rem 0.5rem; } }
 
+.project-name {
+  white-space: nowrap;
+}
+
 .project-tagline {
   margin-bottom: 0rem;
   visibility: collapse;

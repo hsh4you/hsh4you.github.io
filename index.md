@@ -7,7 +7,7 @@ id: index
 
 <script type="text/javascript"> window.onload = function() { document.title = "hsh4you.de"; } </script>
 
-<span id="spannowrap">
+<span class="nowrap">
   <label class="userselectioncontainer">
     <img onclick="updateImagesAndLists(this)" id="imgJugendlicherDefault" src="images/startpage/Jugendlicher.png"><img onclick="updateImagesAndLists(this)" id="imgJugendlicherClicked" src="images/startpage/Jugendlicher_selected.png"><br><span>Jugendlich</span>
   </label>
