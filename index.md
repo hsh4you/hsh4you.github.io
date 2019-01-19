@@ -1,3 +1,8 @@
+---
+title: hsh4you
+id: index
+---
+
 ## Du bist
 
 <script type="text/javascript"> window.onload = function() { document.title = "hsh4you.de"; } </script>
@@ -64,5 +69,4 @@
   document.addEventListener("DOMContentLoaded", function(event) { 
     formatLists();
   });
-  document.body.style.overflow = 'hidden';
 </script>

@@ -25,6 +25,14 @@
     
     <link rel="stylesheet" href="{{ '/calendar/fullcalendar.min.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <!-- hide scrollbars on index page //-->
+    {% if page.id == 'index' %}
+    <style type="text/css">
+      html { scrollbar-width: none; /* hide scrollbars in Firefox 64 */ }
+      ::-webkit-scrollbar { display: none; /* hide scrollbars in Chrome and Safari */ }
+    </style>
+    {% endif %}
+
     <!-- favicon syntax source: https://www.mozilla.org //-->
     <!-- favicon.ico created with faviconit.com //-->
     <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="{{ '/images/favicon/favicon-180.png' | relative_url }}">
