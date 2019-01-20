@@ -152,7 +152,7 @@
 @media screen and (max-width: 42em) { #topmedia { width: 444px; } }
 @media screen and (max-width: 21em) { #topmedia { width: 333px; } }
 
-#historyforward {
+#historyback, #historyforward {
     visibility: hidden;
 }
 

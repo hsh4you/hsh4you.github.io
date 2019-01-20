@@ -26,15 +26,13 @@
     <link rel="stylesheet" href="{{ '/calendar/fullcalendar.min.css?v=' | append: site.github.build_revision | relative_url }}">
 
     <!-- hide scrollbars on index page //-->
-    {% if page.id == 'index' %}
-    <style type="text/css">
-      html { scrollbar-width: none; /* hide scrollbars in Firefox 64 */ }
-      ::-webkit-scrollbar { display: none; /* hide scrollbars in Chrome and Safari */ }
-      #historyback, #historyforward {
-        visibility: hidden;
-      }
-    </style>
-    {% endif %}
+    <script>
+      document.addEventListener("DOMContentLoaded", function(event) {
+        if (history.length > 2) {
+          document.getElementById('historyback').style.visibility = 'visible';
+        }
+      });
+    </script>
 
     <!-- favicon syntax source: https://www.mozilla.org //-->
     <!-- favicon.ico created with faviconit.com //-->
@@ -49,6 +47,14 @@
 
     <script src="{{ '/assets/js/map.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/indexpage.js' | relative_url }}"></script>
+
+    <style type="text/css">
+    body {
+          margin-left: calc(100vw - 100%);
+          margin-right: 0;
+      }
+    </style>
+
   </head>
   <body>
 
@@ -61,7 +67,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
+      <div id="content-wrap">{{ content }}</div>
     </main>
   </body>
 </html>
