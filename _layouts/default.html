@@ -31,8 +31,7 @@
       html { scrollbar-width: none; /* hide scrollbars in Firefox 64 */ }
       ::-webkit-scrollbar { display: none; /* hide scrollbars in Chrome and Safari */ }
     </style>
-    {% endif %}
-    
+    {% else %}
     <script>
       document.addEventListener("DOMContentLoaded", function(event) {
         if (history.length > 2) {
@@ -40,6 +39,7 @@
         }
       });
     </script>
+    {% endif %}
 
     <!-- favicon syntax source: https://www.mozilla.org //-->
     <!-- favicon.ico created with faviconit.com //-->
