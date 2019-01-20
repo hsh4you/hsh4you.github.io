@@ -1216,6 +1216,7 @@ be a descendant of the grid when it is being dragged.
 /* table resets */
 .fc .fc-list-table {
   table-layout: auto;
+  display: table;
   /* for shrinkwrapping cell content */ }
 
 .fc-list-table td {
@@ -1264,12 +1265,11 @@ be a descendant of the grid when it is being dragged.
 
 .fc-list-item-title a {
   /* every event title cell has an <a> tag */
-  text-decoration: none;
-  color: inherit; }
+  text-decoration: none; }
 
 .fc-list-item-title a[href]:hover {
   /* hover effect only on titles with hrefs */
-  text-decoration: underline; }
+  text-decoration: none; }
 
 /* message when no events */
 .fc-list-empty-wrap2 {
