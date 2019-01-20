@@ -25,7 +25,14 @@
     
     <link rel="stylesheet" href="{{ '/calendar/fullcalendar.min.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    <!-- hide scrollbars on index page //-->
+    <!-- hide scrollbars on index page //-->    <!-- hide scrollbars on index page //-->
+    {% if page.id == 'index' %}
+    <style type="text/css">
+      html { scrollbar-width: none; /* hide scrollbars in Firefox 64 */ }
+      ::-webkit-scrollbar { display: none; /* hide scrollbars in Chrome and Safari */ }
+    </style>
+    {% endif %}
+    
     <script>
       document.addEventListener("DOMContentLoaded", function(event) {
         if (history.length > 2) {
@@ -48,13 +55,6 @@
     <script src="{{ '/assets/js/map.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/indexpage.js' | relative_url }}"></script>
 
-    <style type="text/css">
-    body {
-          margin-left: calc(100vw - 100%);
-          margin-right: 0;
-      }
-    </style>
-
   </head>
   <body>
 
@@ -67,7 +67,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <div id="content-wrap">{{ content }}</div>
+      {{ content }}
     </main>
   </body>
 </html>
