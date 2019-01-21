@@ -107,6 +107,8 @@
     border: 2px solid lightgrey;
     margin: auto;
     border-radius: 0.5rem;
+    max-width: 100%;
+    max-height: 94vh;
 }
 
 @media screen and (min-width: 64em) { #gmap { width: 500px; height: 250px; } }
