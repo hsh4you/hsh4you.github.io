@@ -1,19 +1,15 @@
 ## SPIK Jugendklub
-<div class="mediacontainer">
-  <img id="topmedia" src="images/SPIK_JK/logo.png" />
-</div>
+<img id="topmedia" src="images/SPIK_JK/logo.png" />
 
 ## Wochenplan
-<p>
 <pre id="weeklyschedule">
 Mo  15-17  Bandraum
 Di  15-17  Kunst & Werken
 Mi  15-18  Graffiti
 Do  15-17  Fitness/Jin-Jitsu
-Fr  14-20  PC-Tag & Kochen 
+Fr  14-20  PC-Tag & Kochen
 Sa  13-17  Hallensport
 </pre>
-</p>
 
 ## Offen
 Mo-Fr 14-20 Uhr
@@ -25,21 +21,20 @@ Kochen, Graffiti, Bandraum, Musik, Kunst, Keramik, Zeichnen, Aikido, Tanzen, Spo
 
 ## Links
 <a target="_blank" href="http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/">Webseite</a><br>
-<a target="_blank" href="https://www.facebook.com/spik.ev.3/">Facebook</a><br><a target="_blank" href="https://www.instagram.com/jugendclub.spik/">Instagram</a>
+<a target="_blank" href="https://www.facebook.com/spik.ev.3/">Facebook</a><br>
+<a target="_blank" href="https://www.instagram.com/jugendclub.spik/">Instagram</a>
 
 ## Zielgruppe
-Jugendliche 10-21 Jahre<br>
-
-## Wo
-<p><div id="gmap"></div></p>
-<script>window.onload = showMap('Am Berl 15, 13051 Berlin', 0, 'gmap_mini')</script>
-<p>
-  Am Berl 15, 13051 Berlin<br>
-</p>
+Jugendliche 10-21 Jahre
 
 ## Kontakt
 [jfe@spikev.de](mailto:jfe@spikev.de)<br>
-<a href="tel:+493092092879">030 9209 2879</a><br>
+<a href="tel:+493092092879">030 9209 2879</a>
+
+## Wo
+<div id="gmap"></div>
+<script>window.onload = showMap('Am Berl 15, 13051 Berlin', 0, 'gmap_mini')</script>
+Am Berl 15, 13051 Berlin
 
 ## Eindrücke
 <div class="mediacontainer">

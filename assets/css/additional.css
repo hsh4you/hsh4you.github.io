@@ -6,7 +6,7 @@
     line-height: 0px;
 }
 
-.mediacontainer * {
+.mediacontainer *, #topmedia {
     display: block;
     margin: auto;
     border-radius: 0.5rem;
