@@ -27,5 +27,6 @@ function showMap(address = '', showheader=1, id='') {
   htmlcode += '?q=' + address;
   htmlcode += '&z=' + zoomfactor;
   htmlcode += '&output=embed" frameborder="0"></iframe>';
-  document.getElementById('gmap').innerHTML = htmlcode;
+  htmlcode = '<div id="gmap">' + htmlcode + '</div><br>' + address;
+  document.getElementById('gmap').outerHTML = htmlcode;
 };

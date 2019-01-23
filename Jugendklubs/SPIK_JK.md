@@ -34,7 +34,6 @@ Jugendliche 10-21 Jahre
 ## Wo
 <div id="gmap"></div>
 <script>window.onload = showMap('Am Berl 15, 13051 Berlin', 0, 'gmap_mini')</script>
-Am Berl 15, 13051 Berlin
 
 ## Eindrücke
 <div class="mediacontainer">
