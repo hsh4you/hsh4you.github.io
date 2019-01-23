@@ -1,20 +1,29 @@
 ## JFE Full House
 
-|||
--:|:-
-**Adresse** |     Ribnitzer Straße 30, 13051 Berlin
-**Offen** |       Mo–Fr 13–20 Uhr
-**Alter** |       10–21 Jahre
-**Kontakt** |     [jfe.fullhouse@pad-berlin.de](mailto:jfe.fullhouse@pad-berlin.de)<br><a href="tel:+493096208994">030 9664 8994</a>
-**Webseite** |     <a target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-full-house">Webseite</a><br><a target="_blank" href="https://www.instagram.com/jfe.fullhouse/">Instagram</a>
-**Angebote** |    Kochen/Backen, Volleyball, Fußball, Basketball, Fitness, Holzverarbeitung, Basteln, Malen, Graffiti, Gartenprojekt, Billard, Kicker, Dart, Tischtennis, Gesellschaftsspiele, Hausaufgabenhilfe, Bewerbungstraining, Tagesausflüge, Fahrradwerksattt, Computerraum, Mädchenraum, Workshops
-**Institution** | <a target="_blank" href="https://www.pad-berlin.de/">pad gGmbH</a>
+## Offen
+Mo-Fr 13-20 Uhr
 
+## Aktivitäten
+<p id="activities">
+Kochen/Backen, Volleyball, Fußball, Basketball, Fitness, Holzverarbeitung, Basteln, Malen, Graffiti, Gartenprojekt, Billard, Kicker, Dart, Tischtennis, Gesellschaftsspiele, Hausaufgabenhilfe, Bewerbungstraining, Tagesausflüge, Fahrradwerksattt, Computerraum, Mädchenraum, Workshops
+</p>
+
+## Links
+<a target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-full-house">Website</a><br>
+<a target="_blank" href="https://www.instagram.com/jfe.fullhouse/">Instagram</a>
+
+## Zielgruppe
+10-21 Jahre
+
+## Kontakt
+[jfe.fullhouse@pad-berlin.de](mailto:jfe.fullhouse@pad-berlin.de)<br>
+<a href="tel:+493096208994">030 9664 8994</a>
+
+## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap()</script>
+<script>window.onload = showMap('Ribnitzer Straße 30, 13051 Berlin', 0, 'gmap_mini')</script>
 
-## Fotos/Videos
-
+## Eindrücke
 <div class="mediacontainer">
   <!-- source: https://fettblog.eu/blog/2013/06/16/preserving-aspect-ratio-for-embedded-iframes/ //-->
   <div class="iframecontainer">

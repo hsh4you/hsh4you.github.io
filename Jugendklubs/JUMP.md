@@ -1,20 +1,24 @@
 ## JFE JUMP
+<img id="topmedia" src="images/Jump/1.jpg" />
 
-|||
--:|:-
-**Adresse** |     Schweriner Ring 27, 13059 Berlin
-**Offen** |       Mo-Do 14-19 Uhr
-**Alter** |       8-15 Jahre
-**Kontakt** |     [jump@kietz-fuer-kids-freizeitsport.de](mailto:jump@kietz-fuer-kids-freizeitsport.de)
-**Website** |    <a target="_blank" href="http://jump.kietz-fuer-kids-freizeitsport.de/">Website</a>
-**Angebote** |    Skaten/BMX & Scooter, Fußball, Volleyball, Basketball, Tischtennis, Kickern, Kreatives Gestalten, Kochen, Ferienprogramm, Workshops                   
-**Institution** | Kietz für Kids-Freizeiteport e.V.
+## Offen
+Mo-Do 14-19 Uhr
 
+## Angebote
+<p id="activities">
+Skaten/BMX & Scooter, Fußball, Volleyball, Basketball, Tischtennis, Kickern, Kreatives Gestalten, Kochen, Ferienprogramm, Workshops
+</p>
+
+## Links
+<a target="_blank" href="http://jump.kietz-fuer-kids-freizeitsport.de/">Website</a>
+
+## Zielgruppe
+8-15 Jahre
+
+## Kontakt
+[jump@kietz-fuer-kids-freizeitsport.de](mailto:jump@kietz-fuer-kids-freizeitsport.de)
+
+## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap()</script>
+<script>window.onload = showMap('Schweriner Ring 27, 13059 Berlin', 0, 'gmap_mini')</script>
 
-## Fotos
-
-<div class="mediacontainer">
-    <img src="images/Jump/1.jpg" />
- </div>
