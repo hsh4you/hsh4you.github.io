@@ -26,5 +26,5 @@ Tischtennis, Kletterwand, Fußball, Kicker, Airhockey, Baumhaus, Gorodki, Pool (
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="images/Kinderclub Kietzoase/1.jpg" />
+  <img src="images/Kinderclub_Kietzoase/1.jpg" />
 </div>

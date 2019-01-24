@@ -1,5 +1,14 @@
 ## JFE Trialog
 
+## Wochenplan
+<pre id="weeklyschedule">
+Mo  17:00  Kekse & Kakao
+Di  15:30  Kreativangebot
+Mi  16:00  junge Küche
+Do  16:00  Sport im Fitnessraum
+Fr  15:00  Billiardturnier & Spielenachmittag
+</pre>
+
 ## Offen
 Mo-Fr 13-20 Uhr<br>
 Familiensamstage 12-18 Uhr

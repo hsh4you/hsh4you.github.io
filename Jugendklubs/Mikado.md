@@ -1,6 +1,18 @@
 ## JFE Mikado
 <img id="topmedia" src="images/Mikado/1.jpg" />
 
+## Wochenplan
+<pre id="weeklyschedule">
+Mo     16-18     AG Garten
+Di     15-18     AG Klavier
+Mi  14:30-16:30  AG Brush
+Mi     17-20     Kinotag
+Do     15-18     AG Klaver
+Do     17-19     AG Garten
+Fr     15-17     AG Kochen
+Fr     18-20     Spieleabend
+</pre>
+
 ## Offen
 Mo-Fr 13-20 Uhr
 

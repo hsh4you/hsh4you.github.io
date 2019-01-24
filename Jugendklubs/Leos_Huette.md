@@ -24,6 +24,6 @@ Sport (Volleyball, Fußball, Basketball, Kreativangebote, Graffiti, Yoga, Breakd
 
 ## Eindrücke
 <div class="mediacontainer">
- <img src="images/Leos Huette/2.JPG" />
- <img src="images/Leos Huette/1.jpg" />
+ <img src="images/Leos_Huette/2.JPG" />
+ <img src="images/Leos_Huette/1.jpg" />
 </div>

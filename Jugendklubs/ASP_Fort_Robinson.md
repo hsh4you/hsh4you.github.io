@@ -1,4 +1,19 @@
-## ASP Fort Robinson 
+## ASP Fort Robinson
+
+## Wochenplan
+<pre id="weeklyschedule">
+Di  14-18  Hüttenbau
+Di  16-18  Pferde AG
+Mi  13-15  Betreuung Pferde
+Mi  16-18  Reiten & Stockbrot
+Mi  14-18  Lagerfeuer
+Do  14-18  Hüttenbau
+Do  14-16  Bogenschießen auf Anfrage
+Do  16-18  Pferde AG
+Fr  13-15  Gärtnern
+Fr  16-18  Kochen/Grillen über Lagerfeuer
+Sa  10-17  offene Spielangebote
+</pre>
 
 ## Offen
 Di-Fr 13-19 Uhr<br>
@@ -26,8 +41,8 @@ Sa 10–17 Uhr<br>
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="images/ASP Fort Robinson/1.jpg" />
-  <img src="images/ASP Fort Robinson/2.jpg" />
-  <img src="images/ASP Fort Robinson/3.jpg" />
-  <img src="images/ASP Fort Robinson/4.jpg" />
+  <img src="images/ASP_Fort_Robinson/1.jpg" />
+  <img src="images/ASP_Fort_Robinson/2.jpg" />
+  <img src="images/ASP_Fort_Robinson/3.jpg" />
+  <img src="images/ASP_Fort_Robinson/4.jpg" />
 </div>
