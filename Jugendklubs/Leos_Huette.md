@@ -27,7 +27,7 @@ Billard, Tischtennis, Kicker, Darts, Zumba, Graffiti, Breakdance, Computer, Bild
 ## Eindrücke
 <div class="mediacontainer">
  <img src="images/Leos_Huette/2.JPG" />
- <img src="images/Leos_Huette/1.JPG" />
+ <img src="images/Leos_Huette/1.jpg" />
  <img src="images/Leos_Huette/3.JPG" />
  <img src="images/Leos_Huette/5.JPG" />
  <img src="images/Leos_Huette/6.JPG" />
