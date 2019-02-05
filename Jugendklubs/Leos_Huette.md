@@ -1,22 +1,24 @@
 ## JFE LEOS HÜTTE
 
 ## Offen
-Di-Do 14-20 Uhr<br>
-Fr+Sa 13-20 Uhr
+Mo 14-20 Uhr<br>
+Di-Fr 12:30-20 Uhr
 
 ## Angebote
 <p id="activities">
-Sport (Volleyball, Fußball, Basketball, Kreativangebote, Graffiti, Yoga, Breakdance, Zumba, Schreibwerkstatt, digitale Medien, Gartenprojekt, Partizipationprojekte, Hausaufgabenhilfe
+Billard, Tischtennis, Kicker, Darts, Zumba, Graffiti, Breakdance, Computer, Bildbearbeitung, Freizeitsport, Kochen, Handarbeit, Kreatives Gestalten & Nähen, Erlebnispädagogik, Multimedia-Spiele, Gesellschaftsspiele, Musik                     
 </p>
 
 ## Links
 <a target="_blank" href="http://leos-huette.de/">Website</a>
 
 ## Zielgruppe
-6-18 Jahre
+6-17 Jahre
 
 ## Kontakt
-[info@leos.libg-jugend.de](mailto:info@leos.libg-jugend.de)
+[info@leos.libg-jugend.de](mailto:info@leos.libg-jugend.de)<br>
+<a href="tel:+49309287116">030 9287 116</a>
+ 
 
 ## Wo
 <div id="gmap"></div>
