@@ -19,8 +19,7 @@ aufsuchende Jugendsozialarbeit, Einzelfallbegleitung, Beratung, Gruppenaktionen,
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Ahrenshooper Straße 7, 13051 Berlin', 0, 'gmap_mini')</script><br>
-mobil & aufsuchend in Hsh unterwegs
+<script>window.onload = showMap('Ahrenshooper Straße 7, 13051 Berlin', 0, 'gmap_mini')</script>mobil & aufsuchend in Hsh unterwegs
 
 ## Kontakt
 [hsh@gangway.de](mailto:hsh@gangway.de)<br>
