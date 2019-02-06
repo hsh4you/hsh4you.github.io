@@ -1,6 +1,20 @@
 ## JFE LEOS HÜTTE
 <img id="topmedia" src="images/Leos_Huette/1.jpg" />
 
+## Wochenplan
+<pre id="weeklyschedule">
+Mo 16-20 Küchengespräche, Basteln
+Mo 18-19:30 Zumba
+Di 16-18 Graffiti/Comic, Multimedia
+Mi 14-18 Multimedia
+Mi 17-19 Breakdance
+Do 15-18 Musizieren 
+Do 16-19 Kreatives Gestalten
+Fr 15-17 Musizieren
+Fr 16-20 Freizeitsport 
+Sa 12-15 Fußball (Halle Welsestr.)
+</pre>
+
 ## Offen
 Mo 14-20 Uhr<br>
 Di-Fr 12:30-20 Uhr
