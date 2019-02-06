@@ -1,4 +1,5 @@
 ## JFE Full House
+<img id="topmedia" src="images/JFE_Fullhouse/1.jpg" />
 
 ## Offen
 Mo-Fr 13-20 Uhr
