@@ -1,4 +1,5 @@
 ## JFE Trialog
+<img id="topmedia" src="images/Logos/Trialog.jpg" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
