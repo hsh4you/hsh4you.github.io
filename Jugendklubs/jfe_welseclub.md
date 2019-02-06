@@ -1,4 +1,5 @@
 ## JFE Welseclub
+<img id="topmedia" src="images/Logos/Welseclub.png" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
