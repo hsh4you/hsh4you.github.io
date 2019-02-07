@@ -3,15 +3,15 @@
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo     15-18  Skaten/BMX
-Mo     16-17  Ringen & Raufen
-Di     16-17  Ball- & Bewegungsspiele
-Mi     16-17  Fitness (ab 10 J.)
-Mi  17:30-19  Pubertätsstunde (ab 12 J.)
-Do     15-18  Skaten/BMX
-Fr     15-16  Spiel & Spaß
-Fr     16-17  Tanzen (9-12 J.)
-Fr  17:30-19  Tanzen (ab 12 J.)
+Mo 15-18  Skaten/BMX
+Mo 16-17  Ringen & Raufen
+Di 16-17  Ball- & Bewegungsspiele
+Mi 16-17  Fitness (ab 10 J.)
+Mi 17:30  Pubertätsstunde (ab 12 J.)
+Do 15-18  Skaten/BMX
+Fr 15-16  Spiel & Spaß
+Fr 16-17  Tanzen (9-12 J.)
+Fr 17:30  Tanzen (ab 12 J.)
 </pre>
 
 ## Offen
