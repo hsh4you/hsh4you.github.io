@@ -4,7 +4,7 @@
 ## Wochenplan
 <pre id="weeklyschedule">
 Mo 16-20 Küchengespräche, Basteln
-Mo 18-19:30 Zumba
+Mo 18:00 Zumba
 Di 16-18 Graffiti/Comic, Multimedia
 Mi 14-18 Multimedia
 Mi 17-19 Breakdance
