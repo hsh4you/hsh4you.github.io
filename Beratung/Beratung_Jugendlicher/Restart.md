@@ -1,7 +1,4 @@
 ## ReStart 4.0 
-<div class="mediacontainer">
-  <img id="topmedia" src="images/ReStart.jpg" />
-</div>
 
 ## Offen
 nach Vereinbarung, da mobil unterwegs
