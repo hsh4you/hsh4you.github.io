@@ -1,4 +1,4 @@
-## Kinder- & Jugendclub Holzwurmhaus
+## Kinder- & Jugendklub Holzwurmhaus
 
 ## Offen
 Mo 14-20 Uhr<br>

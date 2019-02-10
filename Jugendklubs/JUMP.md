@@ -1,4 +1,4 @@
-## JFE JUMP
+## JFE JuMP
 <img id="topmedia" src="images/Jump/1.jpg" />
 
 ## Offen

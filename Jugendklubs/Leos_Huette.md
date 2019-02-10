@@ -1,4 +1,4 @@
-## JFE LEOS HÜTTE
+## JFE Leos Hütte
 
 ## Offen
 Di-Do 14-20 Uhr<br>
