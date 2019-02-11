@@ -5,17 +5,17 @@ Mo-Mi & Fr. 9-12 Uhr und Do 15-19 Uhr
 
 ## Angebote
 Soziale Beratung:<br>
--	Beratung bei familiären und persönlichen Fragen rund um Schwangerschaft,<br>
+•	Beratung bei familiären und persönlichen Fragen rund um Schwangerschaft,<br>
 Geburt, Kita, Schule, Jugend, Freizeit und weitere Themen<br>
--	Informationen und Weiterleitung zu familienbezogenen Angeboten und Hilfen im Bezirk<br>
+•	Informationen und Weiterleitung zu familienbezogenen Angeboten und Hilfen im Bezirk<br>
 
 Beratung zu Leistungen (Informationen und Hilfe bei Antragsstellung)<br>
--	Kindertagesbetreuung und Kitagutschein<br>
--	Hortbetreuung<br>
--	Elterngeld<br>
--	Unterhaltsvorschuss<br>
--	Beistandschaft<br>
--	Sorgerechtserklärung und Vaterschaftsanerkennung<br>
+•	Kindertagesbetreuung und Kitagutschein<br>
+•	Hortbetreuung<br>
+•	Elterngeld<br>
+•	Unterhaltsvorschuss<br>
+•	Beistandschaft<br>
+•	Sorgerechtserklärung und Vaterschaftsanerkennung<br>
 
 ## Links
 <a target="_blank" href="https://www.familienbuero-lichtenberg.de">Website</a>
