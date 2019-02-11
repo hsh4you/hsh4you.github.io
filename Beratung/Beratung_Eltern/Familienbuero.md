@@ -9,7 +9,7 @@ Soziale Beratung:<br>
 Geburt, Kita, Schule, Jugend, Freizeit und weitere Themen<br>
 •	Informationen und Weiterleitung zu familienbezogenen Angeboten und Hilfen im Bezirk<br>
 
-Beratung zu Leistungen (Informationen und Hilfe bei Antragsstellung)<br>
+Beratung zu Leistungen (Informationen und Hilfe bei Antragsstellung):<br>
 •	Kindertagesbetreuung und Kitagutschein<br>
 •	Hortbetreuung<br>
 •	Elterngeld<br>
