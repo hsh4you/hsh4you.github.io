@@ -1,4 +1,16 @@
 ## JFE Full House
+<img id="topmedia" src="images/JFE_Fullhouse/1.jpg" />
+
+## Wochenplan
+<pre id="weeklyschedule">
+Mo  15:00  Kochen
+Mo  20-22  Fußballtraining
+Di  15:00  Fitnesstraining
+Di  18-20  Volleyball (mit Gangway)
+Mi  15-18  Graffiti
+Do  15:00  Fitnesstraining
+Fr  15:00  Kochen
+</pre>
 
 ## Offen
 Mo-Fr 13-20 Uhr

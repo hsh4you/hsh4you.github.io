@@ -1,4 +1,5 @@
 ## JFE Trialog
+<img id="topmedia" src="images/Logos/Trialog.jpg" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
@@ -20,7 +21,8 @@ Fitnessraum, kostenlose Rechtsberatung (bis 27 Jahren), Vermietung der Räumlich
 
 ## Links
 <a target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-trialog">Website</a><br>
-<a target="_blank" href="https://de-de.facebook.com/jfetrialog/">Facebook</a>
+<a target="_blank" href="https://de-de.facebook.com/jfetrialog/">Facebook</a><br>
+<a target="_blank" href="https://www.instagram.com/jfe.trialog/">Instagram</a>
 
 ## Zielgruppe
 12-27 Jahre

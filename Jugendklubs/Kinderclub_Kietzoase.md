@@ -1,4 +1,5 @@
 ## Kinderclub Kietzoase (KIO)
+<img id="topmedia" src="images/Logos/kietzoase.png" />
 
 ## Offen
 Mo-Do 13-18 Uhr<br>

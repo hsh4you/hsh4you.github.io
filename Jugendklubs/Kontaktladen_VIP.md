@@ -1,4 +1,5 @@
 ## Kontaktladen VIP
+<img id="topmedia" src="images/VIP_Kontaktladen/5.jpg" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
