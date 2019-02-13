@@ -175,29 +175,29 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
       #print(event)
       events.append(event)
 
-i = 0
-with open('events.json', 'w') as jsonfile:
-  for (eventtitle, url, start, end) in events:
-    if end:
-      jsonevent = '''
-  {
+jsonevents = []
+for (eventtitle, url, start, end) in events:
+  if end:
+    jsonevent = '''
     title: "%s",
     url: "%s",
     start: '%s',
     end: '%s'
-  },
-      '''.strip() % (eventtitle, url, start, end)
-    else:
-      jsonevent = '''
-  {
+  ''' % (eventtitle, url, start, end)
+  else:
+    jsonevent = '''
     title: "%s",
     url: "%s",
     start: '%s'
-  },
-      '''.strip() % (eventtitle, url, start)
-    #print(jsonevent)
+  ''' % (eventtitle, url, start)
+  jsonevents.append(jsonevent)
+
+with open('events.json', 'w') as jsonfile:
+  for i, jsonevent in enumerate(jsonevents):
+    jsonevent = '{%s}' % jsonevent
+    if i == 0:
+      jsonevent = '  ' + jsonevent
+    else:
+      jsonevent = ', ' + jsonevent
     jsonfile.write(jsonevent)
-    i += 1
-    if i > 10:
-      pass
-      #break
+    #if i > 3: break
