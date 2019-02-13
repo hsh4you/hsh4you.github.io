@@ -5,6 +5,7 @@
 - [JFE Leos Hütte](Leos_Huette.md)
 - [JFE Trialog](jfe_trialog.md)
 - [JFE Welseclub](jfe_welseclub.md)
+- [JUKS - JugendKunstschule Lichtenberg](JUKS.md)
 - [Kinder- & Jugendklub Holzwurmhaus](Holzwurmhaus.md)
 - [Kinderclub Kietzoase](Kinderclub_Kietzoase.md)
 - [Kontaktladen VIP](Kontaktladen_VIP.md)
