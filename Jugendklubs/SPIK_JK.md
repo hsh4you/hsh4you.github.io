@@ -1,16 +1,6 @@
 ## SPIK Jugendklub
 <img id="topmedia" src="images/SPIK_JK/logo.png" />
 
-## Wochenplan
-<pre id="weeklyschedule">
-Mo  15-17  Bandraum
-Di  15-17  Kunst & Werken
-Mi  15-18  Graffiti
-Do  15-17  Fitness/Jin-Jitsu
-Fr  14-20  PC-Tag & Kochen
-Sa  13-17  Hallensport
-</pre>
-
 ## Offen
 Mo-Fr 14-20 Uhr
 
