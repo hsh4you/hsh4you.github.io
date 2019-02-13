@@ -54,6 +54,54 @@ Mi 16:00 Kreativangebot
 Mi 17:00 Kicker-, Billard-, Tischtennistraining
 Do 17:00 VIP-Talk & Tonstudio (Anmeldung)
 Fr Wii/ Filme
+
+# Welseclub
+Mo 16:00 Backen
+Mo 16:15 Kampfkunsttraining (Kinder)
+Di 14:00-17:00 Fahrradwerkstatt
+Di 16:00 Tischtennis-AG
+Di 17:00 ClubAktiv (Ideensammlung)
+Mi gemeinsam Kochen & Essen
+Do 16:00 Basteln & Werken
+Do 18:00 Kampfkunst (Anfänger)
+Fr Rollenspiel, Gesellschaftsspiele
+Fr 15:00 Let's talk about... (für Mädchen)
+
+# Trialog
+Mo 17:00 Kekse & Kakao
+Di 15:30 Kreativangebot
+Mi 16:00 junge Küche
+Do 16:00 Sport im Fitnessraum
+Fr 15:00 Billiardturnier & Spielenachmittag
+
+# Jump
+Mo 16:00 Kochen & gemeinsam essen
+Di 15:30-16:30 Sport für alle
+Di 17:00 gemeinsam Essen
+Mi 15:00-16:00 gemeinsames Lernangebot
+Mi 16:00 Kochen & gemeinsam Essen
+Do 15:30-16:30 Sport für alle
+Do 17:00 gemeinsam Essen
+
+# Leos Hütte
+Mo 16:00-20:00 Küchengespräche, Basteln
+Mo 18:00-19:30 Zumba
+Di 16:00-18:00 Graffiti/Comic, Multimedia
+Mi 14:00-18:00 Multimedia
+Mi 17:00-19:00 Breakdance
+Do 15:00-18:00 Musizieren 
+Do 16:00-19:00 Kreatives Gestalten
+Fr 15:00-17:00 Musizieren
+Fr 16:00-20:00 Freizeitsport 
+Sa 12:00-15:00 Fußball (Halle Welsestr.)
+
+# Full House
+Mo 15:00 Kochen 
+Mo 20:00-22:00 Fußballtraining
+Di 16:00 Fitnesstraining 
+Di 18:00-20:00 Volleyball (mit Gangway)
+Do 16:00 Fitnesstraining
+Fr 15:00 Kochen
 '''
 
 weekdays = dict()
