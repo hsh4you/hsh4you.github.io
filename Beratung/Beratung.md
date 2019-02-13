@@ -1,7 +1,8 @@
 ## Beratung
 
-- [Comes e.V.](Beratung_Jugendlicher/Comes.md)- 
+- [Comes e.V.](Beratung_Jugendlicher/Comes.md) 
 - [Opstapje](Beratung_Eltern/Opstapje.md)
+- [KJHV/KJSH-Stiftung](Beratung_Eltern/KJHV.md)
 - [Gangway Hsh](Beratung_Jugendlicher/Gangway.md)
 - [berliner jungs](Beratung_Jugendlicher/Berliner_Jungs.md)
 - [Restart 4.0](Beratung_Jugendlicher/Restart.md)
