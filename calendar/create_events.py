@@ -134,15 +134,15 @@ for row in WEEKLYSCHEDULES.strip().split('\n'):
     continue
   time = row.split(' ')[1]
   title = ' '.join(row.split(' ')[2:])
-  # for now skip rows having not a end time
-  if not '-' in time:
-    continue
-  starttime = time.split('-')[0]
+  starttime = time
+  endtime = None
+  if '-' in time:
+    starttime = time.split('-')[0]
+    endtime = time.split('-')[1]
+    if not ':' in endtime:
+      endtime += ':00'
   if not ':' in starttime:
     starttime += ':00'
-  endtime = time.split('-')[1]
-  if not ':' in endtime:
-    endtime += ':00'
   weekdayname = day
   weekdaynum = weekdays[weekdayname]
   weeklyevent = (name, weekdayname, weekdaynum, title, starttime, endtime)
@@ -152,7 +152,7 @@ for row in WEEKLYSCHEDULES.strip().split('\n'):
 
 WEEKDAYNAMES = ['Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa', 'So']
 
-STARTDATE = datetime.date(2018, 1, 1)
+STARTDATE = datetime.date(2019, 1, 1)
 #STARTDATE = datetime.datetime.today().date()
 ENDDATE = datetime.date(2020, 1, 1)
 
@@ -168,27 +168,36 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
       if 'SPIK_Jugendklub' in url:
         url = url.replace('SPIK_Jugendklub.html', 'SPIK_JK.html')
       start = '%sT%s' % (loopday, starttime)
-      end = '%sT%s' % (loopday, endtime)
+      end = None
+      if endtime:
+        end = '%sT%s' % (loopday, endtime)
       event = (eventtitle, url, start, end)
       #print(event)
       events.append(event)
 
+i = 0
 with open('events.json', 'w') as jsonfile:
   for (eventtitle, url, start, end) in events:
-    jsonevent = '''
-{
-  title: '%s',
-  url: "%s",
-  start: '%s',
-  end: '%s'
-},
-    '''.strip() % (eventtitle, url, start, end)
+    if end:
+      jsonevent = '''
+  {
+    title: "%s",
+    url: "%s",
+    start: '%s',
+    end: '%s'
+  },
+      '''.strip() % (eventtitle, url, start, end)
+    else:
+      jsonevent = '''
+  {
+    title: "%s",
+    url: "%s",
+    start: '%s'
+  },
+      '''.strip() % (eventtitle, url, start)
     #print(jsonevent)
     jsonfile.write(jsonevent)
-
-
-        # {
-        #   title: 'Weihnachtsmarkt auf dem Vorplatz am S-Bhf Wartenberg',
-        #   start: '2018-12-08T14:00',
-        #   end:   '2018-12-08T18:00'
-        # },
+    i += 1
+    if i > 10:
+      pass
+      #break
