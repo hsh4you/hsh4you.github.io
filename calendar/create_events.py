@@ -164,7 +164,7 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
       url = "{{ '/Jugendklubs/%s.html' | relative_url }}" % youthclubname.replace(' ', '_')
       if 'SPIK_Jugendklub' in url:
         url = url.replace('SPIK_Jugendklub.html', 'SPIK_JK.html')
-      start = None
+      start = '%s' % loopday
       if starttime:
         start = '%sT%s' % (loopday, starttime)
       end = None
@@ -176,25 +176,19 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
 
 jsonevents = []
 for (eventtitle, url, start, end) in events:
-  if start:
-    if end:
-      jsonevent = '''
-      title: "%s",
-      url: "%s",
-      start: '%s',
-      end: '%s'
-    ''' % (eventtitle, url, start, end)
-    else:
-      jsonevent = '''
-      title: "%s",
-      url: "%s",
-      start: '%s'
-    ''' % (eventtitle, url, start)
+  if end:
+    jsonevent = '''
+    title: "%s",
+    url: "%s",
+    start: '%s',
+    end: '%s'
+  ''' % (eventtitle, url, start, end)
   else:
     jsonevent = '''
-      title: "%s",
-      url: "%s"
-    ''' % (eventtitle, url)
+    title: "%s",
+    url: "%s",
+    start: '%s'
+  ''' % (eventtitle, url, start)
   jsonevents.append(jsonevent)
 
 with open('events.json', 'w') as jsonfile:
