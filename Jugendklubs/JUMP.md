@@ -3,13 +3,13 @@
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo 16-17  Kochen & gemeinsam essen
-Di 15:30  Sport für alle
-Di 17:00  gemeinsam Essen
-Mi 15-16  gemeinsames Lernangebot
-Mi 16-17  Kochen & gemeinsam Essen
-Do 15:30  Sport für alle
-Do 17:00  gemeinsam Essen
+Mo  16:00        Kochen & gemeinsam essen
+Di  15:30-16:30  Sport für alle
+Di  17:00        gemeinsam Essen
+Mi  15:00-16:00  gemeinsames Lernangebot
+Mi  16:00        Kochen & gemeinsam Essen
+Do  15:30-16:30  Sport für alle
+Do  17:00        gemeinsam Essen
 </pre>
 
 ## Offen

@@ -3,16 +3,16 @@
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo 16-20 Küchengespräche, Basteln
-Mo 18:00 Zumba
-Di 16-18 Graffiti/Comic, Multimedia
-Mi 14-18 Multimedia
-Mi 17-19 Breakdance
-Do 15-18 Musizieren 
-Do 16-19 Kreatives Gestalten
-Fr 15-17 Musizieren
-Fr 16-20 Freizeitsport 
-Sa 12-15 Fußball (Halle Welsestr.)
+Mo  16:00-20:00  Küchengespräche, Basteln
+Mo  18:00-19:30  Zumba
+Di  16:00-18:00  Graffiti/Comic, Multimedia
+Mi  14:00-18:00  Multimedia
+Mi  17:00-19:00  Breakdance
+Do  15:00-18:00  Musizieren 
+Do  16:00-19:00  Kreatives Gestalten
+Fr  15:00-17:00  Musizieren
+Fr  16:00-20:00  Freizeitsport 
+Sa  12:00-15:00  Fußball (Halle Welsestr.)
 </pre>
 
 ## Offen

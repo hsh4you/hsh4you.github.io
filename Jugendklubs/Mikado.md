@@ -3,14 +3,14 @@
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo 16-18   AG Garten
-Di 15-18   AG Klavier
-Mi 14:30   AG Brush
-Mi 17-20   Kinotag
-Do 15-18   AG Klavier
-Do 17-19   AG Garten
-Fr 15-17   AG Kochen
-Fr 18-20   Spieleabend
+Mo  16:00-18:00  AG Garten
+Di  15:00-18:00  AG Klavier
+Mi  14:30-16:30  AG Brush
+Mi  17:00-20:00  Kinotag
+Do  15:00-18:00  AG Klaver
+Do  17:00-19:00  AG Garten
+Fr  15:00-17:00  AG Kochen
+Fr  18:00-20:00  Spieleabend
 </pre>
 
 ## Offen
