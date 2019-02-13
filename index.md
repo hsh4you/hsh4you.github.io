@@ -44,7 +44,7 @@ id: index
 - [Schulen](Schulen/Schulen.md)
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Veranstaltungen](calendar/calendar.html)
-- Beratung
+- [Beratung](Beratung/Beratung_Eltern.md)
 - Familienzentren
 - Jugendamt
 </div>
