@@ -125,24 +125,21 @@ for row in WEEKLYSCHEDULES.strip().split('\n'):
     continue
   if len(row.strip()) == 0:
     continue
-  if len(row) > 3 and not row[3].isdigit():
-    continue
   #print(row)
   day = row.split(' ')[0]
-  # for now skip rows having no time definition
-  if not row[3].isdigit():
-    continue
-  time = row.split(' ')[1]
-  title = ' '.join(row.split(' ')[2:])
-  starttime = time
+  starttime = None
   endtime = None
-  if '-' in time:
-    starttime = time.split('-')[0]
-    endtime = time.split('-')[1]
-    if not ':' in endtime:
-      endtime += ':00'
-  if not ':' in starttime:
-    starttime += ':00'
+  if row[3].isdigit():
+    time = row.split(' ')[1]
+    title = ' '.join(row.split(' ')[2:])
+    starttime = time
+    if '-' in time:
+      starttime = time.split('-')[0]
+      endtime = time.split('-')[1]
+      if not ':' in endtime:
+        endtime += ':00'
+    if not ':' in starttime:
+      starttime += ':00'
   weekdayname = day
   weekdaynum = weekdays[weekdayname]
   weeklyevent = (name, weekdayname, weekdaynum, title, starttime, endtime)
@@ -167,7 +164,9 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
       url = "{{ '/Jugendklubs/%s.html' | relative_url }}" % youthclubname.replace(' ', '_')
       if 'SPIK_Jugendklub' in url:
         url = url.replace('SPIK_Jugendklub.html', 'SPIK_JK.html')
-      start = '%sT%s' % (loopday, starttime)
+      start = None
+      if starttime:
+        start = '%sT%s' % (loopday, starttime)
       end = None
       if endtime:
         end = '%sT%s' % (loopday, endtime)
@@ -177,19 +176,25 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
 
 jsonevents = []
 for (eventtitle, url, start, end) in events:
-  if end:
-    jsonevent = '''
-    title: "%s",
-    url: "%s",
-    start: '%s',
-    end: '%s'
-  ''' % (eventtitle, url, start, end)
+  if start:
+    if end:
+      jsonevent = '''
+      title: "%s",
+      url: "%s",
+      start: '%s',
+      end: '%s'
+    ''' % (eventtitle, url, start, end)
+    else:
+      jsonevent = '''
+      title: "%s",
+      url: "%s",
+      start: '%s'
+    ''' % (eventtitle, url, start)
   else:
     jsonevent = '''
-    title: "%s",
-    url: "%s",
-    start: '%s'
-  ''' % (eventtitle, url, start)
+      title: "%s",
+      url: "%s"
+    ''' % (eventtitle, url)
   jsonevents.append(jsonevent)
 
 with open('events.json', 'w') as jsonfile:
@@ -200,4 +205,4 @@ with open('events.json', 'w') as jsonfile:
     else:
       jsonevent = ', ' + jsonevent
     jsonfile.write(jsonevent)
-    #if i > 3: break
+    #if i > 30: break
