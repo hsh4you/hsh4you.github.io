@@ -8,8 +8,9 @@
 **Webseite** |      <a target="_blank" href="http://www.gruener-campus-malchow.de/">gruener-campus-malchow.de</a>
 
 <div id="gmap"></div><br>
-Grundstufe (Kl. 1-6) im Hauptgebäude<br>
+Grundstufe (Kl. 1-6) im Hauptgebäude, Malchower Chaussee 2, 13051 Berlin<br>
 <script>window.onload = showMap('Malchower Chaussee 2, 13051 Berlin', 0, 'gmap_mini')</script><br>
-Mittel-und Oberstufe (Kl. 7-13) im Fontane-Gebäude II<br>
-<div id="gmap"></div>
+
+Mittel-und Oberstufe (Kl. 7-13) im Fontane-Gebäude, Doberaner Str.55, 13051 Berlin II<br>
+<div id="gmap"></div><br>
 <script>window.onload = showMap('Doberaner Str.55, 13051 Berlin', 0, 'gmap_mini')</script>
