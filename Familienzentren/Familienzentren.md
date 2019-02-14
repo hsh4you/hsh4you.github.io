@@ -1,4 +1,4 @@
 ## Familienzentren
 
-- [Familienzentrum Matenzeile](Familienzentren/Matenzeile.md) 
+- [Familienzentrum Matenzeile](Matenzeile.md) 
 
