@@ -30,8 +30,8 @@ id: index
 - [Schulen](Schulen/Schulen.md)
 - [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung.md)
+- [Familienzentren](Familienzentren/Familienzentren.md)
 - Freizeit
-- Familienzentren
 </div>
 <div class="displaynone" id="listJugendlicher">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
