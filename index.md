@@ -45,7 +45,7 @@ id: index
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Eltern.md)
-- Familienzentren
+- [Familienzentren](Familienzentren/Familienzentren.md)
 - Jugendamt
 </div>
 <div class="displaynone" id="listNeu">
