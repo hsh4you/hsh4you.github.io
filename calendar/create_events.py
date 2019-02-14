@@ -191,12 +191,14 @@ for (eventtitle, url, start, end) in events:
   ''' % (eventtitle, url, start)
   jsonevents.append(jsonevent)
 
-with open('events.json', 'w') as jsonfile:
+with open('weeklyevents.js', 'w') as jsfile:
+  jsfile.write('window.weeklyevents = [\n')
   for i, jsonevent in enumerate(jsonevents):
     jsonevent = '{%s}' % jsonevent
     if i == 0:
       jsonevent = '  ' + jsonevent
     else:
-      jsonevent = ', ' + jsonevent
-    jsonfile.write(jsonevent)
-    #if i > 30: break
+      jsonevent = ', \n  ' + jsonevent
+    jsfile.write(jsonevent)
+    #if i > 3: break
+  jsfile.write('\n]')
