@@ -162,6 +162,8 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
     if weekdaynum == loopweekdaynum:
       eventtitle = '%s | %s' % (youthclubname, eventname)
       url = "{{ '/Jugendklubs/%s.html' | relative_url }}" % youthclubname.replace(' ', '_')
+      # temporary hard link to fix broken links
+      # TODO: make it possible to check locally as well
       url = "https://www.hsh4you.de/Jugendklubs/%s.html" % youthclubname.replace(' ', '_')
       if 'SPIK_Jugendklub' in url:
         url = url.replace('SPIK_Jugendklub.html', 'SPIK_JK.html')
