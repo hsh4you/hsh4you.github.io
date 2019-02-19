@@ -15,7 +15,6 @@ Grundschulkinder und deren Erziehungsberechtigte
 ## Wo
 <div id="gmap"></div>
 <script>window.onload = showMap('Wartiner Str. 23, 13057 Berlin', 0, 'gmap_mini')</script>
-Wartiner Str.23, 13057 Berlin
 
 ## Kontakt
 [schulstation.feldmark@spikev.de](mailto:schulstation.feldmark@spikev.de)<br>
