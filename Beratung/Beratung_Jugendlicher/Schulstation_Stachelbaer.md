@@ -1,21 +1,22 @@
 ## Schulstation Stachelbär
 
 ## Offen
-Mo–Fr 8.30-14.30Uhr
+Mo–Fr 7:30-15:30, Mi 7:30-14:30
 
 ## Angebote
 kontinuierliche Kontakt & Beratungsangebote für Kinder, Erziehungsberechtigte und LehrerInnen, Entspannung für die Kinder, Konfliktlotsen, Schülerzeitung, Eltern-Kind-Café 
 
 ## Links
-<a target="_blank" href="http://www.spikev.de/schulbezogene-angebote-fuer-schueler-eltern-lehrer-und-erzieher/schulhilfe/">Website</a>
+<a target="_blank" href="http://http://www.spikev.de/schulbezogene-angebote-fuer-schueler-eltern-lehrer-und-erzieher/neue-seite/">Website</a>
 
 ## Zielgruppe
 Grundschulkinder und deren Erziehungsberechtigte
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Wartiner Str.23, 13057 Berlin', 0, 'gmap_mini')</script>
-Wartiner Str. 23, 13057
+<script>window.onload = showMap('Wustrower Str. 28, 13051 Berlin', 0, 'gmap_mini')</script>
+Wustrower Str. 28, 13051 Berlin
+
 
 ## Kontakt
 [schulstation.feldmark@spikev.de](mailto:schulstation.feldmark@spikev.de)<br>
