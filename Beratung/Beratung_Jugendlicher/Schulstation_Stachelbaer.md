@@ -1,7 +1,7 @@
 ## Schulstation Stachelbär
 
 ## Offen
-Mo–Fr 7:30-15:30, Mi 7:30-14:30
+Mo–Fr 7:30-15:30, außer Mi nur bis 14:30
 
 ## Angebote
 für SchülerInnen<br>
