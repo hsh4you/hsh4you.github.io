@@ -19,8 +19,8 @@ Wustrower Str. 28, 13051 Berlin
 
 
 ## Kontakt
-[schulstation.feldmark@spikev.de](mailto:schulstation.feldmark@spikev.de)<br>
-<a href="tel:+4915783520782">0157 8352 0782</a>
+[schulstation.stachelbaer@spikev.de](mailto:schulstation.stachelbaer@spikev.de)<br>
+<a href="tel:+493091205931">030 912 05931</a>
 
 ## Eindrücke
 <div class="mediacontainer">
