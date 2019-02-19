@@ -21,10 +21,10 @@ SchülerInnen der Schule am Wäldchen 1.-6. Klasse, deren Eltern, Kollegen der S
 <script>window.onload = showMap('Wustrower Str. 28, 13051 Berlin', 0, 'gmap_mini')</script>
 Wustrower Str. 28, 13051 Berlin
 
-
 ## Kontakt
 [schulstation.stachelbaer@spikev.de](mailto:schulstation.stachelbaer@spikev.de)<br>
-<a href="tel:+493091205931">030 912 05931</a>
+<a href="tel:+493091205931">030 912 05931</a><br>
+AnsprechpartnerIn: Jana Zander, David Blank
 
 ## Eindrücke
 <div class="mediacontainer">
