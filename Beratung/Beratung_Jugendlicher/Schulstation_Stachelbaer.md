@@ -4,7 +4,11 @@
 Mo–Fr 7:30-15:30, Mi 7:30-14:30
 
 ## Angebote
-kontinuierliche Kontakt & Beratungsangebote für Kinder, Erziehungsberechtigte und LehrerInnen, Entspannung für die Kinder, Konfliktlotsen, Schülerzeitung, Eltern-Kind-Café 
+für SchülerInnen<br>
+für Eltern<br>
+für LehrerInnen & ErzieherInnen<br>
+Entlastung und Unterstützung im Schulalltag, „Auszeit“, Soziales Lernen, Gewaltprävention, Schülerzeitung, Vermittlung bei Konflikten, Gruppen- & Einzelarbeit, Beratung, Elterncafes, erlebnispädagogisches Ferienangebot
+
 
 ## Links
 <a target="_blank" href="http://http://www.spikev.de/schulbezogene-angebote-fuer-schueler-eltern-lehrer-und-erzieher/neue-seite/">Website</a>
