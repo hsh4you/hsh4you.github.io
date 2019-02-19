@@ -19,7 +19,6 @@ SchülerInnen der Schule am Wäldchen 1.-6. Klasse, deren Eltern, Kollegen der S
 ## Wo
 <div id="gmap"></div>
 <script>window.onload = showMap('Wustrower Str. 28, 13051 Berlin', 0, 'gmap_mini')</script>
-Wustrower Str. 28, 13051 Berlin
 
 ## Kontakt
 [schulstation.stachelbaer@spikev.de](mailto:schulstation.stachelbaer@spikev.de)<br>
