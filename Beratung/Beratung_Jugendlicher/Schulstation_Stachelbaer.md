@@ -10,7 +10,7 @@ kontinuierliche Kontakt & Beratungsangebote für Kinder, Erziehungsberechtigte u
 <a target="_blank" href="http://http://www.spikev.de/schulbezogene-angebote-fuer-schueler-eltern-lehrer-und-erzieher/neue-seite/">Website</a>
 
 ## Zielgruppe
-Grundschulkinder und deren Erziehungsberechtigte
+SchülerInnen der Schule am Wäldchen 1.-6. Klasse, deren Eltern, Kollegen der Schule (Lehrende & Erziehende)
 
 ## Wo
 <div id="gmap"></div>
