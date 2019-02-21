@@ -12,7 +12,7 @@
 
 - [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [ ] Suchfunktionalität
-- [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events
+- [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events & Zugang durch Träger mit Passwort
 - [ ] Aktivitäten -> Auflistung Top x und bei Klick Institutionen auflisten und/oder auf Map darstellen
 - [ ] Kartenfunktionalität
 - [ ] Impressum (i)
@@ -45,6 +45,7 @@
 und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 - Mehrsprachigkeit (5 Sprachen)
 - Verlinkung vorheriger/nächster Jugendklub/Schule/Kita/Beratung mittels: < "Jugendklubname" >
+- Veranstaltungskalender mit Eventpostern/-Flyern? auf Startseite als Galerie?
 - Einbettung Social Media Streams bspw. jüngste Instagram Photos/Posts
 - Ehrenamt/Freiwilligenarbeit/Mitmachen bei allen Zielgruppen, sobald Daten verfügbar
 - Praktikumsstellen bei JFEs, Kitas, Schulen usw.
