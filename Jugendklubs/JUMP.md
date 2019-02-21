@@ -10,6 +10,7 @@ Mi  15:00-16:00  gemeinsames Lernangebot
 Mi  16:00        Kochen & gemeinsam Essen
 Do  15:30-16:30  Sport für alle
 Do  17:00        gemeinsam Essen
+Fr  geschlossen
 </pre>
 
 ## Offen
