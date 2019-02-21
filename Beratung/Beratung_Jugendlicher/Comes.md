@@ -1,4 +1,4 @@
-## Comes e.V.
+## COMES e.V.
 
 ## Offen
 Mo–Fr 9-17 Uhr
