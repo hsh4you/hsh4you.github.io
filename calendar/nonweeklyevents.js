@@ -1,4 +1,9 @@
 window.nonweeklyevents = [
+    {
+    title: 'Kleidertauschbörse - Zingster Str.6',
+    start: '2019-02-26T15:30',
+    end: '2019-02-26T17:30'
+  }, 
   {
     title: 'Erste Hilfe Kurs am Kind im FZ Grashalm (Anmeldung nötig)',
     url:   'https://www.google.com/maps/?q=FZ Grashalm Berlin',
