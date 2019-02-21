@@ -2,6 +2,7 @@
 
 ## Wochenplan
 <pre id="weeklyschedule">
+Mo  geschlossen
 Di  14-18  Hüttenbau
 Di  16-18  Pferde AG
 Mi  13-15  Betreuung Pferde
