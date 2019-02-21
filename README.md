@@ -15,6 +15,7 @@
 - [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events
 - [ ] Aktivitäten -> Auflistung Top x und bei Klick Institutionen auflisten und/oder auf Map darstellen
 - [ ] Kartenfunktionalität
+- [ ] Impressum (i)
 
 ## Erledigt
 
@@ -37,8 +38,17 @@
 
 ## Wünsche
 
-- Mehrsprachigkeit
+- Hintergrundbild für hsh4you
+- bunte Icons?
+- JFE Übersicht als Logo-Icons
+- Übersicht Freizeit/Aktivitäten wie z.B. Graffiti, Bandraum, Sport... verlinkt zu den jeweiligen Jugendklubs & interaktive Map
+und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
+- Mehrsprachigkeit (5 Sprachen)
 - Verlinkung vorheriger/nächster Jugendklub/Schule/Kita/Beratung mittels: < "Jugendklubname" >
 - Einbettung Social Media Streams bspw. jüngste Instagram Photos/Posts
 - Ehrenamt/Freiwilligenarbeit/Mitmachen bei allen Zielgruppen, sobald Daten verfügbar
+- Praktikumsstellen bei JFEs, Kitas, Schulen usw.
 - Kleine Vorschaubilder/Fotos, bei Klick großes Bild/Foto
+- Ressourcenpool (welcher Jugendklub hat was zum ausleihen - intern?)
+- Vermietungsmöglichkeiten der JFEs und anderer interessierter Träger
+- Senioren-Treffpunkte?
