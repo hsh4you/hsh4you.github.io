@@ -52,3 +52,10 @@ und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 - Ressourcenpool (welcher Jugendklub hat was zum ausleihen - intern?)
 - Vermietungsmöglichkeiten der JFEs und anderer interessierter Träger
 - Senioren-Treffpunkte?
+
+## Feedback während Testphase
+
+- teilweise nicht scanbar durch Android-Smartphones ->Alternative anbieten: Website-Link oder Scanner-App
+- teilweise bei Android- & htc-Phone nur Zielgruppen, aber keine Übersicht zur Auswahl angezeigt -> Browser issue?
+- braucht Unterscheidung zwischen wöchentlich stattfindenden & einmaligen Events, da diese in der Liste untergehen
+
