@@ -21,7 +21,7 @@ Di-Fr 12:30-20 Uhr
 
 ## Angebote
 <p id="activities">
-Billard, Tischtennis, Kicker, Darts, Zumba, Graffiti, Breakdance, Computer, Bildbearbeitung, Freizeitsport, Kochen, Handarbeit, Kreatives Gestalten & Nähen, Erlebnispädagogik, Multimedia-Spiele, Gesellschaftsspiele, Musik                     
+Billard, Tischtennis, Darts, Kicker, Karten- & Brettspiele, Fußball, Basketball, Volleyball, Computer/Konsolen, Erlebnispädagogik, Gitarre & Klavier, Nähen, Zeichnen, Handarbeit, Kochen & Backen, Tanzen, Bildbearbeitung                     
 </p>
 
 ## Links
