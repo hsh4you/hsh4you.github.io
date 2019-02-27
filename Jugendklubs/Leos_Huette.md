@@ -1,5 +1,5 @@
 ## JFE Leos Hütte
-<img id="topmedia" src="images/Leos_Huette/1.jpg" />
+<img id="topmedia" src="images/Leos_Huette/Logo Leos Hütte.jpg" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
