@@ -11,7 +11,10 @@
 ## Tasks
 
 - [ ] Suchfunktionalität
-- [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events & Zugang durch Träger mit Passwort
+- [ ] Veranstaltungskalender: Filter 'einmalig' 'wöchentlich'
+- [ ] Veranstaltungskalender: Zugang durch Träger mit Passwort
+- [ ] Veranstaltungskalender: Heute umbenennen in 'Aktuelle Woche'
+- [ ] Veranstaltungskalender: +Heute
 - [ ] Aktivitäten -> Auflistung Top x und bei Klick Institutionen auflisten und/oder auf Map darstellen
 - [ ] Kartenfunktionalität
 - [ ] Impressum (i)
