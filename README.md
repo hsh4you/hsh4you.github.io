@@ -24,28 +24,9 @@
 
 - [ ] Veranstaltungskalender: fehlerhafte Verlinkung von Full House, Leo's Hütte, JUMP, Welseclub, Trialog
 
-## Erledigt
-
-- [x] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
-- [x] Ubuntu Schrift bei allen Browsern
-- [x] Einbettung Youtube-Videos / Abspielbar in WebApp
-- [x] Auflistung aller Beratungsangebote bei keiner Auswahl
-- [x] Auswahl neugierig entfernen und Klickverhalten ändern
-- [x] Scrollbars verstecken
-- [x] Icon erstellen und verwenden
-- [x] Telnummern zu klickbaren Links erweitern
-- [x] QR-Code mit hsh4you.de erstellen
-- [x] Symbolunterschriften bei Startauswahl "Du bist"
-- [x] Ordnerstruktur Beratung vereinfachen
-- [x] Eingebettete Karte
-- [x] Dynamische Inhalte vorladen, siehe \*.md auf Startseite
-- [X] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
-- [x] Links in Tabellen reparieren
-- [x] Zurück Funktionalität
-- [X] Externe Links im neuen Tab öffnen
-
 ## Wünsche
 
+- Notrufbutton + Seite mit Notrufnummern
 - Feedback Button -> Feedbackseite mit Formular
 - Hintergrundbild für hsh4you
 - bunte Icons?
@@ -69,4 +50,24 @@ und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 - teilweise nicht scanbar durch Android-Smartphones ->Alternative anbieten: Website-Link oder Scanner-App
 - teilweise bei Android- & htc-Phone nur Zielgruppen, aber keine Übersicht zur Auswahl angezeigt -> Browser issue?
 - braucht Unterscheidung zwischen wöchentlich stattfindenden & einmaligen Events, da diese in der Liste untergehen
+
+## Erledigt
+
+- [x] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
+- [x] Ubuntu Schrift bei allen Browsern
+- [x] Einbettung Youtube-Videos / Abspielbar in WebApp
+- [x] Auflistung aller Beratungsangebote bei keiner Auswahl
+- [x] Auswahl neugierig entfernen und Klickverhalten ändern
+- [x] Scrollbars verstecken
+- [x] Icon erstellen und verwenden
+- [x] Telnummern zu klickbaren Links erweitern
+- [x] QR-Code mit hsh4you.de erstellen
+- [x] Symbolunterschriften bei Startauswahl "Du bist"
+- [x] Ordnerstruktur Beratung vereinfachen
+- [x] Eingebettete Karte
+- [x] Dynamische Inhalte vorladen, siehe \*.md auf Startseite
+- [X] Tabellenstruktur + Fettschrift-Formatierung bei allen Detailinfos
+- [x] Links in Tabellen reparieren
+- [x] Zurück Funktionalität
+- [X] Externe Links im neuen Tab öffnen
 
