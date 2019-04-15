@@ -12,7 +12,8 @@
 
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender: Filter 'einmalig' 'wöchentlich'
-- [ ] Veranstaltungskalender: Zugang durch Träger mit Passwort
+- [ ] Veranstaltungskalender: Wikizugang mittels github Account für Träger
+- [ ] Veranstaltungskalender: Automatisierung Wikiupdate -> Update calendar
 - [ ] Veranstaltungskalender: Heute umbenennen in 'Aktuelle Woche'
 - [ ] Veranstaltungskalender: +Heute
 - [ ] Neue Seite: Aktivitäten: Auflistung Top x als Links: Klick -> Auflistung der Jugendklubs / Darstellung auf Map
