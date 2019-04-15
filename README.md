@@ -10,7 +10,6 @@
 
 ## Tasks
 
-- [ ] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender mit einmaligen und wöchentlichen Events & Zugang durch Träger mit Passwort
 - [ ] Aktivitäten -> Auflistung Top x und bei Klick Institutionen auflisten und/oder auf Map darstellen
@@ -23,6 +22,7 @@
 
 ## Erledigt
 
+- [x] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [x] Ubuntu Schrift bei allen Browsern
 - [x] Einbettung Youtube-Videos / Abspielbar in WebApp
 - [x] Auflistung aller Beratungsangebote bei keiner Auswahl
