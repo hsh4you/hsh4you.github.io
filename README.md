@@ -12,8 +12,6 @@
 
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender: Filter 'einmalig' 'wöchentlich'
-- [ ] Veranstaltungskalender: Wikizugang mittels github Account für Träger
-- [ ] Veranstaltungskalender: Automatisierung Wikiupdate -> Update calendar
 - [ ] Veranstaltungskalender: Heute umbenennen in 'Aktuelle Woche'
 - [ ] Veranstaltungskalender: +Heute
 - [ ] Neue Seite: Aktivitäten: Auflistung Top x als Links: Klick -> Auflistung der Jugendklubs / Darstellung auf Map
@@ -27,6 +25,7 @@
 
 ## Wünsche
 
+- [ ] Veranstaltungskalender: passwortgeschützte Seite für Träger für Add/Edit/Delete von Events und Wochenplänen
 - Notrufbutton + Seite mit Notrufnummern
 - Feedback Button -> Feedbackseite mit Formular
 - Hintergrundbild für hsh4you
