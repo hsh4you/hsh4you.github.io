@@ -17,6 +17,10 @@
 - [ ] Kartenfunktionalität
 - [ ] Impressum (i)
 
+## Bugs
+
+- [ ] Veranstaltungskalender: fehlerhafte Verlinkung von Full House, Leo's Hütte, JUMP, Welseclub, Trialog
+
 ## Erledigt
 
 - [x] Ubuntu Schrift bei allen Browsern
