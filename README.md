@@ -15,8 +15,9 @@
 - [ ] Veranstaltungskalender: Zugang durch Träger mit Passwort
 - [ ] Veranstaltungskalender: Heute umbenennen in 'Aktuelle Woche'
 - [ ] Veranstaltungskalender: +Heute
-- [ ] Aktivitäten -> Auflistung Top x und bei Klick Institutionen auflisten und/oder auf Map darstellen
-- [ ] Kartenfunktionalität
+- [ ] Neue Seite: Aktivitäten: Auflistung Top x als Links: Klick -> Auflistung der Jugendklubs / Darstellung auf Map
+- [ ] Jugendseite: Auflistung mit Logos
+- [ ] Jugendseite: Toggle Jugendklubs auf Map darstellen
 - [ ] Impressum (i)
 
 ## Bugs
@@ -60,6 +61,7 @@ und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 - Ressourcenpool (welcher Jugendklub hat was zum ausleihen - intern?)
 - Vermietungsmöglichkeiten der JFEs und anderer interessierter Träger
 - Senioren-Treffpunkte?
+- Offline-Funkionalität
 
 ## Feedback während Testphase
 
