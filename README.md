@@ -46,6 +46,7 @@
 
 ## Wünsche
 
+- Feedback Button -> Feedbackseite mit Formular
 - Hintergrundbild für hsh4you
 - bunte Icons?
 - JFE Übersicht als Logo-Icons
