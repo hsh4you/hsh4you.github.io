@@ -14,7 +14,7 @@
       header: {
         left: 'prev,next today',
         center: 'title',
-        right: ''
+        right: 'listDay,listWeek'
       },
       locale: initialLocaleCode,
       buttonIcons: false, // show the prev/next text
@@ -22,9 +22,10 @@
       navLinks: false, // can click day/week names to navigate views
       editable: false,
       views: {
-        listWeek: { buttonText: 'Liste' }
+        listWeek: { buttonText: 'Woche' },
+        listDay: { buttonText: 'Tag' }
       },
-      defaultView: 'listWeek',
+      defaultView: 'listDay',
       eventLimit: true, // allow "more" link when too many events
       events: events_
     });
