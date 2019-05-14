@@ -113,15 +113,12 @@ for (eventtitle, url, start, end) in events:
   ''' % (eventtitle, url, start)
   jsonevents.append(jsonevent)
 
+jsoncode = ',\n  '.join(['{%s}' % jsonevent for jsonevent in jsonevents])
+jsoncode = 'window.weeklyevents = [\n  %s\n]' % jsoncode
+
+if PRINT_JSON:
+  print(jsoncode)
+
 if SAVE_AS_JSONFILE:
   with open('weeklyevents.js', 'w') as jsfile:
-    jsfile.write('window.weeklyevents = [\n')
-    for i, jsonevent in enumerate(jsonevents):
-      jsonevent = '{%s}' % jsonevent
-      if i == 0:
-        jsonevent = '  ' + jsonevent
-      else:
-        jsonevent = ', \n  ' + jsonevent
-      jsfile.write(jsonevent)
-      #if i > 3: break
-    jsfile.write('\n]')
+    jsfile.write(jsoncode)
