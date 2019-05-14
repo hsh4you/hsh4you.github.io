@@ -1,6 +1,5 @@
 ## Willkommen bei der WebApp Hsh4You
-- official and stable: https://www.hsh4you.de
-- evolving and unstable: https://danieldreke.github.io/webapp_hsh/
+- https://www.hsh4you.de
 
 ## QR Code hsh4you.de
 <a href="images/qr-code.png"><img src="images/qr-code.png" width="240px"></a>
@@ -13,15 +12,11 @@
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender: Filter 'einmalig' 'wöchentlich'
 - [ ] Veranstaltungskalender: Heute umbenennen in 'Aktuelle Woche'
-- [ ] Veranstaltungskalender: +Heute
+- [ ] Veranstaltungskalender: +Heute (Tag)
 - [ ] Neue Seite: Aktivitäten: Auflistung Top x als Links: Klick -> Auflistung der Jugendklubs / Darstellung auf Map
 - [ ] Jugendseite: Auflistung mit Logos
 - [ ] Jugendseite: Toggle Jugendklubs auf Map darstellen
 - [ ] Impressum (i)
-
-## Bugs
-
-- [ ] Veranstaltungskalender: fehlerhafte Verlinkung von Full House, Leo's Hütte, JUMP, Welseclub, Trialog
 
 ## Wünsche
 
