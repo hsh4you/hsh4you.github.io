@@ -2,107 +2,29 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+import urllib.request
 
-WEEKLYSCHEDULES = '''
-# ASP Fort Robinson
-Di 14-18 Hüttenbau
-Di 16-18 Pferde AG
-Mi 13-15 Betreuung Pferde
-Mi 16-18 Reiten & Stockbrot
-Mi 14-18 Lagerfeuer
-Do 14-18 Hüttenbau
-Do 14-16 Bogenschießen auf Anfrage
-Do 16-18 Pferde AG
-Fr 13-15 Gärtnern
-Fr 16-18 Kochen/Grillen über Lagerfeuer
-Sa 10-17 offene Spielangebote
+WIKI_URL = 'https://github.com/hsh4you/hsh4you.github.io/wiki/Wochenpl%C3%A4ne-Jugendklubs'
+PRINT_JSON = True
+SAVE_AS_JSONFILE = True
 
-# SPIK Jugendklub
-Mo 15-17 Bandraum
-Di 15-17 Kunst & Werken
-Mi 15-18 Graffiti
-Do 15-17 Fitness/Jin-Jitsu
-Fr 14-20 PC-Tag & Kochen 
-Sa 13-17 Hallensport
+def get_precode(url):
+    htmlcode = urllib.request.urlopen(url).read().decode('utf8')
+    precode = ''
+    is_line_precode = False
+    for line in htmlcode.split('\n'):
+        line = line.strip()
+        if line.startswith('<pre><code>'):
+            is_line_precode = True
+            continue
+        if line.startswith('</code></pre>'):
+            is_line_precode = False
+            break
+        if is_line_precode:
+            precode += line + '\n'
+    return precode
 
-# Mikado
-Mo 16:00-18:00 AG Garten
-Di 15:00-18:00 AG Klavier
-Mi 14:30-16:30 AG Brush
-Mi 17:00-20:00 Kinotag
-Do 15:00-18:00 AG Klaver
-Do 17:00-19:00 AG Garten
-Fr 15:00-17:00 AG Kochen
-Fr 18:00-20:00 Spieleabend
-
-# Pia Olymp
-Mo 15:00-18:00 Skaten/BMX
-Mo 16:00-17:00 Ringen & Raufen
-Di 16:00-17:00 Ball- & Bewegungsspiele
-Mi 16:00-17:00 Fitness (ab 10 J.)
-Mi 17:30-19:00 Pubertätsstunde (ab 12 J.)
-Do 15:00-18:00 Skaten/BMX
-Fr 15:00-16:00 Spiel & Spaß
-Fr 16:00-17:00 Tanzen (9-12 J.)
-Fr 17:30-19:00 Tanzen (ab 12 J.)
-
-# Kontaktladen VIP
-Mo 16:00 Kochen
-Mo 16:30 HipHop & Streetdance
-Di Tonstudio (Anmeldung)
-Mi 16:00 Kreativangebot
-Mi 17:00 Kicker-, Billard-, Tischtennistraining
-Do 17:00 VIP-Talk & Tonstudio (Anmeldung)
-Fr Wii/ Filme
-
-# Welseclub
-Mo 16:00 Backen
-Mo 16:15 Kampfkunsttraining (Kinder)
-Di 14:00-17:00 Fahrradwerkstatt
-Di 16:00 Tischtennis-AG
-Di 17:00 ClubAktiv (Ideensammlung)
-Mi gemeinsam Kochen & Essen
-Do 16:00 Basteln & Werken
-Do 18:00 Kampfkunst (Anfänger)
-Fr Rollenspiel, Gesellschaftsspiele
-Fr 15:00 Let's talk about... (für Mädchen)
-
-# Trialog
-Mo 17:00 Kekse & Kakao
-Di 15:30 Kreativangebot
-Mi 16:00 junge Küche
-Do 16:00 Sport im Fitnessraum
-Fr 15:00 Billiardturnier & Spielenachmittag
-
-# Jump
-Mo 16:00 Kochen & gemeinsam essen
-Di 15:30-16:30 Sport für alle
-Di 17:00 gemeinsam Essen
-Mi 15:00-16:00 gemeinsames Lernangebot
-Mi 16:00 Kochen & gemeinsam Essen
-Do 15:30-16:30 Sport für alle
-Do 17:00 gemeinsam Essen
-
-# Leos Hütte
-Mo 16:00-20:00 Küchengespräche, Basteln
-Mo 18:00-19:30 Zumba
-Di 16:00-18:00 Graffiti/Comic, Multimedia
-Mi 14:00-18:00 Multimedia
-Mi 17:00-19:00 Breakdance
-Do 15:00-18:00 Musizieren 
-Do 16:00-19:00 Kreatives Gestalten
-Fr 15:00-17:00 Musizieren
-Fr 16:00-20:00 Freizeitsport 
-Sa 12:00-15:00 Fußball (Halle Welsestr.)
-
-# Full House
-Mo 15:00 Kochen 
-Mo 20:00-22:00 Fußballtraining
-Di 16:00 Fitnesstraining 
-Di 18:00-20:00 Volleyball (mit Gangway)
-Do 16:00 Fitnesstraining
-Fr 15:00 Kochen
-'''
+weeklyschedules = get_precode(WIKI_URL)
 
 weekdays = dict()
 weekdays['Mo'] = 0
@@ -116,12 +38,15 @@ weekdays['So'] = 6
 weeklyevents = []
 events = []
 name = None
-for row in WEEKLYSCHEDULES.strip().split('\n'):
+for row in weeklyschedules.strip().split('\n'):
   #row = row.decode('unicode-escape')
   if len(row) < 3:
     continue
   if row.startswith('#'):
     name = row[2:]
+    continue
+  if row.startswith('https:'):
+    url = row
     continue
   if len(row.strip()) == 0:
     continue
@@ -142,7 +67,7 @@ for row in WEEKLYSCHEDULES.strip().split('\n'):
       starttime += ':00'
   weekdayname = day
   weekdaynum = weekdays[weekdayname]
-  weeklyevent = (name, weekdayname, weekdaynum, title, starttime, endtime)
+  weeklyevent = (name, url, weekdayname, weekdaynum, title, starttime, endtime)
   #print(weeklyevent)
   weeklyevents.append(weeklyevent)
   #print(day, time, title)
@@ -158,15 +83,9 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
   loopday = STARTDATE + datetime.timedelta(delta)
   loopweekdaynum = loopday.weekday()
   loopweekdayname = WEEKDAYNAMES[loopweekdaynum]
-  for (youthclubname, weekdayname, weekdaynum, eventname, starttime, endtime) in weeklyevents:
+  for (youthclubname, url, weekdayname, weekdaynum, eventname, starttime, endtime) in weeklyevents:
     if weekdaynum == loopweekdaynum:
       eventtitle = '%s | %s' % (youthclubname, eventname)
-      url = "{{ '/Jugendklubs/%s.html' | relative_url }}" % youthclubname.replace(' ', '_')
-      # temporary hard link to fix broken links
-      # TODO: make it possible to check locally as well
-      url = "https://www.hsh4you.de/Jugendklubs/%s.html" % youthclubname.replace(' ', '_')
-      if 'SPIK_Jugendklub' in url:
-        url = url.replace('SPIK_Jugendklub.html', 'SPIK_JK.html')
       start = '%s' % loopday
       if starttime:
         start = '%sT%s' % (loopday, starttime)
@@ -194,14 +113,15 @@ for (eventtitle, url, start, end) in events:
   ''' % (eventtitle, url, start)
   jsonevents.append(jsonevent)
 
-with open('weeklyevents.js', 'w') as jsfile:
-  jsfile.write('window.weeklyevents = [\n')
-  for i, jsonevent in enumerate(jsonevents):
-    jsonevent = '{%s}' % jsonevent
-    if i == 0:
-      jsonevent = '  ' + jsonevent
-    else:
-      jsonevent = ', \n  ' + jsonevent
-    jsfile.write(jsonevent)
-    #if i > 3: break
-  jsfile.write('\n]')
+if SAVE_AS_JSONFILE:
+  with open('weeklyevents.js', 'w') as jsfile:
+    jsfile.write('window.weeklyevents = [\n')
+    for i, jsonevent in enumerate(jsonevents):
+      jsonevent = '{%s}' % jsonevent
+      if i == 0:
+        jsonevent = '  ' + jsonevent
+      else:
+        jsonevent = ', \n  ' + jsonevent
+      jsfile.write(jsonevent)
+      #if i > 3: break
+    jsfile.write('\n]')
