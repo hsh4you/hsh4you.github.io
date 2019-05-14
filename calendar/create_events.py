@@ -87,7 +87,7 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
   loopweekdayname = WEEKDAYNAMES[loopweekdaynum]
   for (youthclubname, url, weekdayname, weekdaynum, eventname, starttime, endtime) in weeklyevents:
     if weekdaynum == loopweekdaynum:
-      eventtitle = '%s | %s' % (youthclubname, eventname)
+      eventtitle = '%s @ %s' % (eventname, youthclubname)
       start = '%s' % loopday
       if starttime:
         start = '%sT%s' % (loopday, starttime)
