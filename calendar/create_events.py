@@ -122,5 +122,5 @@ if PRINT_JSON:
   print(jsoncode)
 
 if SAVE_AS_JSONFILE:
-  with open('weeklyevents.js', 'w') as jsfile:
+  with open('weeklyevents.js', 'w', encoding='utf8') as jsfile:
     jsfile.write(jsoncode)
