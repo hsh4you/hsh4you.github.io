@@ -11,8 +11,6 @@
 
 - [ ] Suchfunktionalität
 - [ ] Veranstaltungskalender: Filter 'einmalig' 'wöchentlich'
-- [ ] Veranstaltungskalender: Heute umbenennen in 'Aktuelle Woche'
-- [ ] Veranstaltungskalender: +Heute (Tag)
 - [ ] Neue Seite: Aktivitäten: Auflistung Top x als Links: Klick -> Auflistung der Jugendklubs / Darstellung auf Map
 - [ ] Jugendseite: Auflistung mit Logos
 - [ ] Jugendseite: Toggle Jugendklubs auf Map darstellen
@@ -20,7 +18,7 @@
 
 ## Wünsche
 
-- [ ] Veranstaltungskalender: passwortgeschützte Seite für Träger für Add/Edit/Delete von Events und Wochenplänen
+- Veranstaltungskalender: passwortgeschützte Seite für Träger für Add/Edit/Delete von Events und Wochenplänen
 - Notrufbutton + Seite mit Notrufnummern
 - Feedback Button -> Feedbackseite mit Formular
 - Hintergrundbild für hsh4you
@@ -48,6 +46,7 @@ und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 
 ## Erledigt
 
+- [x] Veranstaltungskalender: + Tagesansicht
 - [x] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
 - [x] Ubuntu Schrift bei allen Browsern
 - [x] Einbettung Youtube-Videos / Abspielbar in WebApp
