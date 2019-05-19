@@ -8,26 +8,42 @@
 
   $(document).ready(function() {
     var initialLocaleCode = 'de';
-    var events_ = (window.nonweeklyevents).concat(window.weeklyevents)
+    var showweeklyevents = true;
 
     $('#calendar').fullCalendar({
       header: {
         left: 'prev,next today',
         center: 'title',
-        right: 'listDay,listWeek'
+        right: 'listDay,listWeek listMonth,listYear'
       },
       locale: initialLocaleCode,
-      buttonIcons: false, // show the prev/next text
+      buttonIcons: true, // show the prev/next text
       weekNumbers: false,
       navLinks: false, // can click day/week names to navigate views
       editable: false,
       views: {
+        listDay: { buttonText: 'Tag' },
         listWeek: { buttonText: 'Woche' },
-        listDay: { buttonText: 'Tag' }
+        listMonth: { buttonText: 'Monat' },
+        listYear: { buttonText: 'Jahr' }
       },
       defaultView: 'listDay',
       eventLimit: true, // allow "more" link when too many events
-      events: events_
+      eventSources: [ window.weeklyevents, window.nonweeklyevents ],
+      viewRender: function(view) {
+        if (view.name == 'listDay' || view.name == 'listWeek') {
+            if (!showweeklyevents) {
+                $('#calendar').fullCalendar('addEventSource', window.weeklyevents);
+                showweeklyevents = true;
+            }
+        }
+        if (view.name == 'listMonth' || view.name == 'listYear') {
+            if (showweeklyevents) {
+                $('#calendar').fullCalendar('removeEventSource', window.weeklyevents);
+                showweeklyevents = false;
+            }
+        }
+      }
     });
   });
 

@@ -52,7 +52,6 @@ for row in weeklyschedules.strip().split('\n'):
     continue
   if len(row.strip()) == 0:
     continue
-  #print(row)
   day = row.split(' ')[0]
   starttime = None
   endtime = None
@@ -70,49 +69,39 @@ for row in weeklyschedules.strip().split('\n'):
   weekdayname = day
   weekdaynum = weekdays[weekdayname]
   weeklyevent = (name, url, weekdayname, weekdaynum, title, starttime, endtime)
-  #print(weeklyevent)
   weeklyevents.append(weeklyevent)
-  #print(day, time, title)
 
 WEEKDAYNAMES = ['Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa', 'So']
 
-STARTDATE = datetime.date(2019, 1, 1)
-#STARTDATE = datetime.datetime.today().date()
-ENDDATE = datetime.date(2020, 1, 1)
-
 events = []
-for delta in range(0, (ENDDATE - STARTDATE).days + 1):
-  loopday = STARTDATE + datetime.timedelta(delta)
-  loopweekdaynum = loopday.weekday()
-  loopweekdayname = WEEKDAYNAMES[loopweekdaynum]
-  for (youthclubname, url, weekdayname, weekdaynum, eventname, starttime, endtime) in weeklyevents:
-    if weekdaynum == loopweekdaynum:
-      eventtitle = '%s @ %s' % (eventname, youthclubname)
-      start = '%s' % loopday
-      if starttime:
-        start = '%sT%s' % (loopday, starttime)
-      end = None
-      if endtime:
-        end = '%sT%s' % (loopday, endtime)
-      event = (eventtitle, url, start, end)
-      #print(event)
-      events.append(event)
+for (youthclubname, url, weekdayname, weekdaynum, eventname, starttime, endtime) in weeklyevents:
+  eventtitle = '%s @ %s' % (eventname, youthclubname)
+  start = None
+  if starttime:
+    start = '%s' % starttime
+  end = None
+  if endtime:
+    end = '%s' % endtime
+  event = (eventtitle, url, start, end, weekdaynum + 1)
+  events.append(event)
 
 jsonevents = []
-for (eventtitle, url, start, end) in events:
+for (eventtitle, url, start, end, weekdaynum) in events:
   if end:
     jsonevent = '''
     title: "%s",
     url: "%s",
     start: '%s',
-    end: '%s'
-  ''' % (eventtitle, url, start, end)
+    end: '%s',
+    dow: [%s]
+  ''' % (eventtitle, url, start, end, weekdaynum)
   else:
     jsonevent = '''
     title: "%s",
     url: "%s",
-    start: '%s'
-  ''' % (eventtitle, url, start)
+    start: '%s',
+    dow: [%s]
+  ''' % (eventtitle, url, start, weekdaynum)
   jsonevents.append(jsonevent)
 
 jsoncode = ',\n  '.join(['{%s}' % jsonevent for jsonevent in jsonevents])
