@@ -38,7 +38,6 @@ weekdays['Sa'] = 5
 weekdays['So'] = 6
 
 weeklyevents = []
-events = []
 name = None
 for row in weeklyschedules.strip().split('\n'):
   #row = row.decode('unicode-escape')
@@ -87,21 +86,24 @@ for (youthclubname, url, weekdayname, weekdaynum, eventname, starttime, endtime)
 
 jsonevents = []
 for (eventtitle, url, start, end, weekdaynum) in events:
+  jsonevent = '''
+    title: "%s",
+    url: "%s",
+    dow: [%s]
+  ''' % (eventtitle, url, weekdaynum)
+  if start:
+    jsonevent = jsonevent.rstrip() + ''',
+    start: '%s'
+  ''' % start
   if end:
-    jsonevent = '''
-    title: "%s",
-    url: "%s",
-    start: '%s',
-    end: '%s',
-    dow: [%s]
-  ''' % (eventtitle, url, start, end, weekdaynum)
-  else:
-    jsonevent = '''
-    title: "%s",
-    url: "%s",
-    start: '%s',
-    dow: [%s]
-  ''' % (eventtitle, url, start, weekdaynum)
+    jsonevent = jsonevent.rstrip() + ''',
+    end: '%s'
+  ''' % end
+  if not start and not end:
+    jsonevent = jsonevent.rstrip() + ''',
+    start: '14:00',
+    allDay: true
+  '''
   jsonevents.append(jsonevent)
 
 jsoncode = ',\n  '.join(['{%s}' % jsonevent for jsonevent in jsonevents])
