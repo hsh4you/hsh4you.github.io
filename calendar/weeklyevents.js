@@ -250,11 +250,10 @@ window.weeklyevents = [
     start: '16:30'
   },
   {
-    title: "HipHop & Streetdance @ Kontaktladen VIP",
+    title: "Tonstudio (Anmeldung) @ Kontaktladen VIP",
     url: "https://www.hsh4you.de/Jugendklubs/Kontaktladen_VIP.html",
     dow: [2],
-    start: '14:00',
-    allDay: true
+    start: '14:00'
   },
   {
     title: "Kreativangebot @ Kontaktladen VIP",
@@ -275,11 +274,10 @@ window.weeklyevents = [
     start: '17:00'
   },
   {
-    title: "VIP-Talk & Tonstudio (Anmeldung) @ Kontaktladen VIP",
+    title: "Wii/ Filme @ Kontaktladen VIP",
     url: "https://www.hsh4you.de/Jugendklubs/Kontaktladen_VIP.html",
     dow: [5],
-    start: '14:00',
-    allDay: true
+    start: '14:00'
   },
   {
     title: "Backen @ Welseclub",
@@ -313,11 +311,10 @@ window.weeklyevents = [
     start: '17:00'
   },
   {
-    title: "ClubAktiv (Ideensammlung) @ Welseclub",
+    title: "gemeinsam Kochen & Essen @ Welseclub",
     url: "https://www.hsh4you.de/Jugendklubs/jfe_welseclub.html",
     dow: [3],
-    start: '14:00',
-    allDay: true
+    start: '13:00'
   },
   {
     title: "Basteln & Werken @ Welseclub",
@@ -332,11 +329,10 @@ window.weeklyevents = [
     start: '18:00'
   },
   {
-    title: "Kampfkunst (Anfänger) @ Welseclub",
+    title: "Rollenspiel, Gesellschaftsspiele @ Welseclub",
     url: "https://www.hsh4you.de/Jugendklubs/jfe_welseclub.html",
     dow: [5],
-    start: '14:00',
-    allDay: true
+    start: '13:00'
   },
   {
     title: "Let's talk about... (für Mädchen) @ Welseclub",

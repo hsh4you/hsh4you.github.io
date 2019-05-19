@@ -101,8 +101,7 @@ for (eventtitle, url, start, end, weekdaynum) in events:
   ''' % end
   if not start and not end:
     jsonevent = jsonevent.rstrip() + ''',
-    start: '14:00',
-    allDay: true
+    start: '14:00'
   '''
   jsonevents.append(jsonevent)
 
