@@ -57,6 +57,22 @@
     font-size: 11px;
 }
 
+.youthclub {
+    display: inline-block;
+    cursor: pointer;
+    max-width: 109px;
+    width: 109px;
+    padding-bottom: 16px;
+    font-size: 13px;
+}
+
+@media screen and (min-width: 64em) { .youthclub { padding: 14px; width: 120px; max-width: 120px; } }
+
+.youthclub img {
+    max-height: 70px;
+    max-width: 95px;
+}
+
 @media screen and (min-width: 64em) { .userselectioncontainer { font-size: 13px; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .userselectioncontainer { font-size: 12px; } }
 @media screen and (max-width: 42em) { .userselectioncontainer { font-size: 11px; } }
@@ -73,11 +89,11 @@
     width: 60px;
 }
 
-.userselectioncontainer span {
+.userselectioncontainer span, .youthclub span {
   white-space: nowrap;
 }
 
-.userselectioncontainer span:hover {
+.userselectioncontainer span:hover, .youthclub span:hover {
   color: #00cc00
 }
 
@@ -122,7 +138,7 @@
     max-height: 100%;
 }
 
-.activelink, .activelink:link, .activelink:hover, .activelink:active, .activelink:visited {  
+.activelink, .activelink:link, .activelink:hover, .activelink:active, .activelink:visited {
   color: #00cc00;
 }
 
@@ -144,8 +160,8 @@
 
 @media screen and (max-width: 30em) { #weeklyschedule { font-size: 0.69rem; } }
 
-#activities { 
-    max-width: 80%; 
+#activities {
+    max-width: 80%;
     display: inline-block;
     margin: auto;
 }
@@ -160,7 +176,4 @@
 
 .inline {
     display: inline;
-}
-
-#headeractionitem {
 }

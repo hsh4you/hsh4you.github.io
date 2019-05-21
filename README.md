@@ -11,7 +11,6 @@
 
 - [ ] Suchfunktionalität
 - [ ] Neue Seite: Aktivitäten: Auflistung Top x als Links: Klick -> Auflistung der Jugendklubs / Darstellung auf Map
-- [ ] Jugendseite: Auflistung mit Logos
 - [ ] Jugendseite: Toggle Jugendklubs auf Map darstellen
 - [ ] Impressum (i)
 
@@ -45,6 +44,7 @@ und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 
 ## Erledigt
 
+- [x] Jugendseite: Auflistung mit Logos
 - [x] Veranstaltungskalender: Filter 'einmalig' 'wöchentlich'
 - [x] Veranstaltungskalender: + Tagesansicht
 - [x] Designanpassung: Was (Angebote), Wann (Wochenplan + Öffnungszeiten), Wo (Karte), Wer (Inet, Tel, Mail, Fotos)
