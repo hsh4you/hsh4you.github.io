@@ -12,9 +12,9 @@
 
     $('#calendar').fullCalendar({
       header: {
-        left: 'prev,next today',
+        left: 'prev,next,today listDay,listMonth,listYear',
         center: 'title',
-        right: 'listDay,listWeek listMonth,listYear'
+        right: ''
       },
       locale: initialLocaleCode,
       buttonIcons: true, // show the prev/next text
