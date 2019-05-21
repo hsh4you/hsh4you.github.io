@@ -12,9 +12,9 @@
 
     $('#calendar').fullCalendar({
       header: {
-        left: 'prev,next,today listDay,listMonth,listYear',
+        left: 'prev,next,today',
         center: 'title',
-        right: ''
+        right: 'listDay,listYear'
       },
       locale: initialLocaleCode,
       buttonIcons: true, // show the prev/next text
@@ -22,10 +22,10 @@
       navLinks: false, // can click day/week names to navigate views
       editable: false,
       views: {
-        listDay: { buttonText: 'Tag' },
+        listDay: { buttonText: 'Tagesplan' },
         listWeek: { buttonText: 'Woche' },
         listMonth: { buttonText: 'Monat' },
-        listYear: { buttonText: 'Jahr' }
+        listYear: { buttonText: 'Events' }
       },
       defaultView: 'listDay',
       eventLimit: true, // allow "more" link when too many events
