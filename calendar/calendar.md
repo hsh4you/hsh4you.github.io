@@ -37,6 +37,8 @@
                 showweeklyevents = true;
             }
         }
+      },
+      eventRender: function(event, element, view) {
         if (view.name == 'listMonth' || view.name == 'listYear') {
             if (showweeklyevents) {
                 $('#calendar').fullCalendar('removeEventSource', window.weeklyevents);
