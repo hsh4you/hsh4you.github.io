@@ -1,5 +1,5 @@
 ## SPIK Jugendklub
-<img id="topmedia" src="images/SPIK_JK/logo.png" />
+<img id="topmedia" src="images/SPIK_JK/logo.jpg" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
