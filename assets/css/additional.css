@@ -66,11 +66,11 @@
     font-size: 13px;
 }
 
-@media screen and (min-width: 64em) { .youthclub { padding: 14px; width: 120px; max-width: 120px; } }
+@media screen and (min-width: 64em) { .youthclub { padding-top: 14px; width: 134px; max-width: 134px; } }
 
 .youthclub img {
     max-height: 70px;
-    max-width: 95px;
+    max-width: 92px;
 }
 
 @media screen and (min-width: 64em) { .userselectioncontainer { font-size: 13px; } }
