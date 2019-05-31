@@ -1,7 +1,7 @@
 window.nonweeklyevents = [
   {
     title: "Kleidertauschbörse - Zingster Str. 6",
-      url: "https://www.hsh4you.de/Beratung/Beratung_Jugendlicher/Comes.md",
+      url: "https://www.hsh4you.de/Beratung/Beratung_Jugendlicher/Comes.html",
     start: '2019-02-26T15:30',
       end: '2019-02-26T17:30'
   },
