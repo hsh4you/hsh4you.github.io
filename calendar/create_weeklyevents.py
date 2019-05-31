@@ -1,32 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import datetime
-import urllib.request
-import html
+from common import get_precode_from_wiki
 
 WIKI_URL = 'https://github.com/hsh4you/hsh4you.github.io/wiki/Wochenpl%C3%A4ne-Jugendklubs'
 PRINT_JSON = True
 SAVE_AS_JSONFILE = True
 
-def get_precode(url):
-  htmlcode = urllib.request.urlopen(url).read().decode('utf8')
-  precode = ''
-  is_line_precode = False
-  for line in htmlcode.split('\n'):
-    line = line.strip()
-    if line.startswith('<pre><code>'):
-      is_line_precode = True
-      continue
-    if line.startswith('</code></pre>'):
-      is_line_precode = False
-      break
-    if is_line_precode:
-      line = html.unescape(line)
-      precode += line + '\n'
-  return precode
-
-weeklyschedules = get_precode(WIKI_URL)
+weeklyschedules = get_precode_from_wiki(WIKI_URL)
 
 weekdays = dict()
 weekdays['Mo'] = 0
@@ -88,8 +69,8 @@ jsonevents = []
 for (eventtitle, url, start, end, weekdaynum) in events:
   jsonevent = '''
     title: "%s",
-    url: "%s",
-    dow: [%s]
+      url: "%s",
+      dow: [%s]
   ''' % (eventtitle, url, weekdaynum)
   if start:
     jsonevent = jsonevent.rstrip() + ''',
@@ -97,7 +78,7 @@ for (eventtitle, url, start, end, weekdaynum) in events:
   ''' % start
   if end:
     jsonevent = jsonevent.rstrip() + ''',
-    end: '%s'
+      end: '%s'
   ''' % end
   if not start and not end:
     jsonevent = jsonevent.rstrip() + ''',
