@@ -21,16 +21,16 @@ window.nonweeklyevents = [
     start: '2019-03-27'
   },
   {
-    title: "Film „Nachhall - Erinnerungen an die Gehrenseestraße“ im BENN Büro, Warnitzer Str. 14",
-      url: "https://www.benn-hohenschoenhausen.de/",
-    start: '2019-06-06T19:00',
-      end: '2019-06-06T21:00'
-  },
-  {
     title: "Fastenbrechen Hsh auf der Wiese vor dem BENN Büro",
       url: "https://www.benn-hohenschoenhausen.de/",
-    start: '2019-06-14T16:00',
-      end: '2019-06-14T20:00'
+    start: '2019-06-06T16:00',
+      end: '2019-06-06T20:00'
+  },
+  {
+    title: "Film „Nachhall - Erinnerungen an die Gehrenseestraße“ im BENN Büro, Warnitzer Str. 14",
+      url: "https://www.benn-hohenschoenhausen.de/",
+    start: '2019-06-14T19:00',
+      end: '2019-06-14T21:00'
   },
   {
     title: "25. Storchenfest in der Naturschutzstation Malchow",
@@ -57,7 +57,7 @@ window.nonweeklyevents = [
   },
   {
     title: "Kleidertausch 1xMonat Sommerspecial mit Kuchen @ Comes e.V., Zingster Str.6.",
-      url: "https://www.hsh4you.de/Beratung/Beratung_Jugendlicher/Comes.md",
+      url: "https://www.hsh4you.de/Beratung/Beratung_Jugendlicher/Comes.html",
     start: '2019-06-25'
   },
   {

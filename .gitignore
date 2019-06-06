@@ -2,3 +2,4 @@ _site/
 Gemfile*
 *template.md
 .vscode/
+**__pycache__/
