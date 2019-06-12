@@ -1,62 +1,89 @@
-var lastclickedimagebasename = '';
 const DEFAULTLISTNAME = 'listDefault';
 
-function showImage(imageelem) {
-  imageelem.style.display = 'inline';
+var lastselectedlabel = null;
+
+function showImage(image) {
+    image.style.display = 'inline';
 }
 
-function hideImage(imageelem) {
-  imageelem.style.display = 'none';
+function hideImage(image) {
+    image.style.display = 'none';
 }
 
-function updateImagesAndLists(clickedimageelem) {
-  var clickedimagename = clickedimageelem.id;
-  var clickedimagebasename = clickedimagename.replace('Clicked', '').replace('Default', '');
-  var imagedefaultversionname = clickedimagebasename + 'Default';
-  var imagedefaultversionelem = document.getElementById(imagedefaultversionname);
-  var imageclickedversionname = clickedimagebasename + 'Clicked';
-  var imageclickedversionelem = document.getElementById(imageclickedversionname);
-  var liststartpageelem = document.getElementById('listStartpage');
-  var hasimagebeenclickedagain = (clickedimagename.indexOf('Clicked') > 0);
-  if (hasimagebeenclickedagain) {
-    hideImage(imageclickedversionelem);
-    showImage(imagedefaultversionelem);
-    var defaultlistelem = document.getElementById(DEFAULTLISTNAME);
-    if (defaultlistelem != null) {
-      liststartpageelem.innerHTML = defaultlistelem.innerHTML;  
+function getDefaultImage(label) {
+    defaultimage = label.getElementsByTagName("img")[0];
+    return defaultimage;
+}
+
+function getSelectedImage(label) {
+    selectedimage = label.getElementsByTagName("img")[1];
+    return selectedimage;
+}
+
+function getVisibleList() {
+    visiblelist = document.getElementById('listVisible');
+    return visiblelist;
+}
+
+function getDefaultList() {
+    defaultlist = document.getElementById('listDefault');
+    return defaultlist;
+}
+
+function showDefaultList() {
+    getVisibleList().innerHTML = getDefaultList().innerHTML;
+}
+
+function showSelectedList(listid) {
+    getVisibleList().innerHTML = document.getElementById(listid).innerHTML;
+}
+
+function getListId(label) {
+    imagename = getDefaultImage(label).src.split('/').slice(-1)[0];
+    basename = imagename.split('.')[0];
+    listid = 'list'.concat(basename);
+    return listid;
+}
+
+function selectLabel(label) {
+    hideImage(getDefaultImage(label));
+    showImage(getSelectedImage(label));
+    lastselectedlabel = label;
+    listid = getListId(label);
+    showSelectedList(listid);
+}
+
+function deselectLabel(label) {
+    hideImage(label.getElementsByTagName("img")[1]);
+    showImage(getDefaultImage(label));
+    lastselectedlabel = null;
+}
+
+function updateImagesAndLists(label) {
+    if (lastselectedlabel == null)
+    {
+        selectLabel(label);
     }
-  }
-  else {
-    if (lastclickedimagebasename.length > 0) {        
-      var lastclickedimagedefaultversionelem = document.getElementById(lastclickedimagebasename + 'Default');
-      var lastclickedimageclickedversionelem = document.getElementById(lastclickedimagebasename + 'Clicked');
-      hideImage(lastclickedimageclickedversionelem);
-      showImage(lastclickedimagedefaultversionelem);
+    else if (lastselectedlabel != label) {
+        deselectLabel(lastselectedlabel);
+        selectLabel(label);
     }
-    hideImage(imagedefaultversionelem);
-    showImage(imageclickedversionelem);
-    var listtoshowname = clickedimagebasename.replace('img', 'list');
-    var listtoshowelem = document.getElementById(listtoshowname);
-    if (listtoshowelem != null) {
-      liststartpageelem.innerHTML = listtoshowelem.innerHTML;
+    else if (lastselectedlabel == label) {
+        deselectLabel(label);
+        showDefaultList();
     }
-  }
-  lastclickedimagebasename = clickedimagebasename;
-}  
+}
 
 function formatLists() {
-  // replace all lists markdown code with html code
-  var listnames = ['listDefault', 'listJugendlicher', 'listEltern', 'listNeu', 'listSenior'];
-  for (let listname of listnames) {
-    var listelem = document.getElementById(listname);
-    if (listelem != null) {
-      var markdowncode = listelem.innerHTML;
-      var htmlcode = marked(markdowncode);
-      listelem.innerHTML = htmlcode;
+    // replace all lists markdown code with html code
+    var listnames = ['listDefault', 'listJugendlicher', 'listEltern', 'listNeu_in_Hsh', 'listSenior'];
+    for (let listname of listnames) {
+        var listelem = document.getElementById(listname);
+        if (listelem != null) {
+            var markdowncode = listelem.innerHTML;
+            var htmlcode = marked(markdowncode);
+            listelem.innerHTML = htmlcode;
+        }
     }
-  }
-  // show content of default list
-  var liststartpageelem = document.getElementById('listStartpage');
-  var defaultlistelem = document.getElementById(DEFAULTLISTNAME);
-  liststartpageelem.innerHTML = defaultlistelem.innerHTML;
+    showDefaultList();
 }

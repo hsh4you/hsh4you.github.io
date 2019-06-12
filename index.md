@@ -5,25 +5,33 @@ id: index
 
 ## Du bist
 
-<script type="text/javascript"> window.onload = function() { document.title = "hsh4you.de"; } </script>
+<script> window.onload = function() { document.title = "hsh4you.de"; } </script>
 
 <span class="nowrap">
-  <label class="userselectioncontainer">
-    <img onclick="updateImagesAndLists(this)" id="imgJugendlicherDefault" src="images/startpage/Jugendlicher.png"><img onclick="updateImagesAndLists(this)" id="imgJugendlicherClicked" src="images/startpage/Jugendlicher_selected.png"><br><span>Jugendlich</span>
+  <label class="userselectioncontainer" onclick="updateImagesAndLists(this)">
+    <img src="images/startpage/Jugendlicher.png">
+    <img style="display:none" src="images/startpage/Jugendlicher_selected.png"><br>
+    <span>Jugendlich</span>
   </label>
-  <label class="userselectioncontainer">
-    <img onclick="updateImagesAndLists(this)" id="imgElternDefault" src="images/startpage/Eltern.png"><img onclick="updateImagesAndLists(this)" id="imgElternClicked" src="images/startpage/Eltern_selected.png"><br><span>Mama/Papa</span>
+  <label class="userselectioncontainer" onclick="updateImagesAndLists(this)">
+    <img src="images/startpage/Eltern.png">
+    <img style="display:none" src="images/startpage/Eltern_selected.png"><br>
+    <span>Mama/Papa</span>
   </label>
-  <label class="userselectioncontainer">
-    <img onclick="updateImagesAndLists(this)" id="imgNeuDefault" src="images/startpage/Neu_in_Hsh.png"><img onclick="updateImagesAndLists(this)" id="imgNeuClicked" src="images/startpage/Neu_in_Hsh_selected.png"><br><span>Neu in Hsh</span>
+  <label class="userselectioncontainer" onclick="updateImagesAndLists(this)">
+    <img src="images/startpage/Neu_in_Hsh.png">
+    <img style="display:none" src="images/startpage/Neu_in_Hsh_selected.png"><br>
+    <span>Neu in Hsh</span>
   </label>
-  <label class="userselectioncontainer">
-    <img onclick="updateImagesAndLists(this)" id="imgSeniorDefault" src="images/startpage/Senior.png"><img onclick="updateImagesAndLists(this)" id="imgSeniorClicked" src="images/startpage/Senior_selected.png"><br><span>Senior/in</span>
+  <label class="userselectioncontainer" onclick="updateImagesAndLists(this)">
+    <img src="images/startpage/Senior.png">
+    <img style="display:none" src="images/startpage/Senior_selected.png"><br>
+    <span>Senior/in</span>
   </label>
 </span>
 
 ## Du suchst
-<div id="listStartpage"></div>
+<div id="listVisible"></div>
 <div class="displaynone" id="listDefault">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Kitas](Kitas/Kitas.md)
@@ -48,7 +56,7 @@ id: index
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - Jugendamt
 </div>
-<div class="displaynone" id="listNeu">
+<div class="displaynone" id="listNeu_in_Hsh">
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Veranstaltungen](calendar/calendar.html)
@@ -66,7 +74,7 @@ id: index
 
 <script type="text/javascript">
   // format lists after page has loaded
-  document.addEventListener("DOMContentLoaded", function(event) { 
+  document.addEventListener("DOMContentLoaded", function(event) {
     formatLists();
   });
 </script>
