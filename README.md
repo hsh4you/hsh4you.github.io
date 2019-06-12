@@ -21,7 +21,7 @@
 - Feedback Button -> Feedbackseite mit Formular
 - Hintergrundbild für hsh4you
 - bunte Icons?
-- JFE Übersicht als Logo-Icons
+- [x] ~~JFE Übersicht als Logo-Icons~~ Umgesetzt -- Daniel
 - Übersicht Freizeit/Aktivitäten wie z.B. Graffiti, Bandraum, Sport... verlinkt zu den jeweiligen Jugendklubs & interaktive Map
 und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 - Mehrsprachigkeit (5 Sprachen)
