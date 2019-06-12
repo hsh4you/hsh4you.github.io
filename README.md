@@ -38,9 +38,9 @@ und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 
 ## Feedback während Testphase
 
-[x] teilweise nicht scanbar durch Android-Smartphones ->Alternative anbieten: Website-Link oder Scanner-App
-[x] ~~teilweise bei Android- & htc-Phone nur Zielgruppen, aber keine Übersicht zur Auswahl angezeigt -> Browser issue?~~ Untersützt werden Firefox, Chrome und Opera --Daniel
-[x] ~~braucht Unterscheidung zwischen wöchentlich stattfindenden & einmaligen Events, da diese in der Liste untergehen~~ Unterscheidung umgesetzt --Daniel
+- [x] teilweise nicht scanbar durch Android-Smartphones ->Alternative anbieten: Website-Link oder Scanner-App
+- [x] ~~teilweise bei Android- & htc-Phone nur Zielgruppen, aber keine Übersicht zur Auswahl angezeigt -> Browser issue?~~ Untersützt werden Firefox, Chrome und Opera -- Daniel
+- [x] ~~braucht Unterscheidung zwischen wöchentlich stattfindenden & einmaligen Events, da diese in der Liste untergehen~~ Unterscheidung umgesetzt -- Daniel
 
 ## Erledigt
 
