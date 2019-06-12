@@ -21,7 +21,7 @@
 - Feedback Button -> Feedbackseite mit Formular
 - Hintergrundbild für hsh4you
 - bunte Icons?
-- [x] ~~JFE Übersicht als Logo-Icons~~ Umgesetzt -- Daniel
+- ~~JFE Übersicht als Logo-Icons~~ DONE -- Daniel
 - Übersicht Freizeit/Aktivitäten wie z.B. Graffiti, Bandraum, Sport... verlinkt zu den jeweiligen Jugendklubs & interaktive Map
 und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 - Mehrsprachigkeit (5 Sprachen)
@@ -38,9 +38,9 @@ und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 
 ## Feedback während Testphase
 
-- [x] teilweise nicht scanbar durch Android-Smartphones ->Alternative anbieten: Website-Link oder Scanner-App
-- [x] ~~teilweise bei Android- & htc-Phone nur Zielgruppen, aber keine Übersicht zur Auswahl angezeigt -> Browser issue?~~ Untersützt werden Firefox, Chrome und Opera -- Daniel
-- [x] ~~braucht Unterscheidung zwischen wöchentlich stattfindenden & einmaligen Events, da diese in der Liste untergehen~~ Unterscheidung umgesetzt -- Daniel
+- ~~teilweise nicht scanbar durch Android-Smartphones ->Alternative anbieten: Website-Link oder Scanner-App~~ Webseite Link im QR-Code, Android-Nutzer benötigen Scanner App -- Daniel
+- ~~teilweise bei Android- & htc-Phone nur Zielgruppen, aber keine Übersicht zur Auswahl angezeigt -> Browser issue?~~ Untersützt werden Firefox, Chrome und Opera -- Daniel
+- ~~braucht Unterscheidung zwischen wöchentlich stattfindenden & einmaligen Events, da diese in der Liste untergehen~~ DONE -- Daniel
 
 ## Erledigt
 
