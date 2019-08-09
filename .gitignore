@@ -3,3 +3,4 @@ Gemfile*
 *template.md
 .vscode/
 **__pycache__/
+**tmp/
