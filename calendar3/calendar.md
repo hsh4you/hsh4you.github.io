@@ -41,6 +41,19 @@ $(document).ready(function() {
                 }
             }
         },
+        eventDataTransform: function(eventData) {
+            // source: https://stackoverflow.com/a/48932810 (fullcalendar eventclick changing URL)
+            if (eventData.url.indexOf("google") >= 0) {
+                eventData.url = null;
+            }
+            if (eventData.description) {
+                var desc = eventData.description;
+                var urlstart = desc.lastIndexOf("http");
+                var url = desc.substring(urlstart).replace("</a>", "");
+                eventData.url = url;
+            }
+            return eventData;
+        },
         eventRender: function(event, element, view) {
             if (view.name == 'listYear') {
                 if (showweeklyevents) {
@@ -48,6 +61,14 @@ $(document).ready(function() {
                     showweeklyevents = false;
                 }
             }
+        },
+        eventClick: function(event, jsEvent, view) {
+            // source: https://stackoverflow.com/a/51667554 ()
+            if (event.url.indexOf("google") >= 0) {
+                //jsEvent.preventDefault();
+            }
+            // click events previously defined will also be prevented
+            // so, any alternate tasks (like showing modal) on eventClick must go here
         }
     });
 });
