@@ -70,6 +70,7 @@ id: index
 - [Veranstaltungen](calendar/calendar.html)
 - Beratung
 - Ehrenamt
+- Notrufnummern
 </div>
 
 <script type="text/javascript">
