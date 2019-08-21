@@ -40,12 +40,14 @@ id: index
 - [Beratung](Beratung/Beratung.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - Freizeit
+- Notrufnummern
 </div>
 <div class="displaynone" id="listJugendlicher">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Jugendlicher.md)
 - Aktivitäten
+- Notrufnummern
 </div>
 <div class="displaynone" id="listEltern">
 - [Kitas](Kitas/Kitas.md)
@@ -55,6 +57,7 @@ id: index
 - [Beratung](Beratung/Beratung_Eltern.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - Jugendamt
+- Notrufnummern
 </div>
 <div class="displaynone" id="listNeu_in_Hsh">
 - [Kitas](Kitas/Kitas.md)
@@ -65,6 +68,7 @@ id: index
 - Jugendamt
 - Bürgeramt
 - Begegnungen
+- Notrufnummern
 </div>
 <div class="displaynone" id="listSenior">
 - [Veranstaltungen](calendar/calendar.html)
