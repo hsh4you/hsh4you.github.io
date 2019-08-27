@@ -42,3 +42,6 @@
 <label class="youthclub" onclick="javascript:window.open('Ausblick.html', '_self')">
     <img src="images/Logos/Ausblick.jpg"><br><span>Ausblick</span>
   </label>
+<label class="youthclub" onclick="javascript:window.open('OCB.html', '_self')">
+    <img src="images/Logos/ocb.png"><br><span>OCB</span>
+  </label>
