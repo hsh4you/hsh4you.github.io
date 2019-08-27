@@ -39,3 +39,6 @@
   <label class="youthclub" onclick="javascript:window.open('jfe_welseclub.html', '_self')">
     <img src="images/Logos/Welseclub.jpg"><br><span>Welseclub</span>
   </label>
+<label class="youthclub" onclick="javascript:window.open('Ausblick.html', '_self')">
+    <img src="images/Logos/Ausblick.jpg"><br><span>Ausblick</span>
+  </label>
