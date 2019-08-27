@@ -34,6 +34,7 @@ Kinder & Jugendliche 10-24 Jahre
 <script>window.onload = showMap('Zum Hechtgraben 1, 13051 Berlin', 0, 'gmap_mini')</script>
 
 ## Eindrücke
-<div class="mediacontainer">
-  <img src="images/SPIK_JK/2.jpg" />
+<div>
+  <img src="images/1.jpg" />
+  <img src="images/2.jpg" />
 </div>
