@@ -8,7 +8,7 @@
 
   function authenticate() {
     return gapi.auth2.getAuthInstance()
-        .signIn({scope: "https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/calendar.events"})
+        .signIn({scope: "https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/calendar.events"})
         .then(function() { console.log("Sign-in successful"); },
               function(err) { console.error("Error signing in", err); });
   }
