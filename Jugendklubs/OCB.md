@@ -1,5 +1,5 @@
 ## Offener Club Berlin (OCB)
-<img id="topmedia" src="images/SPIK_JK/logo.jpg" />
+<img id="topmedia" src="images/Logos/ocb.png" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
