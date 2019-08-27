@@ -1,5 +1,5 @@
 ## Ausblick 
-<img id="topmedia" src="images/Logos/Ausblick.jpg" />
+
 
 ## Wochenplan
 <pre id="weeklyschedule">
