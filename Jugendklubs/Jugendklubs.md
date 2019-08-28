@@ -1,5 +1,8 @@
 ## Jugendklubs
 
+  <label class="youthclub" onclick="javascript:window.open('Ausblick.html', '_self')">
+    <img src="images/Logos/Ausblick.jpg"><br><span>Ausblick</span>
+  </label>
   <label class="youthclub" onclick="javascript:window.open('ASP_Fort_Robinson.html', '_self')">
     <img src="images/Logos/ASP_Fort_Robinson.jpg"><br><span>ASP Fort Robinson</span>
   </label>
@@ -27,6 +30,9 @@
   <label class="youthclub" onclick="javascript:window.open('Mikado.html', '_self')">
     <img src="images/Logos/Mikado.jpg"><br><span>Mikado</span>
   </label>
+  <label class="youthclub" onclick="javascript:window.open('OCB.html', '_self')">
+    <img src="images/Logos/ocb.png"><br><span>OCB</span>
+  </label>
   <label class="youthclub" onclick="javascript:window.open('Pia_Olymp.html', '_self')">
     <img src="images/Logos/Pia.jpg"><br><span>Pia Olymp</span>
   </label>
@@ -38,10 +44,4 @@
   </label>
   <label class="youthclub" onclick="javascript:window.open('jfe_welseclub.html', '_self')">
     <img src="images/Logos/Welseclub.jpg"><br><span>Welseclub</span>
-  </label>
-<label class="youthclub" onclick="javascript:window.open('Ausblick.html', '_self')">
-    <img src="images/Logos/Ausblick.jpg"><br><span>Ausblick</span>
-  </label>
-<label class="youthclub" onclick="javascript:window.open('OCB.html', '_self')">
-    <img src="images/Logos/ocb.png"><br><span>OCB</span>
   </label>
