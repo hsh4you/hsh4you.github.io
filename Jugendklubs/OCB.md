@@ -43,11 +43,10 @@ Kinder & Jugendliche 10-20 Jahre
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="images/SPIK_JK/2.jpg" />
-  <img src="images/SPIK_JK/3.jpg" />
-  <!--<img src="images/SPIK_JK/7.jpg" />//-->
-  <!--<img src="images/SPIK_JK/1.jpg" />//-->
-  <!--<img src="images/SPIK_JK/5.jpg" />//-->
-  <!--<img src="images/SPIK_JK/6.jpg" />//-->
-  <img src="images/SPIK_JK/8.jpg" />
+  <img src="images/OCB/1.JPG" />
+  <img src="images/OCB/2.jpg" />
+  <img src="images/OCB/3.jpg" />
+  <img src="images/OCB/4.jpg" />
+  <img src="images/OCB/5.jpg" />
+  <img src="images/OCB/6.jpg" />
 </div>
