@@ -172,8 +172,8 @@
     margin: auto;
 }
 
-@media screen and (min-width: 42em) { #topmedia { width: 555px; } }
-@media screen and (max-width: 42em) { #topmedia { width: 444px; } }
+/* max-height with keeping aspect ratio via auto width */
+@media screen and (min-width: 21em) { #topmedia { max-height: 28vh; width: auto; } }
 @media screen and (max-width: 21em) { #topmedia { width: 333px; } }
 
 #historyback, #historyforward {
