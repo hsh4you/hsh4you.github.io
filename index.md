@@ -34,6 +34,7 @@ id: index
 <div id="listVisible"></div>
 <div class="displaynone" id="listDefault">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
+- [Wochenpläne](Jugendklubs/weekplan.html)
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Veranstaltungen](calendar/calendar.html)
@@ -44,6 +45,7 @@ id: index
 </div>
 <div class="displaynone" id="listJugendlicher">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
+- [Wochenpläne](Jugendklubs/weekplan.html)
 - [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Jugendlicher.md)
 - Aktivitäten
