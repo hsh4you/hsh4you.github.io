@@ -1,4 +1,5 @@
 ## ASP Fort Robinson
+<img id="topmedia" src="images/Logos/ASP_Fort_Robinson.jpg" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
