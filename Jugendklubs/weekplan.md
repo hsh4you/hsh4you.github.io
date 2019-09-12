@@ -18,33 +18,33 @@
     const GCAL_ID_TRIALOG           = 'jo7updm739iaqbri2jc8sg1qt8@group.calendar.google.com';
     const GCAL_ID_WELSECLUB         = '7o3tno9fndbov6thqvb10ogm44@group.calendar.google.com';
 
-    var CLUBNAME_BY_GCAL_ID = {};
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_ASP_FORT_ROBINSON] = 'ASP Fort Robinson';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_AUSBLICK] = 'Ausblick';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_FULL_HOUSE] = 'Full House';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_JUMP] = 'JuMP';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_KONTAKTLADEN_VIP] = 'Kontaktladen VIP';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_LEOS_HUETTE] = 'Leos Hütte';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_MIKADO] = 'Mikado';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_OCB] = 'OCB';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_PIA_OLYMP] = 'Pia Olymp';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_SPIK] = 'SPIK';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_TRIALOG] = 'Trialog';
-    CLUBNAME_BY_GCAL_ID[GCAL_ID_WELSECLUB] = 'Welseclub';
+    var youthclubnames = {};
+    youthclubnames[GCAL_ID_ASP_FORT_ROBINSON] = 'ASP Fort Robinson';
+    youthclubnames[GCAL_ID_AUSBLICK] = 'Ausblick';
+    youthclubnames[GCAL_ID_FULL_HOUSE] = 'Full House';
+    youthclubnames[GCAL_ID_JUMP] = 'JuMP';
+    youthclubnames[GCAL_ID_KONTAKTLADEN_VIP] = 'Kontaktladen VIP';
+    youthclubnames[GCAL_ID_LEOS_HUETTE] = 'Leos Hütte';
+    youthclubnames[GCAL_ID_MIKADO] = 'Mikado';
+    youthclubnames[GCAL_ID_OCB] = 'OCB';
+    youthclubnames[GCAL_ID_PIA_OLYMP] = 'Pia Olymp';
+    youthclubnames[GCAL_ID_SPIK] = 'SPIK';
+    youthclubnames[GCAL_ID_TRIALOG] = 'Trialog';
+    youthclubnames[GCAL_ID_WELSECLUB] = 'Welseclub';
 
-    var CLUBURL_BY_GCAL_ID = {};
-    CLUBURL_BY_GCAL_ID[GCAL_ID_ASP_FORT_ROBINSON] = 'ASP_Fort_Robinson';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_AUSBLICK] = 'Ausblick';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_FULL_HOUSE] = 'jfe_fullhouse';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_JUMP] = 'JUMP';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_KONTAKTLADEN_VIP] = 'Kontaktladen_VIP';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_LEOS_HUETTE] = 'Leos_Huette';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_MIKADO] = 'Mikado';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_OCB] = 'OCB';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_PIA_OLYMP] = 'Pia_Olymp';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_SPIK] = 'SPIK_JK';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_TRIALOG] = 'jfe_trialog';
-    CLUBURL_BY_GCAL_ID[GCAL_ID_WELSECLUB] = 'jfe_welseclub';
+    var youthclublinks = {};
+    youthclublinks[GCAL_ID_ASP_FORT_ROBINSON] = 'ASP_Fort_Robinson';
+    youthclublinks[GCAL_ID_AUSBLICK] = 'Ausblick';
+    youthclublinks[GCAL_ID_FULL_HOUSE] = 'jfe_fullhouse';
+    youthclublinks[GCAL_ID_JUMP] = 'JUMP';
+    youthclublinks[GCAL_ID_KONTAKTLADEN_VIP] = 'Kontaktladen_VIP';
+    youthclublinks[GCAL_ID_LEOS_HUETTE] = 'Leos_Huette';
+    youthclublinks[GCAL_ID_MIKADO] = 'Mikado';
+    youthclublinks[GCAL_ID_OCB] = 'OCB';
+    youthclublinks[GCAL_ID_PIA_OLYMP] = 'Pia_Olymp';
+    youthclublinks[GCAL_ID_SPIK] = 'SPIK_JK';
+    youthclublinks[GCAL_ID_TRIALOG] = 'jfe_trialog';
+    youthclublinks[GCAL_ID_WELSECLUB] = 'jfe_welseclub';
 
     $(document).ready(function() {
         var showweeklyevents = true;
@@ -90,13 +90,18 @@
             }, 
             views: { listDay: { titleFormat: 'dddd' } },
             eventRender: function(event, element) {
-                gcalid = event.source.googleCalendarId;
-                youthclubname = CLUBNAME_BY_GCAL_ID[gcalid];
-                youthcluburl = CLUBURL_BY_GCAL_ID[gcalid] + '.html';
+                calendarid = event.source.googleCalendarId;
+                youthclubname = youthclubnames[calendarid];
+                youthclublink = youthclublinks[calendarid] + '.html';
                 // source: https://stackoverflow.com/a/3924862 ("fullCalendar - Event title and detail")
                 element.find('a').append(' @ ' + youthclubname);
                 // source: https://stackoverflow.com/a/179717 ("How to change the href for a hyperlink [..]"")
-                element.find('a').attr('href', youthcluburl);
+                element.find('a').attr('href', youthclublink);
+            },
+            // source: https://fullcalendar.io/docs/v3/eventAfterAllRender
+            eventAfterAllRender: function(view) {
+                // source: https://jsfiddle.net/milz/od4Le2er/ ("Hide fc-day-header")
+                $('.fc-list-heading').css('display', 'none');
             }
         });
     });
