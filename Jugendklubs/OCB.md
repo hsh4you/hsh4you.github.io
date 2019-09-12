@@ -1,4 +1,4 @@
-## Offener Club Berlin (OCB)
+## Offener Club Berlin
 <img id="topmedia" src="images/Logos/ocb.png" />
 
 ## Wochenplan
