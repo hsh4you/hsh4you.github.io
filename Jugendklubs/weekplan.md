@@ -18,22 +18,6 @@
     const GCAL_ID_TRIALOG           = 'jo7updm739iaqbri2jc8sg1qt8@group.calendar.google.com';
     const GCAL_ID_WELSECLUB         = '7o3tno9fndbov6thqvb10ogm44@group.calendar.google.com';
 
-/*
-    const CLUBNAME_BY_GCAL_ID = {
-          GCAL_ID_ASP_FORT_ROBINSON: ['ASP Fort Robinson', 'ASP_Fort_Robinson']
-        , GCAL_ID_AUSBLICK:          ['Ausblick', 'Ausblick']
-        , GCAL_ID_FULL_HOUSE:        ['Full House', 'jfe_fullhouse.html']
-        , GCAL_ID_JUMP:              ['JuMP', 'JUMP']
-        , GCAL_ID_KONTAKTLADEN_VIP:  ['Kontaktladen VIP', 'Kontaktladen_VIP']
-        , GCAL_ID_LEOS_HUETTE:       ['Leos Hütte', 'Leos_Huette']
-        , GCAL_ID_MIKADO:            ['Mikado', 'Mikado']
-        , GCAL_ID_OCB:               ['OCB', 'OCB']
-        , GCAL_ID_PIA_OLYMP:         ['Pia Olymp', 'Pia_Olymp']
-        , GCAL_ID_SPIK:              ['SPIK', 'SPIK_JK']
-        , GCAL_ID_TRIALOG:           ['Trialog', 'jfe_trialog']
-        , GCAL_ID_WELSECLUB:         ['Welseclub', 'jfe_welseclub']
-    }
-*/
     var CLUBNAME_BY_GCAL_ID = {};
     CLUBNAME_BY_GCAL_ID[GCAL_ID_ASP_FORT_ROBINSON] = 'ASP Fort Robinson';
     CLUBNAME_BY_GCAL_ID[GCAL_ID_AUSBLICK] = 'Ausblick';
@@ -47,6 +31,20 @@
     CLUBNAME_BY_GCAL_ID[GCAL_ID_SPIK] = 'SPIK';
     CLUBNAME_BY_GCAL_ID[GCAL_ID_TRIALOG] = 'Trialog';
     CLUBNAME_BY_GCAL_ID[GCAL_ID_WELSECLUB] = 'Welseclub';
+
+    var CLUBURL_BY_GCAL_ID = {};
+    CLUBURL_BY_GCAL_ID[GCAL_ID_ASP_FORT_ROBINSON] = 'ASP_Fort_Robinson';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_AUSBLICK] = 'Ausblick';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_FULL_HOUSE] = 'jfe_fullhouse';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_JUMP] = 'JUMP';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_KONTAKTLADEN_VIP] = 'Kontaktladen_VIP';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_LEOS_HUETTE] = 'Leos_Huette';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_MIKADO] = 'Mikado';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_OCB] = 'OCB';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_PIA_OLYMP] = 'Pia_Olymp';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_SPIK] = 'SPIK_JK';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_TRIALOG] = 'jfe_trialog';
+    CLUBURL_BY_GCAL_ID[GCAL_ID_WELSECLUB] = 'jfe_welseclub';
 
     $(document).ready(function() {
         var showweeklyevents = true;
@@ -91,20 +89,15 @@
                 return eventData;
             }, 
             views: { listDay: { titleFormat: 'dddd' } },
-
-
             eventRender: function(event, element) {
                 gcalid = event.source.googleCalendarId;
                 youthclubname = CLUBNAME_BY_GCAL_ID[gcalid];
-                //youthclubname = youthclub[0];
-                // source: https://stackoverflow.com/a/3924862 (fullCalendar - Event title and detail)
-                //element.find('.fc-list-item-title').append(' @ <a href="">' + youthclubname + '</a>');
+                youthcluburl = CLUBURL_BY_GCAL_ID[gcalid] + '.html';
+                // source: https://stackoverflow.com/a/3924862 ("fullCalendar - Event title and detail")
                 element.find('a').append(' @ ' + youthclubname);
-                //newtitle = oldtitle + ' @ ' + youthclubname;
-                //element.find('a').innerHTML = newtitle;
+                // source: https://stackoverflow.com/a/179717 ("How to change the href for a hyperlink [..]"")
+                element.find('a').attr('href', youthcluburl);
             }
-
-
         });
     });
 </script>
