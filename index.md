@@ -35,9 +35,9 @@ id: index
 <div class="displaynone" id="listDefault">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Wochenpläne](Jugendklubs/weekplan.html)
+- [Veranstaltungen](calendar/calendar.html)
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
-- [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - Freizeit
@@ -62,9 +62,9 @@ id: index
 - Notrufnummern
 </div>
 <div class="displaynone" id="listNeu_in_Hsh">
+- [Veranstaltungen](calendar/calendar.html)
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
-- [Veranstaltungen](calendar/calendar.html)
 - Beratung
 - Familienzentren
 - Jugendamt
