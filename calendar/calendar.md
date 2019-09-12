@@ -23,6 +23,14 @@
             // hide scrollbars via contentHeight auto
             // source: https://github.com/fullcalendar/old-docs/blob/master/display/contentHeight.txt
             contentHeight: 'auto',
+            customButtons: {
+                BtnMore: {
+                    text: '...',
+                    click: function() {
+                        window.open('https://www.hsh4you.de/calendar/googlecal.html', '_blank');
+                    }
+                }
+            },
             header: {
                 left: 'prev,next today',
                 center: 'title',
@@ -39,6 +47,7 @@
                 'hsh4you.de@gmail.com'
                 , GCAL_ID_MIKADO
                 , GCAL_ID_OCB
+                , 'hsh4you.events@gmail.com'
             ],
             eventDataTransform: function(eventData) {
                 // source: https://stackoverflow.com/a/48932810 ("fullcalendar - eventclick changing URL")
