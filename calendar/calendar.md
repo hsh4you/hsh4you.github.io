@@ -8,14 +8,17 @@
     const GCAL_ID_MIKADO = '2rs8dij62oanc4j5ic1mfspn3c@group.calendar.google.com';
     const GCAL_ID_OCB    = '41a2511d1a6plhj0b6phu496q4@group.calendar.google.com';
     const GCAL_ID_SPIK   = 'opsnl05el2r6o5pu3ffh340shs@group.calendar.google.com';
+    const GCAL_ID_SHARED = 'hsh4you.events@gmail.com';
 
     var youthclubnames = {};
     youthclubnames[GCAL_ID_MIKADO] = 'Mikado';
     youthclubnames[GCAL_ID_OCB] = 'OCB';
+    youthclubnames[GCAL_ID_SPIK] = 'SPIK';
 
     var youthclublinks = {};
     youthclublinks[GCAL_ID_MIKADO] = '../Jugendklubs/Mikado';
     youthclublinks[GCAL_ID_OCB] = '../Jugendklubs/OCB';
+    youthclublinks[GCAL_ID_SPIK] = '../Jugendklubs/SPIK_JK';
 
     $(document).ready(function() {
         var showweeklyevents = true;
@@ -49,7 +52,7 @@
                 , GCAL_ID_MIKADO
                 , GCAL_ID_OCB
                 , GCAL_ID_SPIK
-                , 'hsh4you.events@gmail.com'
+                , GCAL_ID_SHARED
             ],
             eventDataTransform: function(eventData) {
                 // source: https://stackoverflow.com/a/48932810 ("fullcalendar - eventclick changing URL")
