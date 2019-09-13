@@ -7,6 +7,7 @@
 <script>                
     const GCAL_ID_MIKADO = '2rs8dij62oanc4j5ic1mfspn3c@group.calendar.google.com';
     const GCAL_ID_OCB    = '41a2511d1a6plhj0b6phu496q4@group.calendar.google.com';
+    const GCAL_ID_SPIK   = 'opsnl05el2r6o5pu3ffh340shs@group.calendar.google.com';
 
     var youthclubnames = {};
     youthclubnames[GCAL_ID_MIKADO] = 'Mikado';
@@ -47,6 +48,7 @@
                 'hsh4you.de@gmail.com'
                 , GCAL_ID_MIKADO
                 , GCAL_ID_OCB
+                , GCAL_ID_SPIK
                 , 'hsh4you.events@gmail.com'
             ],
             eventDataTransform: function(eventData) {
