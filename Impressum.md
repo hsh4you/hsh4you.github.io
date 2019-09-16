@@ -6,7 +6,7 @@ Am Berl 13<br>
 13051 Berlin<br>
 Deutschland
 
-[030/9207519](0309207519)<br>
+[030/9207519](tel:+49309207519)<br>
 geschaeftsfuehrung@spikev.de
 
 Geschäftsführung:<br>
