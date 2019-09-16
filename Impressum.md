@@ -19,3 +19,7 @@ Die Kiez-WebApp wird in Zusammenarbeit mit Kiez-Akteurinnen aus der integrativen
 Inhalt: Alle Informationen der Träger sind öffentlich zugängliche Informationen. Hauptverantwortlich für die Sammlung und Eintragung der Daten ist Dayana Dreke, derzeitig tätig im Bereich Integration beim SPIK e.V und Koordinatorin für die Kiez-WebApp.
 
 Datenschutz: Es werden keine persönlichen Daten gesammelt und keine Cookies eingesetzt.
+
+<!-- 
+Ist ein Impressum nötig? Wir bieten Informationen kostenlos und ohne Werbung an, fallen also nicht in die entsprechende Klausel, siehe https://de.wikipedia.org/wiki/Impressum#Telemedien
+//-->
