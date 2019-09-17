@@ -17,7 +17,7 @@ Die Weiterentwicklung in 2019 wird im Rahmen der [Partnerschaften für Demokrati
 Die Kiez-WebApp wird in Zusammenarbeit mit Kiez-Akteurinnen aus der integrativen Kinder-& Jugendarbeit, Familien-, Senioren- & Begegnungszentren und der Stadtteilarbeit entwickelt.
 <!-- und dem Software-Entwickler und Web-Designer Daniel Dreke gemeinsam entwickelt. //-->
 
-Inhalt: Alle Informationen der Träger sind öffentlich zugängliche Informationen. Hauptverantwortlich für die Sammlung und Eintragung der Daten ist Dayana Dreke, derzeitig tätig im Bereich Integration beim SPIK e.V und Koordinatorin für die Kiez-WebApp.
+Inhalt: Alle Informationen der Träger sind öffentlich zugängliche Informationen. Hauptverantwortlich für die Sammlung und Eintragung der Daten ist Dayana Dreke (contact@hsh4you.de), derzeitig tätig im Bereich Integration beim SPIK e.V und Koordinatorin für die Kiez-WebApp.
 
 Datenschutz: Es werden keine persönlichen Daten gesammelt und keine Cookies eingesetzt.
 
