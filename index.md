@@ -69,7 +69,7 @@ id: index
 - Familienzentren
 - Jugendamt
 - Bürgeramt
-- Begegnungen
+- [Begegnungen](Begegnungen/Begegnungen.md)
 - Notrufnummern
 </div>
 <div class="displaynone" id="listSenior">
