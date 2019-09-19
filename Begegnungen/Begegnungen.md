@@ -1,3 +1,3 @@
 ## Begegnungen
 
-- [SPIK integrative Kinder- & Jugendarbeit](Begegnungen/SPIK_Integration.html)
+- [SPIK integrative Kinder- & Jugendarbeit](SPIK_Integration.html)
