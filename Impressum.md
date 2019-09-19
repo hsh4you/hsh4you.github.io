@@ -21,6 +21,5 @@ Inhalt: Alle Informationen der Träger sind öffentlich zugängliche Information
 
 Datenschutz: Es werden keine persönlichen Daten gesammelt und keine Cookies eingesetzt.
 
-<!-- 
-Ist ein Impressum nötig? Wir bieten Informationen kostenlos und ohne Werbung an, fallen also nicht in die entsprechende Klausel, siehe https://de.wikipedia.org/wiki/Impressum#Telemedien
-//-->
+Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
