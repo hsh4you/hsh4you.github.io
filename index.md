@@ -65,11 +65,11 @@ id: index
 - [Veranstaltungen](calendar/calendar.html)
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
+- [Begegnungen](Begegnungen/Begegnungen.html)
 - Beratung
 - Familienzentren
 - Jugendamt
 - Bürgeramt
-- [Begegnungen](Begegnungen/Begegnungen.html)
 - Notrufnummern
 </div>
 <div class="displaynone" id="listSenior">
