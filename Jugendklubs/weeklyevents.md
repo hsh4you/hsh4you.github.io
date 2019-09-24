@@ -47,7 +47,6 @@
     youthclublinks[GCAL_ID_WELSECLUB] = 'jfe_welseclub';
 
     $(document).ready(function() {
-        var showweeklyevents = true;
 
         $('#calendar').fullCalendar({
             // hide scrollbars via contentHeight auto
