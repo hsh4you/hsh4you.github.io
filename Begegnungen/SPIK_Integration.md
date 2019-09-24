@@ -36,9 +36,6 @@ Kinder & Jugendliche 10-21 Jahre
 <div class="mediacontainer">
   <!-- source: https://fettblog.eu/blog/2013/06/16/preserving-aspect-ratio-for-embedded-iframes/ //-->
   <div class="iframecontainer">
-    <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-  </div>
-  <div class="iframecontainer">
     <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" allow="encrypted-media" allowfullscreen></iframe>
   </div>
 </div>
