@@ -39,9 +39,12 @@ Kinder & Jugendliche 10-21 Jahre
     <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" allow="encrypted-media" allowfullscreen></iframe>
   </div>
   <div class="iframecontainer">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bSBpJGu1TaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="iframecontainer">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+  </div>
+  <div class="iframecontainer">
+    <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
