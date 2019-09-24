@@ -33,21 +33,13 @@ Kinder & Jugendliche 10-21 Jahre
 
 ## Eindrücke
 <div class="mediacontainer">
-  <!-- source: https://fettblog.eu/blog/2013/06/16/preserving-aspect-ratio-for-embedded-iframes/ //-->
-  <div class="iframecontainer">
-    <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" allow="encrypted-media" allowfullscreen></iframe>
-  </div>
-</div>
-
-<div class="mediacontainer">
-  <div class="iframecontainer">
-    <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" allow="encrypted-media" allowfullscreen></iframe>
-  </div>
   <div class="iframecontainer">
     <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" allow="encrypted-media" allowfullscreen></iframe>
   </div>
   <div class="iframecontainer">
     <iframe src="https://player.vimeo.com/video/221344807" width="1280" height="720" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
   </div>
-  
+  <div class="iframecontainer">
+    <iframe src="https://player.vimeo.com/video/289783997" width="1280" height="720" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+  </div>
 </div>
