@@ -46,14 +46,8 @@ Kinder & Jugendliche 10-21 Jahre
   <div class="iframecontainer">
     <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" allow="encrypted-media" allowfullscreen></iframe>
   </div>
-  
-  
   <div class="iframecontainer">
-    <iframe src="https://player.vimeo.com/video/221344807" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/221344807">Jugendraum Hausvaterweg - SPIK 2017</a> from <a href="https://vimeo.com/user30206327">Tresor Ilunga Mukuna (TIM X)</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-  </div>
-  <div class="iframecontainer">
-    <iframe src="https://player.vimeo.com/video/221344807" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/221344807" width="1280" height="720" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
   </div>
   
 </div>
