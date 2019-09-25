@@ -33,10 +33,7 @@ Kinder & Jugendliche 10-21 Jahre
 
 ## Eindrücke
 <div class="mediacontainer">
-  <div class="iframecontainer">
-    <iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/bSBpJGu1TaI" allow="encrypted-media" allowfullscreen></iframe>
-  </div>
-  <div class="iframecontainer">
+   <div class="iframecontainer">
     <iframe src="https://player.vimeo.com/video/221344807" width="1280" height="720" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
   </div>
   <div class="iframecontainer">
