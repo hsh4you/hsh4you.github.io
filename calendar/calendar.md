@@ -5,19 +5,22 @@
 <script src='lib/gcal.min.js'></script>
 
 <script>
-    const GCAL_ID_LEOS_HUETTE   = 'el0m6on68efrj8u2092svv9ngc@group.calendar.google.com';
-    const GCAL_ID_MIKADO        = '2rs8dij62oanc4j5ic1mfspn3c@group.calendar.google.com';
-    const GCAL_ID_OCB           = '41a2511d1a6plhj0b6phu496q4@group.calendar.google.com';
-    const GCAL_ID_SPIK          = 'opsnl05el2r6o5pu3ffh340shs@group.calendar.google.com';
-    const GCAL_ID_SHARED        = 'hsh4you.events@gmail.com';
+    const GCAL_ID_BERLINER_JUNGS  = '7jcpmr2nop4k35h79lo5513li8@group.calendar.google.com';
+    const GCAL_ID_LEOS_HUETTE     = 'el0m6on68efrj8u2092svv9ngc@group.calendar.google.com';
+    const GCAL_ID_MIKADO          = '2rs8dij62oanc4j5ic1mfspn3c@group.calendar.google.com';
+    const GCAL_ID_OCB             = '41a2511d1a6plhj0b6phu496q4@group.calendar.google.com';
+    const GCAL_ID_SPIK            = 'opsnl05el2r6o5pu3ffh340shs@group.calendar.google.com';
+    const GCAL_ID_SHARED          = 'hsh4you.events@gmail.com';
 
     var youthclubnames = {};
+    youthclubnames[GCAL_ID_BERLINER_JUNGS] = 'berliner jungs';
     youthclubnames[GCAL_ID_LEOS_HUETTE] = 'Leos Hütte';
     youthclubnames[GCAL_ID_MIKADO] = 'Mikado';
     youthclubnames[GCAL_ID_OCB] = 'OCB';
     youthclubnames[GCAL_ID_SPIK] = 'SPIK';
 
     var youthclublinks = {};
+    youthclublinks[GCAL_ID_BERLINER_JUNGS] = '../Beratung/Beratung_Jugendlicher/Berliner_Jungs.html';
     youthclublinks[GCAL_ID_LEOS_HUETTE] = '../Jugendklubs/Leos_Huette';
     youthclublinks[GCAL_ID_MIKADO] = '../Jugendklubs/Mikado';
     youthclublinks[GCAL_ID_OCB] = '../Jugendklubs/OCB';
@@ -52,6 +55,7 @@
             googleCalendarApiKey: 'AIzaSyDbIw2HzwKWmQY9o0h5UuZO6MCchQDCZbw',
             eventSources: [
                 'hsh4you.de@gmail.com'
+                , GCAL_ID_BERLINER_JUNGS
                 , GCAL_ID_LEOS_HUETTE
                 , GCAL_ID_MIKADO
                 , GCAL_ID_OCB
