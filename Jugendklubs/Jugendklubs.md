@@ -15,9 +15,6 @@
   <label class="youthclub" onclick="javascript:window.open('JUMP.html', '_self')">
     <img src="images/Logos/JUMP.jpg"><br><span>JUMP</span>
   </label>
-  <!--<label class="youthclub" onclick="javascript:window.open('JUKS.html', '_self')">
-    <img src="images/Logos/missing.png"><br><span>JUKS</span>
-  </label>//-->
   <label class="youthclub" onclick="javascript:window.open('Kinderclub_Kietzoase.html', '_self')">
     <img src="images/Logos/kietzoase.jpg"><br><span>Kietzoase</span>
   </label>
