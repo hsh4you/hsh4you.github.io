@@ -24,3 +24,11 @@ Alle sind willkommen!
 ## Wo
 <div id="gmap"></div>
 <script>window.onload = showMap('Prerower Platz 2, 13051 Berlin', 0, 'gmap_mini')</script>
+
+## Eindrücke
+<div class="mediacontainer">
+  <img src="Freizeit/Images/1.jpg" />
+  <img src="Freizeit/Images/2.jpg" />
+  <img src="Freizeit/Images/3.jpg" />
+  <img src="Freizeit/Images/4.jpg" />
+</div>
