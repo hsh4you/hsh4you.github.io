@@ -40,7 +40,7 @@ id: index
 - [Schulen](Schulen/Schulen.md)
 - [Beratung](Beratung/Beratung.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
-- Freizeit
+- [Freizeit](Freizeit/Freizeit.md)
 - Notrufnummern
 </div>
 <div class="displaynone" id="listJugendlicher">
