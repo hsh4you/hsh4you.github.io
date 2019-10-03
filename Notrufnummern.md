@@ -1,7 +1,10 @@
 ## Notrufnummern
 
-Polizei: [110](tel:+4930110)<br>
-Feuerwehr & Rettungswagen: [112](tel:+4930112)
+Polizei<br>
+    [110](tel:+4930110)
+
+Feuerwehr & Rettungswagen<br>
+    [112](tel:+4930112)
 
 ## Kinder
 - [Berliner Kinderschutz-Hotline](www.berliner-notdienst-kinderschutz.de/hotline.html): 
