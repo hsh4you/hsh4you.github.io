@@ -1,5 +1,5 @@
 ## Freizeit
 
-- [Jugendkunstschule Lichtenberg](JUKS.md)
-- [Anna-Seghers-Bibliothek](Bibliothek.md)
+- [Jugendkunstschule Lichtenberg](JUKS.html)
+- [Anna-Seghers-Bibliothek](Bibliothek.html)
 

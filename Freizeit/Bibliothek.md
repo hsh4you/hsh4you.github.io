@@ -1,5 +1,5 @@
 ## Anna-Seghers-Bibliothek
-<img id="topmedia" src="Freizeit/Images/logo.jpg" />
+<img id="topmedia" src="Images/Bibliothek/logo.jpg" />
 
 ## Offen
 Mo-Di + Do-Fr 9-20 Uhr, Mi 13-20 Uhr, Sa 9-16 Uhr
@@ -27,8 +27,8 @@ Alle sind willkommen!
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Freizeit/Images/1.jpg" />
-  <img src="Freizeit/Images/2.jpg" />
-  <img src="Freizeit/Images/3.jpg" />
-  <img src="Freizeit/Images/4.jpg" />
+  <img src="Images/Bibliothek/1.jpg" />
+  <img src="Images/Bibliothek/2.jpg" />
+  <img src="Images/Bibliothek/3.jpg" />
+  <img src="Images/Bibliothek/4.jpg" />
 </div>
