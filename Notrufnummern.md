@@ -10,7 +10,7 @@ Feuerwehr & Rettungswagen<br>
 ## Für Eltern
 
 [„Nummer gegen Kummer“](https://www.nummergegenkummer.de/elterntelefon.html)<br>
-Mo--Fr 9--11, Di+Do 17--19Uhr<br>
+Mo--Fr 9--11 Uhr und Di+Do 17--19 Uhr<br>
 [0800 1110 444](tel:+498001110444)
 
 
