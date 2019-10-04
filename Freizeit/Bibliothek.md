@@ -2,7 +2,9 @@
 <img id="topmedia" src="Images/Bibliothek/logo.jpg" />
 
 ## Offen
-Mo-Di + Do-Fr 9-20 Uhr, Mi 13-20 Uhr, Sa 9-16 Uhr
+Mo, Di, Do, Fr 9-20 Uhr<br>
+Mi 13-20 Uhr<br>
+Sa 9-16 Uhr
 
 ## Aktivitäten
 <p id="activities">
@@ -13,9 +15,6 @@ Lesekuschelzeit: Immer dienstags um 16 Uhr, Internet-Sprechstunde, Tolino-Sprech
 <a target="_blank" href="https://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/bildung/artikel.298017.php">Webseite</a><br>
 <a target="_blank" href="https://www.instagram.com/annaseghersbibliothek/">Instagram</a><br>
 <a target="_blank" href="https://www.facebook.com/pg/stadtbibliothek.berlin.lichtenberg/about/?ref=page_internal">Facebook</a>
-
-## Zielgruppe
-Alle sind willkommen!
 
 ## Kontakt
 [anna-seghers-bibliothek@t-online.de](mailto:anna-seghers-bibliothek@t-online.de)<br> 
