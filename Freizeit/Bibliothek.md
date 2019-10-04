@@ -8,7 +8,20 @@ Sa 9-16 Uhr
 
 ## Aktivitäten
 <p id="activities">
-Lesekuschelzeit: Immer dienstags um 16 Uhr, Internet-Sprechstunde, Tolino-Sprechstunde, Expertenrat, abendliche Lesungen, Bibliothekseinführungen, Kindertheater, Büchertrödel, Robotik, Spielkonsolen, Tabletop Spiele usw.
+Lesekuschelzeit Di 16 Uhr<br>
+Internet-Sprechstunde<br>
+Tolino-Sprechstunde<br>
+<br>
+Expertenrat<br>
+abendliche Lesungen<br>
+Bibliothekseinführungen<br>
+<br>
+Kindertheater<br>
+Büchertrödel<br>
+Robotik<br>
+<br>
+Spielkonsolen<br>
+Tabletop Spiele usw.
 </p>
 
 ## Links
@@ -29,5 +42,5 @@ Lesekuschelzeit: Immer dienstags um 16 Uhr, Internet-Sprechstunde, Tolino-Sprech
   <img src="Images/Bibliothek/1.jpg" />
   <img src="Images/Bibliothek/2.jpg" />
   <img src="Images/Bibliothek/3.jpg" />
-  <img src="Images/Bibliothek/4.jpg" />
+  <!--<img src="Images/Bibliothek/4.jpg" />//-->
 </div>
