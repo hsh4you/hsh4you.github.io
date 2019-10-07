@@ -42,14 +42,16 @@ id: index
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - [Freizeit](Freizeit/Freizeit.md)
 - [Notrufnummern](Notrufnummern.md)
+- [Impressum](Impressum.html)
 </div>
 <div class="displaynone" id="listJugendlicher">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
 - [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Jugendlicher.md)
-- Aktivitäten
+- [Aktivitäten](Jugendklubs/top10_2.html)
 - [Notrufnummern](Notrufnummern.md)
+- [Impressum](Impressum.html)
 </div>
 <div class="displaynone" id="listEltern">
 - [Kitas](Kitas/Kitas.md)
@@ -60,6 +62,7 @@ id: index
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - Jugendamt
 - [Notrufnummern](Notrufnummern.md)
+- [Impressum](Impressum.html)
 </div>
 <div class="displaynone" id="listNeu_in_Hsh">
 - [Veranstaltungen](calendar/calendar.html)
@@ -71,12 +74,14 @@ id: index
 - Jugendamt
 - Bürgeramt
 - [Notrufnummern](Notrufnummern.md)
+- [Impressum](Impressum.html)
 </div>
 <div class="displaynone" id="listSenior">
 - [Veranstaltungen](calendar/calendar.html)
 - Beratung
 - Ehrenamt
 - [Notrufnummern](Notrufnummern.md)
+- [Impressum](Impressum.html)
 </div>
 
 <script type="text/javascript">
