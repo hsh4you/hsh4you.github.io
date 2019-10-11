@@ -50,6 +50,7 @@ id: index
 - [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Jugendlicher.md)
 - [Aktivitäten](Jugendklubs/top10_2.html)
+- [Freizeit](Freizeit/Freizeit.md)
 - [Notrufnummern](Notrufnummern.md)
 - [Impressum](Impressum.html)
 </div>
@@ -61,6 +62,7 @@ id: index
 - [Beratung](Beratung/Beratung_Eltern.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - Jugendamt
+- [Freizeit](Freizeit/Freizeit.md)
 - [Notrufnummern](Notrufnummern.md)
 - [Impressum](Impressum.html)
 </div>
@@ -73,6 +75,7 @@ id: index
 - Familienzentren
 - Jugendamt
 - Bürgeramt
+- [Freizeit](Freizeit/Freizeit.md)
 - [Notrufnummern](Notrufnummern.md)
 - [Impressum](Impressum.html)
 </div>
