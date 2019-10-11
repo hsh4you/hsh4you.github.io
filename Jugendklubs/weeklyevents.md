@@ -55,10 +55,15 @@
             header: {
                 left: 'prev,next',
                 center: 'title',
-                right: 'today'
+                right: 'listMonth,listDay,today'
             },
             locale: 'de',
-            defaultView: 'listDay',
+            views: { 
+                listDay: { titleFormat: 'dddd Do' },
+            },
+            // to cache the daily events default view is listMonth and once page is loaded will switch to listDay
+            // unfortunately fullcalendar.io caching does not work for visibleRange / https://fullcalendar.io/docs/visibleRange
+            defaultView: 'listMonth',
             googleCalendarApiKey: 'AIzaSyDbIw2HzwKWmQY9o0h5UuZO6MCchQDCZbw',
             eventSources: [
                   GCAL_ID_ASP_FORT_ROBINSON
@@ -86,8 +91,7 @@
                     eventData.url = url;
                 }
                 return eventData;
-            }, 
-            views: { listDay: { titleFormat: 'dddd' } },
+            },
             eventRender: function(event, element) {
                 calendarid = event.source.googleCalendarId;
                 youthclubname = youthclubnames[calendarid];
@@ -107,3 +111,15 @@
 </script>
 
 <div id='calendar'></div>
+
+<script type="text/javascript">
+  // switch to listDay view once page is loaded and hide buttons
+  document.addEventListener("DOMContentLoaded", function(event) {
+      setTimeout(function() {
+        $('.fc-listDay-button').click();
+        $('.fc-listDay-button').css('display', 'none');
+        $('.fc-listMonth-button').css('display', 'none');
+      }, 1);
+  });
+</script>
+
