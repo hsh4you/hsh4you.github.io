@@ -55,15 +55,47 @@
     <script src="{{ '/assets/js/map.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/indexpage.js' | relative_url }}"></script>
 
+    <script>
+      // source: https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp
+      function toggleMenu() {        
+        var header_menu = document.getElementById('header-menu');
+        if (header_menu.style.display === 'block') {
+          header_menu.style.display = 'none';
+        }
+        else {
+          header_menu.style.display = 'block';
+        }
+      }
+
+      window.onclick = function(event) {
+        if (!event.target.matches('.header-menu-image')) {
+          document.getElementById('header-menu').style.display = 'none';
+        }
+      }
+    </script>
+
   </head>
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">
-          <a class="whitelink" href="javascript:history.back()" id='historyback'><b>&lt;</b></a>
-          <a class="whitelink" id="indexpagetitle" href="/{{ site.github.repository_name }}">hsh4you</a>
-          <a class="whitelink" href="javascript:history.forward()" id='historyforward'><b>&gt;</b></a>
-      </h1>
+
+    <div class="flex-container">
+      <div></div>
+      <div><h1 class="project-name">
+          <a class="whitelink" href="javascript:history.back()" id='historyback'><b>&lt;</b></a
+          ><a class="whitelink" id="indexpagetitle" href="/{{ site.github.repository_name }}">hsh4you</a
+          ><a class="whitelink" href="javascript:history.forward()" id='historyforward'><b>&gt;</b></a>
+      </h1></div>
+      <!-- source: https://www.w3schools.com/howto/howto_js_dropdown.asp //-->
+      <div id="header-menu-icon" onclick="toggleMenu()"><img class="header-menu-image" src="/images/menu.svg" />
+        <div id="header-menu" class="">
+          <a class="header-menu-item" href="/{{ site.github.repository_name }}">Startseite</a>
+          <a class="header-menu-item" href="/calendar/calendar.html">Kalender</a>
+          <a class="header-menu-item" href="/Notrufnummern.html">Notrufnummern</a>
+          <a class="header-menu-item" href="/Impressum.html">Impressum</a>  
+        </div>
+      </div>
+    </div>
     </header>
 
     <main id="content" class="main-content" role="main">
