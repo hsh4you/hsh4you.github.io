@@ -97,7 +97,7 @@
                 var eventenddate = moment(event.end);
                 var nowinseconds = moment();
                 if (eventenddate.diff(nowinseconds, 'seconds') <= 0) {
-                    return false;
+                    //return false;
                 }
             }
         });
