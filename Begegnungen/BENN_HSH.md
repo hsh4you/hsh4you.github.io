@@ -24,8 +24,8 @@ Sprachcafé, Kochabende, Sozialberatung Farsi/Russisch/Arabisch/Vietnamesisch, M
 </p>
 
 ## Links
-<a target="_blank" href="www.benn-hohenschoenhausen.de">Webseite</a><br>
-<a target="_blank" href="www.facebook.com/BENNHSHNORD">Facebook</a>
+<a target="_blank" href="http://www.benn-hohenschoenhausen.de">Webseite</a><br>
+<a target="_blank" href="http://www.facebook.com/BENNHSHNORD">Facebook</a>
 
 ## Zielgruppe
 Nachbar*innen aus dem Kiez (16 - 99 Jahre)
