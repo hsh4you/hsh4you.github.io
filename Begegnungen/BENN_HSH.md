@@ -1,6 +1,6 @@
 ## BENN Hsh Nord - Auf gute Nachbarschaft
 (BENN - Berlin entwickelt neue Nachbarschaften)<br>
-<img id="topmedia" src="/Begegnungen/BENN.jpg" />
+<img id="topmedia" src="/Begegnungen/Images/BENN/logo.jpg" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
@@ -12,15 +12,12 @@ Do 13:00-15:00 Beratung Arabisch/Vietnamesisch
 Fr 10:00-13:00 Rechtsberatung (Farsi)
 </pre>
 
-
-
-
 ## Offen
 Mo: 13–16 Uhr, Di: 17-19 Uhr, Mi: 10-16Uhr; Do: nach Vereinbarung
 
 ## Aktivitäten
 <p id="activities">
-Sprachcafé, Kochabende, Sozialberatung Farsi/Russisch/Arabisch/Vietnamesisch, Mietberatung durch Rechtsanwältin, Rechtsberatung auf Farsi
+Sprachcafé, Kochabende, Lastenfahrrad ausleihen, Sozialberatung Farsi/Russisch/Arabisch/Vietnamesisch, Mietberatung durch Rechtsanwältin, Rechtsberatung auf Farsi
 </p>
 
 ## Links
