@@ -42,10 +42,10 @@ Kinder & Jugendliche 6-27 Jahre
 
 ## Eindrücke
 <div>
-  <img src="images/2.jpg" />
-  <img src="images/3.jpg" />
-  <img src="images/4.jpg" />
-  <img src="images/5.jpg" />
-  <img src="images/6.jpg" />
-  <img src="images/7.jpg" />
+  <img src="images/Arche/2.jpg" />
+  <img src="images/Arche/3.jpg" />
+  <img src="images/Arche/4.jpg" />
+  <img src="images/Arche/5.jpg" />
+  <img src="images/Arche/6.jpg" />
+  <img src="images/Arche/7.jpg" />
 </div>
