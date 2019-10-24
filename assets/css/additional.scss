@@ -1,6 +1,24 @@
 ---
 ---
 
+$emergencycall-color: red;
+$shadowsize: 0.0px;
+
+/*
+.emergencycall, .emergencycall:link, .emergencycall:hover, .emergencycall:active, .emergencycall:visited {
+   color: white;
+   text-shadow:
+     -1 * $shadowsize -1 * $shadowsize 0 red,  
+      $shadowsize -1 * $shadowsize 0 red,
+      -1 * $shadowsize $shadowsize 0 red,
+       $shadowsize $shadowsize 0 red;
+}
+*/
+
+.emergencycall, .emergencycall:link, .emergencycall:hover, .emergencycall:active, .emergencycall:visited {
+   color: red;
+}
+
 #header-menu-button {
     background-color: transparent;
     border: none;

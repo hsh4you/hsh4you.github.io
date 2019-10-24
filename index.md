@@ -41,7 +41,7 @@ id: index
 - [Beratung](Beratung/Beratung.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - [Freizeit](Freizeit/Freizeit.md)
-- [Notrufnummern](Notrufnummern.md)
+- <a class="emergencycall" href="Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listJugendlicher">
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
@@ -50,7 +50,7 @@ id: index
 - [Beratung](Beratung/Beratung_Jugendlicher.md)
 - [Aktivitäten](Jugendklubs/top10_2.html)
 - [Freizeit](Freizeit/Freizeit.md)
-- [Notrufnummern](Notrufnummern.md)
+- <a class="emergencycall" href="Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listEltern">
 - [Kitas](Kitas/Kitas.md)
@@ -61,7 +61,7 @@ id: index
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - Jugendamt
 - [Freizeit](Freizeit/Freizeit.md)
-- [Notrufnummern](Notrufnummern.md)
+- <a class="emergencycall" href="Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listNeu_in_Hsh">
 - [Veranstaltungen](calendar/calendar.html)
@@ -73,14 +73,14 @@ id: index
 - Jugendamt
 - Bürgeramt
 - [Freizeit](Freizeit/Freizeit.md)
-- [Notrufnummern](Notrufnummern.md)
+- <a class="emergencycall" href="Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listSenior">
 - [Veranstaltungen](calendar/calendar.html)
 - Beratung
 - Ehrenamt
 - [Freizeit](Freizeit/Freizeit.md)
-- [Notrufnummern](Notrufnummern.md)
+- <a class="emergencycall" href="Notrufnummern.html">Notrufnummern</a>
 </div>
 
 <script type="text/javascript">
