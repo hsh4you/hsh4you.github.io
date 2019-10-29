@@ -23,7 +23,7 @@ Sa bei Veranstaltungen<br>
 
 ## Aktivitäten
 <p id="activities">
-Billard, Tischtennis, Kicker, Brettspiele, Skaten, Computer, Graffiti, Selbsthilfe-Fahrradwerkstatt, Fitnessraum, Bandarbeit mit Proberaum, Interessegruppenarbeit 
+Billard, Tischtennis, Kicker, Brettspiele, Skaten, Computer, Graffiti, Selbsthilfe-Fahrradwerkstatt, Fitnessraum, Bandarbeit mit Proberaum, Interessengruppenarbeit 
 </p>
 
 ## Links
