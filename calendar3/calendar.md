@@ -1,8 +1,8 @@
-<script src='lib/moment.min.js'></script>
-<script src='lib/jquery.min.js'></script>
-<script src='lib/fullcalendar.min.js'></script>
-<script src='lib/locale-all.js'></script>
-<script src='lib/gcal.min.js'></script>
+<script src='/calendar/lib/moment.min.js'></script>
+<script src='/calendar/lib/jquery.min.js'></script>
+<script src='/calendar/lib/fullcalendar.min.js'></script>
+<script src='/calendar/lib/locale-all.js'></script>
+<script src='/calendar/lib/gcal.min.js'></script>
 
 <script>                
     const GCAL_ID_MIKADO = '2rs8dij62oanc4j5ic1mfspn3c@group.calendar.google.com';
