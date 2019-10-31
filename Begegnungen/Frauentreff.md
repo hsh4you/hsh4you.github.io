@@ -1,5 +1,5 @@
 ## Frauen*treff Zwischenraum
-<img id="topmedia" src="Begegnungen/Images/Frauentreff/logo.png" />
+<img id="topmedia" src="Images/Frauentreff/logo.png" />
 
 ## Offen
 Angebote im Stadtteilzentrum & mobil unterwegs, siehe Veranstaltungskalender
