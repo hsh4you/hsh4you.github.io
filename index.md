@@ -59,7 +59,7 @@ id: index
 - [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Eltern.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
-- Jugendamt
+- [Familienbüro](Familienbuero.html)
 - [Freizeit](Freizeit/Freizeit.md)
 - <a class="emergencycall" href="/Notrufnummern/Notrufnummern_Eltern.html">Notrufnummern</a>
 </div>
@@ -68,18 +68,16 @@ id: index
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Begegnungen](Begegnungen/Begegnungen.html)
-- Beratung
-- Familienzentren
-- Jugendamt
-- Bürgeramt
+- [Familienzentren](Familienzentren/Familienzentren.md)
+- [Familienbüro](Familienbuero.html)
 - [Freizeit](Freizeit/Freizeit.md)
 - <a class="emergencycall" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listSenior">
 - [Veranstaltungen](calendar/calendar.html)
+- [Freizeit](Freizeit/Freizeit.md)
 - Beratung
 - Ehrenamt
-- [Freizeit](Freizeit/Freizeit.md)
 - <a class="emergencycall" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 
