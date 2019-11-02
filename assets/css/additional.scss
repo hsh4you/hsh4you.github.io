@@ -18,19 +18,20 @@ $shadowsize: 0.0px;
 #scroll_top_button {
     display: none;
     position: fixed;
-    bottom: 21px;
-    right: 21px;
+    bottom: 24px;
+    right: 24px;
     z-index: 99;
     cursor: pointer;
     background-color: #fff;
     background-clip: padding-box;
     border: 2px solid rgba(27,31,35,.15);
-    border-radius: 21px;
+    border-radius: 64px;
     box-shadow: 0 1px 15px rgba(27,31,35,.15);
-    line-height: 26px;
-    font-size: 21px;
-    width: 36px;
-    padding-bottom: 5px;
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+    /*line-height: 26px;
+    padding-bottom: 5px;*/
 }
 
 #scroll_top_button:hover {
