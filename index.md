@@ -33,52 +33,52 @@ id: index
 ## Du suchst
 <div id="listVisible"></div>
 <div class="displaynone" id="listDefault">
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
-- [Veranstaltungen](calendar/calendar.html)
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Beratung](Beratung/Beratung.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - [Freizeit](Freizeit/Freizeit.md)
-- <a class="emergencycall" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
+- <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listJugendlicher">
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
-- [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Jugendlicher.md)
 - [Aktivitäten](Jugendklubs/top10_2.html)
 - [Freizeit](Freizeit/Freizeit.md)
-- <a class="emergencycall" href="/Notrufnummern/Notrufnummern_Jugendlich.html">Notrufnummern</a>
+- <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Jugendlich.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listEltern">
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
-- [Veranstaltungen](calendar/calendar.html)
 - [Beratung](Beratung/Beratung_Eltern.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - [Familienbüro](Familienbuero.html)
 - [Freizeit](Freizeit/Freizeit.md)
-- <a class="emergencycall" href="/Notrufnummern/Notrufnummern_Eltern.html">Notrufnummern</a>
+- <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Eltern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listNeu_in_Hsh">
-- [Veranstaltungen](calendar/calendar.html)
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Begegnungen](Begegnungen/Begegnungen.html)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - [Familienbüro](Familienbuero.html)
 - [Freizeit](Freizeit/Freizeit.md)
-- <a class="emergencycall" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
+- <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listSenior">
-- [Veranstaltungen](calendar/calendar.html)
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
 - [Freizeit](Freizeit/Freizeit.md)
 - Beratung
 - Ehrenamt
-- <a class="emergencycall" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
+- <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 
 <script type="text/javascript">

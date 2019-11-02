@@ -24,6 +24,9 @@
     <link href="https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Mono" rel="stylesheet"> 
     
     <link rel="stylesheet" href="{{ '/calendar/fullcalendar.min.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    <!-- https://www.w3schools.com/icons/fontawesome_icons_intro.asp //-->    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!-- hide scrollbars on index page //-->    <!-- hide scrollbars on index page //-->
     {% if page.id == 'index' %}
@@ -89,11 +92,11 @@
       <!-- source: https://www.w3schools.com/howto/howto_js_dropdown.asp //-->
       <div id="header-menu-icon" onclick="toggleMenu()"><img class="header-menu-image" src="/images/menu.svg" />
         <div id="header-menu" class="">
-          <a class="header-menu-item" href="/{{ site.github.repository_name }}">Startseite</a>
-          <a class="header-menu-item" href="/calendar/calendar.html">Kalender</a>
-          <a class="header-menu-item" href="/Kontakt.html">Kontakt</a>
-          <a class="header-menu-item" href="/Impressum.html">Impressum</a>  
-          <a class="header-menu-item emergencycall" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
+          <a class="header-menu-item startpage-link" href="/{{ site.github.repository_name }}">Startseite</a>
+          <a class="header-menu-item calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+          <a class="header-menu-item contact-link" href="/Kontakt.html">Kontakt</a>
+          <a class="header-menu-item imprint-link" href="/Impressum.html">Impressum</a>  
+          <a class="header-menu-item emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
         </div>
       </div>
     </div>

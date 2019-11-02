@@ -15,16 +15,39 @@ $shadowsize: 0.0px;
 }
 */
 
-.emergencycall, .emergencycall:link, .emergencycall:hover, .emergencycall:active, .emergencycall:visited {
+.emergencycall-link, .emergencycall-link:link, .emergencycall-link:hover, .emergencycall-link:active, .emergencycall-link:visited {
    color: red;
 }
 
-.emergencycall:before {
+.emergencycall-link:before, .calendar-link:before, .imprint-link:before, .contact-link:before, .startpage-link:before {
    font-family: FontAwesome;
-   content: "\f095";
    display: inline-block;
    padding-right: 4px;
    vertical-align: middle;
+}
+
+.emergencycall-link:before {
+   content: "\f095";
+   vertical-align: middle;
+}
+
+.calendar-link:before {
+   content: "\f073";
+   padding-right: 5px;
+}
+
+.imprint-link:before {
+   content: "\f129";
+   padding-right: 5px;
+   vertical-align: middle;
+}
+
+.contact-link:before {
+   content: "\f0e5";
+}
+
+.startpage-link:before {
+   content: "\f015";
 }
 
 #header-menu-button {
@@ -36,12 +59,12 @@ $shadowsize: 0.0px;
 #header-menu {
     display: none;
     position: absolute;
-    bottom: -170px;
-    right: 5px;
+    bottom: -177px;
+    right: 7px;
     z-index: 100;
-    width: 180px;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    width: 233px;
+    padding-top: 7px;
+    padding-bottom: 7px;
     background-color: #fff;
     background-clip: padding-box;
     border: 1px solid rgba(27,31,35,.15);
@@ -51,7 +74,7 @@ $shadowsize: 0.0px;
 
 .header-menu-item {
     display: block;
-    padding: 4px 8px 4px 16px;
+    padding: 4px 8px 4px 10px;
     overflow: hidden;
     color: #24292e;
     text-overflow: ellipsis;
