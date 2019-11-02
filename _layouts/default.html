@@ -121,7 +121,7 @@
     window.onscroll = function() {scrollFunction()};
 
     function scrollFunction() {
-      if (document.body.scrollTop > screen.height / 5|| document.documentElement.scrollTop > screen.height / 5) {
+      if (document.body.scrollTop > screen.height / 5 || document.documentElement.scrollTop > screen.height / 5) {
         mybutton.style.display = "block";
       } else {
         mybutton.style.display = "none";
@@ -130,13 +130,15 @@
 
     // When the user clicks on the button, scroll to the top of the document
     function topFunction() {
-      $("html").css("overflow", "hidden");
+      //$("html").css("overflow", "hidden");
       $(document).on('touchmove', function(e) { e.preventDefault(); });
-      document.body.scrollTop = 0;
-      document.documentElement.scrollTop = 0;
-      $("html").css("overflow", "auto");
-      //document.body.smoothScrollTo(0,0);
-      //document.smoothScrollTo(0,0);
+      while (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0)
+      {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+        setTimeout(10);
+      }
+      //$("html").css("overflow", "auto");
     }
     </script>
   </body>
