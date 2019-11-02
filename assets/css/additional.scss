@@ -15,6 +15,28 @@ $shadowsize: 0.0px;
 }
 */
 
+#scroll_top_button {
+    display: none;
+    position: fixed;
+    bottom: 21px;
+    right: 21px;
+    z-index: 99;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 2px solid rgba(27,31,35,.15);
+    border-radius: 21px;
+    box-shadow: 0 1px 15px rgba(27,31,35,.15);
+    line-height: 26px;
+    font-size: 21px;
+    width: 36px;
+    padding-bottom: 5px;
+}
+
+#scroll_top_button:hover {
+    color: #00cc00;
+}
+
 .emergencycall-link, .emergencycall-link:link, .emergencycall-link:hover, .emergencycall-link:active, .emergencycall-link:visited {
     color: red;
 }
@@ -67,7 +89,7 @@ $shadowsize: 0.0px;
     right: 14px;
     z-index: 100;
     width: auto;
-    padding: 8px 16px 7px 17px; 
+    padding: 8px 16px 7px 17px;
     background-color: #fff;
     background-clip: padding-box;
     border: 1px solid rgba(27,31,35,.15);
