@@ -91,6 +91,10 @@
       </h1></div>
       <!-- source: https://www.w3schools.com/howto/howto_js_dropdown.asp //-->
       <div id="header-menu-icon" onclick="toggleMenu()"><img class="header-menu-image" src="/images/menu.svg" />
+      </div>
+    </div>
+    </header>
+    <div style="position: relative">
         <div id="header-menu" class="">
           <a class="header-menu-item startpage-link" href="/{{ site.github.repository_name }}">Startseite</a>
           <a class="header-menu-item calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
@@ -98,9 +102,7 @@
           <a class="header-menu-item imprint-link" href="/Impressum.html">Impressum</a>  
           <a class="header-menu-item emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
         </div>
-      </div>
     </div>
-    </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
