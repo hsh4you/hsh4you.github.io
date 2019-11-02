@@ -7,28 +7,30 @@ id: index
 
 <script> window.onload = function() { document.title = "hsh4you.de"; } </script>
 
-<span class="nowrap">
-  <label class="userselectioncontainer" onclick="updateImagesAndLists(this)">
+<center>
+<div class="flex-container" style="justify-content: space-around; max-width:400px">
+  <div class="userselectioncontainer" onclick="updateImagesAndLists(this)">
     <img src="images/startpage/Jugendlicher.png">
     <img style="display:none" src="images/startpage/Jugendlicher_selected.png"><br>
     <span>Jugendlich</span>
-  </label>
-  <label class="userselectioncontainer" onclick="updateImagesAndLists(this)">
+  </div>
+  <div class="userselectioncontainer" onclick="updateImagesAndLists(this)">
     <img src="images/startpage/Eltern.png">
     <img style="display:none" src="images/startpage/Eltern_selected.png"><br>
     <span>Mama/Papa</span>
-  </label>
-  <label class="userselectioncontainer" onclick="updateImagesAndLists(this)">
+  </div>
+  <div class="userselectioncontainer" onclick="updateImagesAndLists(this)">
     <img src="images/startpage/Neu_in_Hsh.png">
     <img style="display:none" src="images/startpage/Neu_in_Hsh_selected.png"><br>
     <span>Neu in Hsh</span>
-  </label>
-  <label class="userselectioncontainer" onclick="updateImagesAndLists(this)">
+  </div>
+  <div class="userselectioncontainer" onclick="updateImagesAndLists(this)">
     <img src="images/startpage/Senior.png">
     <img style="display:none" src="images/startpage/Senior_selected.png"><br>
     <span>Senior/in</span>
-  </label>
-</span>
+  </div>
+</div>
+</center>
 
 ## Du suchst
 <div id="listVisible"></div>
