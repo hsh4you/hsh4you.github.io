@@ -1,10 +1,10 @@
 ---
 ---
 
+/*
 $emergencycall-color: red;
 $shadowsize: 0.0px;
 
-/*
 .emergencycall, .emergencycall:link, .emergencycall:hover, .emergencycall:active, .emergencycall:visited {
    color: white;
    text-shadow:
@@ -17,6 +17,14 @@ $shadowsize: 0.0px;
 
 .emergencycall, .emergencycall:link, .emergencycall:hover, .emergencycall:active, .emergencycall:visited {
    color: red;
+}
+
+.emergencycall:before {
+   font-family: FontAwesome;
+   content: "\f095";
+   display: inline-block;
+   padding-right: 4px;
+   vertical-align: middle;
 }
 
 #header-menu-button {
