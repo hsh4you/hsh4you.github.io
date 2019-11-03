@@ -80,6 +80,10 @@
 
   </head>
   <body>
+    <div style="display: flex; flex-direction: column; position: fixed; right: 17px; justify-content: center; align-items: center; height: 98vh;">
+    <div onclick="scrollToTop()" id="scroll_button" title="Scroll to top"><i class="fa fa-chevron-up"></i></div>
+    </div>
+
     <header class="page-header" role="banner">
 
     <div class="flex-container">
@@ -103,7 +107,6 @@
           <a class="header-menu-item emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
         </div>
     </div>
-    <div onclick="scrollToTop()" id="scroll_button" title="Scroll to top"><i class="fa fa-chevron-up"></i></div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
@@ -119,7 +122,7 @@
     // When the user scrolls down 20px from the top of the document, show the button
     window.onscroll = function() {
       if (document.body.scrollTop > screen.height / 5 || document.documentElement.scrollTop > screen.height / 5) {
-        document.getElementById("scroll_button").style.top = (window.outerHeight - 64) / 2 + "px";
+        //document.getElementById("scroll_button").style.top = (window.innerHeight - 64) / 2 + "px";
         scroll_button.style.display = "block";
       } else {
         scroll_button.style.display = "none";
@@ -136,7 +139,7 @@
     document.getElementsByTagName("body")[0].onresize = function() { reposition_scroll_button() };
 
     function reposition_scroll_button() {
-      document.getElementById("scroll_button").style.top = (window.outerHeight - 64) / 2 + "px";
+      //document.getElementById("scroll_button").style.top = (window.innerHeight - 64) / 2 + "px";
     }
     </script>
   </body>
