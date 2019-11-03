@@ -119,6 +119,7 @@
     // When the user scrolls down 20px from the top of the document, show the button
     window.onscroll = function() {
       if (document.body.scrollTop > screen.height / 5 || document.documentElement.scrollTop > screen.height / 5) {
+        document.getElementById("scroll_button").style.top = (innerHeight - 64) / 2 + "px";
         scroll_button.style.display = "block";
       } else {
         scroll_button.style.display = "none";
@@ -130,6 +131,12 @@
       $(document).on('touchmove', function(e) { e.preventDefault(); });
       document.body.scrollTop = 0;
       document.documentElement.scrollTop = 0;
+    }
+
+    document.getElementsByTagName("body")[0].onresize = function() { reposition_scroll_button() };
+
+    function reposition_scroll_button() {
+      document.getElementById("scroll_button").style.top = (innerHeight - 64) / 2 + "px";
     }
     </script>
   </body>
