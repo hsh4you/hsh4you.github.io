@@ -80,8 +80,6 @@
 
   </head>
   <body>
-    <div onclick="scrollToTop()" id="scroll_button" title="Scroll to top"><i class="fa fa-chevron-up"></i></div>
-
     <header class="page-header" role="banner">
 
     <div class="flex-container">
@@ -105,6 +103,7 @@
           <a class="header-menu-item emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
         </div>
     </div>
+    <div onclick="scrollToTop()" id="scroll_button" title="Scroll to top"><i class="fa fa-chevron-up"></i></div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
@@ -129,14 +128,8 @@
     // When the user clicks on the button, scroll to the top of the document
     function scrollToTop() {
       $(document).on('touchmove', function(e) { e.preventDefault(); });
-      setTimeout(function() {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-      }, 100);
-      setTimeout(function() {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-      }, 200);
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
     }
     </script>
   </body>
