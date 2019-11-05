@@ -2,8 +2,8 @@
 <img id="topmedia" src="images/Logos/holzwurmhaus.png" />
 
 ## Offen
-Mo 14-20 Uhr<br>
-Di-Fr 12:30-20 Uhr
+Di-Do 14-19 Uhr<br>
+Fr+Sa 13-20 Uhr
 
 ## Aktivitäten
 <p id="activities">
