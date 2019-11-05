@@ -1,4 +1,5 @@
 ## Familienzentrum Matenzeile
+<img id="topmedia" src="/Familienzentren/images/Matenzeile/logo.jpg" />
 
 ## Offen
 Mo-Fr (vormittags & nachmittags)<br>
@@ -22,3 +23,11 @@ Matenzeile (im EG der Kita "Freche Früchtchen")
 [familienzentrum@familienanlauf.de](mailto:familienzentrum@familienanlauf.de)<br>
 <a href="tel:+4915209080072">0152 0908 0072</a>
 
+<div class="mediacontainer">
+  <img src="images/Matenzeile/1.jpg" />
+  <img src="images/Matenzeile/2.jpg" />
+  <img src="images/Matenzeile/3.jpg" />
+  <img src="images/Matenzeile/4.jpg" />
+  <img src="images/Matenzeile/5.jpg" />
+  <img src="images/Matenzeile/6.jpg" />
+</div>
