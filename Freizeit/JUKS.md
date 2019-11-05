@@ -1,4 +1,5 @@
 ## JUKS - JugendKunstschule Lichtenberg
+<img id="topmedia" src="/Freizeit/Images/JUKS/1.png" />
 
 ## Offen
 Mo-Fr 10-18 Uhr
@@ -22,3 +23,9 @@ Kurse, Wochenendworkshops, individuelle Werkstattnutzung
 ## Wo
 <div id="gmap"></div>
 <script>window.onload = showMap('Demminer Str. 4, 13059 Berlin', 0, 'gmap_mini')</script>
+
+## Eindrücke
+<div>
+  <img src="Images/JUKS/2.png" />
+  <img src="Images/JUKS/3.png" />
+  </div>
