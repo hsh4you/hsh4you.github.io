@@ -18,7 +18,7 @@ Mo-Do 14-19 Uhr
 
 ## Angebote
 <p id="activities">
-Skaten/BMX & Scooter, Fußball, Volleyball, Basketball, Tischtennis, Kickern, Kreatives Gestalten, Kochen, Ferienprogramm, Workshops
+Skaten/BMX & Scooter, Kreatives Gestalten, Kochen, Ferienprogramm, Workshops, Fußball, Volleyball, Basketball, Tischtennis, Kickern 
 </p>
 
 ## Links
