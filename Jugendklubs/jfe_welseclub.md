@@ -21,7 +21,7 @@ Fr 13-21 Uhr
 
 ## Angebote
 <p id="activities">
-Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Gartenprojekt, Kochen/Backen, Computer,  Sportraum, Billard, Kicker, Tischtennis, Familiensonntage, Theatergruppe, Kampfkunst
+Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Theatergruppe, Kampfkunst, Gartenprojekt, Familiensonntage, Kochen/Backen, Computer, Sportraum, Billard, Kicker, Tischtennis
 </p>
 
 ## Links
