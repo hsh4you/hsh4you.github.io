@@ -1,5 +1,5 @@
 ## Die Arche
-<img id="topmedia" src="images/Arche/1.jpg" />
+<img id="topmedia" src="images/Logos/Arche.jpg" />
 
 ## Wochenplan
 <pre id="weeklyschedule">
