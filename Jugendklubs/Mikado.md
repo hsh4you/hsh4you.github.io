@@ -14,11 +14,11 @@ Fr  18:00-20:00  Spieleabend
 </pre>
 
 ## Offen
-Mo-Fr 13-20 Uhr
+Mo-Fr 13:00-20:00 Uhr
 
 ## Angebote
 <p id="activities">
-Kreativangebote z.B. Airbrush, Graffiti  u. Siebdruck / Airbrush, Gärtnern im Garten, ernährungsbewusstes Kochen & Backen, Klavierstunden & Musizieren im Tonstudio, Tanzgruppen, Tischtennis, Basketball, Billiard, Kickern, Chillen, Dart, Trampolinspringen, Holzbrandmalerei, Playstation 3, Kinoabende, Bewerbungstraining, Hausaufgabenhilfe / Hausaufgabenbetreuung, Hilfestellungen bei Alltagsproblemen jeglicher Art, Fahrrad- & Holzwerkstatt, Gesellschafts- & Rollenspiele, Ausflüge, Ferienfahrten
+Kreativangebote z.B. Airbrush, Graffiti  u. Siebdruck / Airbrush, Gärtnern im Garten, ernährungsbewusstes Kochen & Backen, Klavierstunden & Musizieren im Tonstudio, Tanzgruppen, Trampolinspringen, Holzbrandmalerei, Playstation 3, Kinoabende, Bewerbungstraining, Hausaufgabenhilfe/Hausaufgabenbetreuung, Hilfestellungen bei Alltagsproblemen jeglicher Art, Fahrrad- & Holzwerkstatt, Gesellschafts- & Rollenspiele, Ausflüge, Ferienfahrten, Tischtennis, Basketball, Billiard, Kickern, Chillen, Dart
 </p>
 
 ## Links

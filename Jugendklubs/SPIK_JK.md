@@ -16,7 +16,7 @@ Mo-Fr 14-20 Uhr
 
 ## Aktivitäten
 <p id="activities">
-Kochen, Graffiti, Bandraum, Musik, Kunst, Keramik, Zeichnen, Aikido, Tanzen, Sport (Tischtennis, Fußball, Basketball, Frisbee), Billard, Kicker, Jonglieren, Garten mit Hängematten, Holzwerkstatt, Gesellschaftsspiele, PC-Ecke, Hausaufgabenhilfe, Beratung, Ferienangebote, Ausflüge, Übernachtungen, Lagerfeuer, Grillen, Chillen, Interkulturelles
+Bandraum, Musik- & Filmprojekte, Tanzraum, Kunstraum, Interkulturelles, Aikido, Jonglieren, Garten mit Hängematten, Holzwerkstatt, Sport (Tischtennis, Fußball, Basketball, Frisbee), Kochen, Graffiti, Billard, Kicker, Gesellschaftsspiele, PC-Ecke, Hausaufgabenhilfe, Beratung, Ferienangebote, Ausflüge, Übernachtungen, Lagerfeuer, Grillen, Chillen 
 </p>
 
 ## Links

@@ -19,7 +19,7 @@ Mo-Fr 14-19 Uhr
 
 ## Angebote
 <p id="activities">
-Kickboxen, Skaten/BMX & Scooter, Bewegungs- & Ballspiele, Fitness, Pubertätsstunde, Streetdance, Tischtennis, Kickern, Kochen, Ferienfahrten, Workshops
+Kickboxen, Skaten/BMX & Scooter, Bewegungs-& Ballspiele, Fitness, Pubertätsstunde, Streetdance, Trampolin, Garten, Tischtennis, Kickern, Kochen, Ferienfahrten, Workshops
 </p>
 
 ## Links

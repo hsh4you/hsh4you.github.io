@@ -16,7 +16,7 @@ Familiensamstage 12-18 Uhr
 
 ## Angebote
 <p id="activities">
-Fitnessraum, kostenlose Rechtsberatung (bis 27 Jahren), Vermietung der Räumlichkeiten, Billard, Kicker, Tischtennis, Gartenprojekte, wöchentliches Kochangebot „Junge Küche“, PC-Ecke, Basketball, Beachvolleyball, Beachbar im Garten, Graffiti-Projekte, Lagerfeuerstelle, Hausaufgabenhilfe und Familiensamstage
+ wöchentliches Kochangebot „Junge Küche“, Beachvolleyball, Beachbar im Garten, Lagerfeuerstelle, Fitnessraum, kostenlose Rechtsberatung (bis 27 Jahren), Gartenprojekte, Graffiti-Projekte, Hausaufgabenhilfe & Familiensamstage, Vermietung der Räumlichkeiten, Billard, Kicker, Tischtennis, PC-Ecke, Basketball
 </p>
 
 ## Links

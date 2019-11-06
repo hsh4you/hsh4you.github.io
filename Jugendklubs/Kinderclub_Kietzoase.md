@@ -8,7 +8,7 @@ Fr 13-17 Uhr<br>
 
 ## Angebote
 <p id="activities">
-Tischtennis, Kletterwand, Fußball, Kicker, Airhockey, Baumhaus, Gorodki, Pool (Sommer), Computerraum, Holzwerkstatt, Musik – und Tanzraum, Kieznächte, Ferienfahrten, Gartengestaltung, Hausaufgabenhilfe, Chillen, Mädchenraum
+Kletterwand, Mädchenraum, Baumhaus, Gorodki, Pool (Sommer), Holzwerkstatt, Musik – & Tanzraum, Kieznächte, Ferienfahrten, Gartengestaltung,  Airhockey, Computerraum, Hausaufgabenhilfe, Chillen, Tischtennis, Fußball, Kicker
 </p>
 
 ## Links

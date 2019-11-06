@@ -17,7 +17,7 @@ Mo-Fr 14-20 Uhr
 
 ## Angebote
 <p id="activities">
-Kochen, Tanztraining, Clubversammlung, Tonstudio (mit Anmeldung), Boxtraining, Kreativangebot, Billard, Tischtennis, Kickertraining, VIP- Talk, Sportangebote
+Tanztraining, VIP- Talk, Tonstudio (mit Anmeldung), Boxtraining, Kreativangebot, Kochen, Billard, Tischtennis, Kickertraining,  Sportangebote, Clubversammlung
 </p>
 
 ## Links

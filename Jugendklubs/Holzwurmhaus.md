@@ -7,8 +7,8 @@ Fr+Sa 13-20 Uhr
 
 ## Aktivitäten
 <p id="activities">
-Billiard, Kicker, Dart, Airhockey<br>
-im Sommer: Pool, kleines Fußball-& Volleyballfeld, Hüttenbau, Kochangebote
+im Sommer: Pool, kleines Fußball-& Volleyballfeld, Hüttenbau, Kochangebote<br>
+Airhockey, Billiard, Kicker, Dart
 </p>
 
 ## Links

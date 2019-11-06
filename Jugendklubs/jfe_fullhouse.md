@@ -17,7 +17,7 @@ Mo-Fr 13-20 Uhr
 
 ## Aktivitäten
 <p id="activities">
-Kochen/Backen, Volleyball, Fußball, Basketball, Fitness, Holzverarbeitung, Basteln, Malen, Graffiti, Gartenprojekt, Billard, Kicker, Dart, Tischtennis, Gesellschaftsspiele, Hausaufgabenhilfe, Bewerbungstraining, Tagesausflüge, Fahrradwerksattt, Computerraum, Mädchenraum, Workshops
+Fahrradwerkstatt, Gartenprojekt, Mädchenraum, Holzverarbeitung, Graffiti, Fitness, Basteln, Kochen/Backen, Volleyball, Fußball, Basketball, Malen, Billard, Kicker, Dart, Tischtennis, Gesellschaftsspiele, Hausaufgabenhilfe, Computerraum, Bewerbungstraining, Workshops, Tagesausflüge
 </p>
 
 ## Links
