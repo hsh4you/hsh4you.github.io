@@ -15,7 +15,7 @@ Mo-Fr 13-19 Uhr
 
 ## Aktivitäten
 <p id="activities">
-Basteln, Malen, Ausflüge, Kicker, Dart, Billard, Tischtennis, Kochen & Backen, Gesellschaftsspiele, Hausaufgabenbetreuung, Konsolen- & Computerraum 
+Ausflüge, Kochen & Backen, Basteln, Hausaufgabenbetreuung, Konsolen- & Computerraum, Malen, Kicker, Dart, Billard, Tischtennis, Gesellschaftsspiele
 </p>
 
 ## Links
