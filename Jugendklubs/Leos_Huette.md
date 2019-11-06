@@ -21,12 +21,12 @@ Sa  12:00-15:00  Fußball (Halle Welsestr.)
 </pre>
 
 ## Offen
-Mo 14-20 Uhr<br>
-Di-Fr 12:30-20 Uhr
+Mo 14-20:00 Uhr<br>
+Di-Fr 12:30-20:00 Uhr
 
 ## Angebote
 <p id="activities">
-Billard, Tischtennis, Darts, Kicker, Karten- & Brettspiele, Fußball, Basketball, Volleyball, Computer/Konsolen, Erlebnispädagogik, Gitarre & Klavier, Nähen, Zeichnen, Handarbeit, Kochen & Backen, Tanzen, Bildbearbeitung                     
+Erlebnispädagogik, Gitarre & Klavier, Tanzen, Bildbearbeitung, Nähen, Zeichnen, Handarbeit, Computer/Konsolen, Kochen & Backen, Billard, Tischtennis, Darts, Kicker, Karten- & Brettspiele, Fußball, Basketball, Volleyball                   
 </p>
 
 ## Links
