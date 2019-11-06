@@ -40,6 +40,6 @@ im Nachbarschaftshaus des Ostseeviertels
 
 <div class="mediacontainer">
   
-  <img src="images/Grashalm/1.jpg" />
-  <img src="images/Grashalm/2.jpg" />
+  <img src="images/Grashalm/1.JPG" />
+  <img src="images/Grashalm/2.JPG" />
 </div> 
