@@ -20,6 +20,10 @@ $shadowsize: 0.0px;
     z-index: 0;
 }
 
+.leaflet-control-zoom-in, .leaflet-control-zoom-out {
+    user-select: none;
+}
+
 @media screen and (max-width: 42em) { #youthclubsmap { min-height: 85vh; } }
 
 #scroll_button {
