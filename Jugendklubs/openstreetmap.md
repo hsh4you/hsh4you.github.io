@@ -1,13 +1,12 @@
-<div id='map' style='min-width: auto; min-height: 77vh; max-height: 100vh'></div>
+<div id='youthclubsmap'></div>
 
 <script>
-	var map = L.map('map').setView([52.56, 13.51], 13);
+	var map = L.map('youthclubsmap').setView([52.561, 13.51], 13);
 
 	var baselayer = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiaHNoNHlvdSIsImEiOiJjazJudDRuem4wdGp5M2NwZWwzNHJremo3In0.FLb6M_kTKmkeDeXZ-_dAEg', {
 		maxZoom: 19,
-		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-			'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+		attribution: ' &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a>' +
+			' &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
 		id: 'mapbox.streets'
 	}).addTo(map);
     
@@ -45,10 +44,4 @@
         
             marker.bindTooltip(title, {permanent: true, interactive: true, opacity: 0.8, direction: alignment});
         }
-        
-        function onMapClick(e) {
-            history.back();
-        }
-
-        map.on('click', onMapClick);
 </script>
