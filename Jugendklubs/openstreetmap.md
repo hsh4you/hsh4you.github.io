@@ -27,20 +27,26 @@
             [52.56274, 13.52695, '<a href="jfe_welseclub.html">Welseclub</a>']
         ];
     
-        for (var i=0; i<markers.length; i++) {
-            var lat = markers[i][0];
-            var lon = markers[i][1];
-            var title = markers[i][2];
+    for (var i=0; i<markers.length; i++) {
+        var lat = markers[i][0];
+        var lon = markers[i][1];
+        var title = markers[i][2];
 
-            var alignment = 'auto';
-            if (markers[i].length > 3) {
-                alignment = markers[i][3];
-            }
-           
-            var markerLocation = new L.LatLng(lat, lon);
-            var marker = new L.Marker(markerLocation);
-            map.addLayer(marker);
-        
-            marker.bindTooltip(title, {permanent: true, interactive: true, opacity: 0.8, direction: alignment});
+        var alignment = 'auto';
+        if (markers[i].length > 3) {
+            alignment = markers[i][3];
         }
+        
+        var markerLocation = new L.LatLng(lat, lon);
+        var marker = new L.Marker(markerLocation);
+        map.addLayer(marker);
+    
+        marker.bindTooltip(title, {permanent: true, interactive: true, opacity: 0.8, direction: alignment});
+    }
+
+    L.easyButton('fa-arrows-alt', function(btn, map){
+        map.flyTo([52.561, 13.51], 13);
+    }).addTo(map);
+
+    L.control.locate({flyTo: true, keepCurrentZoomLevel: false, clickBehavior: {inView: 'setView'}}).addTo(map);
 </script>
