@@ -17,6 +17,7 @@ $shadowsize: 0.0px;
 
 #youthclubsmap {
     min-height: 74vh;
+    z-index: -1;
 }
 
 @media screen and (max-width: 42em) { #youthclubsmap { min-height: 85vh; } }
