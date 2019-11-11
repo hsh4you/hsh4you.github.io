@@ -1,5 +1,5 @@
 ## Begegnungsstätte Warnitzer Bogen
-<img id="topmedia" src="/Begegnungsstaetten/images/Warnitzer.jpg" />
+<img id="topmedia" src="images/Warnitzer.jpg" />
 
 ## Offen
 Mo, Mi & Do 9-17 Uhr<br>
