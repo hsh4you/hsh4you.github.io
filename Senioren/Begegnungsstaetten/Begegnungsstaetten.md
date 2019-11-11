@@ -1,4 +1,4 @@
 ## Begegnungsstätten
 
-- [Begnungsstätte 1](1.md)
-- [Begnungsstätte 2](2.md)
+- [Begegnungsstätte 1](1.md)
+- [Begegnungsstätte 2](2.md)
