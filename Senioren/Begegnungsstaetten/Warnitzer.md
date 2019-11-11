@@ -67,9 +67,9 @@ Freitag:
 Menschen 50+Jahre
 
 ## Wo
-<div id="gmap"></div>
-<script>window.onload = showMap(' Warnitzer Str. 8, 13057 Berlin`, 0, 'gmap_mini')</script><br>
 Im Warnitzer Bogen
+<div id="gmap"></div>
+<script>window.onload = showMap('Warnitzer Str. 8, 13057 Berlin', 0, 'gmap_mini')</script><br>
 
 ## Kontakt
 [sbst.warnitzer@gmx.de](mailto: sbst.warnitzer@gmx.de)<br>
