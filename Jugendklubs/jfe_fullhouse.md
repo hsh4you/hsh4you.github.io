@@ -21,8 +21,8 @@ Fahrradwerkstatt, Gartenprojekt, Mädchenraum, Holzverarbeitung, Graffiti, Fitne
 </p>
 
 ## Links
-<a class="external_link" target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-full-house">Website</a><br>
-<a class="external_link" target="_blank" href="https://www.instagram.com/jfe.fullhouse/">Instagram</a>
+<a class="external_link" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-full-house">Website</a><br>
+<a class="external_link" href="https://www.instagram.com/jfe.fullhouse/">Instagram</a>
 
 ## Zielgruppe
 10-21 Jahre

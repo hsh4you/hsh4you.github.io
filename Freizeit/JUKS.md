@@ -11,7 +11,7 @@ Kurse, Wochenendworkshops, individuelle Werkstattnutzung
 </p>
 
 ## Links
-<a class="external_link" target="_blank" href="http://www.juks-lichtenberg.de">Webseite</a>
+<a class="external_link" href="http://www.juks-lichtenberg.de">Webseite</a>
 
 ## Zielgruppe
 (3-)6 - 27(-100) Jahre

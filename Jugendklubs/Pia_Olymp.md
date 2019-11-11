@@ -23,9 +23,9 @@ Kickboxen, Skaten/BMX & Scooter, Bewegungs-& Ballspiele, Fitness, Pubertätsstun
 </p>
 
 ## Links
-<a class="external_link" target="_blank" href="http://piaolymp.kietz-fuer-kids-freizeitsport.de">Website</a><br>
-<a class="external_link" target="_blank" href="https://www.facebook.com/pia.olymp">Facebook</a><br>
-<a class="external_link" target="_blank" href="https://www.instagram.com/piaolymp/">Instagram</a>
+<a class="external_link" href="http://piaolymp.kietz-fuer-kids-freizeitsport.de">Website</a><br>
+<a class="external_link" href="https://www.facebook.com/pia.olymp">Facebook</a><br>
+<a class="external_link" href="https://www.instagram.com/piaolymp/">Instagram</a>
 
 ## Zielgruppe
 8-25 Jahre

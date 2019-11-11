@@ -38,7 +38,7 @@ Freitag:
 </pre>
 
 ## Links
-<a class="external_link" target="_blank" href="https://www.vav-hhausen.de/SBS-Ribnitzer-Stra%C3%9Fe/sbst-ribnitzer-start.html">Website</a>
+<a class="external_link" href="https://www.vav-hhausen.de/SBS-Ribnitzer-Stra%C3%9Fe/sbst-ribnitzer-start.html">Website</a>
 
 ## Zielgruppe
 Menschen 50+Jahre

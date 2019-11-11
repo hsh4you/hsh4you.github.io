@@ -21,8 +21,8 @@ Tanztraining, VIP- Talk, Tonstudio (mit Anmeldung), Boxtraining, Kreativangebot,
 </p>
 
 ## Links
-<a class="external_link" target="_blank" href="http://www.vav-hhausen.de/Kontaktladen/kontaktladen-start.html">Website</a><br>
-<a class="external_link" target="_blank" href="https://www.facebook.com/JFEkontaktladenVIP/">Facebook</a>
+<a class="external_link" href="http://www.vav-hhausen.de/Kontaktladen/kontaktladen-start.html">Website</a><br>
+<a class="external_link" href="https://www.facebook.com/JFEkontaktladenVIP/">Facebook</a>
 
 ## Zielgruppe
 12-21 Jahre

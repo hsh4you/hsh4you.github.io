@@ -15,9 +15,9 @@ Du triffst uns in Lichtenberg, in deinem Jugenclub, oder in unserem Beratungszen
 ▪	Wir begleiten dich bei Ämtergängen<br>
 
 ## Links
-<a class="external_link" target="_blank" href="https://www.fvaj.de">Website</a><br>
-<a class="external_link" target="_blank" href="https://https://www.facebook.com/fvajverein">Facebook</a><br>
-<a class="external_link" target="_blank" href="https://www.instagram.com/restart4.0/">Instagram</a>
+<a class="external_link" href="https://www.fvaj.de">Website</a><br>
+<a class="external_link" href="https://https://www.facebook.com/fvajverein">Facebook</a><br>
+<a class="external_link" href="https://www.instagram.com/restart4.0/">Instagram</a>
 
 ## Zielgruppe
 15 bis 25-jährige 

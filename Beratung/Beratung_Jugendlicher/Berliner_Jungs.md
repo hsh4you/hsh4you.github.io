@@ -13,7 +13,7 @@ Beratung von betroffenen Jungen und ihren Angehörigen (Eltern/Erziehungsberecht
 Schulung pädagogischer Fachkräfte und Multiplikator_innen
 
 ## Links
-<a class="external_link" target="_blank" href="http://jungs.berlin/">Website</a>
+<a class="external_link" href="http://jungs.berlin/">Website</a>
 
 ## Zielgruppe
 Jungen zwischen 6–18 Jahren, Angehörige und Fachkräfte

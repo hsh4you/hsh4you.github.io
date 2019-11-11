@@ -22,8 +22,8 @@ Kreativangebote z.B. Airbrush, Graffiti  u. Siebdruck / Airbrush, Gärtnern im G
 </p>
 
 ## Links
-<a class="external_link" target="_blank" href="https://kietzfuerkids.de/mikado/">Website</a><br>
-<a class="external_link" target="_blank" href="https://www.facebook.com/jugendclub.mikado">Facebook</a>
+<a class="external_link" href="https://kietzfuerkids.de/mikado/">Website</a><br>
+<a class="external_link" href="https://www.facebook.com/jugendclub.mikado">Facebook</a>
 
 ## Zielgruppe
 12-21 Jahre

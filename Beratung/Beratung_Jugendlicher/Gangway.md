@@ -10,9 +10,9 @@ Beratungszeit Mo 17-20 Uhr <br>+ nach Vereinbarung + Strassenpräsenz
 aufsuchende Jugendsozialarbeit, Einzelfallbegleitung, Beratung, Gruppenaktionen, Projekte
 
 ## Links
-<a class="external_link" target="_blank" href="https://www.gangway.de">Website</a><br>
-<a class="external_link" target="_blank" href="https://https://www.facebook.com/teamhsh.gangway">Facebook</a><br>
-<a class="external_link" target="_blank" href="https://www.instagram.com/gangwayhohenschoenhausen/">Instagram</a>
+<a class="external_link" href="https://www.gangway.de">Website</a><br>
+<a class="external_link" href="https://https://www.facebook.com/teamhsh.gangway">Facebook</a><br>
+<a class="external_link" href="https://www.instagram.com/gangwayhohenschoenhausen/">Instagram</a>
 
 ## Zielgruppe
 14 bis 27 Jahre

@@ -14,8 +14,8 @@ Sprachcafé, Kochabende, Lastenfahrrad ausleihen, Sozialberatung Farsi/Russisch/
 </p>
 
 ## Links
-<a class="external_link" target="_blank" href="http://www.benn-hohenschoenhausen.de">Webseite</a><br>
-<a class="external_link" target="_blank" href="http://www.facebook.com/BENNHSHNORD">Facebook</a>
+<a class="external_link" href="http://www.benn-hohenschoenhausen.de">Webseite</a><br>
+<a class="external_link" href="http://www.facebook.com/BENNHSHNORD">Facebook</a>
 
 ## Zielgruppe
 Nachbar*innen aus dem Kiez (16 - 99 Jahre)

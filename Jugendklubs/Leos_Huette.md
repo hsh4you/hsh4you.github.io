@@ -30,7 +30,7 @@ Erlebnispädagogik, Gitarre & Klavier, Tanzen, Bildbearbeitung, Nähen, Zeichnen
 </p>
 
 ## Links
-<a class="external_link" target="_blank" href="http://leos-huette.de/">Website</a>
+<a class="external_link" href="http://leos-huette.de/">Website</a>
 
 ## Zielgruppe
 6-17 Jahre

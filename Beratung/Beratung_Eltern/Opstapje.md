@@ -7,7 +7,7 @@ Hausbesuche, werden individuell vereinbart
 Aufsuchendes Spiel- und Lernprogramm zur Kleinkindförderung. Das präventive Förderprogramm richtet sich sowohl an deutsche Familien als auch an Familien mit Migrationshintergrund. „Opstapje” bereitet das Kind optimal auf den Besuch von Kita und Schule vor und sorgt damit für Chancengleichheit für alle Kinder. 
 
 ## Links
-<a class="external_link" target="_blank" href="https://www.kjhv.de/opstapje">Website</a>
+<a class="external_link" href="https://www.kjhv.de/opstapje">Website</a>
 
 ## Zielgruppe
 Babies und Kleinkinder ab 6 Monate bis 3 Jahre

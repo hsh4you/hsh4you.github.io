@@ -9,7 +9,7 @@ siehe Wochenplan
 Hebammensprechstunde, Eltern-Kind-Sport, Krabbelgruppen, Spiel & Bewegung für die Kleinsten, Offener Eltern-Kind-Treff mit Hebamme, Offene Familiennachmittage, Musikgarten, Babymassage, Nähkurs, Sprechstunde zu Familienfragen, Raumnutzung, Workshops & Feste
 
 ## Links
-<a class="external_link" target="_blank" href="https://www.familienanlauf.de/familienzentrum">Website</a>
+<a class="external_link" href="https://www.familienanlauf.de/familienzentrum">Website</a>
 
 ## Zielgruppe
 Familien mit Kindern zwischen 0-6 Jahren, Schwangere, Mütter, Väter, Alleinerziehende, Familien mit Fluchterfahrung
