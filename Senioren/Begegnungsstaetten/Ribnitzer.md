@@ -1,4 +1,4 @@
-## Begegnungsstätte Ribnitzer Straße
+## Begegnungsstätte Ribnitzer Str
 <img id="topmedia" src="images/Ribnitzer Str.jpg" />
 
 ## Offen
