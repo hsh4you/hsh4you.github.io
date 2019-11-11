@@ -62,6 +62,7 @@ id: index
 - [Beratung](Beratung/Beratung_Eltern.md)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - [Familienbüro](Familienbuero.html)
+- [Aktivitäten](Jugendklubs/top10_2.html)
 - [Freizeit](Freizeit/Freizeit.md)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Eltern.html">Notrufnummern</a>
 </div>
@@ -72,6 +73,7 @@ id: index
 - [Begegnungen](Begegnungen/Begegnungen.html)
 - [Familienzentren](Familienzentren/Familienzentren.md)
 - [Familienbüro](Familienbuero.html)
+- [Aktivitäten](Jugendklubs/top10_2.html)
 - [Freizeit](Freizeit/Freizeit.md)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
