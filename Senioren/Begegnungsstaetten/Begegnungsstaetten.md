@@ -1,4 +1,4 @@
 ## Begegnungsstätten
 
-- [Begegnungsstätte 1](1.md)
+- [Begegnungsstätte Ribnitzer Str.](Ribnitzer.md)
 - [Begegnungsstätte 2](2.md)
