@@ -42,9 +42,9 @@ Freitag:
 Menschen 50+Jahre
 
 ## Wo
+Im Nachbarschaftshaus des Ostseeviertels
 <div id="gmap"></div>
 <script>window.onload = showMap('Ribnitzer Straße 1 b, 13051 Berlin', 0, 'gmap_mini')</script><br>
-Seniorenbegegnungsstätte im Nachbarschaftshaus des Ostseeviertels
 
 ## Kontakt
 [sbst.ribnitzer.str@gmx.net](mailto: sbst.ribnitzer.str@gmx.net)<br>
