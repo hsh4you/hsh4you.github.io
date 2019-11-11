@@ -9,7 +9,7 @@ Eltern-Kind-Gruppe im FZ Pusteblume: Do 09–11 Uhr
 Elternberatung, Sozialpädagogische Arbeit, Familienförderung, Frühe Hilfen
 
 ## Links
-<a target="_blank" href="https://www.kjhv.de">Website</a>
+<a class="external_link" target="_blank" href="https://www.kjhv.de">Website</a>
 
 ## Zielgruppe
 Familien mit Kindern von 0 – 6 Jahren

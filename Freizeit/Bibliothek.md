@@ -25,9 +25,9 @@ Tabletop Spiele usw.
 </p>
 
 ## Links
-<a target="_blank" href="https://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/bildung/artikel.298017.php">Webseite</a><br>
-<a target="_blank" href="https://www.instagram.com/annaseghersbibliothek/">Instagram</a><br>
-<a target="_blank" href="https://www.facebook.com/pg/stadtbibliothek.berlin.lichtenberg/about/?ref=page_internal">Facebook</a>
+<a class="external_link" target="_blank" href="https://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/bildung/artikel.298017.php">Webseite</a><br>
+<a class="external_link" target="_blank" href="https://www.instagram.com/annaseghersbibliothek/">Instagram</a><br>
+<a class="external_link" target="_blank" href="https://www.facebook.com/pg/stadtbibliothek.berlin.lichtenberg/about/?ref=page_internal">Facebook</a>
 
 ## Kontakt
 [anna-seghers-bibliothek@t-online.de](mailto:anna-seghers-bibliothek@t-online.de)<br> 

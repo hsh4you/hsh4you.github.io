@@ -10,7 +10,7 @@ Austausch, Kennenlernen, Informationen, Planung gemeinsamer Aktivitäten wie Bac
 </p>
 
 ## Links
-<a target="_blank" href="https://www.albatros-lebensnetz.de/stadtteilzentrum-hohenschoenhausen-sued/frauentreff/ ">Webseite</a><br>
+<a class="external_link" target="_blank" href="https://www.albatros-lebensnetz.de/stadtteilzentrum-hohenschoenhausen-sued/frauentreff/ ">Webseite</a><br>
 
 ## Zielgruppe
 Frauen (mit & ohne Kinder)

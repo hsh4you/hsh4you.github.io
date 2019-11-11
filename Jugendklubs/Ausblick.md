@@ -19,8 +19,8 @@ Ausflüge, Kochen & Backen, Basteln, Hausaufgabenbetreuung, Konsolen- & Computer
 </p>
 
 ## Links
-<a target="_blank" href="https://www.freizeitclub-ausblick.de/">Webseite</a><br>
-<a target="_blank" href="https://www.facebook.com/ausblickberlin/">Facebook</a><br>
+<a class="external_link" target="_blank" href="https://www.freizeitclub-ausblick.de/">Webseite</a><br>
+<a class="external_link" target="_blank" href="https://www.facebook.com/ausblickberlin/">Facebook</a><br>
 
 ## Zielgruppe
 Kinder & Jugendliche 10-24 Jahre

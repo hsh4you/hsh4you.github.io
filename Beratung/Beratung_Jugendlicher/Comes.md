@@ -10,7 +10,7 @@ Mo–Fr 9-17 Uhr
 •	Eingliederungshilfe für Kinder und Jugendliche<br>
 
 ## Links
-<a target="_blank" href="https://www.comes-berlin.de">Website</a>
+<a class="external_link" target="_blank" href="https://www.comes-berlin.de">Website</a>
 
 ## Zielgruppe
 Kinder, Jugendliche, Familien

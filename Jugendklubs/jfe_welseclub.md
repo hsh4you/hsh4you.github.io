@@ -25,9 +25,9 @@ Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Theate
 </p>
 
 ## Links
-<a target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-welseclub">Webseite</a><br>
-<a target="_blank" href="https://www.facebook.com/Welseclub/">Facebook</a><br>
-<a target="_blank" href="https://www.instagram.com/jfe.welseclub/">Instagram</a>
+<a class="external_link" target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-welseclub">Webseite</a><br>
+<a class="external_link" target="_blank" href="https://www.facebook.com/Welseclub/">Facebook</a><br>
+<a class="external_link" target="_blank" href="https://www.instagram.com/jfe.welseclub/">Instagram</a>
 
 ## Zielgruppe
 10-27 Jahre

@@ -24,8 +24,8 @@ Beratung – Coaching – Bewerbung<br>
 •	Bewerbungsfotoshooting<br>
 
 ## Links
-<a target="_blank" href="https://www.fvaj.de">Website</a><br>
-<a target="_blank" href="https://https://www.facebook.com/fvajverein">Facebook</a><br>
+<a class="external_link" target="_blank" href="https://www.fvaj.de">Website</a><br>
+<a class="external_link" target="_blank" href="https://https://www.facebook.com/fvajverein">Facebook</a><br>
 
 ## Zielgruppe
 15 bis 27-jährige 

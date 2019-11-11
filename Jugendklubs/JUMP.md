@@ -22,7 +22,7 @@ Skaten/BMX & Scooter, Kreatives Gestalten, Kochen, Ferienprogramm, Workshops, Fu
 </p>
 
 ## Links
-<a target="_blank" href="http://jump.kietz-fuer-kids-freizeitsport.de/">Website</a>
+<a class="external_link" target="_blank" href="http://jump.kietz-fuer-kids-freizeitsport.de/">Website</a>
 
 ## Zielgruppe
 8-15 Jahre

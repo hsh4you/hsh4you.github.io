@@ -12,8 +12,8 @@ Airhockey, Billiard, Kicker, Dart
 </p>
 
 ## Links
-<a target="_blank" href="http://www.sozdia.de/Wir-ueber-uns.1751.0.html">Website</a><br>
-<a target="_blank" href="https://www.facebook.com/j.mann.lindner">Facebook</a>
+<a class="external_link" target="_blank" href="http://www.sozdia.de/Wir-ueber-uns.1751.0.html">Website</a><br>
+<a class="external_link" target="_blank" href="https://www.facebook.com/j.mann.lindner">Facebook</a>
 
 ## Zielgruppe
 8-18 Jahre

@@ -20,9 +20,9 @@ Bandraum, Musik- & Filmprojekte, Tanzraum, Kunstraum, Interkulturelles, Aikido, 
 </p>
 
 ## Links
-<a target="_blank" href="http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/">Webseite</a><br>
-<a target="_blank" href="https://www.facebook.com/spik.ev.3/">Facebook</a><br>
-<a target="_blank" href="https://www.instagram.com/spik_jugendclub/">Instagram</a>
+<a class="external_link" target="_blank" href="http://www.spikev.de/jugendfreizeiteinrichtung-fuer-menschen-ab-12/">Webseite</a><br>
+<a class="external_link" target="_blank" href="https://www.facebook.com/spik.ev.3/">Facebook</a><br>
+<a class="external_link" target="_blank" href="https://www.instagram.com/spik_jugendclub/">Instagram</a>
 
 ## Zielgruppe
 Jugendliche 10-21 Jahre

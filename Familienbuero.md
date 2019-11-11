@@ -20,7 +20,7 @@ Beratung zu Leistungen (Informationen & Hilfe bei Antragsstellung):<br>
 </p>
 
 ## Links
-<a target="_blank" href="http://www.familienbuero-lichtenberg.de">Webseite</a><br>
+<a class="external_link" target="_blank" href="http://www.familienbuero-lichtenberg.de">Webseite</a><br>
 
 ## Zielgruppe
 Beratung rund um die Altersklasse 0-21 Jahren für Eltern & Jugendliche bzw. junge Erwachsene

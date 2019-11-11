@@ -4,7 +4,7 @@
 Mo-Fr 13-20 Uhr
 
 ## Links
-<a target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-funkloch">Website</a>
+<a class="external_link" target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-funkloch">Website</a>
 
 ## Zielgruppe
 6-14 Jahre

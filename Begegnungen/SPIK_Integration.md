@@ -18,7 +18,7 @@ Abholung & Begleitung in Jugendklubs im Kiez, Ausflüge zu Kinderbauernhöfen, A
 </p>
 
 ## Links
-<a target="_blank" href="http://www.spikev.de/angebote-fuer-gefluechtete-junge-menschen-und-ihre-familien/">Webseite</a><br>
+<a class="external_link" target="_blank" href="http://www.spikev.de/angebote-fuer-gefluechtete-junge-menschen-und-ihre-familien/">Webseite</a><br>
 
 ## Zielgruppe
 Kinder & Jugendliche 10-21 Jahre

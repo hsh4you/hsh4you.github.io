@@ -43,7 +43,7 @@ Kurse und Veranstaltungen<br>
 •	Familienferienfahrten<br>
 
 ## Links
-<a target="_blank" href="https://www.vav-hhausen.de/Grashalm/grashalm-start.html">Website</a>
+<a class="external_link" target="_blank" href="https://www.vav-hhausen.de/Grashalm/grashalm-start.html">Website</a>
 
 ## Zielgruppe
 die ganze Familie ist willkommen :)

@@ -27,8 +27,8 @@ Sa 10–17 Uhr<br>
 </p>
 
 ## Links
-<a target="_blank" href="http://www.kietzfuerkids.de/fort-robinson/">Website</a><br>
-<a target="_blank" href="https://www.facebook.com/pages/Fort-Robinson-ASP/294121017862787">Facebook</a>
+<a class="external_link" target="_blank" href="http://www.kietzfuerkids.de/fort-robinson/">Website</a><br>
+<a class="external_link" target="_blank" href="https://www.facebook.com/pages/Fort-Robinson-ASP/294121017862787">Facebook</a>
 
 ## Zielgruppe
 6-14 Jahre

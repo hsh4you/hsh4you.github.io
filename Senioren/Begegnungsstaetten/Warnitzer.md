@@ -61,7 +61,7 @@ Freitag:
 </pre>
 
 ## Links
-<a target="_blank" href="https://www.vav-hhausen.de/SBS-Warnitzer-Bogen/sbst-warnitzer-start.html">Website</a>
+<a class="external_link" target="_blank" href="https://www.vav-hhausen.de/SBS-Warnitzer-Bogen/sbst-warnitzer-start.html">Website</a>
 
 ## Zielgruppe
 Menschen 50+Jahre

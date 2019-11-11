@@ -27,7 +27,7 @@ Selbsthilfe-Fahrradwerkstatt, Fitnessraum, Bandarbeit mit Proberaum, Skaten, Int
 </p>
 
 ## Links
-<a target="_blank" href="http://www.arche.libg-jugend.de/">Webseite</a>
+<a class="external_link" target="_blank" href="http://www.arche.libg-jugend.de/">Webseite</a>
 
 ## Zielgruppe
 Kinder & Jugendliche 6-27 Jahre

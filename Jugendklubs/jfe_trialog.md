@@ -20,9 +20,9 @@ Familiensamstage 12-18 Uhr
 </p>
 
 ## Links
-<a target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-trialog">Website</a><br>
-<a target="_blank" href="https://de-de.facebook.com/jfetrialog/">Facebook</a><br>
-<a target="_blank" href="https://www.instagram.com/jfe.trialog/">Instagram</a>
+<a class="external_link" target="_blank" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-trialog">Website</a><br>
+<a class="external_link" target="_blank" href="https://de-de.facebook.com/jfetrialog/">Facebook</a><br>
+<a class="external_link" target="_blank" href="https://www.instagram.com/jfe.trialog/">Instagram</a>
 
 ## Zielgruppe
 12-27 Jahre

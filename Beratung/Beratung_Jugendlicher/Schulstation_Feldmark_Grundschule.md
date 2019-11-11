@@ -7,7 +7,7 @@ Mo–Fr 8.30-14.30Uhr
 Soziales Lernen, Konfliktlotsenausbildung, soziales Kunstprojekt, kontinuierliche Kontakt & Beratungsangebote für Kinder, Erziehungsberechtigte und LehrerInnen, Entspannung für die Kinder
 
 ## Links
-<a target="_blank" href="http://www.spikev.de/schulbezogene-angebote-fuer-schueler-eltern-lehrer-und-erzieher/schulhilfe/">Website</a>
+<a class="external_link" target="_blank" href="http://www.spikev.de/schulbezogene-angebote-fuer-schueler-eltern-lehrer-und-erzieher/schulhilfe/">Website</a>
 
 ## Zielgruppe
 Grundschulkinder und deren Erziehungsberechtigte
