@@ -5,8 +5,10 @@
 Mo-Di & Do 9-17 Uhr<br>
 Mi 9-15 Uhr<br>
 Fr 9-16 Uhr<br>
+
 ## Angebote
-Kontakte & Hobbys miteinander pflegen, vielfältige Bewegungskurse, Betätigung am Computer & Kreatives (Handarbeit, Kunst & Handwerk), in Gesellschaft Spaß zu haben, sich zu informieren & auszutauschen.
+Kontakte & Hobbys miteinander pflegen, vielfältige Bewegungskurse, Betätigung am Computer & Kreatives (Handarbeit, Kunst & Handwerk), in Gesellschaft Spaß zu haben, sich zu informieren & auszutauschen
+
 ## Wochenplan
 <pre id="weeklyschedule">
 Montag:
