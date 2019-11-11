@@ -79,7 +79,7 @@ id: index
 </div>
 <div class="displaynone" id="listSenior">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
-- [Begegnungsstätten](Senioren/Begegnungsstaetten.html)
+- [Begegnungsstätten](Senioren/Begegnungsstaetten/Begegnungsstaetten.html)
 - [Freizeit](Freizeit/Freizeit.md)
 - Beratung
 - Ehrenamt
