@@ -57,8 +57,8 @@ im Nachbarschaftshaus des Ostseeviertels
 [grashalm-familienzentrum@vav-hhausen.de](mailto:grashalm-familienzentrum@vav-hhausen.de)<br>
 <a href="tel:+493096277129 2">030 9627 7129 </a>
 
+## Eindrücke
 <div class="mediacontainer">
-  
   <img src="images/Grashalm/1.JPG" />
   <img src="images/Grashalm/2.JPG" />
 </div> 
