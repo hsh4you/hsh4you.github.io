@@ -1,5 +1,5 @@
 ## Seniorenbegegnungsstätte Ribnitzer Straße
-<img id="topmedia" src="Begegnungsstaetten/images/Ribnitzer Str.jpg" />
+<img id="topmedia" src="images/Ribnitzer Str.jpg" />
 Seniorenbegegnungsstätte im Nachbarschaftshaus des Ostseeviertels<br>
 
 ## Offen
