@@ -35,7 +35,7 @@ id: index
 ## Du suchst
 <div id="listVisible"></div>
 <div class="displaynone" id="listDefault">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungen</a>
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
 - [Kitas](Kitas/Kitas.md)
@@ -46,7 +46,7 @@ id: index
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listJugendlicher">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungen</a>
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
 - [Beratung](Beratung/Beratung_Jugendlicher.md)
@@ -55,7 +55,7 @@ id: index
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Jugendlich.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listEltern">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungen</a>
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Jugendklubs](Jugendklubs/Jugendklubs.md)
@@ -67,7 +67,7 @@ id: index
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Eltern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listNeu_in_Hsh">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungen</a>
 - [Kitas](Kitas/Kitas.md)
 - [Schulen](Schulen/Schulen.md)
 - [Begegnungen](Begegnungen/Begegnungen.html)
@@ -78,7 +78,7 @@ id: index
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listSenior">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungen</a>
 - [Begegnungsstätten](Senioren/Begegnungsstaetten/Begegnungsstaetten.html)
 - [Freizeit](Freizeit/Freizeit.md)
 - Beratung

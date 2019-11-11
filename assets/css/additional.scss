@@ -52,7 +52,7 @@ $shadowsize: 0.0px;
     color: red;
 }
 
-.emergencycall-link:before, .calendar-link:before, .imprint-link:before, .contact-link:before, .startpage-link:before {
+.emergencycall-link:before, .calendar-link:before, .imprint-link:before, .contact-link:before, .startpage-link:before, .hshvideo-link:before {
     font-family: FontAwesome;
     display: inline-block;
     vertical-align: middle;
@@ -69,6 +69,10 @@ $shadowsize: 0.0px;
 
 .emergencycall-link:before {
     content: "\f095";
+}
+
+.hshvideo-link:before {
+    content: "\f16a";
 }
 
 .calendar-link:before {
