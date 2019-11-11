@@ -60,6 +60,23 @@ $shadowsize: 0.0px;
     font-size: 21px;
 }
 
+.external_link, .external_link:link, .external_link:hover, .external_link:active, .external_link:visited {
+  color: #00cc00;
+}
+
+.link_in_text, .link_in_text:link, .link_in_text:hover, .link_in_text:active, .link_in_text:visited {
+  color: #00cc00;
+}
+
+.external_link:after {
+    font-family: FontAwesome;
+    display: inline-block;
+    vertical-align: middle;
+    content: "\f08e";
+    padding-left: 7px;
+    font-size: 21px;
+}
+
 #header-menu > a:before {
     padding-right: 14px;
     width: 32px;

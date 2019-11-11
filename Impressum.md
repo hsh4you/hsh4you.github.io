@@ -1,6 +1,6 @@
 ## Impressum
 
-[SPIK e.V.](http://www.spikev.de/)
+<a class="external_link" href="http://www.spikev.de/">SPIK e.V.</a>
 
 Am Berl 13<br>
 13051 Berlin<br>
@@ -21,11 +21,12 @@ Die Kiez-WebApp wird in Zusammenarbeit mit Kiez-Akteurinnen aus der integrativen
 
 ## Inhalt
 Alle Informationen der Träger sind öffentlich zugängliche Informationen. 
-Hauptverantwortlich für die Sammlung und Eintragung der Daten ist Dayana Dreke, derzeitig tätig im Bereich Integration beim [SPIK e.V.](http://www.spikev.de/) und Koordinatorin für die Kiez-WebApp.
+Hauptverantwortlich für die Sammlung und Eintragung der Daten ist Dayana Dreke, derzeitig tätig im Bereich Integration beim <a class="external_link" href="http://www.spikev.de/">SPIK e.V.</a> und Koordinatorin für die Kiez-WebApp.
 
 ## Finanzielle Förderung
-Die Grundstruktur der Kiez-WebApp [Hsh4You](www.hsh4you.de) wurde 2018 über den Innovationsfond "Neu-Hohenschönhausen" aus dem Haushalt des Bezirksamtes Lichtenberg finanziert.
-Die Weiterentwicklung in 2019 wird im Rahmen der [Partnerschaften für Demokratie Hohenschönhausen](https://licht-blicke.org/partnerschaften-fuer-demokratie/partnerschaften-fuer-demokratie-hohenschoenhausen/) im Bundesprogramm [Demokratie leben!](https://www.demokratie-leben.de/) gefördert.
+Die Grundstruktur der Kiez-WebApp <a class="link_in_text" href="https://www.hsh4you.de">Hsh4You</a> wurde 2018 über den Innovationsfond `Neu-Hohenschönhausen` aus dem Haushalt des Bezirksamtes Lichtenberg finanziert.
+
+Die Weiterentwicklung in 2019 wird im Rahmen der <a class="external_link" href="https://licht-blicke.org/partnerschaften-fuer-demokratie/partnerschaften-fuer-demokratie-hohenschoenhausen/">Partnerschaften für Demokratie Hohenschönhausen</a> im Bundesprogramm <a class="external_link" href="https://www.demokratie-leben.de/">Demokratie leben!</a> gefördert.
 
 ## Datenschutz
 Es werden keine persönlichen Daten gesammelt und keine Cookies eingesetzt.
