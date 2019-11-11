@@ -1,6 +1,5 @@
 ## Begegnungsstätte Ribnitzer Straße
 <img id="topmedia" src="images/Ribnitzer Str.jpg" />
-Seniorenbegegnungsstätte im Nachbarschaftshaus des Ostseeviertels<br>
 
 ## Offen
 Mo-Di & Do 9-17 Uhr<br>
