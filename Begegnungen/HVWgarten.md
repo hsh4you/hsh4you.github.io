@@ -22,7 +22,7 @@ Mobil <a href="tel:+4930934925519">030 93492 5519</a>
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Images/HVWgarten/1.jpg" />
+  <!--<img src="Images/HVWgarten/1.jpg" />//-->
   <img src="Images/HVWgarten/2.jpg" />
   <img src="Images/HVWgarten/3.jpg" />
 </div>
