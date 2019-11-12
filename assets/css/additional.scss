@@ -92,10 +92,10 @@
 .external_link:after {
     font-family: FontAwesome;
     display: inline-block;
-    vertical-align: middle;
+    /*vertical-align: middle;*/
     content: "\f08e";
-    padding-left: 7px;
-    font-size: 21px;
+    padding-left: 5px;
+    font-size: 16px;
 }
 
 #header-menu > a:before {
