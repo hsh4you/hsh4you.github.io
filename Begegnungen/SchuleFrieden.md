@@ -25,6 +25,6 @@ für ehrenamtliche HelferInnen (15-25 Jahre)
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Images/SchuleFrieden/1.jpg " />
-  <img src="Images/SchuleFrieden/2.jpg " />
+  <img src="Begegnungen/Images/SchuleFrieden/1.jpg " />
+  <img src="Begegnungen/Images/SchuleFrieden/2.jpg " />
 </div>
