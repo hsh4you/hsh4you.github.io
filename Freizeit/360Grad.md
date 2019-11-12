@@ -6,7 +6,7 @@ Mo & Fr 14-20 Uhr<br>
 Di geschlossen<br>
 Mi 10-15 Uhr<br>
 Do 16-20 Uhr<br>
-So nur bei Veranstaltungen geöffnet, Infos dazu unter Veranstaltungen (<a class="external_link" href="http://360grad-lichtenberg.de/">Veranstaltungen</a>) <br>
+So nur bei Veranstaltungen geöffnet, Infos dazu unter <a class="external_link" href="http://360grad-lichtenberg.de/">Veranstaltungen</a><br>
 
 ## Angebote
 Unser großer Aktionsraum und die Werkstätten bieten vielfältige kreative Möglichkeiten für die ganze Familie: regelmäßig Workshops & Kunstaktionen zum Ausprobieren & Experimentieren, wechselnde Ausstellungen, kulturellen Veranstaltungen wie Lesungen & Filmvorführungen, Theater & Puppenspiel
