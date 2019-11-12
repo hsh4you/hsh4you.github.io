@@ -26,12 +26,23 @@ $shadowsize: 0.0px;
 
 @media screen and (max-width: 42em) { #youthclubsmap { min-height: 85vh; } }
 
+#page_rightpanel {
+    display: flex; 
+    flex-direction: column; 
+    position: fixed; 
+    right: 17px; 
+    justify-content: center; 
+    align-items: center; 
+    height: 98vh;
+    z-index: 100;
+}
+
 #scroll_button {
     display: none;
     /*position: fixed;
     top: 24px;
     right: 24px;*/
-    z-index: 99;
+    position: relative;
     cursor: pointer;
     background-color: #fff;
     background-clip: padding-box;
