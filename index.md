@@ -81,7 +81,7 @@ id: index
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
 - [Begegnungsstätten](Senioren/Begegnungsstaetten/Begegnungsstaetten.html)
 - [Freizeit](Freizeit/Freizeit.md)
-- Ehrenamt
+- [Ehrenamt](Senioren/Ehrenamt/Ehrenamt.md)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 
