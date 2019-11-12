@@ -42,5 +42,5 @@ Besucher*innen aller Altersgruppen, egal welcher Herkunft und Religion willkomme
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Images/360Grad/logo.jpg " />
+  <img src="Images/360Grad/1.jpg " />
 </div>
