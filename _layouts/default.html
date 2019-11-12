@@ -99,7 +99,7 @@
     <header class="page-header" role="banner">
 
     <div class="flex-container">
-      <div></div>
+      <div><a class="link_to_search whitelink" href="search.html"></a></div>
       <div><h1 class="project-name">
           <a class="whitelink" href="javascript:history.back()" id='historyback'><b>&lt;</b></a
           ><a class="whitelink" id="indexpagetitle" href="/{{ site.github.repository_name }}">hsh4you</a
@@ -148,7 +148,7 @@
       document.documentElement.scrollTop = 0;
     }
 
-    document.getElementsByTagName("body")[0].onresize = function() { reposition_scroll_button() };
+    //document.getElementsByTagName("body")[0].onresize = function() { reposition_scroll_button() };
 
     function reposition_scroll_button() {
       //document.getElementById("scroll_button").style.top = (window.innerHeight - 64) / 2 + "px";
