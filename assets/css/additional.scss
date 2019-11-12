@@ -1,20 +1,6 @@
 ---
 ---
 
-/*
-$emergencycall-color: red;
-$shadowsize: 0.0px;
-
-.emergencycall, .emergencycall:link, .emergencycall:hover, .emergencycall:active, .emergencycall:visited {
-   color: white;
-   text-shadow:
-     -1 * $shadowsize -1 * $shadowsize 0 red,  
-      $shadowsize -1 * $shadowsize 0 red,
-      -1 * $shadowsize $shadowsize 0 red,
-       $shadowsize $shadowsize 0 red;
-}
-*/
-
 .gsc-resultsbox-visible {
     text-align: left;
 }
@@ -34,12 +20,6 @@ $shadowsize: 0.0px;
 .gsst_a .gscb_a {
     color: #00cc00 !important;
 }
-
-/*
-.gsc-url-top {
-    display: none !important;;
-}
-*/
 
 #gsc-i-id1, .gsc-wrapper, .gsc-table-result {
     font-family: Ubuntu !important;;
@@ -130,9 +110,11 @@ $shadowsize: 0.0px;
     display: inline-block;
     vertical-align: middle;
     content: "\f002";
-    font-size: 21px;
-    line-height: 42px;
+    font-size: 2.6rem;
+    line-height: 79px;
 }
+@media screen and (max-width: 64em) { .link_to_search:before { font-size: 34px; line-height: 54px; } }
+@media screen and (max-width: 42em) { .link_to_search:before { font-size: 25px; line-height: 42px; } }
 
 .emergencycall-link:before {
     content: "\f095";
