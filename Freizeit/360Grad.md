@@ -34,7 +34,7 @@ Besucher*innen aller Altersgruppen, egal welcher Herkunft und Religion willkomme
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap(' Prerower Platz 10, 13051, Berlin-Hohenschönhausen´, 0, 'gmap_mini')</script><br>
+<script>window.onload = showMap('Prerower Platz 10, 13051, Berlin-Hohenschönhausen', 0, 'gmap_mini')</script><br>
 
 ## Kontakt
 [info@360grad-lichtenberg.de](info@360grad-lichtenberg.de)<br>
