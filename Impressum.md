@@ -16,8 +16,7 @@ Stephan Neuß
 [contact@hsh4you.de](mailto:contact@hsh4you.de)
 
 ## Entwicklung
-Die Kiez-WebApp wird in Zusammenarbeit mit Kiez-Akteurinnen aus der integrativen Kinder-& Jugendarbeit, Familien-, Senioren- & Begegnungszentren und der Stadtteilarbeit entwickelt.
-<!-- und dem Software-Entwickler und Web-Designer Daniel Dreke gemeinsam entwickelt. //-->
+Die Kiez-WebApp wird in Zusammenarbeit mit Kiez-Akteurinnen aus der integrativen Kinder-& Jugendarbeit, Familien-, Senioren- & Begegnungszentren, der Stadtteilarbeit und dem IT-Experten Daniel Dreke gemeinsam entwickelt.
 
 ## Inhalt
 Alle Informationen der Träger sind öffentlich zugängliche Informationen. 
