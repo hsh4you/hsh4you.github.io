@@ -18,7 +18,7 @@ Mobil <a href="tel:+4930934925519">030 93492 5519</a>
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap(´Hausvaterweg 21, 13057 Berlin´, 0, 'gmap_mini')</script>
+<script>window.onload = showMap('Hausvaterweg 21, 13057 Berlin', 0, 'gmap_mini')</script>
 
 ## Eindrücke
 <div class="mediacontainer">
