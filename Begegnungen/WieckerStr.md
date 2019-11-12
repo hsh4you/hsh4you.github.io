@@ -20,7 +20,7 @@ Monatliche Gemeinschaftsaktivitäten
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap(´Wiecker Str. 8-10, 13051 Berlin´, 0, 'gmap_mini')</script>
+<script>window.onload = showMap('Wiecker Str. 8-10, 13051 Berlin', 0, 'gmap_mini')</script>
 
 ## Eindrücke
 <div class="mediacontainer">
