@@ -17,7 +17,7 @@ für ehrenamtliche HelferInnen (15-25 Jahre)
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Hausvaterweg 21, 13057 Berlin´, 0, 'gmap_mini')</script><br>
+<script>window.onload = showMap('Hausvaterweg 21, 13057 Berlin', 0, 'gmap_mini')</script><br>
 
 ## Kontakt
 [tobias.mueller.berlin@gmail.com](tobias.mueller.berlin@gmail.com)<br>
