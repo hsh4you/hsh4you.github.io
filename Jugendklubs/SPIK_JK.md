@@ -3,12 +3,11 @@
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo  15-17  Bandraum
-Di  15-17  Kunst & Werken
-Mi  15-18  Graffiti
-Do  15-17  Fitness
-Fr  14-20  PC-Tag & Kochen
-Sa  13-17  Hallensport
+Mo  15-17  Bandraum mit Andreas
+Di  15-17  Kochen mit Paula
+Mi  15-18  Graffiti mit Basti
+Do  15-17  Kunst & Werken mit Olga
+Fr  14-20  PC-Tag
 </pre>
 
 ## Offen
