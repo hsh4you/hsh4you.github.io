@@ -15,7 +15,7 @@ Kletterwand, Mädchenraum, Baumhaus, Gorodki, Pool (Sommer), Holzwerkstatt, Musi
 <a class="external_link" href="https://kietzfuerkids.de/kietzoase/">Website</a>
 
 ## Zielgruppe
-10-21 Jahre
+6-13 Jahre
 
 ## Kontakt
 [kio@kietzfuerkids.de](mailto:kio@kietzfuerkids.de)<br>
