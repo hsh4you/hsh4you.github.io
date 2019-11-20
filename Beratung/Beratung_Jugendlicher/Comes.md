@@ -22,9 +22,8 @@ Geschäftsstelle
 <div id="gmap"></div>
 <script>window.onload = showMap('Konrad-Wolf-Straße 13, 13055 Berlin', 0, 'gmap_mini')</script>
 
-Begleitete Elternschaft & Kleiderbörse
-<div id="gmap"></div>
-<script>window.onload = showMap('Zingster Str.6, 13051 Berlin', 0, 'gmap_mini')</script>
+Begleitete Elternschaft & Kleiderbörse:<br>
+Zingster Str.6, 13051 Berlin
 
 ## Kontakt
 Geschäftsstelle für Lichtenberg
