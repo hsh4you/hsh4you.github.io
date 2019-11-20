@@ -8,7 +8,7 @@ Mo–Fr 9-17 Uhr
 •	Sozialpädagogische Familienhilfe<br>
 •	Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche<br>
 •	Eingliederungshilfe für Kinder und Jugendliche<br>
-•	Begleitete Elternschaft (sozialpädagogische Familienhilfe und BEW) 
+•	Begleitete Elternschaft (sozialpädagogische Familienhilfe und BEW)<br> 
 •	1x im Monat Kleidertausch (siehe Veranstaltungskalender)
 
 ## Links
@@ -20,11 +20,11 @@ Kinder, Jugendliche, Familien
 ## Wo
 Geschäftsstelle
 <div id="gmap"></div>
-<script>window.onload = showMap('Konrad-Wolf-Straße 13, 13055 Berlin', 0, 'gmap_mini')</script><br>
+<script>window.onload = showMap('Konrad-Wolf-Straße 13, 13055 Berlin', 0, 'gmap_mini')</script>
 
 Begleitete Elternschaft & Kleiderbörse
 <div id="gmap"></div>
-<script>window.onload = showMap('Zingster Str.6 / 13051 Berlin', 0, 'gmap_mini')</script>
+<script>window.onload = showMap('Zingster Str.6, 13051 Berlin', 0, 'gmap_mini')</script>
 
 ## Kontakt
 Geschäftsstelle für Lichtenberg
