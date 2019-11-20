@@ -8,6 +8,8 @@ Mo–Fr 9-17 Uhr
 •	Sozialpädagogische Familienhilfe<br>
 •	Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche<br>
 •	Eingliederungshilfe für Kinder und Jugendliche<br>
+•	Begleitete Elternschaft (sozialpädagogische Familienhilfe und BEW) 
+•	1x im Monat Kleidertausch (siehe Veranstaltungskalender)
 
 ## Links
 <a class="external_link" href="https://www.comes-berlin.de">Website</a>
@@ -16,12 +18,19 @@ Mo–Fr 9-17 Uhr
 Kinder, Jugendliche, Familien
 
 ## Wo
-<div id="gmap"></div>
-<script>window.onload = showMap('Konrad-Wolf-Straße 13, 13055 Berlin', 0, 'gmap_mini')</script>
 Geschäftsstelle
+<div id="gmap"></div>
+<script>window.onload = showMap('Konrad-Wolf-Straße 13, 13055 Berlin', 0, 'gmap_mini')</script><br>
+
+Begleitete Elternschaft & Kleiderbörse
+<div id="gmap"></div>
+<script>window.onload = showMap('Zingster Str.6 / 13051 Berlin', 0, 'gmap_mini')</script>
 
 ## Kontakt
 Geschäftsstelle für Lichtenberg
 [info@comes-berlin.de](mailto:info@comes-berlin.de)<br>
 <a href="tel:+49308560660">030 8560 660</a><br>
 
+Begleitete Elternschaft & Kleiderbörse<br>
+[bel.team1@comes-berlin.de](mailto:bel.team1@comes-berlin.de)<br>
+<a href="tel:+493030605652">030 3060 5652</a><br>
