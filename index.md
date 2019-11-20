@@ -36,52 +36,52 @@ id: index
 <div id="listVisible"></div>
 <div class="displaynone" id="listDefault">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
-- [Jugendklubs](Jugendklubs/Jugendklubs.md)
+- [Jugendklubs](Jugendklubs/Jugendklubs.html)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
-- [Kitas](Kitas/Kitas.md)
-- [Schulen](Schulen/Schulen.md)
-- [Beratung](Beratung/Beratung.md)
-- [Familienzentren](Familienzentren/Familienzentren.md)
-- [Freizeit](Freizeit/Freizeit.md)
+- [Kitas](Kitas/Kitas.html)
+- [Schulen](Schulen/Schulen.html)
+- [Beratung](Beratung/Beratung.html)
+- [Familienzentren](Familienzentren/Familienzentren.html)
+- [Freizeit](Freizeit/Freizeit.html)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listJugendlicher">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
-- [Jugendklubs](Jugendklubs/Jugendklubs.md)
+- [Jugendklubs](Jugendklubs/Jugendklubs.html)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
-- [Beratung](Beratung/Beratung_Jugendlicher.md)
+- [Beratung](Beratung/Beratung_Jugendlicher.html)
 - [Aktivitäten](Jugendklubs/top10_2.html)
-- [Freizeit](Freizeit/Freizeit.md)
+- [Freizeit](Freizeit/Freizeit.html)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Jugendlich.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listEltern">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
-- [Kitas](Kitas/Kitas.md)
-- [Schulen](Schulen/Schulen.md)
-- [Jugendklubs](Jugendklubs/Jugendklubs.md)
-- [Beratung](Beratung/Beratung_Eltern.md)
-- [Familienzentren](Familienzentren/Familienzentren.md)
+- [Kitas](Kitas/Kitas.html)
+- [Schulen](Schulen/Schulen.html)
+- [Jugendklubs](Jugendklubs/Jugendklubs.html)
+- [Beratung](Beratung/Beratung_Eltern.html)
+- [Familienzentren](Familienzentren/Familienzentren.html)
 - [Familienbüro](Familienbuero.html)
 - [Aktivitäten](Jugendklubs/top10_2.html)
-- [Freizeit](Freizeit/Freizeit.md)
+- [Freizeit](Freizeit/Freizeit.html)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Eltern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listNeu_in_Hsh">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
-- [Kitas](Kitas/Kitas.md)
-- [Schulen](Schulen/Schulen.md)
+- [Kitas](Kitas/Kitas.html)
+- [Schulen](Schulen/Schulen.html)
 - [Begegnungen](Begegnungen/Begegnungen.html)
-- [Familienzentren](Familienzentren/Familienzentren.md)
+- [Familienzentren](Familienzentren/Familienzentren.html)
 - [Familienbüro](Familienbuero.html)
 - [Aktivitäten](Jugendklubs/top10_2.html)
-- [Freizeit](Freizeit/Freizeit.md)
+- [Freizeit](Freizeit/Freizeit.html)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listSenior">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
 - [Begegnungsstätten](Senioren/Begegnungsstaetten/Begegnungsstaetten.html)
-- [Freizeit](Freizeit/Freizeit.md)
-- [Ehrenamt](Senioren/Ehrenamt/Ehrenamt.md)
+- [Freizeit](Freizeit/Freizeit.html)
+- [Ehrenamt](Senioren/Ehrenamt/Ehrenamt.html)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 
