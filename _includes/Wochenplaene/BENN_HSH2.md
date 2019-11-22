@@ -20,9 +20,7 @@
                   GCAL_ID_BENN_HSH_NORD
             ],
             eventDataTransform: function(eventData) {
-                if (eventData.url.indexOf("google") >= 0) {
-                    eventData.url = null;
-                }
+                eventData.url = null;
                 return eventData;
             },
             eventAfterAllRender: function(view) {
@@ -30,6 +28,11 @@
                 //$('.fc-list-heading').css('display', 'none');
                 $('.fc-header-toolbar').css('display', 'none');
                 $('.fc-list-heading-alt').css('display', 'none');
+                // replace links with their text
+                $('.fc-list-item-title').each(function(index, item){
+                    var urltext = $(item).find('a').text();
+                    $(item).html(urltext);
+                });
             }
         });
     });
