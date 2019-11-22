@@ -38,5 +38,5 @@
     });
 </script>
 
-<div id='calendar'></div>
+<div id='calendar' class="weeklyschedule"></div>
 

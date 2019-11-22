@@ -362,6 +362,13 @@
     border-radius: 0.5rem;
 }
 
+.weeklyschedule {
+    border: solid 2px lightgrey;
+    border-radius: 0.5rem;
+    max-width: 600px;
+    display: inline-block;
+}
+
 #weeklyschedule {
     text-align: left;
     display: inline-block;
