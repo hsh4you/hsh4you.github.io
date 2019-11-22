@@ -1,6 +1,10 @@
 ---
 ---
 
+tr.fc-list-item:hover td {
+    background-color: inherit !important;
+}
+
 .gsc-resultsbox-visible {
     text-align: left;
 }
