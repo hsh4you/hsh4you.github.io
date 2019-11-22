@@ -33,7 +33,7 @@ Nachbar*innen aus dem Kiez (16 - 99 Jahre)
 <script>window.onload = showMap('Warnitzer Str. 14, 13057, Berlin', 0, 'gmap_mini')</script>
 
 ## Eindrücke
-<div>
+<div class="mediacontainer">
   <img src="Images/BENN/1.jpg" />
   <img src="Images/BENN/2.jpg" />
   <img src="Images/BENN/3.jpg" />
