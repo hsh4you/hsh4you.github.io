@@ -6,7 +6,10 @@
 {% include Wochenplaene/BENN_HSH2.md %}
 
 ## Offen
-Mo: 13–16 Uhr, Di: 17-19 Uhr, Mi: 10-16Uhr; Do: nach Vereinbarung
+Mo 13–16 Uhr<br>
+Di 17–19 Uhr<br>
+Mi 10–16 Uhr<br>
+Do nach Vereinbarung
 
 ## Aktivitäten
 <p id="activities">
