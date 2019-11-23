@@ -2,15 +2,8 @@
 <img id="topmedia" src="images/VIP_Kontaktladen/5.jpg" />
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo  16:00  Kochen
-Mo  16:30  HipHop & Streetdance
-Di         Tonstudio (Anmeldung)
-Mi  16:00  Kreativangebot
-Mi  17:00  Kicker-, Billard-, Tischtennistraining
-Do  17:00  VIP-Talk & Tonstudio (Anmeldung)
-Fr         Wii/ Filme
-</pre>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_KONTAKTLADEN_VIP)</script>
 
 ## Offen
 Mo-Fr 14-20 Uhr

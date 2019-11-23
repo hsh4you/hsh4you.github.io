@@ -2,17 +2,8 @@
 <img id="topmedia" src="images/Logos/ocb.png" />
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo 16:00 Kochen (Mädchen*tag)
-Di 16:00 Kochen
-Di 18-20 Jugendzeit (ab 14 Jahren)
-Mi 15:00 Gartenprojekt
-Do 14:00 Siebdruck (Anmeldung)
-Do 16:00 Tischtennistraining
-Do 17:00 Kochen
-Fr 14:30 Fußball (Kinderhaus Halle)
-Fr 17:00 OCB draußen oder Kino
-</pre>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_OCB)</script>
 
 ## Offen
 Mo 13-19 Uhr (Mädchen*tag)<br> 

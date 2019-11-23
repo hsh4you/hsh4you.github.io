@@ -1,3 +1,8 @@
+---
+id: youthclubsmap
+---
+
+
 <div id='youthclubsmap'></div>
 
 <script>

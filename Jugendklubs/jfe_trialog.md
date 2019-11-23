@@ -2,13 +2,8 @@
 <img id="topmedia" src="images/Logos/Trialog.jpg" />
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo  17:00  Kekse & Kakao
-Di  15:30  Kreativangebot
-Mi  16:00  junge Küche
-Do  16:00  Sport im Fitnessraum
-Fr  15:00  Billiardturnier & Spielenachmittag
-</pre>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_TRIALOG)</script>
 
 ## Offen
 Mo-Fr 13-20 Uhr<br>

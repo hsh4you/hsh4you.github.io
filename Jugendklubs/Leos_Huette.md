@@ -2,23 +2,8 @@
 <img id="topmedia" src="images/Leos_Huette/Logo Leos Hütte.jpg" />
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo  14:00-18:00  Basteln & Nähen
-Mo  16:00-20:00  Daddeln/Zocken
-Mo  18:00-19:30  Zumba
-Di  14:00-19:00  Computerclub
-Di  16:00-18:00  Graffiti/Comic, Multimedia
-Mi  14:00-18:00  Multimedia
-Mi  14:00-19:00  Computerclub
-Do  15:00-18:00  Musizieren 
-Do  16:00-19:00  Kreatives Gestalten
-Do  16:00-20:00  Daddeln/Zocken
-Do  17:00-19:00  Breakdance
-Do  19:30-22:00  Hallenfußball (Prendener Str.)
-Fr  15:00-17:00  Musizieren
-Fr  16:00-20:00  Freizeitsport & Computer
-Sa  12:00-15:00  Fußball (Halle Welsestr.)
-</pre>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_LEOS_HUETTE)</script>
 
 ## Offen
 Mo 14-20:00 Uhr<br>

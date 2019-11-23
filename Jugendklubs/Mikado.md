@@ -2,16 +2,8 @@
 <img id="topmedia" src="images/Mikado/1.jpg" />
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo  16:00-18:00  AG Garten
-Di  15:00-18:00  AG Klavier
-Mi  14:30-16:30  AG Brush
-Mi  17:00-20:00  Kinotag
-Do  15:00-18:00  AG Klavier
-Do  17:00-19:00  AG Garten
-Fr  15:00-17:00  AG Kochen
-Fr  18:00-20:00  Spieleabend
-</pre>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_MIKADO)</script>
 
 ## Offen
 Mo-Fr 13:00-20:00 Uhr

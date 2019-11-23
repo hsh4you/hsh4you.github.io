@@ -2,13 +2,8 @@
 <img id="topmedia" src="images/Logos/Ausblick.jpg" />
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo  16:00  Back AG
-Di  15:30  Basteln
-Mi  16:00  Koch AG
-Do  16:00  Sporttunier/Bowling letzten Do im Monat
-Fr  15:30  Kaffeetafel
-</pre>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_AUSBLICK)</script>
 
 ## Offen
 Mo-Fr 13-19 Uhr

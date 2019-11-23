@@ -2,15 +2,8 @@
 <img id="topmedia" src="images/JFE_Fullhouse/1.jpg" />
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo  15:00        Kochen
-Mo  20:00-22:00  Fußballtraining
-Di  15:00        Fitnesstraining
-Di  18:00-20:00  Volleyball (mit Gangway)
-Mi  15:00-18:00  Graffiti
-Do  15:00        Fitnesstraining
-Fr  15:00        Kochen
-</pre>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_FULL_HOUSE)</script>
 
 ## Offen
 Mo-Fr 13-20 Uhr

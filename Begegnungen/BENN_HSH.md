@@ -2,8 +2,9 @@
 <img id="topmedia" src="/Begegnungen/Images/BENN/logo.jpg" />
 
 ## Wochenplan
-<!--{% include Wochenplaene/BENN_HSH.md %}//-->
-{% include Wochenplaene/BENN_HSH2.md %}
+{% include weeklyevents_scripts.md %}
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_BENN_HSH_NORD)</script>
 
 ## Offen
 Mo 13–16 Uhr<br>

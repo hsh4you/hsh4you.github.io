@@ -2,18 +2,8 @@
 <img id="topmedia" src="images/Logos/Welseclub.png" />
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo  16:00  Backen
-Mo  16:15  Kampfkunsttraining (Kinder)
-Di  14:00  Fahrradwerkstatt
-Di  16:00  Tischtennis-AG
-Di  17:00  ClubAktiv (Ideensammlung)
-Mi         gemeinsam Kochen & Essen
-Do  16:00  Basteln & Werken
-Do  18:00  Kampfkunst (Anfänger)
-Fr         Rollenspiel, Gesellschaftsspiele
-Fr  15:00  Let's talk about... (für Mädchen)
-</pre>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_WELSECLUB)</script>
 
 ## Offen
 Mo-Do 13-20 Uhr<br>
