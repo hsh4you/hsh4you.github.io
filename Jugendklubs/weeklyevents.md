@@ -34,9 +34,9 @@
             // source: https://github.com/fullcalendar/old-docs/blob/master/display/contentHeight.txt
             contentHeight: 'auto',
             header: {
-                left: 'prev,next',
+                left: 'listMonth,listDay,today',
                 center: 'title',
-                right: 'listMonth,listDay,today'
+                right: 'prev,next'
             },
             locale: 'de',
             views: { 
@@ -98,8 +98,8 @@
   document.addEventListener("DOMContentLoaded", function(event) {
       setTimeout(function() {
         $('.fc-listDay-button').click();
-        $('.fc-listDay-button').css('display', 'none');
-        $('.fc-listMonth-button').css('display', 'none');
+        $('.fc-listDay-button').remove();
+        $('.fc-listMonth-button').remove();
       }, 1);
   });
 </script>

@@ -51,9 +51,9 @@
                 }
             },
             header: {
-                left: 'prev,next today',
+                left: 'listMonth,listYear',
                 center: 'title',
-                right: 'listMonth,listYear'
+                right: 'today prev,next'
             },
             views: {
                 listMonth: { buttonText: 'Monat' },
