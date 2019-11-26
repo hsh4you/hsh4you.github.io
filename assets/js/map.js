@@ -13,7 +13,7 @@ function findAddress() {
 };
 
 // source: https://www.embedgooglemap.net/
-function showMap(address = '', showheader=1, id='') {
+function showMap(address = '', showheader=1, id='', address2='') {
   if (address.length == 0) { address = findAddress(); }
   if (address.length == 0) { return };
   var zoomfactor = 14;
@@ -27,6 +27,7 @@ function showMap(address = '', showheader=1, id='') {
   htmlcode += '?q=' + address;
   htmlcode += '&z=' + zoomfactor;
   htmlcode += '&output=embed" frameborder="0"></iframe>';
-  htmlcode = '<div id="gmap">' + htmlcode + '</div><br>' + address;
+  htmlcode = '<div id="gmap">' + htmlcode + '</div><br>';
+  htmlcode += (address2.length > 0) ? address2 : address;
   document.getElementById('gmap').outerHTML = htmlcode;
 };
