@@ -36,3 +36,8 @@ Geschäftsstelle für Lichtenberg
 Begleitete Elternschaft & Kleiderbörse<br>
 [bel.team1@comes-berlin.de](mailto:bel.team1@comes-berlin.de)<br>
 <a href="tel:+493030605652">030 3060 5652</a><br>
+
+## Eindrücke
+<div class="mediacontainer">
+  <img src="/Beratung/Beratung_Eltern/images/ComesKleider.jpg" />
+  </div>
