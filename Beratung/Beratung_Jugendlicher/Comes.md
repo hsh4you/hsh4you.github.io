@@ -1,4 +1,7 @@
 ## COMES e.V.
+<div class="mediacontainer">
+  <img id="topmedia" src="/Beratung/Beratung_Eltern/images/Comeslogo.jpg" />
+</div>
 
 ## Offen
 Mo–Fr 9-17 Uhr
