@@ -38,6 +38,7 @@ Begleitete Elternschaft & Kleiderbörse<br>
 <a href="tel:+493030605652">030 3060 5652</a><br>
 
 ## Eindrücke
+Kleidertausch in der Zingster Str. 6
 <div class="mediacontainer">
   <img src="/Beratung/Beratung_Eltern/images/ComesKleider.jpg" />
   </div>
