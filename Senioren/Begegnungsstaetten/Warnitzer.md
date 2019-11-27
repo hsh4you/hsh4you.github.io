@@ -1,6 +1,9 @@
 ## Begegnungsstätte Warnitzer Bogen
 <img id="topmedia" src="images/Warnitzer.jpg" />
 
+## Zielgruppe
+Menschen 50+Jahre
+
 ## Offen
 Mo, Mi & Do 9-17 Uhr<br>
 Di & Fr 10-15 Uhr<br>
@@ -62,9 +65,6 @@ Freitag:
 
 ## Links
 <a class="external_link" href="https://www.vav-hhausen.de/SBS-Warnitzer-Bogen/sbst-warnitzer-start.html">Website</a>
-
-## Zielgruppe
-Menschen 50+Jahre
 
 ## Wo
 Im Warnitzer Bogen
