@@ -28,9 +28,9 @@ Freitag:
 </pre>
 
 ## Weitere Angebote
-Fabelkurs (Fabel bietet altersgerechte Spiele, Sinnes- und Bewegungsanregungen. TN-Beitrag für acht Termine 56,00 Euro. Nur mit Anmeldung)<br>						
-Babymassage (TN-Beitrag für vier Termine 26,00 Euro)<br>
-Familiensport (Do 16:30 – 17:30 Uhr, Sporthalle Klützer Str. 42, 13059 Berlin) <br>
+•	Fabelkurs (Fabel bietet altersgerechte Spiele, Sinnes- & Bewegungsanregungen. TN-Beitrag für acht Termine 56,00 Euro. Nur mit Anmeldung)<br>						
+•	Babymassage (TN-Beitrag für vier Termine 26,00 Euro)<br>
+•	Familiensport (Do 16:30 – 17:30 Uhr, Sporthalle Klützer Str. 42, 13059 Berlin) <br>
 
 ## Links
 <a class="external_link" href="https://www.vav-hhausen.de/Pusteblume/pusteblume-start.html">Website</a><br>
@@ -38,7 +38,8 @@ Familiensport (Do 16:30 – 17:30 Uhr, Sporthalle Klützer Str. 42, 13059 Berlin
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap(' Wartiner Straße 75, 13057 Berlin, 0, 'gmap_mini')</script><br>
+<script>window.onload = showMap('Wartiner Straße 75, 13057 Berlin, 0, 'gmap_mini')</script><br>
+
 ## Kontakt
 [pusteblume-familienzentrum@vav-hhausen.de](mailto: pusteblume-familienzentrum@vav-hhausen.de)<br>
 <a href="tel:+493091147403">030 9114 7403</a>
