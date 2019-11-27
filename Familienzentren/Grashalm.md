@@ -1,6 +1,9 @@
 ## Familienzentrum Grashalm
 <img id="topmedia" src="/Familienzentren/images/Grashalm/logo.png" />
 
+## Zielgruppe
+die ganze Familie ist willkommen :)
+
 ## Offen
 Mo 10-13 Uhr<br>
 Di-Do 10-18 Uhr<br>
@@ -22,7 +25,6 @@ Mi 15:00-18:00 Familiencafé
 Do 14:00-17:00 La-Luna-Kontaktzeit
 Do 15:00-18:00 Familiencafé
 Fr 14:00 gemeinsames Kochen, TN-Beitrag: 3 - 6 Euro pro Erwachsener, Kinder ab 6 Jahren 1 Euro, Preise je nach Gericht; Anmeldung 1 Tag vorher
-
 </pre>
 
 ## Angebote
@@ -44,9 +46,6 @@ Kurse und Veranstaltungen<br>
 
 ## Links
 <a class="external_link" href="https://www.vav-hhausen.de/Grashalm/grashalm-start.html">Website</a>
-
-## Zielgruppe
-die ganze Familie ist willkommen :)
 
 ## Wo
 <div id="gmap"></div>
