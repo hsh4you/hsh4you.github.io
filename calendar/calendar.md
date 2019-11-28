@@ -122,10 +122,14 @@
                 // make only youthclub name clickable link
                 $('.fc-list-item-title').each(function(index, item){
                     var eventlink = $(item).find('a');
-                    var eventname = eventlink.text().split('@')[0].trim();
-                    var eventlocation = eventlink.text().split('@')[1].trim();
-                    eventlink.html(' @ ' + eventlocation);
-                    $(item).html(eventname + $(item).html());
+                    if (eventlink) {
+                        if (eventlink.text().includes('@')) {
+                            var eventname = eventlink.text().split('@')[0].trim();
+                            var eventlocation = eventlink.text().split('@')[1].trim();
+                            eventlink.html(' @ ' + eventlocation);
+                            $(item).html(eventname + $(item).html());
+                        }
+                    }
                 });
             }
         });
