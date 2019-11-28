@@ -7,21 +7,11 @@
 ## Formatierung
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## Tasks
-
-- [ ] Suchfunktionalität
-- [ ] Neue Seite: Aktivitäten: Auflistung Top x als Links: Klick -> Auflistung der Jugendklubs / Darstellung auf Map
-- [ ] Jugendseite: Toggle Jugendklubs auf Map darstellen
-- [ ] Impressum (i)
-
 ## Wünsche
 
-- Veranstaltungskalender: passwortgeschützte Seite für Träger für Add/Edit/Delete von Events und Wochenplänen
-- Notrufbutton + Seite mit Notrufnummern
 - Feedback Button -> Feedbackseite mit Formular
 - Hintergrundbild für hsh4you
 - bunte Icons?
-- ~~JFE Übersicht als Logo-Icons~~ DONE -- Daniel
 - Übersicht Freizeit/Aktivitäten wie z.B. Graffiti, Bandraum, Sport... verlinkt zu den jeweiligen Jugendklubs & interaktive Map
 und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 - Mehrsprachigkeit (5 Sprachen)
@@ -44,6 +34,13 @@ und Übersicht auch als visualisierte Icon-buttons (à la Zielgruppen)
 
 ## Erledigt
 
+- [x] JFE Übersicht als Logo-Icons
+- [x] Veranstaltungskalender: passwortgeschützte Seite für Träger für Add/Edit/Delete von Events und Wochenplänen
+- [x] Notrufbutton + Seite mit Notrufnummern
+- [x] Suchfunktionalität
+- [x] Neue Seite: Aktivitäten: Auflistung Top x als Links: Klick -> Auflistung der Jugendklubs / Darstellung auf Map
+- [x] Jugendseite: Toggle Jugendklubs auf Map darstellen
+- [x] Impressum (i)
 - [x] Beratung.html = Beratung_Eltern.html + Beratung_Jugendlicher.html
 - [x] Jugendseite: Auflistung mit Logos
 - [x] Veranstaltungskalender: Filter 'einmalig' 'wöchentlich'
