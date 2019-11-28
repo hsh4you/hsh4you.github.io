@@ -101,12 +101,32 @@
                     // source: https://stackoverflow.com/a/179717 ("How to change the href for a hyperlink [..]"")
                     element.find('a').attr('href', youthclublink);
                 }
+                if (element.find('a').length > 0) {
+                    var link = element.find('a')[0];
+                    if (link.href.includes('hsh4you.de') || link.href.includes('localhost')) {
+                        link.classList.add('link_in_text');
+                    }
+                    else {
+                        link.classList.add('external_link');
+                    }
+                }
                 // source: https://stackoverflow.com/a/46879902 ("Fullcalendar: Remove past events [..]"")
                 var eventenddate = moment(event.end);
                 var nowinseconds = moment();
                 if (eventenddate.diff(nowinseconds, 'seconds') <= 0) {
                     //return false;
                 }
+            },
+            // source: https://fullcalendar.io/docs/v3/eventAfterAllRender
+            eventAfterAllRender: function(view) {
+                // make only youthclub name clickable link
+                $('.fc-list-item-title').each(function(index, item){
+                    var eventlink = $(item).find('a');
+                    var eventname = eventlink.text().split('@')[0].trim();
+                    var eventlocation = eventlink.text().split('@')[1].trim();
+                    eventlink.html(' @ ' + eventlocation);
+                    $(item).html(eventname + $(item).html());
+                });
             }
         });
     });
