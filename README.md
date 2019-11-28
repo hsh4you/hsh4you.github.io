@@ -4,6 +4,9 @@
 ## QR Code hsh4you.de
 <a href="images/qr-code.png"><img src="images/qr-code.png" width="240px"></a>
 
+## Veranstaltungskalender
+[Eintragung von Veranstaltungen in den Veranstaltungskalender](https://github.com/hsh4you/hsh4you.github.io/wiki/Zugriff-auf-Veranstaltungskalender)
+
 ## Formatierung
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
