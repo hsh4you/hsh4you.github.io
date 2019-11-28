@@ -1,6 +1,9 @@
 ## Begegnungsstätte Ribnitzer Str
 <img id="topmedia" src="images/Ribnitzer Str.jpg" />
 
+## Zielgruppe
+Menschen 50+Jahre
+
 ## Offen
 Mo-Di & Do 9-17 Uhr<br>
 Mi 9-15 Uhr<br>
@@ -39,9 +42,6 @@ Freitag:
 
 ## Links
 <a class="external_link" href="https://www.vav-hhausen.de/SBS-Ribnitzer-Stra%C3%9Fe/sbst-ribnitzer-start.html">Website</a>
-
-## Zielgruppe
-Menschen 50+Jahre
 
 ## Wo
 Im Nachbarschaftshaus des Ostseeviertels

@@ -1,4 +1,7 @@
 ## Opstapje
+<div class="mediacontainer">
+  <img id="topmedia" src="/Beratung/Beratung_Eltern/images/Opstapje1.jpg" />
+</div>
 
 ## Offen
 Hausbesuche, werden individuell vereinbart

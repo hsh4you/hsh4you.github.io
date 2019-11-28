@@ -1,6 +1,9 @@
 ## Familienzentrum Matenzeile
 <img id="topmedia" src="/Familienzentren/images/Matenzeile/logo.jpg" />
 
+## Zielgruppe
+Familien mit Kindern zwischen 0-6 Jahren, Schwangere, Mütter, Väter, Alleinerziehende, Familien mit Fluchterfahrung
+
 ## Offen
 Mo-Fr (vormittags & nachmittags)<br>
 siehe Wochenplan
@@ -10,9 +13,6 @@ Hebammensprechstunde, Eltern-Kind-Sport, Krabbelgruppen, Spiel & Bewegung für d
 
 ## Links
 <a class="external_link" href="https://www.familienanlauf.de/familienzentrum">Website</a>
-
-## Zielgruppe
-Familien mit Kindern zwischen 0-6 Jahren, Schwangere, Mütter, Väter, Alleinerziehende, Familien mit Fluchterfahrung
 
 ## Wo
 <div id="gmap"></div>
