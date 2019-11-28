@@ -81,11 +81,21 @@
                 element.find('a').append(' @ ' + youthclubname);
                 // source: https://stackoverflow.com/a/179717 ("How to change the href for a hyperlink [..]"")
                 element.find('a').attr('href', youthclublink);
+                //element.find('a').classname += ' link_in_text';
+                var link = element.find('a')[0];
+                link.classList.add('link_in_text');
             },
             // source: https://fullcalendar.io/docs/v3/eventAfterAllRender
             eventAfterAllRender: function(view) {
-                // source: https://jsfiddle.net/milz/od4Le2er/ ("Hide fc-day-header")
-                $('.fc-list-heading').css('display', 'none');
+                $('.fc-list-heading').remove();
+                // make only youthclub name clickable link
+                $('.fc-list-item-title').each(function(index, item){
+                    var eventlink = $(item).find('a');
+                    var eventname = eventlink.text().split(' @ ')[0];
+                    var youthclubname = eventlink.text().split(' @ ')[1];
+                    eventlink.html(' @ ' + youthclubname);
+                    $(item).html(eventname + $(item).html());
+                });
             }
         });
     });
