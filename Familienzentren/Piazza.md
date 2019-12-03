@@ -5,9 +5,9 @@
 die ganze Familie ist willkommen :)
 
 ## Offen
-Mo – Mi 7:30 – 16 Uhr<br>
-Do 8:30 - 17 Uhr<br>
-Fr  7:30 – 15 Uhr<br>
+Mo – Mi 7:30 – 16:00 Uhr<br>
+Do 8:30 - 17:00 Uhr<br>
+Fr  7:30 – 15:00 Uhr<br>
 
 ## Wochenplan
 <pre id="weeklyschedule">
@@ -33,8 +33,9 @@ Do 14:00 - 17:00 Ausleihe von hochwertigen Aktion u. Brettspielen
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap(' Anna-Ebermann-Str. 25, 13053 Berlin, 0, 'gmap_mini')</script><br>
+<script>window.onload = showMap('Anna-Ebermann-Str. 25, 13053 Berlin, 0, 'gmap_mini')</script><br>
 im Gebäude der Kita Abenteuerland
+
 ## Kontakt
 [elterntreff.piazza@vav-hhausen.de](mailto: elterntreff.piazza@vav-hhausen.de)<br>
 <a href="tel:+493052671828">030 5267 1828</a>
