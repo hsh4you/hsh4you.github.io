@@ -33,7 +33,7 @@ Do 14:00 - 17:00 Ausleihe von hochwertigen Aktion u. Brettspielen
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Anna-Ebermann-Str. 25, 13053 Berlin, 0, 'gmap_mini')</script><br>
+<script>window.onload = showMap('Anna-Ebermann-Str. 25, 13053 Berlin', 0, 'gmap_mini')</script><br>
 im Gebäude der Kita Abenteuerland
 
 ## Kontakt
