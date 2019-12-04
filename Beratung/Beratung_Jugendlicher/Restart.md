@@ -1,4 +1,5 @@
 ## ReStart 4.0 
+<img id="topmedia" src="/Beratung/Beratung_Jugendlicher/images/logo.png" />
 
 ## Offen
 nach Vereinbarung, da mobil unterwegs
@@ -15,7 +16,7 @@ Du triffst uns in Lichtenberg, in deinem Jugenclub, oder in unserem Beratungszen
 ▪	Wir begleiten dich bei Ämtergängen<br>
 
 ## Links
-<a class="external_link" href="https://www.fvaj.de">Website</a><br>
+<a class="external_link" href="https://fvaj.de/restart-4-0">Website</a><br>
 <a class="external_link" href="https://https://www.facebook.com/fvajverein">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/restart4.0/">Instagram</a>
 
