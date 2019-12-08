@@ -24,7 +24,7 @@ Airhockey, Billiard, Kicker, Dart
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Holzwurmhaus Falkenberg, Berlin', 0, 'gmap_mini', 'Falkenberger Chaussee 141, 13057 Berlin')</script>
+<script>window.onload = showMap('Holzwurmhaus Falkenberg, Berlin', 0, 'gmap_mini', 'Falkenberger Chaussee 141, 13059 Berlin')</script>
 
 ## Eindrücke
 <div class="mediacontainer">
