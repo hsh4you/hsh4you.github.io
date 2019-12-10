@@ -1,5 +1,6 @@
 ## Beratung Jugendlicher
 
+- [COMES e.V.](Beratung_Jugendlicher/Comes.html)
 - [berliner jungs](Beratung_Jugendlicher/Berliner_Jungs.html)
 - [Gangway Hsh](Beratung_Jugendlicher/Gangway.html)
 - [Restart 4.0](Beratung_Jugendlicher/Restart.html)
