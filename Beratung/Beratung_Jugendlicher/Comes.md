@@ -42,12 +42,5 @@ Kleidertausch in der Zingster Str. 6
 
 <div class="mediacontainer">
   <img src="/Beratung/Beratung_Eltern/images/Kleidertausch_COMES_Dezember.jpg" />
-  </div>
-  
-  
-<div class="mediacontainer">
   <img src="/Beratung/Beratung_Eltern/images/ComesKleider.jpg" />
-  </div>
-  
-  
-  
+</div
