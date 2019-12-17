@@ -24,13 +24,14 @@ Die Mitarbeiterinnen von La Luna unterstützen: <br>
 •	mit Elternberatung<br>
 
 ## Links
-<a class="http://www.vav-hhausen.de/La-Luna/luna-start.html ">Website</a>
+<a class="http://www.vav-hhausen.de/La-Luna/luna-start.html">Website</a>
 
 ## Wo
 Standort 1 im FZ Grashalm<br>
 Nachbarschaftshaus im Ostseeviertel<br>
 <div id="gmap"></div>
-<script>window.onload = showMap('Ribnitzer Str. 1 b, 13051 Berlin', 0, 'gmap_mini')</script><br>
+<script>window.onload = showMap('Ribnitzer Str. 1 b, 13051 Berlin', 0, 'gmap_mini')</script>
+<br>
 
 Standort 2 im FZ Pusteblume<br>
 Im Krugwiesen Hof<br>
