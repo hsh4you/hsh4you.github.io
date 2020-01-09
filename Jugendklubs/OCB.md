@@ -2,8 +2,8 @@
 <img id="topmedia" src="images/Logos/ocb.png" />
 
 ## Wochenplan
-Do 16 Uhr Zeraldas Weltküche: Kochprojekt
-siehe Wochenplan vom Jugendklub OCB: https://www.hsh4you.de/Jugendklubs/OCB.html <a class="external_link" href="www.ocb-club.de">Webseite</a>
+<div id='calendar' class="weeklyschedule"></div>
+<script>window.onload = loadWeeklySchedule(GCAL_ID_OCB)</script>
 
 ## Offen
 Mo 13-19 Uhr (Mädchen*tag)<br> 
