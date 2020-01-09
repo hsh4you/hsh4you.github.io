@@ -1,5 +1,5 @@
 ## OCB Integrationsarbeit
-<img id="topmedia" src="images/Logos/ocb.png" />
+<img id="topmedia" src="/Jugendklubs/images/Logos/ocb.png" />
 
 ## Wochenplan
 <div id='calendar' class="weeklyschedule"></div>
@@ -37,6 +37,6 @@ Kinder & Jugendliche 10-20 Jahre & ihre Familien
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="images/OCB/1.JPG" />
-  <img src="images/OCB/2.jpg" />
+  <img src="/Jugendklubs/images/OCB/1.JPG" />
+  <img src="/Jugendklubs/images/OCB/2.jpg" />
 </div>
