@@ -23,7 +23,7 @@ Fr 13-19 Uhr
 Kinder & Jugendliche 10-20 Jahre & ihre Familien
 
 ## Links
-<a class="external_link" href="https://www.ocb-club.de">Webseite</a><br>
+<a class="external_link" href="http://www.ocb-club.de">Webseite</a><br>
 <a class="external_link" href="https://www.facebook.com/offener.jugendclub">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/offener.club.berlin">Instagram</a>
 
