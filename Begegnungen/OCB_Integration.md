@@ -2,8 +2,8 @@
 <img id="topmedia" src="/Jugendklubs/images/Logos/ocb.png" />
 
 ## Wochenplan
-<div id='calendar' class="weeklyschedule"></div>
-<script>window.onload = loadWeeklySchedule(GCAL_ID_OCB)</script>
+Do 16 Uhr Zeraldas Weltküche: Kochprojekt
+siehe Wochenplan vom Jugendklub <a class="external_link" href="https://www.hsh4you.de/Jugendklubs/OCB.html">OCB</a>
 
 ## Offen
 Mo 13-19 Uhr (Mädchen*tag)<br> 
@@ -23,7 +23,7 @@ Fr 13-19 Uhr
 Kinder & Jugendliche 10-20 Jahre & ihre Familien
 
 ## Links
-<a class="external_link" href="www.ocb-club.de">Webseite</a><br>
+<a class="external_link" href="https://www.ocb-club.de">Webseite</a><br>
 <a class="external_link" href="https://www.facebook.com/offener.jugendclub">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/offener.club.berlin">Instagram</a>
 
