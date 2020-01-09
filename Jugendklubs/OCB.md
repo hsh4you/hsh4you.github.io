@@ -17,7 +17,7 @@ Fr 13-19 Uhr
 Bistro/Küchennutzung, Kochprojekt, Bandraum, Billard, Tischtennis, Fußball, Wii, Gesellschaftsspiele, Kicker, Unterstützung bei Hausaufgaben & Bewerbung, Kino, Chillen, Beratung, Clubversammlung, Siebdruck</p>
 
 ## Links
-<a class="external_link" href="https://www.ocb-club.de">Webseite</a><br>
+<a class="external_link" href="http://www.ocb-club.de">Webseite</a><br>
 <a class="external_link" href="https://www.facebook.com/offener.jugendclub">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/offener.club.berlin">Instagram</a>
 
