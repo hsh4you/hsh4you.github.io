@@ -1,5 +1,5 @@
 ## Familienbüro Lichtenberg
-<img id="topmedia" src="/Familienzentren/images/Familienbuero logo.png" />
+<img id="topmedia" src="/Beratung/Beratung_Eltern/images/Familienbuero logo.png" />
 
 ## Offen
 Mo- Mi + Fr 9-12 Uhr & Do 15-19 Uhr
