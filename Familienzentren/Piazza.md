@@ -11,7 +11,7 @@ Fr  7:30 – 15:00 Uhr<br>
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo 09:00 - 11:00 Elternfrühstück (Themen: Gesunde Ernährung, Wann stille ich ab? Muss ich schon NEIN sagen)
+Mo 09:00 - 11:00 Elternfrühstück (Themen: Gesunde Ernährung, Abstillen...)
 Di 09:00 – 11:00 Krabbelgruppe
 Mi 09:00 - 11:00 Nähkurs
 Do 09:30 - 11:00 Krabbelgruppe
