@@ -27,8 +27,8 @@ Matenzeile (im EG der Kita "Freche Früchtchen")
 <div class="mediacontainer">
   <img src="images/Matenzeile/1.jpg" />
   <img src="images/Matenzeile/2.jpg" />
-  <img src="images/Matenzeile/3.jpg" />
-  <img src="images/Matenzeile/4.jpg" />
+  <img src="images/Matenzeile/3.JPG" />
+  <img src="images/Matenzeile/4.JPG" />
   <img src="images/Matenzeile/5.jpg" />
-  <img src="images/Matenzeile/6.jpg" />
+  <img src="images/Matenzeile/6.JPG" />
 </div>
