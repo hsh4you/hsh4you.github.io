@@ -39,4 +39,6 @@ Kinder & Jugendliche 10-20 Jahre & ihre Familien
 <div class="mediacontainer">
   <img src="/Jugendklubs/images/OCB/1.JPG" />
   <img src="/Jugendklubs/images/OCB/2.jpg" />
+  <img src="/Begegnungen/Images/OCBIntegration/1.jpg" />
+  <img src="/Begegnungen/Images/OCBIntegration/2.jpg" />
 </div>
