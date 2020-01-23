@@ -34,3 +34,11 @@ Sa 15-18 Uhr Theater/Filmprojekt
 ## Wo
 <div id="gmap"></div>
 <script>window.onload = showMap('Malchower Weg 48, 13053 Berlin', 0, 'gmap_mini')</script>
+
+## Eindrücke
+<div class="mediacontainer">
+  <img src="images/Funkloch/1.jpg" />
+  <img src="images/Funkloch/2.jpg" />
+  <img src="images/Funkloch/3.jpg" />
+  <img src="images/Funkloch/4.jpg" />
+</div>
