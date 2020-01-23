@@ -12,7 +12,7 @@
     <img src="images/Logos/Ausblick.jpg"><br><span class="notranslate">Ausblick</span>
   </label>
    <label class="youthclub" onclick="javascript:window.open('jfe_funkloch.html', '_self')">
-    <img src="images/Logos/Funkloch.png"><br><span class="notranslate">Ausblick</span>
+    <img src="images/Logos/Funkloch.png"><br><span class="notranslate">JFE Funkloch</span>
   </label>  
   <label class="youthclub" onclick="javascript:window.open('jfe_fullhouse.html', '_self')">
     <img src="images/Logos/Fullhouse.jpg"><br><span class="notranslate">Full House</span>
