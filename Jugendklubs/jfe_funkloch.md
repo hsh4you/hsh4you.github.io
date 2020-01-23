@@ -2,7 +2,7 @@
 <img id="topmedia" src="images/Funkloch/Funkloch.png" />
 
 ## Offen
-Mo-Fr 13-20 Uhr
+Mo-Fr 13-20 Uhr<br>
 Samstagsöffnung: am 1. Samstag des Monats
 
 ## Angebote
