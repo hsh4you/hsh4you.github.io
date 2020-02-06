@@ -16,6 +16,7 @@
     const GCAL_ID_OCB               = '41a2511d1a6plhj0b6phu496q4@group.calendar.google.com';
     const GCAL_ID_SPIK              = 'opsnl05el2r6o5pu3ffh340shs@group.calendar.google.com';
     const GCAL_ID_TRIALOG           = 'eugine4lsicefedpukh26nkc08@group.calendar.google.com';
+    const GCAL_ID_VAV               = '66hoag456h66ad2m2jv9ng71oc@group.calendar.google.com';
 
     var youthclubnames = {};
     youthclubnames[GCAL_ID_ASP_FORT_ROBINSON] = 'ASP Fort Robinson';
@@ -26,7 +27,7 @@
     youthclubnames[GCAL_ID_MIKADO] = 'Mikado';
     youthclubnames[GCAL_ID_OCB] = 'OCB';
     youthclubnames[GCAL_ID_SPIK] = 'SPIK';
-    youthclubnames[GCAL_ID_TRIALOG] = 'Trialog';
+    youthclubnames[GCAL_ID_VAV] = 'VaV';
 
     var youthclublinks = {};
     youthclublinks[GCAL_ID_ASP_FORT_ROBINSON] = '/Jugendklubs/ASP_Fort_Robinson';
@@ -38,6 +39,7 @@
     youthclublinks[GCAL_ID_OCB] = '/Jugendklubs/OCB';
     youthclublinks[GCAL_ID_SPIK] = '/Jugendklubs/SPIK_JK';
     youthclublinks[GCAL_ID_TRIALOG] = '/Jugendklubs/jfe_trialog';
+    youthclublinks[GCAL_ID_VAV] = '/Begegnungen/Willkommen';
 
     $(document).ready(function() {
         var showweeklyevents = true;
@@ -78,6 +80,7 @@
                 , GCAL_ID_SPIK
                 , GCAL_ID_HSH4YOU_SHARED
                 , GCAL_ID_TRIALOG
+                , GCAL_ID_VAV
             ],
             eventDataTransform: function(eventData) {
                 // source: https://stackoverflow.com/a/48932810 ("fullcalendar - eventclick changing URL")
