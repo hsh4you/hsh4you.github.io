@@ -27,6 +27,7 @@
     youthclubnames[GCAL_ID_MIKADO] = 'Mikado';
     youthclubnames[GCAL_ID_OCB] = 'OCB';
     youthclubnames[GCAL_ID_SPIK] = 'SPIK';
+    youthclubnames[GCAL_ID_TRIALOG] = 'Trialog';
     youthclubnames[GCAL_ID_VAV] = 'VaV';
 
     var youthclublinks = {};
