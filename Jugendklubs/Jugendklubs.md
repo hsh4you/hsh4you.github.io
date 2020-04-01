@@ -1,6 +1,7 @@
 ## Jugendklubs
 
-<a href="openstreetmap.html">Kartenansicht</a>
+Hier klicken zur Übersicht aller Jugendklubs in Hohenschönhausen<br>
+<a href="openstreetmap.html">interaktive Kartenansicht</a>
 
   <label class="youthclub" onclick="javascript:window.open('Arche.html', '_self')">
     <img src="images/Logos/Arche.jpg"><br><span class="notranslate">Die Arche</span>
