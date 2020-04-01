@@ -46,6 +46,7 @@ id: index
 - [Kitas](Kitas/Kitas.html)
 - [Schulen](Schulen/Schulen.html)
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
+- *Hohenschönhausen Song*<iframe class="embeddedyoutubevideo" width="1280" height="720" src="https://www.youtube.com/embed/0S2omTTcc-A" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="displaynone" id="listJugendlicher">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
