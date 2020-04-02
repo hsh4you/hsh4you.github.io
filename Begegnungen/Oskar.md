@@ -28,7 +28,7 @@ Do 14:00 – 18:00 offene Beratung für Ehrenamtsinteressierte
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Hauptstr. 9d, Eingang Leuenbergerstr., 13059 Berlin', 0, 'gmap_mini')</script><br>
+<script>window.onload = showMap('Hauptstr. 9d, 13059, Berlin', 0, 'gmap_mini')</script>
 
 ## Kontakt
 [anita.hebbinghaus@oskar-berlin](anita.hebbinghaus@oskar-berlin) <br>
