@@ -1,5 +1,5 @@
 ## Oskar Freiwilligenagentur Hohenschönhausen
-<img id="topmedia" src="/Freizeit/Images/360Grad/logo.jpg" />
+<img id="topmedia" src="/Begegnungen/Images/Oskar/logo.jpg" />
 
 ## Offen
 Mo, Mi, Fr 10-17 Uhr<br>
@@ -30,7 +30,6 @@ Do 14:00 – 18:00 offene Beratung für Ehrenamtsinteressierte
 <div id="gmap"></div>
 <script>window.onload = showMap('Hauptstr. 9d, Eingang Leuenbergerstr., 13059 Berlin', 0, 'gmap_mini')</script><br>
 
-
 ## Kontakt
 [anita.hebbinghaus@oskar-berlin](anita.hebbinghaus@oskar-berlin) <br>
 [info@oskar.berlin](info@oskar.berlin)<br>
@@ -38,5 +37,8 @@ Do 14:00 – 18:00 offene Beratung für Ehrenamtsinteressierte
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Images/360Grad/1.jpg " />
+  <img src="/Begegnungen/Images/Oskar/1.JPG" />
+  <img src="/Begegnungen/Images/Oskar/2.jpg" />
+  <img src="/Begegnungen/Images/Oskar/3.jpg" />
+  <img src="/Begegnungen/Images/Oskar/4.JPG" />
 </div>
