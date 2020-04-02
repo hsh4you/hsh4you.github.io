@@ -4,4 +4,5 @@
 - [Frauentreff Zwischenraum](/Begegnungen/Frauentreff.html)
 - [Gemeinschaftsgarten Falkenberg](/Begegnungen/HVWgarten.html)
 - [Nachbarschaftsgarten Wiecker Str.](/Begegnungen/WieckerStr.html)
+- [Oskar Freiwilligenagentur](/Begegnungen/Oskar.md)
 - [VaV Willkommensprojekte](/Begegnungen/Willkommen.html)
