@@ -11,12 +11,12 @@ Familienfeiern an den Wochenenden möglich. Voranmeldung erbeten.
 
 ## Angebote
 verschiedene Freizeit- & Interessengruppen, Nachbarschaftshilfe, ehrenamtliches Engagement, Erfahrungsaustausch, fachliche Information & Beratung, für geselliges Beisammensein, Familienfeiern 
--	wöchentlich: Kleines Internetcafé mit: <br>
+wöchentlich: Kleines Internetcafé mit: <br>
 •	Unterstützung bei Job- und Wohnungsrecherche<br>
 •	Zugang zur mobilen Datenbank www.mobidat.net<br>
 •	preiswerte Kopiermöglichkeit bis DIN-A 4<br>
 <br>
--	täglich: hauseigene Kiezbibliothek<br>
+täglich: hauseigene Kiezbibliothek<br>
 •	Kostenlose Ausleihe<br>
 •	Fundus an Buchspenden<br>
 •	Betreuung durch ehrenamtliche Mitarbeiter/in<br>
