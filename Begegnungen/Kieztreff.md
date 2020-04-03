@@ -69,5 +69,5 @@ Besucher*innen ab 18 Jahre
                
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="/Begegnungen/Images/Kieztreff/Poster.pdf" />
+  <img src="/Begegnungen/Images/Kieztreff/logo2.jpg" />
 </div>
