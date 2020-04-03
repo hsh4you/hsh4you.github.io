@@ -10,7 +10,7 @@ Fr 9-15 Uhr<br>
 Familienfeiern an den Wochenenden möglich. Voranmeldung erbeten.
 
 ## Angebote
-verschiedene Freizeit- & Interessengruppen, Nachbarschaftshilfe, ehrenamtliches Engagement, Erfahrungsaustausch, fachliche Information & Beratung, für geselliges Beisammensein, Familienfeiern 
+verschiedene Freizeit- & Interessengruppen, Nachbarschaftshilfe, ehrenamtliches Engagement, Erfahrungsaustausch, fachliche Information & Beratung, für geselliges Beisammensein, Familienfeiern<br>
 wöchentlich: Kleines Internetcafé mit: <br>
 •	Unterstützung bei Job- und Wohnungsrecherche<br>
 •	Zugang zur mobilen Datenbank www.mobidat.net<br>
@@ -70,5 +70,5 @@ Besucher*innen ab 18 Jahre
                
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Images/360Grad/1.jpg " />
+  <img src="/Begegnungen/Images/Kieztreff/Poster.pdf" />
 </div>
