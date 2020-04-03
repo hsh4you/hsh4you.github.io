@@ -1,5 +1,5 @@
 ## Kieztreff Lebensnetz
-<img id="topmedia" src="/Freizeit/Images/360Grad/logo.jpg" />
+<img id="topmedia" src="/Begegnungen/Images/Kieztreff/logo.jpg" />
 
 ## Offen
 Mo 9-17 Uhr<br>
