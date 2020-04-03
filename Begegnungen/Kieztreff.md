@@ -44,7 +44,6 @@ Jeden 3. Montag/Monat: <br>
 Jeden 4. Montag/zwei-monatig: <br>
 16-18 Uhr EDIUS Freunde von Videoschnittprogrammen<br>
 <br>
-
 Jeden 2. Dienstag/Monat: <br>
 Ab 17:30 Uhr: Treffen des Fotoclubs 1092 – offen für Interessent/innen<br>
 <br>
