@@ -12,19 +12,19 @@ Kicker, Malkurse, PC- und Smartphone-Kurse, offener Café-Treff, Nachbarschaftsf
 <pre id="weeklyschedule">
 Mo 15:00 - 18:00 Uhr Acryl-Kurs (2x mtl.)
 Di 15:00 – 18:00 offenes Nachbarschaftscafé
-Mi (2x monatlich) 10:00 – 12:00 Klöppeln
-Mi (2x monatlich) 14:00 – 15.30 Hilfe zu Smartphone und Tablet
-Mi (2x monatlich) 15.00 – 18.00 Malen nach Musik
-Mi (2x monatlich) 17.30 – 19.30 gemeinsamer Kochabend
-Do (2x monatlich) 17.00 - 18.30 PC-Kurs 
-Fr (1x monatlich) 80.00 – 11.00 Beratung rund um Pflege im Alter
-Sa (1x monatlich) 10.30 - 12.30 Nachbarschaftsfrühstück
-Sa (1x monatlich) 16.00 - 18.30 Innerer Tanz: Körper-Reise und Mediation
+Mi 10:00 – 12:00 Klöppeln (2x mtl.)
+Mi 14:00 – 15:30 Hilfe zu Smartphone und Tablet (2x mtl.)
+Mi 15:00 – 18:00 Malen nach Musik (2x mtl.)
+Mi 17:30 – 19:30 gemeinsamer Kochabend (2x mtl.)
+Do 17:00 - 18:30 PC-Kurs (2x mtl.)
+Fr 08:00 – 11:00 Beratung rund um Pflege im Alter (1x mtl.)
+Sa 10:30 - 12:30 Nachbarschaftsfrühstück (1x mtl.)
+Sa 16:00 - 18:30 Innerer Tanz: Körper-Reise und Mediation (1x mtl.)
 Gelegentlich gibt es auch noch offenen Café-Betrieb oder Workshops, wenn die Räume nicht mit anderen Angeboten belegt sind.
 </pre>
 
 ## Zielgruppe
-Besucher*innen aller Altersgruppen, egal welcher Herkunft und Religion willkommen
+Erwachsene
 
 ## Links
 <a class="external_link" href=" http://www.gemeinsam-im-kiez.de/">Website</a><br>
