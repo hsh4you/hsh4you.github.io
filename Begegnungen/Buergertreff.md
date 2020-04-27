@@ -11,16 +11,16 @@ Kicker, Malkurse, PC- und Smartphone-Kurse, offener Café-Treff, Nachbarschaftsf
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo 15:00 - 18:00 Uhr Acryl-Kurs (2x mtl.)
-Di 15:00 – 18:00 offenes Nachbarschaftscafé
-Mi 10:00 – 12:00 Klöppeln (2x mtl.)
-Mi 14:00 – 15:30 Hilfe zu Smartphone & Tablet (2x mtl.)
-Mi 15:00 – 18:00 Malen nach Musik (2x mtl.)
-Mi 17:30 – 19:30 gemeinsamer Kochabend (2x mtl.)
-Do 17:00 - 18:30 PC-Kurs (2x mtl.)
-Fr 08:00 – 11:00 Beratung rund um Pflege im Alter (1x mtl.)
-Sa 10:30 - 12:30 Nachbarschaftsfrühstück (1x mtl.)
-Sa 16:00 - 18:30 Innerer Tanz: Körper-Reise & Mediation (1x mtl.)
+Mo 15:00-18:00 Uhr Acryl-Kurs (2x mtl.)
+Di 15:00–18:00 offenes Nachbarschaftscafé
+Mi 10:00–12:00 Klöppeln (2x mtl.)
+Mi 14:00–15:30 Hilfe zu Smartphone & Tablet (2x mtl.)
+Mi 15:00–18:00 Malen nach Musik (2x mtl.)
+Mi 17:30–19:30 gemeinsamer Kochabend (2x mtl.)
+Do 17:00-18:30 PC-Kurs (2x mtl.)
+Fr 08:00–11:00 Beratung rund um Pflege im Alter (1x mtl.)
+Sa 10:30-12:30 Nachbarschaftsfrühstück (1x mtl.)
+Sa 16:00-18:30 Innerer Tanz: Körper-Reise & Mediation (1x mtl.)
 </pre>
 Gelegentlich gibt es auch noch offenen Café-Betrieb oder Workshops, wenn die Räume nicht mit anderen Angeboten belegt sind.
 
@@ -28,8 +28,8 @@ Gelegentlich gibt es auch noch offenen Café-Betrieb oder Workshops, wenn die R�
 Erwachsene jeden Alters und Herkunft
 
 ## Links
-<a class="external_link"href=" http://www.gemeinsam-im-kiez.de/">Website</a><br>
-<a class="external_link"href=" www.facebook.com/buergertreff">Facebook</a><br>
+<a class="external_link" href="http://www.gemeinsam-im-kiez.de/">Website</a><br>
+<a class="external_link" href="www.facebook.com/buergertreff">Facebook</a><br>
 
 ## Wo
 <div id="gmap"></div>
