@@ -29,7 +29,7 @@ Erwachsene jeden Alters und Herkunft
 
 ## Links
 <a class="external_link" href="http://www.gemeinsam-im-kiez.de/">Website</a><br>
-<a class="external_link" href="www.facebook.com/buergertreff">Facebook</a><br>
+<a class="external_link" href="http://www.facebook.com/buergertreff">Facebook</a><br>
 
 ## Wo
 <div id="gmap"></div>
