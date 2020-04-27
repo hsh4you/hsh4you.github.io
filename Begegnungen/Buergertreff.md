@@ -27,8 +27,8 @@ Gelegentlich gibt es auch noch offenen Caf√©-Betrieb oder Workshops, wenn die R√
 Erwachsene
 
 ## Links
-<a class="external_link" href=" http://www.gemeinsam-im-kiez.de/">Website</a><br>
-<a class="external_link" href=" https://www.facebook.com/B%C3%BCrgertreff-Gemeinsam-im-Kiez-leben-der-Cooperative-Mensch-596830347409555/">Facebook</a><br>
+<a class="external_link"href=" http://www.gemeinsam-im-kiez.de/">Website</a><br>
+<a class="external_link"href=" www.facebook.com/buergertreff">Facebook</a><br>
 
 ## Wo
 <div id="gmap"></div>
