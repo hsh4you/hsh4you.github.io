@@ -1,7 +1,7 @@
 ## Begegnungen
 
 - [BENN Hsh Nord - Auf gute Nachbarschaft](BENN_HSH.html)
-- [Bürgertreff - Gemeinsam im Kiez leben](/Begegnungen/Buergertreff.md)
+- [Bürgertreff - Gemeinsam im Kiez leben](/Begegnungen/Buergertreff.html)
 - [Frauentreff Zwischenraum](Frauentreff.html)
 - [Gemeinschaftsgarten Falkenberg](HVWgarten.html)
 - [Kieztreff Lebensnetz](/Begegnungen/Kieztreff.html)
