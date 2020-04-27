@@ -1,5 +1,5 @@
 ## Bürgertreff „Gemeinsam im Kiez leben“
-<img id="topmedia" src="/Freizeit/Images/360Grad/logo.jpg" />
+<img id="topmedia" src="/Begegnungen/Images/Buergertreff/logo.png" />
 
 ## Offen
 Mo bis Do 10-18 Uhr<br>
