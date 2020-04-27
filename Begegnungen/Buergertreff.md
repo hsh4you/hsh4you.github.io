@@ -40,5 +40,7 @@ Besucher*innen aller Altersgruppen, egal welcher Herkunft und Religion willkomme
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Images/360Grad/1.jpg " />
+  <img src="/Begegnungen/Images/Buergertreff/1.jpg " />
+  <img src="/Begegnungen/Images/Buergertreff/2.jpg " />
+  <img src="/Begegnungen/Images/Buergertreff/3.jpg " />
 </div>
