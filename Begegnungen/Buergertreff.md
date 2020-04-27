@@ -2,29 +2,30 @@
 <img id="topmedia" src="/Begegnungen/Images/Buergertreff/logo.png" />
 
 ## Offen
-Mo bis Do 10-18 Uhr<br>
-Fr 10-15 Uhr Uhr<br>
-Jeder 2. Samstag 10-15 UhrUhr<br>
+Mo bis Do 10-18Uhr<br>
+Fr 10-15Uhr<br>
+Jeder 2. Samstag 10-15Uhr<br>
 
 ## Angebote
 Kicker, Malkurse, PC- und Smartphone-Kurse, offener Café-Treff, Nachbarschaftsfrühstück, Meditationsangebot, Kochabende, Beratung rund um Pflege und Alter, Empowerment-Workshops
+
 ## Wochenplan
 <pre id="weeklyschedule">
 Mo 15:00 - 18:00 Uhr Acryl-Kurs (2x mtl.)
 Di 15:00 – 18:00 offenes Nachbarschaftscafé
 Mi 10:00 – 12:00 Klöppeln (2x mtl.)
-Mi 14:00 – 15:30 Hilfe zu Smartphone und Tablet (2x mtl.)
+Mi 14:00 – 15:30 Hilfe zu Smartphone & Tablet (2x mtl.)
 Mi 15:00 – 18:00 Malen nach Musik (2x mtl.)
 Mi 17:30 – 19:30 gemeinsamer Kochabend (2x mtl.)
 Do 17:00 - 18:30 PC-Kurs (2x mtl.)
 Fr 08:00 – 11:00 Beratung rund um Pflege im Alter (1x mtl.)
 Sa 10:30 - 12:30 Nachbarschaftsfrühstück (1x mtl.)
-Sa 16:00 - 18:30 Innerer Tanz: Körper-Reise und Mediation (1x mtl.)
-Gelegentlich gibt es auch noch offenen Café-Betrieb oder Workshops, wenn die Räume nicht mit anderen Angeboten belegt sind.
+Sa 16:00 - 18:30 Innerer Tanz: Körper-Reise & Mediation (1x mtl.)
 </pre>
+Gelegentlich gibt es auch noch offenen Café-Betrieb oder Workshops, wenn die Räume nicht mit anderen Angeboten belegt sind.
 
 ## Zielgruppe
-Erwachsene
+Erwachsene jeden Alters und Herkunft
 
 ## Links
 <a class="external_link"href=" http://www.gemeinsam-im-kiez.de/">Website</a><br>
