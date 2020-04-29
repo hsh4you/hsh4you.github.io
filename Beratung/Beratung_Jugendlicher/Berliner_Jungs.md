@@ -7,7 +7,7 @@
 Mo–Fr auf Anfrage<br>Di 15–17 Uhr Vorplatz Allee-Center
 
 ## Angebote
-Prävention von sexueller Gewalt an Jungen<br>
+Prävention von sexualisierter Gewalt an Jungen<br>
 vor Ort und als Projekt an Schulen und Freizeiteinrichtungen <br>
 Beratung von betroffenen Jungen und ihren Angehörigen (Eltern/Erziehungsberechtigte), Fachkräfte der Jugendhilfe und Schulen <br>
 Schulung pädagogischer Fachkräfte und Multiplikator_innen
