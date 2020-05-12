@@ -5,7 +5,7 @@
  - [Jugendkunstschule Lichtenberg](JUKS.md)
  - [Kieztreff Lebensnetz](/Begegnungen/Kieztreff.html)
  - [Knirpsenfarm](Knirpsenfarm.md) 
- - [Schule des Friedens](/Begegnungen/SchuleFrieden.md)
+ - [Schule des Friedens](/Begegnungen/SchuleFrieden.html)
  
   
  
