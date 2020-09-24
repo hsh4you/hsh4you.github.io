@@ -3,10 +3,10 @@
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo  14-16  Mädchengruppe GU Hagenower Ring
-Di  15-18  Jugendraum in GU Hausvaterweg
-Mi  15-18  Abholung GU Wartenberger Str. für SPIK 
-Do  15-18  Abholung Seehausener Str. für SPIK 
+Mo  14-16  Jugendraum in GU Hausvaterweg
+Di  15-18  Mädchengruppe GU Hagenower Ring
+Mi  15-18  Abholung Seehausener Str. für Cabuwazi-Zirkusprojekt
+Do  15-18  Abholung GU Wartenberger Str. für lokale Projekte
 </pre>
 
 ## Offen
