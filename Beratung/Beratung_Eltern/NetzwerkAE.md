@@ -1,5 +1,5 @@
 ## Netzwerkkoordinierungsstelle Alleinerziehende Lichtenberg
-<img id="topmedia" src="/images/Logo_Netzwerk-AE.png" />
+<img id="topmedia" src="/Beratung/Beratung_Eltern/images/Logo_Netzwerk-Alleinerziehende.jpg" />
 
 ## Offen
 nach Absprache
@@ -19,7 +19,7 @@ Im VaV Nachbarschaftshaus
 <script>window.onload = showMap('Ribnitzer Straße 1b, 13051 Berlin´, 0, 'gmap_mini')</script><br>
 
 ## Kontakt
-[birte.driesner@vav-hhausen.de](birte.driesner@vav-hhausen.de)<br>
+[netzwerk-alleinerziehende@vav-hhausen.de](netzwerk-alleinerziehende@vav-hhausen.de)<br>
 <a href="tel:+493096277111">030 9627 7111</a><br>
 <a href="mobil:+4917647116277">0176 4711 6277</a>
 
