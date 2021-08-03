@@ -48,8 +48,8 @@ id: index
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 - <a class="external_link" href="https://www.hsh4you.de/introvideo.html">*Hohenschönhausen Song*</a><br>
   <img src="/images/startpage/Poster_Kino für Alle_2021-001.jpg" /><br>
-  <img src="/images/startpage/postkarte_kino für alle_Herewecome_13-001.jpg" /><br>
-  <img src="/images/startpage/postkarte_kino für alle_Herewecome_13-002.jpg" />
+  <img src="/images/startpage/postkarte_kino für alle_Almanya_12-001.jpg" /><br>
+  <img src="/images/startpage/postkarte_kino für alle_Almanya_12-002.jpg" />
 </div>
 <div class="displaynone" id="listJugendlicher">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
