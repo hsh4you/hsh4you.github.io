@@ -51,7 +51,7 @@ id: index
   <img src="/images/startpage/Betongold_01-1024x731.png" /><br>
   <img src="/images/startpage/Betogold_02-1024x725.png" /><br>
   <img src="/images/startpage/2040_01-1024x724.png" /><br>
-  <img src="/images/startpage/2040_02-1024x724.png" />
+  <img src="/images/startpage/2040_02-1024x725.png" />
 </div>
 <div class="displaynone" id="listJugendlicher">
 - <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
