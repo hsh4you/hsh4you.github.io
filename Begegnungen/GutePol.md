@@ -6,7 +6,7 @@ nach Vereinbarung
 
 ## Aktivitäten
 <p id="activities">
-Beratung, Vernetzung, Gemeinwesen, <a class="external_link" href="https://www.dergutepol.de/kiezfonds/" target="_blank">Kiezfond</a>
+Beratung, Vernetzung, Gemeinwesen, <a class="external_link" href="https://www.dergutepol.de/kiezfonds/" target="blank">Kiezfond</a>
 </p>
 
 ## Links
