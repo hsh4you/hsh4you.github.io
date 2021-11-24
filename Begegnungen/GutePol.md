@@ -1,5 +1,5 @@
 ## Der Gute Pol<br> – Stadtteilkoordination in Alt-Hohenschönhausen
-<img id="topmedia" src="/Begegnungen/Images/BENN/logo.jpg" />
+<img id="topmedia" src="/Begegnungen/Images/GutePol/GPlogo.png" />
 
 ## Offen
 Mo 13–16 Uhr<br>
@@ -30,10 +30,9 @@ Nachbar*innen aus dem Kiez (keine Altersbeschränkungen)
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Images/BENN/1.jpg" />
-  <img src="Images/BENN/2.jpg" />
-  <img src="Images/BENN/3.jpg" />
-  <img src="Images/BENN/4.jpg" />
+  <img src="/Begegnungen/Images/GutePol/GP1.jpg" />
+  <img src="/Begegnungen/Images/GutePol/GP2.jpeg />
+  <img src="/Begegnungen/Images/GutePol/GP3.jpg" />
 </div>
 
 
