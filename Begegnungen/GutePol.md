@@ -31,7 +31,7 @@ Nachbar*innen aus dem Kiez (keine Altersbeschränkungen)
 ## Eindrücke
 <div class="mediacontainer">
   <img src="/Begegnungen/Images/GutePol/GP1.jpg" />
-  <img src="/Begegnungen/Images/GutePol/GP2.jpeg />
+  <img src="/Begegnungen/Images/GutePol/GP2.jpeg" />
   <img src="/Begegnungen/Images/GutePol/GP3.jpg" />
 </div>
 
