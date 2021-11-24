@@ -2,10 +2,7 @@
 <img id="topmedia" src="/Begegnungen/Images/GutePol/GPlogo.png" />
 
 ## Offen
-Mo 13–16 Uhr<br>
-Di 17–19 Uhr<br>
-Mi 10–16 Uhr<br>
-Do nach Vereinbarung
+nach Vereinbarung
 
 ## Aktivitäten
 <p id="activities">
