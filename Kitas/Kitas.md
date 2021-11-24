@@ -6,4 +6,4 @@
 - [Kita Sonnenschein](Kita_Sonnenschein.md)
 - [Kita Storchenkinder](Kita_Storchenkinder.md)
 
-Und mehr Kitas über den<br><a href="https://www.kita-navigator.berlin.de/" target="blank">Kita-Navigator</a>
+Und mehr Kitas über den<br><a class="external_link" href="https://www.kita-navigator.berlin.de/" target="blank">Kita-Navigator</a>
