@@ -6,3 +6,5 @@
 ## Schulstationen
 - [Schulstation Feldmark-Grundschule](../Beratung/Beratung_Jugendlicher/Schulstation_Feldmark_Grundschule.md)
 - [Schulstation Stachelbär](../Beratung/Beratung_Jugendlicher/Schulstation_Stachelbaer.md)
+
+Infos zur Schulanmeldung findet ihr <a href="https://www.berlin.de/sen/bildung/schule/bildungswege/grundschule/anmeldung/">hier</a>.
