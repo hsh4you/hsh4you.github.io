@@ -4,6 +4,7 @@
 - [Bürgertreff - Gemeinsam im Kiez leben](/Begegnungen/Buergertreff.html)
 - [Frauentreff Zwischenraum](Frauentreff.html)
 - [Gemeinschaftsgarten Falkenberg](HVWgarten.html)
+- [Gute Pol - Stadtteilkoordination](/Begegnungen/GutePol.html)
 - [Kieztreff Lebensnetz](/Begegnungen/Kieztreff.html)
 - [Nachbarschaftsgarten Wiecker Str.](WieckerStr.html)
 - [OCB Integrationsarbeit](OCB_Integration.md)
