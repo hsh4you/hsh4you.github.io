@@ -11,7 +11,7 @@
 - [Oskar Freiwilligenagentur](Oskar.md)
 - [Schule des Friedens](SchuleFrieden.html)
 - [SPIK integrative Kinder- & Jugendarbeit](SPIK_Integration.html)
-- [VaV Willkommensprojekte](Willkommen.html)
+<!-- - [VaV Willkommensprojekte](Willkommen.html)-->
 
 
 
