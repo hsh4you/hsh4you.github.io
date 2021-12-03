@@ -28,7 +28,7 @@ hier klicken für: <a href="openstreetmap.html"># interaktive Kartenansicht #</a
     <img src="images/Logos/kietzoase.jpg"><br><span class="notranslate">Kietzoase</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('Kontaktladen_VIP.html', '_self')">
-    <img src="images/Logos/VIP_Kontaktladen.jpg"><br><span class="notranslate">Kontaktladen VIP</span>
+    <img src="images/Logos/kontaktladen_vip.png"><br><span class="notranslate">Kontaktladen VIP</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('Leos_Huette.html', '_self')">
     <img src="images/Logos/Leos_Huette.jpg"><br><span class="notranslate">Leos Hütte</span>
@@ -37,7 +37,7 @@ hier klicken für: <a href="openstreetmap.html"># interaktive Kartenansicht #</a
     <img src="images/Logos/Mikado.jpg"><br><span class="notranslate">Mikado</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('OCB.html', '_self')">
-    <img src="images/Logos/ocb.png"><br><span>OCB</span>
+    <img src="images/Logos/offener_club_berlin.png"><br><span>OCB</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('Pia_Olymp.html', '_self')">
     <img src="images/Logos/Pia.jpg"><br><span class="notranslate">Pia Olymp</span>
