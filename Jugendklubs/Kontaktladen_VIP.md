@@ -20,7 +20,7 @@ Tonstudio (mit Anmeldung), Boxtraining, Kreativangebot, Kochen, Billard, Tischte
 <a class="external_link" target="blank" href="https://www.instagram.com/kontaktladen_vip/">Instagram</a>
 
 ## Zielgruppe
-10-21 Jahre
+Kinder und Jugendliche von 10-21 Jahre
 
 ## Kontakt
 [Kontaktladen@VaV-Hhausen.de](mailto:Kontaktladen@VaV-Hhausen.de)<br>
