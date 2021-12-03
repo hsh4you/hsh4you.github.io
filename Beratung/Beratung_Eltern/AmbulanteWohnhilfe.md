@@ -1,18 +1,17 @@
-## Ambulante Wohnhilfe
+## Aktive Wohnungsnotfallhilfe
 <img id="topmedia" src="/Beratung/Beratung_Eltern/images/VaVlogo.png" />
 
-## Offen
-Mo 14-16 Uhr<br>
-Mi 9-12 & 14-16:30Uhr<br>
-Und nach Vereinbarung<br>
+## Sprechzeiten
+Termine finden nach Vereinbarung statt.<br>
+Sie sind telefonisch und persönlich möglich.
 
 ## Zielgruppe
 Familien und Personen, die<br>
 • Wohnungslos   
 • von Wohnungslosigkeit bedroht  
-• oder in soziale Not geraten<br>
-sind, unterstützen wir ambulant. <br>
-In regelmäßigen Terminen bietet unser Team aus Sozialarbeiter*innen und Sozialpädagog*innen Beratung und Hilfe an. 
+• oder in soziale Not geraten sind.<br>
+<br>
+In regelmäßigen Terminen bietet unser Team aus Sozialarbeiter*innen und Sozialpädagog*innen ambulante Beratung und Hilfe an. 
 
 ## Aktivitäten
 <p id="activities">
@@ -26,7 +25,7 @@ In der offenen Sprechstunde am Montag bieten wir Sozial-und Antragsberatung an, 
 </p>
 
 ## Links
-<a class="external_link" href="http://vav-hhausen.de/Wohnhilfe/wohnhilfe-start.html">Webseite</a><br>
+<a class="external_link" target="blank" href="https://www.vav-hhausen.de/Bereiche/Soziales/awh.html">Webseite</a><br>
 <a class="external_link" href="https://www.facebook.com/AWHVaV">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/aktiwhg/">Instagram</a>
 
