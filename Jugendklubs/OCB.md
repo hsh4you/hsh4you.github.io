@@ -22,7 +22,7 @@ Bistro/Küchennutzung, Kochprojekt, Bandraum, Billard, Tischtennis, Fußball, Wi
 <a class="external_link" target="blank" href="https://www.instagram.com/offener.club.berlin">Instagram</a>
 
 ## Zielgruppe
-Kinder & Jugendliche 10-20 Jahre
+Kinder & Jugendliche von 10-20 Jahre
 
 ## Kontakt
 [ocb@vav-hhausen.de](mailto:ocb@vav-hhausen.de)<br>
