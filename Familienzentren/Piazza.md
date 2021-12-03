@@ -28,7 +28,7 @@ Do 14:00 - 17:00 Ausleihe von hochwertigen Aktion u. Brettspielen
 •	Feste zu besonderen Anlässen<br>
 
 ## Links
-<a class="external_link" target="blank" href"https://www.vav-hhausen.de/Bereiche/Familie/treffpunkt.html">Website</a>
+<a class="external_link" target="blank" href="https://www.vav-hhausen.de/Bereiche/Familie/treffpunkt.html">Website</a>
 
 ## Zielgruppe
 die ganze Familie ist willkommen :)
