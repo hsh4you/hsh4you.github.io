@@ -1,5 +1,5 @@
 ## Elterntreffpunkt "Treffpunk"
-<img id="topmedia" src="/images/Piazza/treffpunkt.png" />
+<img id="topmedia" src="images/Piazza/treffpunkt.png" />
 
 ## Offen
 Mo – Mi 7.30 – 16 Uhr<br>
