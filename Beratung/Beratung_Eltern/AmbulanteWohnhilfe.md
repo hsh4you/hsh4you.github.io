@@ -16,10 +16,10 @@ In regelmäßigen Terminen bietet unser Team aus Sozialarbeiter*innen und Sozial
 ## Aktivitäten
 <p id="activities">
 Beratung und Unterstützung nach §§ 67 ff. SGB XII<br>
- Zum Erhalt und zur Erlangung einer Wohnung<br>
- Bei Ämterangelegenheiten (Jobcenter, BaföG, Wohngeld) <br>
- Zur Schuldensituation<br>
- Und bei weiteren individuellen Problemen<br>
+• Zum Erhalt und zur Erlangung einer Wohnung<br>
+• Bei Ämterangelegenheiten (Jobcenter, BaföG, Wohngeld) <br>
+• Zur Schuldensituation<br>
+• Und bei weiteren individuellen Problemen<br>
 
 In der offenen Sprechstunde am Montag bieten wir Sozial-und Antragsberatung an, unabhängig von einem Hilfebedarf nach §§ 67 ff. SGB XII.
 </p>
