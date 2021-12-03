@@ -26,8 +26,8 @@ In der offenen Sprechstunde am Montag bieten wir Sozial-und Antragsberatung an, 
 
 ## Links
 <a class="external_link" target="blank" href="https://www.vav-hhausen.de/Bereiche/Soziales/awh.html">Webseite</a><br>
-<a class="external_link" href="https://www.facebook.com/AWHVaV">Facebook</a><br>
-<a class="external_link" href="https://www.instagram.com/aktiwhg/">Instagram</a>
+<a class="external_link" target="blank" href="https://www.facebook.com/AWHVaV">Facebook</a><br>
+<a class="external_link" target="blank" href="https://www.instagram.com/aktiwhg/">Instagram</a>
 
 ## Kontakt
 [wohnhilfe@vav-hhausen.de](mailto:wohnhilfe@vav-hhausen.de)<br>
