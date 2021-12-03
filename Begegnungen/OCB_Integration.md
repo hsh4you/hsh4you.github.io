@@ -1,8 +1,7 @@
 ## OCB Integrationsarbeit
-<img id="topmedia" src="/Jugendklubs/images/Logos/ocb.png" />
+<img id="topmedia" src="/Jugendklubs/images/Logos/offener_club_berlin.png" />
 
 ## Wochenplan
-Do 16 Uhr Zeraldas Weltküche: Kochprojekt
 siehe Wochenplan vom Jugendklub <a class="external_link" href="https://www.hsh4you.de/Jugendklubs/OCB.html">OCB</a>
 
 ## Offen
@@ -12,20 +11,21 @@ Mi 15-19 Uhr<br>
 Do 13-20 Uhr<br>
 Fr 13-19 Uhr
 
-## Aktivitäten
+## Angebote
 •	Integrationsarbeit im Kiez<br> 
 •	Unterstützung bei behördlichen Angelegenheiten<br> 
 •	Arabisch Sprachvermittlung<br> 
-•	jährliche Feste: Newroz (wieder am 20. März 2020)<br> 
+•	jährliche Feste: Newroz<br> 
 •	Laufende Projekte: Zeraldas Weltküche: Kochprojekt jeden Donnerstag 16 Uhr<br> 
 
-## Zielgruppe
-Kinder & Jugendliche 10-20 Jahre & ihre Familien
 
 ## Links
-<a class="external_link" href="http://www.ocb-club.de">Webseite</a><br>
-<a class="external_link" href="https://www.facebook.com/offener.jugendclub">Facebook</a><br>
-<a class="external_link" href="https://www.instagram.com/offener.club.berlin">Instagram</a>
+<a class="external_link" target="blank" href="https://www.vav-hhausen.de/Bereiche/Jugend/ocb.html>Webseite</a><br>
+<a class="external_link" target="blank" href="https://www.facebook.com/offener.jugendclub">Facebook</a><br>
+<a class="external_link" target="blank" href="https://www.instagram.com/offener.club.berlin">Instagram</a>
+                                                                                            
+## Zielgruppe
+Kinder & Jugendliche 10-20 Jahre & ihre Familien
 
 ## Kontakt
 [ocb@vav-hhausen.de](mailto:Integration.ocb@vav-hhausen.de)<br>
