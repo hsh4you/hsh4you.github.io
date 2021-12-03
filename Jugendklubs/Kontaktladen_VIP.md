@@ -1,5 +1,5 @@
 ## Kontaktladen VIP
-<img id="topmedia" src="images/VIP_Kontaktladen/kontaktladen.gif" />
+<img id="topmedia" src="images/Logos/kontaktladen_vip.png" />
 
 ## Wochenplan
 <div id='calendar' class="weeklyschedule"></div>
