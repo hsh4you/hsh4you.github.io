@@ -1,24 +1,26 @@
 ## Kontaktladen VIP
-<img id="topmedia" src="images/VIP_Kontaktladen/5.jpg" />
+<img id="topmedia" src="images/VIP_Kontaktladen/kontaktladen.gif" />
 
 ## Wochenplan
 <div id='calendar' class="weeklyschedule"></div>
 <script>window.onload = loadWeeklySchedule(GCAL_ID_KONTAKTLADEN_VIP)</script>
 
 ## Offen
-Mo-Fr 14-20 Uhr
+Montag - Freitag<br>
+14-20 Uhr
 
 ## Angebote
 <p id="activities">
-Tanztraining, VIP- Talk, Tonstudio (mit Anmeldung), Boxtraining, Kreativangebot, Kochen, Billard, Tischtennis, Kickertraining,  Sportangebote, Clubversammlung
+Tonstudio (mit Anmeldung), Boxtraining, Kreativangebot, Kochen, Billard, Tischtennis, Kickertraining,  Sportangebote, analoge Gesellschaftsspiele, Clubversammlung
 </p>
 
 ## Links
-<a class="external_link" href="http://www.vav-hhausen.de/Kontaktladen/kontaktladen-start.html">Website</a><br>
-<a class="external_link" href="https://www.facebook.com/JFEkontaktladenVIP/">Facebook</a>
+<a class="external_link" target="blank" href="https://www.vav-hhausen.de/Bereiche/Jugend/kontaktladen.html">Website</a><br>
+<a class="external_link" target="blank" href="https://www.facebook.com/JFEkontaktladenVIP/">Facebook</a><br>
+<a class="external_link" target="blank" href="https://www.instagram.com/kontaktladen_vip/">Instagram</a>
 
 ## Zielgruppe
-12-21 Jahre
+10-21 Jahre
 
 ## Kontakt
 [Kontaktladen@VaV-Hhausen.de](mailto:Kontaktladen@VaV-Hhausen.de)<br>
