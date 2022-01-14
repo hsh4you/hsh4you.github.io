@@ -1,14 +1,12 @@
 ## Familienzentrum Grashalm
 <img id="topmedia" src="/Familienzentren/images/Grashalm/logo.png" />
 
-## Zielgruppe
-die ganze Familie ist willkommen :)
-
 ## Offen
 Mo 10-13 Uhr<br>
 Di-Do 10-18 Uhr<br>
 Fr 14-19 Uhr<br>
 
+<!--
 ## Wochenplan
 <pre id="weeklyschedule">
 Mo 10:00-12:00 Offene Eltern-Kind-Gruppe
@@ -26,6 +24,7 @@ Do 14:00-17:00 La-Luna-Kontaktzeit
 Do 15:00-18:00 Familiencafé
 Fr 14:00 gemeinsames Kochen, TN-Beitrag: 3 - 6 Euro pro Erwachsener, Kinder ab 6 Jahren 1 Euro, Preise je nach Gericht; Anmeldung 1 Tag vorher
 </pre>
+-->
 
 ## Angebote
 Hebammen-, Physiotherapeuten- & Osteopathen-Sprechstunde, Elternbegleitung, Beratung, flexible Kinderbetreuung, La Luna Projekt (auch für Schwangere)
@@ -47,14 +46,17 @@ Kurse und Veranstaltungen<br>
 ## Links
 <a class="external_link" href="https://www.vav-hhausen.de/Grashalm/grashalm-start.html">Website</a>
 
-## Wo
-<div id="gmap"></div>
-<script>window.onload = showMap('Ribnitzer Straße 1 b, 13051 Berlin', 0, 'gmap_mini')</script><br>
-im Nachbarschaftshaus des Ostseeviertels
+## Zielgruppe
+die ganze Familie ist willkommen :)
 
 ## Kontakt
 [grashalm-familienzentrum@vav-hhausen.de](mailto:grashalm-familienzentrum@vav-hhausen.de)<br>
 <a href="tel:+493096277129 2">030 9627 7129 </a>
+
+## Wo
+<div id="gmap"></div>
+<script>window.onload = showMap('Ribnitzer Straße 1 b, 13051 Berlin', 0, 'gmap_mini')</script><br>
+im Nachbarschaftshaus des Ostseeviertels
 
 ## Eindrücke
 <div class="mediacontainer">
