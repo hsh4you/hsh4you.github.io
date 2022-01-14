@@ -1,6 +1,6 @@
 ## Familienzentren
 
-- [Elterntreff Piazza](Piazza.md) 
+- [Elterntreff "Treffpunkt"](Piazza.md) 
 - [Familienzentrum Grashalm](Grashalm.md)
 - [Familienzentrum Matenzeile](Matenzeile.md) 
 - [Familienzentrum Pusteblume](Pusteblume.md) 
