@@ -42,6 +42,7 @@ die ganze Familie ist willkommen :)
 <script>window.onload = showMap('Anna-Ebermann-Str. 25, 13053 Berlin', 0, 'gmap_mini')</script><br>
 im Gebäude der Kita Abenteuerland
 
+<!--
 ## Eindrücke
 <div class="mediacontainer">
     <img src="/Familienzentren/images/Piazza/1.jpg" />
@@ -49,3 +50,4 @@ im Gebäude der Kita Abenteuerland
     <img src="/Familienzentren/images/Piazza/3.jpg" />
     <img src="/Familienzentren/images/Piazza/4.jpg" />
 </div>
+-->
