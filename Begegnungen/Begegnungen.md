@@ -19,7 +19,7 @@
   <label class="youthclub" onclick="javascript:window.open('/Begegnungen/Kieztreff.html', '_self')">
     <img src="/Begegnungen/Images/Kieztreff/logo.jpg"><br><span class="notranslate">Kieztreff<br>Lebensnetz</span>
   </label>
-  <label class="youthclub" onclick="javascript:window.open('/Begegnungen/(WieckerStr.html', '_self')">
+  <label class="youthclub" onclick="javascript:window.open('/Begegnungen/WieckerStr.html', '_self')">
     <img src="/Begegnungen/Images/WieckerStr/5.jpg"><br><span class="notranslate">Nachbarschaftsgarten<br>Wiecker Str.</span>
   </label>
    <label class="youthclub" onclick="javascript:window.open('OCB_Integration.md', '_self')">
