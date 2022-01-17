@@ -3,8 +3,8 @@
 Übersicht aller Jugendklubs in Hohenschönhausen<br>
 hier klicken für: <a href="openstreetmap.html"># interaktive Kartenansicht #</a>
 
-  <label class="youthclub" onclick="javascript:window.open('BENN_HSH.html', '_self')">
-    <img src="/Begegnungen/Images/BENN/logo.jpg"><br><span class="notranslate">BENN Hsh Nord - Auf gute Nachbarschaft</span>
+  <label class="youthclub" onclick="javascript:window.open('Arche.md', '_self')">
+    <img src="images/Logos/arche.jpg"><br><span class="notranslate">Die Arche</span>
   </label>  
   <label class="youthclub" onclick="javascript:window.open('ASP_Fort_Robinson.html', '_self')">
     <img src="images/Logos/ASP_Fort_Robinson.jpg"><br><span class="notranslate">ASP Fort Robinson</span>
