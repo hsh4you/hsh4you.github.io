@@ -18,7 +18,7 @@
   <label class="youthclub" onclick="javascript:window.open('Beratung_Eltern/Opstapje.html', '_self')">
     <img src="/Beratung/Beratung_Eltern/images/Opstapje1.jpg"><br><span class="notranslate">Opstapje</span>
   </label>
-  <label class="youthclub" onclick="javascript:window.open('Beratung_Eltern/Beratung_Eltern/NetzwerkAE.html', '_self')">
+  <label class="youthclub" onclick="javascript:window.open('Beratung_Eltern/NetzwerkAE.html', '_self')">
     <img src="/Beratung/Beratung_Eltern/images/Logo_Netzwerk-Alleinerziehende.jpg"><br><span class="notranslate">Netzwerk<br>Alleinerziehende</span>
   </label>
   
