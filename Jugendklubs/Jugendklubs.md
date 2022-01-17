@@ -5,7 +5,7 @@ hier klicken für: <a href="openstreetmap.html"># interaktive Kartenansicht #</a
 
   <label class="youthclub" onclick="javascript:window.open('Arche.md', '_self')">
     <img src="images/Logos/Arche.jpg"><br><span class="notranslate">Die Arche</span>
-  </label>  
+  </label>
   <label class="youthclub" onclick="javascript:window.open('ASP_Fort_Robinson.html', '_self')">
     <img src="images/Logos/ASP_Fort_Robinson.jpg"><br><span class="notranslate">ASP Fort Robinson</span>
   </label>
