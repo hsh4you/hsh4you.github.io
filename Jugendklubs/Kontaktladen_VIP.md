@@ -1,9 +1,11 @@
 ## Kontaktladen VIP
 <img id="topmedia" src="images/Logos/kontaktladen_vip.png" />
 
+<!--
 ## Wochenplan
 <div id='calendar' class="weeklyschedule"></div>
 <script>window.onload = loadWeeklySchedule(GCAL_ID_KONTAKTLADEN_VIP)</script>
+-->
 
 ## Offen
 Montag - Freitag<br>
