@@ -1,9 +1,11 @@
 ## Ausblick
 <img id="topmedia" src="images/Logos/Ausblick.jpg" />
 
+<!--
 ## Wochenplan
 <div id='calendar' class="weeklyschedule"></div>
 <script>window.onload = loadWeeklySchedule(GCAL_ID_AUSBLICK)</script>
+-->
 
 ## Offen
 Mo-Fr 13-19 Uhr
