@@ -1,5 +1,8 @@
 ## KJHV/KJSH-Stiftung
-
+<div class="mediacontainer">
+ <img id="topmedia" src="/Beratung/Beratung_Eltern/images/kjhv.jpg" />
+</div>
+ 
 ## Offen
 Elternberatung nach Vereinbarung<br>
 Eltern-Kind-Gruppe im FZ Grashalm: Mo 10–12 Uhr<br>
