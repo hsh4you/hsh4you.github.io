@@ -14,7 +14,7 @@
     <img src="/Begegnungen/Images/HVWgarten/logo.jpg"><br><span class="notranslate">Gemeinschaftsgarten<br>Falkenberg</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open(/Begegnungen/GutePol.html', '_self')">
-    <img src="/Begegnungen/Images/GutePol/GPlogo.png"><br><span class="notranslate">Gute Pol<br>- Stadtteilkoordination</span>
+    <img src="/Begegnungen/Images/GutePol/GPlogo.png"><br><span class="notranslate">Gute Pol<br>Stadtteilkoordination</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open(/Begegnungen/Kieztreff.html', '_self')">
     <img src="/Begegnungen/Images/Kieztreff/logo.jpg"><br><span class="notranslate">Kieztreff<br>Lebensnetz</span>
