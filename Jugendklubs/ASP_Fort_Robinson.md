@@ -1,9 +1,11 @@
 ## ASP Fort Robinson
 <img id="topmedia" src="images/Logos/ASP_Fort_Robinson.jpg" />
 
+<!--
 ## Wochenplan
 <div id='calendar' class="weeklyschedule"></div>
 <script>window.onload = loadWeeklySchedule(GCAL_ID_ASP_FORT_ROBINSON)</script>
+-->
 
 ## Offen
 Di-Fr 13-19 Uhr<br>
