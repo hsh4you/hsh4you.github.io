@@ -1,11 +1,11 @@
 ## Begegnungen
 
 
-  <label class="youthclub" onclick="javascript:window.open('Arche.html', '_self')">
-    <img src="images/Logos/Arche.jpg"><br><span class="notranslate">Die Arche</span>
+  <label class="youthclub" onclick="javascript:window.open('BENN_HSH.html', '_self')">
+    <img src="/Begegnungen/Images/BENN/logo.jpg"><br><span class="notranslate">BENN Hsh Nord - Auf gute Nachbarschaft</span>
   </label>
-  <label class="youthclub" onclick="javascript:window.open('ASP_Fort_Robinson.html', '_self')">
-    <img src="images/Logos/ASP_Fort_Robinson.jpg"><br><span class="notranslate">ASP Fort Robinson</span>
+  <label class="youthclub" onclick="javascript:window.open('/Begegnungen/Buergertreff.html', '_self')">
+    <img src="/Begegnungen/Images/Buergertreff/logo.png"><br><span class="notranslate">Bürgertreff - Gemeinsam im Kiez leben</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('Ausblick.html', '_self')">
     <img src="images/Logos/Ausblick.jpg"><br><span class="notranslate">Ausblick</span>
