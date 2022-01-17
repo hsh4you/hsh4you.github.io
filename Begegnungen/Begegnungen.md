@@ -22,10 +22,10 @@
   <label class="youthclub" onclick="javascript:window.open('/Begegnungen/WieckerStr.html', '_self')">
     <img src="/Begegnungen/Images/WieckerStr/5.jpg"><br><span class="notranslate">Nachbarschaftsgarten<br>Wiecker Str.</span>
   </label>
-   <label class="youthclub" onclick="javascript:window.open('OCB_Integration.md', '_self')">
+   <label class="youthclub" onclick="javascript:window.open('OCB_Integration.html', '_self')">
     <img src="/Jugendklubs/images/Logos/offener_club_berlin.png"><br><span class="notranslate">OCB<br>Integrationsarbeit</span>
   </label>
-  <label class="youthclub" onclick="javascript:window.open('Oskar.md', '_self')">
+  <label class="youthclub" onclick="javascript:window.open('Oskar.html', '_self')">
     <img src="/Begegnungen/Images/Oskar/logo.jpg"><br><span class="notranslate">Oskar<br>Freiwilligenagentur</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('SchuleFrieden.html', '_self')">
