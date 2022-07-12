@@ -96,3 +96,5 @@ id: index
     formatLists();
   });
 </script>
+
+<img src="images/startpage/Kino4All Poster 2022.jpg">
