@@ -3,7 +3,6 @@
     youthclubnames[GCAL_ID_ASP_FORT_ROBINSON] = 'ASP Fort Robinson';
     youthclubnames[GCAL_ID_AUSBLICK] = 'Ausblick';
     youthclubnames[GCAL_ID_FULL_HOUSE] = 'Full House';
-    youthclubnames[GCAL_ID_JUMP] = 'JuMP';
     youthclubnames[GCAL_ID_KONTAKTLADEN_VIP] = 'Kontaktladen VIP';
     youthclubnames[GCAL_ID_LEOS_HUETTE] = 'Leos Hütte';
     youthclubnames[GCAL_ID_MIKADO] = 'Mikado';
