@@ -21,9 +21,6 @@ hier klicken für: <a href="openstreetmap.html"># interaktive Kartenansicht #</a
   <label class="youthclub" onclick="javascript:window.open('Holzwurmhaus.html', '_self')">
     <img src="images/Logos/holzwurmhaus.png"><br><span class="notranslate">Holzwurmhaus</span>
   </label>
-  <label class="youthclub" onclick="javascript:window.open('JUMP.html', '_self')">
-    <img src="images/Logos/JUMP.jpg"><br><span class="notranslate">JUMP</span>
-  </label>
   <label class="youthclub" onclick="javascript:window.open('Kinderclub_Kietzoase.html', '_self')">
     <img src="images/Logos/kietzoase.jpg"><br><span class="notranslate">Kietzoase</span>
   </label>
