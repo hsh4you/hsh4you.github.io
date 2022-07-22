@@ -98,3 +98,7 @@ id: index
 </script>
 
 <img src="images/startpage/Kino4All Poster 2022.jpg">
+<img src="images/startpage/alaska.jpg">
+<img src="images/startpage/alaska back.jpg">
+<img src="images/startpage/Soulfood.jpg">
+<img src="images/startpage/soulfood back.jpg">
