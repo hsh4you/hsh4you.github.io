@@ -29,7 +29,7 @@ Begleitete Elternschaft & Kleiderbörse:<br>
 Zingster Str.6, 13051 Berlin
 
 ## Kontakt
-Geschäftsstelle für Lichtenberg
+Geschäftsstelle
 [info@comes-berlin.de](mailto:info@comes-berlin.de)<br>
 <a href="tel:+49308560660">030 8560 660</a><br>
 
