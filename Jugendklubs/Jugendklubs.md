@@ -27,9 +27,11 @@ hier klicken für: <a href="openstreetmap.html"># interaktive Kartenansicht #</a
   <label class="youthclub" onclick="javascript:window.open('Kontaktladen_VIP.html', '_self')">
     <img src="images/Logos/kontaktladen_vip.png"><br><span class="notranslate">Kontaktladen VIP</span>
   </label>
+  <!--
   <label class="youthclub" onclick="javascript:window.open('Leos_Huette.html', '_self')">
     <img src="images/Logos/Leos_Huette.jpg"><br><span class="notranslate">Leos Hütte</span>
   </label>
+  -->
   <label class="youthclub" onclick="javascript:window.open('Mikado.html', '_self')">
     <img src="images/Logos/Mikado.jpg"><br><span class="notranslate">Mikado</span>
   </label>
