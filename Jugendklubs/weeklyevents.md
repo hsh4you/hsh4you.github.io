@@ -51,7 +51,7 @@
                 , GCAL_ID_FULL_HOUSE
                 , GCAL_ID_JUMP
                 , GCAL_ID_KONTAKTLADEN_VIP
-                , GCAL_ID_LEOS_HUETTE
+                <!--, GCAL_ID_LEOS_HUETTE-->
                 , GCAL_ID_MIKADO
                 , GCAL_ID_OCB
                 , GCAL_ID_PIA_OLYMP
