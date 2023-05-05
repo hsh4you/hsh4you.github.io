@@ -4,7 +4,7 @@
     youthclubnames[GCAL_ID_AUSBLICK] = 'Ausblick';
     youthclubnames[GCAL_ID_FULL_HOUSE] = 'Full House';
     youthclubnames[GCAL_ID_KONTAKTLADEN_VIP] = 'Kontaktladen VIP';
-    youthclubnames[GCAL_ID_LEOS_HUETTE] = 'Leos Hütte';
+    <!--youthclubnames[GCAL_ID_LEOS_HUETTE] = 'Leos Hütte';-->
     youthclubnames[GCAL_ID_MIKADO] = 'Mikado';
     youthclubnames[GCAL_ID_OCB] = 'OCB';
     youthclubnames[GCAL_ID_PIA_OLYMP] = 'Pia Olymp';
@@ -18,7 +18,7 @@
     youthclublinks[GCAL_ID_FULL_HOUSE] = 'jfe_fullhouse';
     youthclublinks[GCAL_ID_JUMP] = 'JUMP';
     youthclublinks[GCAL_ID_KONTAKTLADEN_VIP] = 'Kontaktladen_VIP';
-    youthclublinks[GCAL_ID_LEOS_HUETTE] = 'Leos_Huette';
+    <!--youthclublinks[GCAL_ID_LEOS_HUETTE] = 'Leos_Huette';-->
     youthclublinks[GCAL_ID_MIKADO] = 'Mikado';
     youthclublinks[GCAL_ID_OCB] = 'OCB';
     youthclublinks[GCAL_ID_PIA_OLYMP] = 'Pia_Olymp';
