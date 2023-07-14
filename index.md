@@ -97,7 +97,11 @@ id: index
   });
 </script>
 
-<img src="images/startpage/Kino4All Poster 2022.jpg">
-<img src="images/startpage/7Sommersprossen.jpg">
-<img src="images/startpage/WallE-1.JPG">
-<img src="images/startpage/WallE2.JPG">
+<img src="images/startpage/poster_kino für alle_2023WEB.jpg">
+<img src="images/startpage/postkarte_KFA_MeinFreunddasKrokodil.jpg">
+<img src="images/startpage/postkarte_KFA_MeinFreunddasKrokodil2.jpg">
+<img src="images/startpage/postkarte_KFA_KalleKosmonaut.jpg">
+<img src="images/startpage/postkarte_KFA_KalleKosmonaut2.jpg">
+<img src="images/startpage/postkarte_KFA_DieKinderderUtopie.jpg">
+<img src="images/startpage/postkarte_KFA_DieKinderderUtopie2.jpg">
+
