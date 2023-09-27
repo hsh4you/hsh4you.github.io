@@ -27,6 +27,13 @@
         max-width:1536px
     }
 }
+
+@media (max-width: 767px) {
+    .kiezkalender__list__event__image {
+        display:none;
+    }
+}
+
 .invisible{
     visibility:hidden
 }
