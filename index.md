@@ -98,10 +98,5 @@ id: index
 </script>
 
 <img src="images/startpage/poster_kino für alle_2023WEB.jpg">
-<img src="images/startpage/postkarte_KFA_MeinFreunddasKrokodil.jpg">
-<img src="images/startpage/postkarte_KFA_MeinFreunddasKrokodil2.jpg">
-<img src="images/startpage/postkarte_KFA_KalleKosmonaut.jpg">
-<img src="images/startpage/postkarte_KFA_KalleKosmonaut2.jpg">
-<img src="images/startpage/postkarte_KFA_DieKinderderUtopie.jpg">
-<img src="images/startpage/postkarte_KFA_DieKinderderUtopie2.jpg">
+
 
