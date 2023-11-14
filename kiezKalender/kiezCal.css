@@ -1,0 +1,907 @@
+/* ! tailwindcss v3.0.5 | MIT License | https://tailwindcss.com */
+.container{
+    width:100%
+}
+@media (min-width:640px){
+    .container{
+        max-width:640px
+    }
+}
+@media (min-width:768px){
+    .container{
+        max-width:768px
+    }
+}
+@media (min-width:1024px){
+    .container{
+        max-width:1024px
+    }
+}
+@media (min-width:1280px){
+    .container{
+        max-width:1280px
+    }
+}
+@media (min-width:1536px){
+    .container{
+        max-width:1536px
+    }
+}
+
+@media (max-width: 767px) {
+    .kiezkalender__list__event__image {
+        display:none;
+    }
+}
+
+.invisible{
+    visibility:hidden
+}
+.block{
+    display:block
+}
+.hidden{
+    display:none
+}
+.filter{
+    -webkit-filter:var(--tw-filter);
+    filter:var(--tw-filter)
+}
+.group:hover .group-hover\:-translate-x-1{
+    --tw-translate-x:-0.25rem;
+    -webkit-transform:var(--tw-transform);
+    transform:var(--tw-transform)
+}
+.group:hover .group-hover\:translate-x-1{
+    --tw-translate-x:0.25rem;
+    -webkit-transform:var(--tw-transform);
+    transform:var(--tw-transform)
+}
+.kiezkalender{
+    height:100%;
+    padding-left:1rem;
+    padding-right:1rem;
+    position:relative;
+    width:100%
+}
+@media (min-width:768px){
+    .kiezkalender{
+        margin-left:auto;
+        margin-right:auto;
+        max-width:1024px
+    }
+}
+.kiezkalender a:not(.btn):not(.dropdown-item):hover{
+    -webkit-text-decoration-line:underline;
+    text-decoration-line:underline
+}
+iframe{
+    min-width:100%;
+    width:1px
+}
+.hide-mobile{
+    display:none
+}
+@media (min-width:768px){
+    .hide-mobile{
+        display:inline-block
+    }
+}
+.btn{
+    border-radius:.25rem;
+    cursor:pointer;
+    display:inline-block;
+    transition-duration:.15s;
+    transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,-webkit-transform,-webkit-filter,-webkit-backdrop-filter;
+    transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;
+    transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-transform,-webkit-filter,-webkit-backdrop-filter;
+    transition-timing-function:cubic-bezier(.4,0,.2,1);
+    width:100%
+}
+.btn:hover{
+    --tw-bg-opacity:1;
+    background-color:rgb(75 85 99/var(--tw-bg-opacity))
+}
+@media (min-width:768px){
+    .btn{
+        --tw-bg-opacity:1;
+        --tw-text-opacity:1;
+        background-color:rgb(107 114 128/var(--tw-bg-opacity));
+        color:rgb(255 255 255/var(--tw-text-opacity));
+        display:flex;
+        padding-bottom:1rem;
+        padding-left:2rem;
+        padding-right:2rem;
+        padding-top:1rem;
+        width:auto
+    }
+}
+.btn-primary{
+    --tw-text-opacity:1;
+    color:rgb(107 114 128/var(--tw-text-opacity))
+}
+.btn-primary:hover{
+    --tw-bg-opacity:1;
+    background-color:rgb(75 85 99/var(--tw-bg-opacity))
+}
+@media (min-width:768px){
+    .btn-primary{
+        --tw-bg-opacity:1;
+        --tw-text-opacity:1;
+        background-color:rgb(107 114 128/var(--tw-bg-opacity));
+        color:rgb(255 255 255/var(--tw-text-opacity))
+    }
+}
+.btn-primary.disabled{
+    --tw-bg-opacity:1;
+    --tw-text-opacity:1;
+    background-color:rgb(255 255 255/var(--tw-bg-opacity));
+    color:rgb(209 213 219/var(--tw-text-opacity))
+}
+.btn-primary.disabled:focus{
+    outline:2px solid transparent;
+    outline-offset:2px
+}
+@media (min-width:768px){
+    .btn-primary.disabled{
+        --tw-border-opacity:1;
+        --tw-text-opacity:1;
+        border-color:rgb(107 114 128/var(--tw-border-opacity));
+        border-width:1px;
+        color:rgb(107 114 128/var(--tw-text-opacity))
+    }
+}
+.btn-arrow-right{
+    margin-left:.5rem
+}
+.btn-arrow-left,.btn-arrow-right{
+    -webkit-transform:var(--tw-transform);
+    transform:var(--tw-transform);
+    transition-duration:.15s;
+    transition-property:-webkit-transform;
+    transition-property:transform;
+    transition-property:transform,-webkit-transform;
+    transition-timing-function:cubic-bezier(.4,0,.2,1)
+}
+.btn-arrow-left{
+    margin-right:.5rem
+}
+.btn.disabled{
+    cursor:not-allowed
+}
+.btn.disabled .btn-arrow-left,.btn.disabled .btn-arrow-right{
+    -webkit-transform:none;
+    transform:none;
+    transition-property:none
+}
+.kiezkalender__detail-wrapper{
+    display:flex;
+    flex-direction:column
+}
+.kiezkalender__detail__back{
+    align-self:flex-start;
+    cursor:pointer;
+    font-size:.875rem;
+    line-height:1.25rem;
+    padding-top:1rem
+}
+.kiezkalender__detail__event{
+    display:flex;
+    flex-direction:column
+}
+.kiezkalender__detail__event>:not([hidden])~:not([hidden]){
+    --tw-divide-y-reverse:0;
+    --tw-divide-opacity:1;
+    border-bottom-width:calc(1px*var(--tw-divide-y-reverse));
+    border-color:rgb(156 163 175/var(--tw-divide-opacity));
+    border-top-width:calc(1px*(1 - var(--tw-divide-y-reverse)))
+}
+@media (min-width:768px){
+    .kiezkalender__detail__event{
+        flex-direction:row
+    }
+    .kiezkalender__detail__event>:not([hidden])~:not([hidden]){
+        --tw-space-x-reverse:0;
+        --tw-divide-y-reverse:0;
+        border-bottom-width:calc(0px*var(--tw-divide-y-reverse));
+        border-top-width:calc(0px*(1 - var(--tw-divide-y-reverse)));
+        margin-left:calc(2rem*(1 - var(--tw-space-x-reverse)));
+        margin-right:calc(2rem*var(--tw-space-x-reverse))
+    }
+}
+.kiezkalender__detail__event__column-left{
+    padding-bottom:1.5rem;
+    padding-top:1.5rem
+}
+@media (min-width:768px){
+    .kiezkalender__detail__event__column-left{
+        padding-bottom:0;
+        width:50%
+    }
+}
+.kiezkalender__detail__event__column-left>div:first-child:not(.kiezkalender__detail__event__image){
+    margin-top:0
+}
+.kiezkalender__detail__event__column-right{
+    font-size:.875rem;
+    line-height:1.25rem;
+    padding-bottom:1.5rem;
+    padding-top:1.5rem
+}
+@media (min-width:768px){
+    .kiezkalender__detail__event__column-right{
+        --tw-shadow:0 1px 3px 0 rgb(0 0 0/0.1),0 1px 2px -1px rgb(0 0 0/0.1);
+        --tw-shadow-colored:0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color);
+        align-self:flex-start;
+        border-radius:.25rem;
+        box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+        margin-top:1.5rem;
+        padding:1rem;
+        width:50%
+    }
+}
+.kiezkalender__detail__event__date{
+    --tw-text-opacity:1;
+    color:rgb(156 163 175/var(--tw-text-opacity));
+    font-size:.875rem;
+    line-height:1.25rem;
+    margin-bottom:-.25rem;
+    margin-top:1rem;
+    text-transform:uppercase
+}
+.kiezkalender__detail__event__title{
+    font-size:1.875rem;
+    font-weight:700;
+    line-height:1.375;
+    margin-bottom:1rem
+}
+@media (min-width:768px){
+    .kiezkalender__detail__event__title{
+        line-height:1.625
+    }
+}
+.kiezkalender__detail__event__description{
+    color:var(--tw-prose-body);
+    max-width:65ch
+}
+.kiezkalender__detail__event__description :where([class~=lead]):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-lead);
+    font-size:1.25em;
+    line-height:1.6;
+    margin-bottom:1.2em;
+    margin-top:1.2em
+}
+.kiezkalender__detail__event__description :where(a):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-links);
+    font-weight:500;
+    text-decoration:none
+}
+.kiezkalender__detail__event__description :where(strong):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-bold);
+    font-weight:600
+}
+.kiezkalender__detail__event__description :where(ol):not(:where([class~=not-prose] *)){
+    list-style-type:decimal;
+    padding-left:1.625em
+}
+.kiezkalender__detail__event__description :where(ol[type=A]):not(:where([class~=not-prose] *)){
+    list-style-type:upper-alpha
+}
+.kiezkalender__detail__event__description :where(ol[type=a]):not(:where([class~=not-prose] *)){
+    list-style-type:lower-alpha
+}
+.kiezkalender__detail__event__description :where(ol[type=A s]):not(:where([class~=not-prose] *)){
+    list-style-type:upper-alpha
+}
+.kiezkalender__detail__event__description :where(ol[type=a s]):not(:where([class~=not-prose] *)){
+    list-style-type:lower-alpha
+}
+.kiezkalender__detail__event__description :where(ol[type=I]):not(:where([class~=not-prose] *)){
+    list-style-type:upper-roman
+}
+.kiezkalender__detail__event__description :where(ol[type=i]):not(:where([class~=not-prose] *)){
+    list-style-type:lower-roman
+}
+.kiezkalender__detail__event__description :where(ol[type=I s]):not(:where([class~=not-prose] *)){
+    list-style-type:upper-roman
+}
+.kiezkalender__detail__event__description :where(ol[type=i s]):not(:where([class~=not-prose] *)){
+    list-style-type:lower-roman
+}
+.kiezkalender__detail__event__description :where(ol[type="1"]):not(:where([class~=not-prose] *)){
+    list-style-type:decimal
+}
+.kiezkalender__detail__event__description :where(ul):not(:where([class~=not-prose] *)){
+    list-style-type:disc;
+    padding-left:1.625em
+}
+.kiezkalender__detail__event__description :where(ol>li):not(:where([class~=not-prose] *))::marker{
+    color:var(--tw-prose-counters);
+    font-weight:400
+}
+.kiezkalender__detail__event__description :where(ul>li):not(:where([class~=not-prose] *))::marker{
+    color:var(--tw-prose-bullets)
+}
+.kiezkalender__detail__event__description :where(hr):not(:where([class~=not-prose] *)){
+    border-color:var(--tw-prose-hr);
+    border-top-width:1px;
+    margin-bottom:3em;
+    margin-top:3em
+}
+.kiezkalender__detail__event__description :where(blockquote):not(:where([class~=not-prose] *)){
+    border-left-color:var(--tw-prose-quote-borders);
+    border-left-width:.25rem;
+    color:var(--tw-prose-quotes);
+    font-style:italic;
+    font-weight:500;
+    margin-bottom:1.6em;
+    margin-top:1.6em;
+    padding-left:1em;
+    quotes:"\201C""\201D""\2018""\2019"
+}
+.kiezkalender__detail__event__description :where(blockquote p:first-of-type):not(:where([class~=not-prose] *)):before{
+    content:open-quote
+}
+.kiezkalender__detail__event__description :where(blockquote p:last-of-type):not(:where([class~=not-prose] *)):after{
+    content:close-quote
+}
+.kiezkalender__detail__event__description :where(h1):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-headings);
+    font-size:2.25em;
+    font-weight:800;
+    line-height:1.1111111;
+    margin-bottom:.8888889em;
+    margin-top:0
+}
+.kiezkalender__detail__event__description :where(h1 strong):not(:where([class~=not-prose] *)){
+    font-weight:900
+}
+.kiezkalender__detail__event__description :where(h2):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-headings);
+    font-size:1.5em;
+    font-weight:700;
+    line-height:1.3333333;
+    margin-bottom:1em;
+    margin-top:2em
+}
+.kiezkalender__detail__event__description :where(h2 strong):not(:where([class~=not-prose] *)){
+    font-weight:800
+}
+.kiezkalender__detail__event__description :where(h3):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-headings);
+    font-size:1.25em;
+    font-weight:600;
+    line-height:1.6;
+    margin-bottom:.6em;
+    margin-top:1.6em
+}
+.kiezkalender__detail__event__description :where(h3 strong):not(:where([class~=not-prose] *)){
+    font-weight:700
+}
+.kiezkalender__detail__event__description :where(h4):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-headings);
+    font-weight:600;
+    line-height:1.5;
+    margin-bottom:.5em;
+    margin-top:1.5em
+}
+.kiezkalender__detail__event__description :where(h4 strong):not(:where([class~=not-prose] *)){
+    font-weight:700
+}
+.kiezkalender__detail__event__description :where(figure>*):not(:where([class~=not-prose] *)){
+    margin-bottom:0;
+    margin-top:0
+}
+.kiezkalender__detail__event__description :where(figcaption):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-captions);
+    font-size:.875em;
+    line-height:1.4285714;
+    margin-top:.8571429em
+}
+.kiezkalender__detail__event__description :where(code):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-code);
+    font-size:.875em;
+    font-weight:600
+}
+.kiezkalender__detail__event__description :where(code):not(:where([class~=not-prose] *)):before{
+    content:"`"
+}
+.kiezkalender__detail__event__description :where(code):not(:where([class~=not-prose] *)):after{
+    content:"`"
+}
+.kiezkalender__detail__event__description :where(a code):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-links)
+}
+.kiezkalender__detail__event__description :where(pre):not(:where([class~=not-prose] *)){
+    background-color:var(--tw-prose-pre-bg);
+    border-radius:.375rem;
+    color:var(--tw-prose-pre-code);
+    font-size:.875em;
+    font-weight:400;
+    line-height:1.7142857;
+    margin-bottom:1.7142857em;
+    margin-top:1.7142857em;
+    overflow-x:auto;
+    padding:.8571429em 1.1428571em
+}
+.kiezkalender__detail__event__description :where(pre code):not(:where([class~=not-prose] *)){
+    background-color:transparent;
+    border-radius:0;
+    border-width:0;
+    color:inherit;
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    line-height:inherit;
+    padding:0
+}
+.kiezkalender__detail__event__description :where(pre code):not(:where([class~=not-prose] *)):before{
+    content:none
+}
+.kiezkalender__detail__event__description :where(pre code):not(:where([class~=not-prose] *)):after{
+    content:none
+}
+.kiezkalender__detail__event__description :where(table):not(:where([class~=not-prose] *)){
+    font-size:.875em;
+    line-height:1.7142857;
+    margin-bottom:2em;
+    margin-top:2em;
+    table-layout:auto;
+    text-align:left;
+    width:100%
+}
+.kiezkalender__detail__event__description :where(thead):not(:where([class~=not-prose] *)){
+    border-bottom-color:var(--tw-prose-th-borders);
+    border-bottom-width:1px
+}
+.kiezkalender__detail__event__description :where(thead th):not(:where([class~=not-prose] *)){
+    color:var(--tw-prose-headings);
+    font-weight:600;
+    padding-bottom:.5714286em;
+    padding-left:.5714286em;
+    padding-right:.5714286em;
+    vertical-align:bottom
+}
+.kiezkalender__detail__event__description :where(tbody tr):not(:where([class~=not-prose] *)){
+    border-bottom-color:var(--tw-prose-td-borders);
+    border-bottom-width:1px
+}
+.kiezkalender__detail__event__description :where(tbody tr:last-child):not(:where([class~=not-prose] *)){
+    border-bottom-width:0
+}
+.kiezkalender__detail__event__description :where(tbody td):not(:where([class~=not-prose] *)){
+    padding:.5714286em;
+    vertical-align:baseline
+}
+.kiezkalender__detail__event__description{
+    --tw-prose-body:#374151;
+    --tw-prose-headings:#111827;
+    --tw-prose-lead:#4b5563;
+    --tw-prose-links:#111827;
+    --tw-prose-bold:#111827;
+    --tw-prose-counters:#6b7280;
+    --tw-prose-bullets:#d1d5db;
+    --tw-prose-hr:#e5e7eb;
+    --tw-prose-quotes:#111827;
+    --tw-prose-quote-borders:#e5e7eb;
+    --tw-prose-captions:#6b7280;
+    --tw-prose-code:#111827;
+    --tw-prose-pre-code:#e5e7eb;
+    --tw-prose-pre-bg:#1f2937;
+    --tw-prose-th-borders:#d1d5db;
+    --tw-prose-td-borders:#e5e7eb;
+    --tw-prose-invert-body:#d1d5db;
+    --tw-prose-invert-headings:#fff;
+    --tw-prose-invert-lead:#9ca3af;
+    --tw-prose-invert-links:#fff;
+    --tw-prose-invert-bold:#fff;
+    --tw-prose-invert-counters:#9ca3af;
+    --tw-prose-invert-bullets:#4b5563;
+    --tw-prose-invert-hr:#374151;
+    --tw-prose-invert-quotes:#f3f4f6;
+    --tw-prose-invert-quote-borders:#374151;
+    --tw-prose-invert-captions:#9ca3af;
+    --tw-prose-invert-code:#fff;
+    --tw-prose-invert-pre-code:#d1d5db;
+    --tw-prose-invert-pre-bg:rgb(0 0 0/50%);
+    --tw-prose-invert-th-borders:#4b5563;
+    --tw-prose-invert-td-borders:#374151;
+    font-size:1rem;
+    line-height:1.75
+}
+.kiezkalender__detail__event__description :where(p):not(:where([class~=not-prose] *)){
+    margin-bottom:1.25em;
+    margin-top:1.25em
+}
+.kiezkalender__detail__event__description :where(img):not(:where([class~=not-prose] *)){
+    margin-bottom:2em;
+    margin-top:2em
+}
+.kiezkalender__detail__event__description :where(video):not(:where([class~=not-prose] *)){
+    margin-bottom:2em;
+    margin-top:2em
+}
+.kiezkalender__detail__event__description :where(figure):not(:where([class~=not-prose] *)){
+    margin-bottom:2em;
+    margin-top:2em
+}
+.kiezkalender__detail__event__description :where(h2 code):not(:where([class~=not-prose] *)){
+    font-size:.875em
+}
+.kiezkalender__detail__event__description :where(h3 code):not(:where([class~=not-prose] *)){
+    font-size:.9em
+}
+.kiezkalender__detail__event__description :where(li):not(:where([class~=not-prose] *)){
+    margin-bottom:.5em;
+    margin-top:.5em
+}
+.kiezkalender__detail__event__description :where(ol>li):not(:where([class~=not-prose] *)){
+    padding-left:.375em
+}
+.kiezkalender__detail__event__description :where(ul>li):not(:where([class~=not-prose] *)){
+    padding-left:.375em
+}
+.kiezkalender__detail__event__description>:where(ul>li p):not(:where([class~=not-prose] *)){
+    margin-bottom:.75em;
+    margin-top:.75em
+}
+.kiezkalender__detail__event__description>:where(ul>li>:first-child):not(:where([class~=not-prose] *)){
+    margin-top:1.25em
+}
+.kiezkalender__detail__event__description>:where(ul>li>:last-child):not(:where([class~=not-prose] *)){
+    margin-bottom:1.25em
+}
+.kiezkalender__detail__event__description>:where(ol>li>:first-child):not(:where([class~=not-prose] *)){
+    margin-top:1.25em
+}
+.kiezkalender__detail__event__description>:where(ol>li>:last-child):not(:where([class~=not-prose] *)){
+    margin-bottom:1.25em
+}
+.kiezkalender__detail__event__description :where(ul ul,ul ol,ol ul,ol ol):not(:where([class~=not-prose] *)){
+    margin-bottom:.75em;
+    margin-top:.75em
+}
+.kiezkalender__detail__event__description :where(hr+*):not(:where([class~=not-prose] *)){
+    margin-top:0
+}
+.kiezkalender__detail__event__description :where(h2+*):not(:where([class~=not-prose] *)){
+    margin-top:0
+}
+.kiezkalender__detail__event__description :where(h3+*):not(:where([class~=not-prose] *)){
+    margin-top:0
+}
+.kiezkalender__detail__event__description :where(h4+*):not(:where([class~=not-prose] *)){
+    margin-top:0
+}
+.kiezkalender__detail__event__description :where(thead th:first-child):not(:where([class~=not-prose] *)){
+    padding-left:0
+}
+.kiezkalender__detail__event__description :where(thead th:last-child):not(:where([class~=not-prose] *)){
+    padding-right:0
+}
+.kiezkalender__detail__event__description :where(tbody td:first-child):not(:where([class~=not-prose] *)){
+    padding-left:0
+}
+.kiezkalender__detail__event__description :where(tbody td:last-child):not(:where([class~=not-prose] *)){
+    padding-right:0
+}
+.kiezkalender__detail__event__description>:where(:first-child):not(:where([class~=not-prose] *)){
+    margin-top:0
+}
+.kiezkalender__detail__event__description>:where(:last-child):not(:where([class~=not-prose] *)){
+    margin-bottom:0
+}
+.kiezkalender__detail__event__info>:not([hidden])~:not([hidden]){
+    --tw-space-y-reverse:0;
+    margin-bottom:calc(1rem*var(--tw-space-y-reverse));
+    margin-top:calc(1rem*(1 - var(--tw-space-y-reverse)))
+}
+.kiezkalender__detail__event__info h2{
+    --tw-text-opacity:1;
+    color:rgb(107 114 128/var(--tw-text-opacity));
+    font-size:1.125rem;
+    font-weight:700;
+    line-height:1.75rem;
+    padding-bottom:0;
+    text-transform:uppercase
+}
+@media (min-width:768px){
+    .kiezkalender__detail__event__info h2{
+        padding-bottom:.5rem;
+        padding-left:.5rem;
+        padding-right:.5rem
+    }
+}
+.kiezkalender__detail__event__info__wrapper>:not([hidden])~:not([hidden]){
+    --tw-space-y-reverse:0;
+    margin-bottom:calc(.5rem*var(--tw-space-y-reverse));
+    margin-top:calc(.5rem*(1 - var(--tw-space-y-reverse)))
+}
+.kiezkalender__detail__event__info__item{
+    display:flex;
+    flex-direction:column
+}
+@media (min-width:768px){
+    .kiezkalender__detail__event__info__item{
+        padding-left:.5rem
+    }
+}
+.kiezkalender__detail__event__info__item-label{
+    font-weight:600
+}
+.kiezkalender__filter-bar-wrapper{
+    display:grid;
+    gap:2rem;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    padding:1.5rem
+}
+.kiezkalender__filter-bar__dropdown{
+    position:relative
+}
+.kiezkalender__filter-bar__dropdown .filter-reset{
+    cursor:pointer;
+    font-size:.875rem;
+    font-weight:600;
+    line-height:1.25rem;
+    margin-bottom:.25rem
+}
+.kiezkalender__filter-bar__dropdown .dropdown-toggle{
+    --tw-border-opacity:1;
+    --tw-bg-opacity:1;
+    --tw-text-opacity:1;
+    --tw-shadow:0 1px 2px 0 rgb(0 0 0/0.05);
+    --tw-shadow-colored:0 1px 2px 0 var(--tw-shadow-color);
+    align-items:center;
+    background-color:rgb(255 255 255/var(--tw-bg-opacity));
+    border-color:rgb(209 213 219/var(--tw-border-opacity));
+    border-radius:.375rem;
+    border-width:1px;
+    box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+    color:rgb(55 65 81/var(--tw-text-opacity));
+    cursor:pointer;
+    display:inline-flex;
+    font-size:1rem;
+    font-weight:500;
+    justify-content:center;
+    line-height:1.5rem;
+    padding:.75rem 1rem;
+    position:relative;
+    width:100%;  
+}
+.kiezkalender__filter-bar__dropdown .dropdown-toggle:hover{
+    --tw-bg-opacity:1;
+    background-color:rgb(249 250 251/var(--tw-bg-opacity))
+}
+
+@media (max-width:767px) {
+    .kiezkalender__filter-bar-wrapper{
+        display:none;
+    }
+
+    .kiezkalender__list__event__column-left{
+        display:none;
+    }
+}
+
+.kiezkalender__filter-bar__dropdown .dropdown-toggle.active{
+    --tw-bg-opacity:1;
+    background-color:rgb(229 231 235/var(--tw-bg-opacity))
+}
+.kiezkalender__filter-bar__dropdown .dropdown-menu{
+    --tw-border-opacity:1;
+    --tw-bg-opacity:1;
+    background-color:rgb(255 255 255/var(--tw-bg-opacity));
+    border-color:rgb(209 213 219/var(--tw-border-opacity));
+    border-radius:.375rem;
+    border-width:1px;
+    cursor:pointer;
+    display:none;
+    float:left;
+    height:auto;
+    margin-top:.5rem;
+    max-height:18rem;
+    min-width:100%;
+    overflow-x:hidden;
+    padding-bottom:1rem;
+    padding-top:1rem;
+    position:absolute;
+    z-index:10
+}
+.kiezkalender__filter-bar__dropdown .dropdown-menu.show{
+    display:block
+}
+.kiezkalender__filter-bar__dropdown .dropdown-item{
+    background-color:transparent;
+    border-width:0;
+    clear:both;
+    display:block;
+    font-size:1rem;
+    line-height:1.5rem;
+    padding:.5rem 1rem;
+    -webkit-text-decoration-line:none;
+    text-decoration-line:none;
+    white-space:nowrap;
+    width:100%
+}
+.kiezkalender__filter-bar__dropdown .dropdown-item:hover{
+    --tw-bg-opacity:1;
+    background-color:rgb(249 250 251/var(--tw-bg-opacity))
+}
+.kiezkalender__list>:not([hidden])~:not([hidden]){
+    --tw-space-y-reverse:0;
+    margin-bottom:calc(2rem*var(--tw-space-y-reverse));
+    margin-top:calc(2rem*(1 - var(--tw-space-y-reverse)))
+}
+.kiezkalender__list__event{
+    display:flex
+}
+@media (min-width:768px){
+    .kiezkalender__list__event__column-left{
+        padding-left:1.5rem;
+        padding-right:1.5rem
+    }
+}
+.kiezkalender__list__event__column-right{
+    display:flex;
+    flex-direction:column-reverse;
+    width:100%
+}
+.kiezkalender__list__event__column-right>:not([hidden])~:not([hidden]){
+    --tw-space-y-reverse:0;
+    margin-bottom:calc(.25rem*var(--tw-space-y-reverse));
+    margin-top:calc(.25rem*(1 - var(--tw-space-y-reverse)))
+}
+@media (min-width:768px){
+    .kiezkalender__list__event__column-right{
+        flex-direction:row
+    }
+    .kiezkalender__list__event__column-right>:not([hidden])~:not([hidden]){
+        --tw-space-x-reverse:0;
+        margin-left:calc(1.5rem*(1 - var(--tw-space-x-reverse)));
+        margin-right:calc(1.5rem*var(--tw-space-x-reverse))
+    }
+    .kiezkalender__list__event__column-right{
+        padding-left:1.5rem;
+        padding-right:1.5rem
+    }
+}
+.kiezkalender__list__event__title{
+    cursor:pointer;
+    font-size:1.125rem;
+    font-weight:600;
+    line-height:1.625;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.kiezkalender__list__event__title-link {
+    color: #00cc00;
+
+}
+.kiezkalender__list__event__title:hover{
+    -webkit-text-decoration-line:underline;
+    text-decoration-line:underline
+}
+@media (min-width:768px){
+    .kiezkalender__list__event__title{
+        font-size:1.25rem;
+        line-height:1.75rem
+    }
+}
+.kiezkalender__list__event__date{
+    font-size:.875rem;
+    line-height:1.25rem
+}
+@media (min-width:768px){
+    .kiezkalender__list__event__date{
+        font-size:1rem;
+        line-height:1.5rem
+    }
+}
+.kiezkalender__list__event__description{
+    display:none
+}
+@media (min-width:768px){
+    .kiezkalender__list__event__description{
+        -webkit-box-orient:vertical;
+        -webkit-line-clamp:3;
+        display:inline-block;
+        display:-webkit-box;
+        line-height:1.625;
+        max-width:100ch;
+        overflow:hidden
+    }
+}
+.kiezkalender__list__event__day{
+    display:flex;
+    flex-direction:column;
+    height:100%;
+    padding-right:1.5rem;
+    text-align:center
+}
+@media (min-width:768px){
+    .kiezkalender__list__event__day{
+        min-width:5rem;
+        padding-right:0
+    }
+}
+.kiezkalender__list__event__day-weekday{
+    --tw-text-opacity:1;
+    color:rgb(107 114 128/var(--tw-text-opacity));
+    font-size:.75rem;
+    line-height:2;
+    text-transform:uppercase
+}
+.kiezkalender__list__event__day-daynum{
+    font-size:1.125rem;
+    font-weight:800;
+    line-height:1.75rem
+}
+@media (min-width:768px){
+    .kiezkalender__list__event__day-daynum{
+        font-size:1.5rem;
+        line-height:2rem
+    }
+    .kiezkalender__list__event__text{
+        width:66.666667%
+    }
+}
+.kiezkalender__list__event__text:only-child{
+    width:100%
+}
+@media (min-width:768px){
+    .kiezkalender__list__event__image{
+        width:33.333333%
+    }
+}
+.kiezkalender__list__event__image img{
+    max-height:10rem
+}
+.kiezkalender__list__nav{
+    display:flex;
+    justify-content:space-between
+}
+@media (min-width:768px){
+    .kiezkalender__list__nav{
+        padding-left:1.5rem;
+        padding-right:1.5rem
+    }
+}
+.kiezkalender__list__nav-next{
+    text-align:right
+}
+.kiezkalender__list__no-results{
+    text-align:center
+}
+.kiezkalender__list__no-results h1{
+    font-size:1.25rem;
+    font-weight:600;
+    line-height:1.75rem
+}
+.kiezkalender__loading{
+    height:4rem;
+    margin-bottom:2rem;
+    margin-top:2rem;
+    position:absolute;
+    width:4rem
+}
+@-webkit-keyframes spin{
+    to{
+        -webkit-transform:rotate(1turn);
+        transform:rotate(1turn)
+    }
+}
+@keyframes spin{
+    to{
+        -webkit-transform:rotate(1turn);
+        transform:rotate(1turn)
+    }
+}
+.kiezkalender__loading{
+    --tw-border-opacity:1;
+    -webkit-animation:spin 1s linear infinite;
+    animation:spin 1s linear infinite;
+    border:4px solid rgb(75 85 99/var(--tw-border-opacity));
+    border-radius:9999px;
+    border-top:4px solid transparent;
+    left:calc(50% - 2rem)
+}

@@ -20,11 +20,10 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/additional.css?v=' | append: site.github.build_revision | relative_url }}">
     
-    <!-- source: https://fonts.google.com/?query=Ubuntu&selection.family=Ubuntu|Ubuntu+Mono  //-->
-    <link href="https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Mono" rel="stylesheet"> 
-    
-    <link rel="stylesheet" href="{{ '/calendar/fullcalendar.min.css?v=' | append: site.github.build_revision | relative_url }}">
-    
+    <!-- Kiez Kalender Stylesheet-->
+    <link rel="stylesheet" href="../kiezKalender/kiezCal.css">
+    <!-- <link rel="stylesheet" href="https://kiezkalender-lichtenberg.de/lib/1.0.0/kiezkalender.min.css" /> -->
+
     <!-- https://www.w3schools.com/icons/fontawesome_icons_intro.asp //-->    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -120,7 +119,7 @@
     <div style="position: relative">
         <div id="header-menu" class="">
           <a class="header-menu-item startpage-link" href="/{{ site.github.repository_name }}">Startseite</a>
-          <a class="header-menu-item calendar-link" href="/calendar/calendar.html">Veranstaltungen</a>
+          <a class="header-menu-item calendar-link" href="/kiezKalender/kiezCal.html">Veranstaltungen</a>
           <a class="header-menu-item hshvideo-link" href="/introvideo.html">Unser Hohenschönhausen</a>
           <a class="header-menu-item contact-link" href="/Kontakt.html">Kontakt</a>
           <a class="header-menu-item imprint-link" href="/Impressum.html">Impressum</a>  

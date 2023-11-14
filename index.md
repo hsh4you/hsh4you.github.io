@@ -35,7 +35,7 @@ id: index
 ## Du suchst
 <div id="listVisible"></div>
 <div class="displaynone" id="listDefault">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="kiezKalender/kiezCal.html">Veranstaltungskalender</a>
 - [Aktivitäten](Jugendklubs/top10_2.html)
 - [Jugendklubs](Jugendklubs/Jugendklubs.html)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
@@ -49,7 +49,7 @@ id: index
 - <a class="external_link" href="https://www.hsh4you.de/introvideo.html">*Hohenschönhausen Song*</a><br>
 </div>
 <div class="displaynone" id="listJugendlicher">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="kiezKalender/kiezCal.html">Veranstaltungskalender</a>
 - [Jugendklubs](Jugendklubs/Jugendklubs.html)
 - [Wochenpläne](Jugendklubs/weeklyevents.html)
 - [Aktivitäten](Jugendklubs/top10_2.html)
@@ -58,7 +58,7 @@ id: index
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Jugendlich.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listEltern">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="kiezKalender/kiezCal.html">Veranstaltungskalender</a>
 - [Kitas](Kitas/Kitas.html)
 - [Schulen](Schulen/Schulen.html)
 - [Jugendklubs](Jugendklubs/Jugendklubs.html)
@@ -71,7 +71,7 @@ id: index
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern_Eltern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listNeu_in_Hsh">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="kiezKalender/kiezCal.html">Veranstaltungskalender</a>
 - [Begegnungen](Begegnungen/Begegnungen.html)
 - [Beratung](Beratung/Beratung_Eltern.html)
 - [Kitas](Kitas/Kitas.html)
@@ -83,7 +83,7 @@ id: index
 - <a class="emergencycall-link" href="/Notrufnummern/Notrufnummern.html">Notrufnummern</a>
 </div>
 <div class="displaynone" id="listSenior">
-- <a class="calendar-link" href="calendar/calendar.html">Veranstaltungskalender</a>
+- <a class="calendar-link" href="kiezKalender/kiezCal.html">Veranstaltungskalender</a>
 - [Begegnungsstätten](Senioren/Begegnungsstaetten/Begegnungsstaetten.html)
 - [Freizeit](Freizeit/Freizeit.html)
 - [Ehrenamt](Senioren/Ehrenamt/Ehrenamt.html)
