@@ -97,6 +97,5 @@ id: index
   });
 </script>
 
-<img src="images/startpage/poster_kino für alle_2023WEB.jpg">
 
 
