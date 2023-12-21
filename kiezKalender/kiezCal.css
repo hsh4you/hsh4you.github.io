@@ -631,11 +631,7 @@ iframe{
 }
 .kiezkalender__filter-bar-wrapper{
     display:grid;
-    gap:2rem;
-    grid-template-columns:repeat(3,minmax(0,1fr));
     padding:1.5rem;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 .kiezkalender__filter-bar__dropdown{
     position:relative
