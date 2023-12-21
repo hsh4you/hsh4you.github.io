@@ -631,9 +631,7 @@ iframe{
 }
 .kiezkalender__filter-bar-wrapper{
     display:grid;
-    gap:2rem;
-    grid-template-columns:repeat(3,minmax(0,1fr));
-    padding:1.5rem
+    padding:1.5rem;
 }
 .kiezkalender__filter-bar__dropdown{
     position:relative
@@ -744,7 +742,9 @@ iframe{
 .kiezkalender__list__event__column-right{
     display:flex;
     flex-direction:column-reverse;
-    width:100%
+    width:100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 .kiezkalender__list__event__column-right>:not([hidden])~:not([hidden]){
     --tw-space-y-reverse:0;
@@ -775,7 +775,7 @@ iframe{
 }
 .kiezkalender__list__event__title-link {
     color: #00cc00;
-
+    white-space: nowrap;
 }
 .kiezkalender__list__event__title:hover{
     -webkit-text-decoration-line:underline;
