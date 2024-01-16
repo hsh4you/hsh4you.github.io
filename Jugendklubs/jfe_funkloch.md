@@ -11,14 +11,19 @@ Wir entwickeln immer wieder neue Angebote mit euch, für euch!
 
 ## Wochenplan
 <pre id="weeklyschedule">
-Mo 15-17 Uhr Backen, Holz/Garten
-Di 15-17 Uhr Medien, DIY, Holz/Garten
-Mi 15-17 Uhr Vegetarisch kochen, Playstation FSK 16
-Mi 15-18 Uhr Studio Aufnahme (Anmeldung!)
-Do 15-17 Uhr Sport, Playstation
-Fr 15-17 Uhr Kochen, Playstation
-Fr 18-19 Uhr Tischtennis
-Sa 15-18 Uhr Theater/Filmprojekt
+Mo 15-17 Uhr    Backen, Holz/Garten
+
+Di 15-17 Uhr      DIY, Holz/Garten (Bildschirmfrei-Tag)
+
+Mi 15-17 Uhr     Vegetarisch kochen
+
+Mi 14-16 Uhr     Politik Talk an der Bar
+
+Mi 14-17 Uhr     Studio Aufnahme (Anmeldung!) Beats Workshop
+
+Do 15-17 Uhr     Sportangebote, Retro Gaming
+
+Fr 15-17 Uhr      Wunschkochen
 </pre>
 
 ## Zielgruppe
