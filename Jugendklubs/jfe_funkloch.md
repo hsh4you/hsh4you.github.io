@@ -2,8 +2,8 @@
 <img id="topmedia" src="images/Funkloch/Funkloch.png" />
 
 ## Offen
-Mo-Fr 13-20 Uhr<br>
-Samstagsöffnung: am 1. Samstag des Monats
+Mo-Fr 12-19 Uhr<br>
+Samstag 13:00-19:00 (2-3x im Monat)
 
 ## Angebote
 Billard, Kicker, Veranstaltungen, Workshops, Kreativangebote, Kinoangebote bei uns<br>
