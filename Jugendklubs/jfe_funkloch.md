@@ -48,4 +48,8 @@ Instagram jfefunkloch
   <img src="images/Funkloch/2.jpg" />
   <img src="images/Funkloch/3.jpg" />
   <img src="images/Funkloch/4.jpg" />
+  <img src="images/Funkloch/5.jpg" />
+  <img src="images/Funkloch/6.jpg" />
+  <img src="images/Funkloch/7.jpg" />
+  <img src="images/Funkloch/8.jpg" />
 </div>
