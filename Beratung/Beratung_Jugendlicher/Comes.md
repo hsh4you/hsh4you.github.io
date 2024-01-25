@@ -41,5 +41,5 @@ Begleitete Elternschaft & Kleiderbörse<br>
 Kleidertausch in der Zingster Str. 6
 
 <div class="mediacontainer">
-   <img src="/Beratung/Beratung_Eltern/images/Kleidertausch_vorlage3_1.jpg" />
+   <img src="/Beratung/Beratung_Eltern/images/Kleidertausch_vorlage_240125.jpg" />
 </div>
