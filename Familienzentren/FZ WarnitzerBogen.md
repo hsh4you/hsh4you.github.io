@@ -96,7 +96,7 @@ Eltern-Kind-Turnen In Planung
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="/Familienzentren/images/FZ Warnitzer Bogen/IMG_20231012_161939_1.jpg/" />
+  <img src="/Familienzentren/images/FZ Warnitzer Bogen/IMG_20231012_161939_1.jpg" />
   <img src="/Familienzentren/images/FZ Warnitzer Bogen/IMG_20231017_153735.jpg" />
   <img src="/Familienzentren/images/FZ Warnitzer Bogen/IMG_20231017_153255.jpg" />
   <img src="/Familienzentren/images/FZ Warnitzer Bogen/IMG_20231017_153734.jpg" />
