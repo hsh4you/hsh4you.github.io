@@ -50,6 +50,7 @@ Offenes Angebot für Schwangere und Stillende, ohne Anmeldung, kostenfrei
 Spielgruppe: 15:00/15:30-17:00/18:00 Uhr
 Gemeinsam Spiele (Gesellschaftsspiele, Bewegungsspiele etc.) spielen & andere Familien kennenlernen
 ohne Anmeldung, kostenfrei
+
 Donnerstag
 
 Spielgruppe: 9:00-11:00 Uhr
@@ -60,6 +61,7 @@ Entspannen bei Gartenarbeit, Pflanzenpflege, Früchte ernten, ohne Anmeldung, ko
 
 Bastelcafé: 15:00/15:30-17:00 Uhr
 Kreatives Gestalten gemeinsam mit den Kindern, mit Anmeldung, meist kostenfrei, z.T. mit Materialkosten
+
 Freitag
 
 Spiel- & Gartencafé: 9:00-12:00 Uhr
