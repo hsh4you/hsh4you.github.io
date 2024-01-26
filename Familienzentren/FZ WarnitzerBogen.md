@@ -79,7 +79,7 @@ Gemeinsames Kochen internationaler Gerichte, 1x im Monat, kostenfrei mit Anmeldu
 Eltern-Kind-Turnen In Planung
 
 ## Links
-<a class="external_link" target="blank" href="[https://www.vav-hhausen.de/Bereiche/Familie/grashalm.html](https://www.bik-ev.de/seite/458736/familienzentrum-warnitzer-bogen.html)">Website</a>
+<a class="external_link" target="blank" href="[](https://www.bik-ev.de/seite/458736/familienzentrum-warnitzer-bogen.html)">Website</a>
 
 ## Zielgruppe
  für Familien mit Kindern von 0-6 Jahren, ältere Kinder sind auch willkommen
@@ -91,8 +91,8 @@ Eltern-Kind-Turnen In Planung
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Ribnitzer Straße 1 b, 13051 Berlin', 0, 'gmap_mini')</script><br>
-im Nachbarschaftshaus des Ostseeviertels
+<script>window.onload = showMap('Warnitzer Straße 9 - 11, 13057 Berlin', 0, 'gmap_mini')</script><br>
+
 
 ## Eindrücke
 <div class="mediacontainer">
