@@ -28,19 +28,18 @@ lauschen, Deutsch üben mit anderen Eltern, ohne Anmeldung, kostenfrei<br>
 
 Dienstag<br>
 
-Familienfrühstück: 9:00-11:30 Uhr<br>
-
+Familienfrühstück: 9:00-11:30 Uhr
 Frühstücken mit Familien in entspannter Atmosphäre, ohne Anmeldung, kostenfrei<br>
 
 Nähkurs: 12:00-14:00 Uhr<br>
-
 Näharbeiten lernen unter Anleitung, mit Anmeldung, kostenfrei<br>
 
-Erziehungs- & Sozialberatung: 14:00-16:00 Uhr bzw. nach Vereinbarung<br>
-
+Erziehungs- & Sozialberatung: 14:00-16:00 Uhr bzw. nach Vereinbarung
 Brauchen Sie ein offenes Ohr für Fragen oder Probleme? Wir helfen gern! Terminabsprache erwünscht,
 kostenfrei
+
 Mittwoch
+
 Babygruppe mit PEKiP-Elementen: 9:30-11:00 Uhr
 Geschlossenes Gruppenangebot mit Spiel- & Bewegungsanregungen für Babys ab dem 3. Lebensmonat
 mit Anmeldung, Kosten bitte erfragen
