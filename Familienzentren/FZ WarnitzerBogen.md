@@ -22,7 +22,7 @@ Offene Spiel- & Krabbelgruppen, PEKiP-Kurs, Yoga für Mütter, Nähkurs, Familie
 
 ## Kontakt
 [familienzentrum@bik-ev.de](mailto:familienzentrum@bik-ev.de)<br>
-<a href="tel:+493092408737 ">030 92408737 </a>
+<a href="tel:+493092408737 ">030 92408737 </a> <br>
 <a href="tel:+4917660805359 ">0176 60805359 </a>
 
 ## Wo
