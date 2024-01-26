@@ -67,6 +67,9 @@ Freitag
 Spiel- & Gartencafé: 9:00-12:00 Uhr
 Offenes Angebot für Familien & Entspannen bei der Gartenarbeit, mit Anmeldung, kostenfrei
 
+
+
+
 Raumvermietung: nach Absprache kann der Raum für Familienfeste von 14-18 Uhr gemietet werden
 
 Weitere Angebote:
