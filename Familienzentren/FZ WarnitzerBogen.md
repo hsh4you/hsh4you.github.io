@@ -13,20 +13,30 @@ Offene Spiel- & Krabbelgruppen, PEKiP-Kurs, Yoga für Mütter, Nähkurs, Familie
 
 ## Angebote
 Offene Spiel- & Krabbelgruppen, PEKiP-Kurs, Yoga für Mütter, Nähkurs, Familienfrühstück, Kochen und Basteln mit Familien, Themencafés, Gartentreff, Beratung zu Themen rund um die Familie<br>
-Montag
-Erziehungs- & Sozialberatung: 10:00-12:00 Uhr
-Brauchen Sie Unterstützung im Familienalltag? Wir helfen gern! Terminabsprache erwünscht, kostenfrei
-Yoga mit Baby: 11:00-12:00 Uhr:
-Achtsamkeit und Yoga-Zeit für Mütter mit und ohne Baby, 8 Treffen für 40€, mit Anmeldung
-Bücher- & Sprachcafé: 15:00-16:30/17:00 Uhr
+
+Montag<br>
+Erziehungs- & Sozialberatung: 10:00-12:00 Uhr<br>
+Brauchen Sie Unterstützung im Familienalltag? Wir helfen gern! Terminabsprache erwünscht, kostenfrei<br>
+
+Yoga mit Baby: 11:00-12:00 Uhr:<br>
+Achtsamkeit und Yoga-Zeit für Mütter mit und ohne Baby, 8 Treffen für 40€, mit Anmeldung<br>
+
+Bücher- & Sprachcafé: 15:00-16:30/17:00 Uhr<br>
 Bücher, Bilderbuchkino und Kamishibai entdecken, Vorlesen & verschiedenen Sprachen
-lauschen, Deutsch üben mit anderen Eltern, ohne Anmeldung, kostenfrei
-Dienstag
-Familienfrühstück: 9:00-11:30 Uhr
-Frühstücken mit Familien in entspannter Atmosphäre, ohne Anmeldung, kostenfrei
-Nähkurs: 12:00-14:00 Uhr
-Näharbeiten lernen unter Anleitung, mit Anmeldung, kostenfrei
-Erziehungs- & Sozialberatung: 14:00-16:00 Uhr bzw. nach Vereinbarung
+lauschen, Deutsch üben mit anderen Eltern, ohne Anmeldung, kostenfrei<br>
+
+Dienstag<br>
+
+Familienfrühstück: 9:00-11:30 Uhr<br>
+
+Frühstücken mit Familien in entspannter Atmosphäre, ohne Anmeldung, kostenfrei<br>
+
+Nähkurs: 12:00-14:00 Uhr<br>
+
+Näharbeiten lernen unter Anleitung, mit Anmeldung, kostenfrei<br>
+
+Erziehungs- & Sozialberatung: 14:00-16:00 Uhr bzw. nach Vereinbarung<br>
+
 Brauchen Sie ein offenes Ohr für Fragen oder Probleme? Wir helfen gern! Terminabsprache erwünscht,
 kostenfrei
 Mittwoch
