@@ -96,6 +96,6 @@ Eltern-Kind-Turnen In Planung
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="images/Grashalm/1.JPG" />
+  <img src="/images/FZ%20Warnitzer%20Bogen/IMG_20231012_161939_1.jpg" />
   <img src="images/Grashalm/2.JPG" />
 </div> 
