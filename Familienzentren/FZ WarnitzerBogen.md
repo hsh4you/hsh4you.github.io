@@ -43,22 +43,30 @@ Mittwoch
 Babygruppe mit PEKiP-Elementen: 9:30-11:00 Uhr
 Geschlossenes Gruppenangebot mit Spiel- & Bewegungsanregungen für Babys ab dem 3. Lebensmonat
 mit Anmeldung, Kosten bitte erfragen
+
 Schwangeren- & Stillcafé: 11:00-12:00 Uhr
 Offenes Angebot für Schwangere und Stillende, ohne Anmeldung, kostenfrei
+
 Spielgruppe: 15:00/15:30-17:00/18:00 Uhr
 Gemeinsam Spiele (Gesellschaftsspiele, Bewegungsspiele etc.) spielen & andere Familien kennenlernen
 ohne Anmeldung, kostenfrei
 Donnerstag
+
 Spielgruppe: 9:00-11:00 Uhr
 Offenes Angebot für Familien zum Austauschen, Spielen, Entdecken, ohne Anmeldung, kostenfrei
+
 Gartencafé: 13:00-15:00/16:00 Uhr
 Entspannen bei Gartenarbeit, Pflanzenpflege, Früchte ernten, ohne Anmeldung, kostenfrei
+
 Bastelcafé: 15:00/15:30-17:00 Uhr
 Kreatives Gestalten gemeinsam mit den Kindern, mit Anmeldung, meist kostenfrei, z.T. mit Materialkosten
 Freitag
+
 Spiel- & Gartencafé: 9:00-12:00 Uhr
 Offenes Angebot für Familien & Entspannen bei der Gartenarbeit, mit Anmeldung, kostenfrei
+
 Raumvermietung: nach Absprache kann der Raum für Familienfeste von 14-18 Uhr gemietet werden
+
 Weitere Angebote:
 Interkultureller Kochtreff: 15:00-17:00 Uhr
 Gemeinsames Kochen internationaler Gerichte, 1x im Monat, kostenfrei mit Anmeldung
