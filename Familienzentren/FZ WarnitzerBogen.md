@@ -96,6 +96,6 @@ Eltern-Kind-Turnen In Planung
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="/images/FZ Warnitzer Bogen/IMG_20231012_161939_1.jpg/" />
-  <img src="/images/FZ Warnitzer Bogen/IMG_20231017_153735.jpg" />
+  <img src="/images/FZ WarnitzerBogen/IMG_20231012_161939_1.jpg/" />
+  <img src="/images/FZ WarnitzerBogen/IMG_20231017_153735.jpg" />
 </div> 
