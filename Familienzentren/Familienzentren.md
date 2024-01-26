@@ -15,5 +15,6 @@
   <label class="youthclub" onclick="javascript:window.open('LaLuna.html', '_self')">
     <img src="/Familienzentren/images/LaLuna/Logo.jpg"><br><span class="notranslate">LaLuna</span>
   </label>
-  
+   <label class="youthclub" onclick="javascript:window.open('FZ WarnitzerBogen.html', '_self')">
+    <img src="/Familienzentren/images/FZ WarnitzerBogen/Logo.jpg"><br><span class="notranslate">Familienzentrum Warnitzer Bogen</span>
 
