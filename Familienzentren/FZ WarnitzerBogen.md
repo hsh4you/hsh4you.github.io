@@ -12,31 +12,17 @@ Offene Spiel- & Krabbelgruppen, PEKiP-Kurs, Yoga für Mütter, Nähkurs, Familie
 -->
 
 ## Angebote
-Hebammen-, Physiotherapeuten- & Osteopathen-Sprechstunde, Elternbegleitung, Beratung, flexible Kinderbetreuung, La Luna Projekt (auch für Schwangere)
-Kurse und Veranstaltungen<br>
-•	Offene Baby-& Krabbelgruppe<br>
-•	Offene Eltern-Kind-Gruppe<br>
-•	Schwangeren, Baby-& Krabbel-Frühstück<br>
-•	Babymassage<br>
-•	Fabel Kurs<br>
-•	Geburtsvorbereitung- & Rückbildungs-Kurs<br>
-•	Erste Hilfe am Kind Kurs<br>
-•	Eltern-Kind-Sport<br>
-•	Elternberatung<br>
-•	Kochnachmittage<br>
-•	Kinderfriseur<br>
-•	Trödelmarkt<br>
-•	Familienferienfahrten<br>
+Offene Spiel- & Krabbelgruppen, PEKiP-Kurs, Yoga für Mütter, Nähkurs, Familienfrühstück, Kochen und Basteln mit Familien, Themencafés, Gartentreff, Beratung zu Themen rund um die Familie<br>
 
 ## Links
-<a class="external_link" target="blank" href="https://www.vav-hhausen.de/Bereiche/Familie/grashalm.html">Website</a>
+<a class="external_link" target="blank" href="[https://www.vav-hhausen.de/Bereiche/Familie/grashalm.html](https://www.bik-ev.de/seite/458736/familienzentrum-warnitzer-bogen.html)">Website</a>
 
 ## Zielgruppe
-die ganze Familie ist willkommen :)
+ für Familien mit Kindern von 0-6 Jahren, ältere Kinder sind auch willkommen
 
 ## Kontakt
-[grashalm-familienzentrum@vav-hhausen.de](mailto:grashalm-familienzentrum@vav-hhausen.de)<br>
-<a href="tel:+493096277129 2">030 9627 7129 </a>
+[familienzentrum@bik-ev.de](mailto:familienzentrum@bik-ev.de)<br>
+<a href="tel:+493092408737 ">030 92408737 </a>
 
 ## Wo
 <div id="gmap"></div>
