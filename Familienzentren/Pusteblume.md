@@ -2,14 +2,11 @@
 <img id="topmedia" src="/Familienzentren/images/Pusteblume/logo.png" />
 
 ## Zielgruppe
-für Eltern mit Babys, Klein- & Vorschulkindern u. Schwangere
+werdende Familien und Familien mit Kindern von 0 bis 5 Jahre
 
 ## Offen
-Mo 9:30 - 18:30 Uhr<br>
-Di geschlossen<br>
-Mi 9:00 – 18:00 Uhr<br>
-Do 9:00 – 16:00 Uhr<br>
-Fr 9:00 – 13:00 Uhr
+Mo. + Mi 08.00 – 17.00 Uhr <br>
+Di, Do + Fr. 08.00 – 12.00 Uhr
 
 ## Wochenplan
 <pre id="weeklyschedule">
@@ -33,7 +30,7 @@ Freitag:
 •	Familiensport (Do 16:30 – 17:30 Uhr, Sporthalle Klützer Str. 42, 13059 Berlin) <br>
 
 ## Links
-<a class="external_link" href="https://www.vav-hhausen.de/Pusteblume/pusteblume-start.html">Website</a><br>
+<a class="external_link" href="https://www.vav-hhausen.de/Bereiche/Familie/pusteblume.html"> Website</a><br>
 <a class="external_link" href="https://www.facebook.com/Fam.zentrumPusteblume/">Facebook</a>
 
 ## Wo
