@@ -1,5 +1,5 @@
 ## Familienzentrum Warnitzer Bogen
-<img id="topmedia" src="/Familienzentren/images/Grashalm/logo.png" />
+<img id="topmedia" src="/Familienzentren/images/FZ Warnitzer Bogen/Logo FZ Warnitzer Bogen.jpg" />
 
 ## Offen
 09:00 - 17:00 Uhr<br>
