@@ -31,7 +31,6 @@ Freitag:
 
 ## Links
 <a class="external_link" href="https://www.vav-hhausen.de/Bereiche/Familie/pusteblume.html"> Website</a><br>
-<a class="external_link" href="https://www.facebook.com/Fam.zentrumPusteblume/">Facebook</a>
 
 ## Wo
 <div id="gmap"></div>
