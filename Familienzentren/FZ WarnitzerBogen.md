@@ -69,7 +69,9 @@ Raumvermietung: nach Absprache kann der Raum für Familienfeste von 14-18 Uhr ge
 
 Weitere Angebote:
 Interkultureller Kochtreff: 15:00-17:00 Uhr
+
 Gemeinsames Kochen internationaler Gerichte, 1x im Monat, kostenfrei mit Anmeldung
+
 Eltern-Kind-Turnen In Planung
 
 ## Links
