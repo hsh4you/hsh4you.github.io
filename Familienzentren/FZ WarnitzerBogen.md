@@ -15,6 +15,7 @@ Offene Spiel- & Krabbelgruppen, PEKiP-Kurs, Yoga für Mütter, Nähkurs, Familie
 Offene Spiel- & Krabbelgruppen, PEKiP-Kurs, Yoga für Mütter, Nähkurs, Familienfrühstück, Kochen und Basteln mit Familien, Themencafés, Gartentreff, Beratung zu Themen rund um die Familie<br>
 
 Montag<br>
+
 Erziehungs- & Sozialberatung: 10:00-12:00 Uhr<br>
 Brauchen Sie Unterstützung im Familienalltag? Wir helfen gern! Terminabsprache erwünscht, kostenfrei<br>
 
