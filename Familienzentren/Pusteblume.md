@@ -61,9 +61,39 @@ Kinder ab 2 Jahren 3,00 Euro
 </pre>
 
 ## Weitere Angebote
-•	Fabelkurs (Fabel bietet altersgerechte Spiele, Sinnes- & Bewegungsanregungen. TN-Beitrag für acht Termine 56,00 Euro. Nur mit Anmeldung)<br>						
-•	Babymassage (TN-Beitrag für vier Termine 26,00 Euro)<br>
-•	Familiensport (Do 16:30 – 17:30 Uhr, Sporthalle Klützer Str. 42, 13059 Berlin) <br>
+
+La Luna - Begleitung für Schwangere von Anfang an
+Montag
+10:00 - 12:00 Uhr
+
+Babymassage Kurs
+Montag 10:00 - 11:30 Uhr
+Anmeldung unter:
+0176 47104876 oder 030 91147403,
+4 Termine für 40 Euro
+
+Flexible Kinderbetreuung
+für Alleinerziehende
+Montag - Freitag
+08:00 - 18:00 Uhr bzw. nach Vereinbarung
+
+Elternberatung
+nach Terminvereinbarung
+
+Erste-Hilfe am Kind-Kurs
+Donnerstag, 21.03.2024 (Anmeldung bis 18.03)
+Mittwoch, 30.10.2024 (Anmeldung bis 25.10.)
+jeweils 10:00 - 14:30
+Teilnahmebeitrag: 38,00 Euro pro Person
+Anmeldung und Anzahlung
+von 10.00 Euro erforderlich
+
+Geburtsvorbereitungskurs
+Termine über Marion Telle
+0173 9571302
+
+Kinder-Friseur
+Termine und Preise erfragen <br>
 
 ## Links
 <a class="external_link" href="https://www.vav-hhausen.de/Bereiche/Familie/pusteblume.html"> Website</a><br>
