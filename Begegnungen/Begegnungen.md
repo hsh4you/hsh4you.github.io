@@ -35,5 +35,5 @@
     <img src="/Jugendklubs/images/SPIK_JK/logo.jpg"><br><span class="notranslate">SPIK<br>integrative Kinder-<br>& Jugendarbeit</span>
   </label>
    <label class="youthclub" onclick="javascript:window.open('BENNwart.html', '_self')">
-    <img src="/Jugendklubs/images/BENNwart/logo.jpg"><br><span class="notranslate">BENN Wartenberg</span>
+    <img src="/Begegnungen/Images/BENNwart/LogoBENNwart.png"><br><span class="notranslate">BENN Wartenberg</span>
   </label>
