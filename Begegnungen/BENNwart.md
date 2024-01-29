@@ -1,26 +1,32 @@
-## BENN Hsh Nord<br>Auf Gute Nachbarschaft
+## BENN Wartenberg<br>
 <img id="topmedia" src="/Begegnungen/Images/BENNwart/LogoBENNwart.png" />
 
 ## Wochenplan
 
 
 ## Offen
+Mo. – Don. 10:00 – 18:00 Uhr
+
+Sprechzeiten BENN Wartenberg:
+Di.:  10:00 Uhr - 12:00 Uhr
+Do.: 15:00 Uhr - 17:00 Uhr
+und nach Vereinbarung
 
 
 ## Aktivitäten
 
 
 ## Links
-<a class="external_link" href="http://www.benn-hohenschoenhausen.de">Webseite</a><br>
-<a class="external_link" href="http://www.facebook.com/BENNHSHNORD">Facebook</a>
+<a class="external_link" href="[https://sozdia.de/taetigkeitsbereiche/gemeinwesen/benn-wartenberg/ueber-uns.html)">Webseite</a><br>
+
 
 ## Zielgruppe
-Nachbar*innen aus dem Kiez (16 - 99 Jahre)
+Nachbar*innen aus dem Kiez (0 - 99 Jahre)
 
 ## Kontakt
-[benn@sozdia.de](mailto:benn@sozdia.de)<br>
-<a href="tel:+493092409984">030 9240 9984</a><br>
-<a href="mobil:+4915153595298">0151 5359 5298</a>
+[benn.wartenberg@sozdia.de](mailto:benn.wartenberg@sozdia.de)<br>
+<a href="tel:+493020620988">030 206 209 88</a><br>
+<a href="mobil:+491712117780">0171 211 77 80</a>
 
 ## Wo
 <div id="gmap"></div>
