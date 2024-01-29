@@ -671,6 +671,7 @@ iframe{
     background-color:rgb(249 250 251/var(--tw-bg-opacity))
 }
 
+/*
 @media (max-width:767px) {
     .kiezkalender__filter-bar-wrapper{
         display:none;
@@ -680,6 +681,7 @@ iframe{
         display:none;
     }
 }
+*/
 
 .kiezkalender__filter-bar__dropdown .dropdown-toggle.active{
     --tw-bg-opacity:1;
