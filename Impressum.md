@@ -23,6 +23,7 @@ Alle Informationen der Träger sind öffentlich zugängliche Informationen.
 Hauptverantwortlich für die Sammlung und Eintragung der Daten ist Dayana Dreke, derzeitig tätig im Bereich Integration beim <a class="external_link" href="http://www.spikev.de/">SPIK e.V.</a> und Koordinatorin für die Kiez-WebApp.
 
 Seit 2023 erfolgen die Aktualisierung der Projektpräsentationen und die Umsetzung des Veranstaltungskalenders in Kooperation mit <a class="external_link" href="https://kiezkalender-lichtenberg.de/">Kiezkalender Lichtenberg</a>. 
+
 Der <a href="https://kiezkalender-lichtenberg.de/" class="external_link">Kiezkalender Lichtenberg</a> ist ein kooperatives Kalenderformat, das durch die Stadtteilkoordination organisiert und vom <a href="https://www.kiezspinne-fas.org/" class="external_link">Kiezspinne FAS e.V.</a> getragen wird. 
 
 
