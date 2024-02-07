@@ -671,17 +671,6 @@ iframe{
     background-color:rgb(249 250 251/var(--tw-bg-opacity))
 }
 
-/*
-@media (max-width:767px) {
-    .kiezkalender__filter-bar-wrapper{
-        display:none;
-    }
-
-    .kiezkalender__list__event__column-left{
-        display:none;
-    }
-}
-*/
 
 .kiezkalender__filter-bar__dropdown .dropdown-toggle.active{
     --tw-bg-opacity:1;
@@ -741,6 +730,39 @@ iframe{
         padding-right:1.5rem
     }
 }
+
+@media (max-width:767px) {
+    .kiezkalender__filter-bar__dropdown{
+        text-align: left;
+        /*display:flex;
+        flex-direction:column-reverse;*/
+    }
+
+    .kiezkalender__filter-bar__dropdown .dropdown-menu {
+        text-overflow: hide;
+        max-width: 100%;
+        border-width: 3px;
+        background-color: rgb(230 230 230/var(--tw-bg-opacity));
+    }
+
+    .kiezkalender__filter-bar__dropdown .dropdown-item {
+        font-size: 0.8rem;
+        display: block;
+        overflow-x: hidden;
+        text-overflow: ellipsis;
+        max-width: 300px;
+    }
+
+    /*    .kiezkalender__filter-bar-wrapper{
+        display:none;
+    }
+
+    .kiezkalender__list__event__column-left{
+        display:none;
+    }*/
+}
+
+
 .kiezkalender__list__event__column-right{
     display:flex;
     flex-direction:column-reverse;
