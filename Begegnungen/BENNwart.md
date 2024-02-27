@@ -16,7 +16,7 @@ und nach Vereinbarung
 
 
 ## Links
-<a class="external_link" href="[https://sozdia.de/taetigkeitsbereiche/gemeinwesen/benn-wartenberg/ueber-uns.html)">Webseite</a><br>
+<a class="external_link" href="https://sozdia.de/taetigkeitsbereiche/gemeinwesen/benn-wartenberg/ueber-uns.html">Webseite</a><br>
 
 
 ## Zielgruppe
