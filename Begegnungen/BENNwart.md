@@ -2,7 +2,9 @@
 <img id="topmedia" src="/Begegnungen/Images/BENNwart/LogoBENNwart.png" />
 
 ## Wochenplan
-
+<div class="mediacontainer">
+  <img src="Images/BENN/Bild1.png" />
+</div>
 
 ## Offen
 Mo. – Don. 10:00 – 18:00 Uhr
