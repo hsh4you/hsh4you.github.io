@@ -14,8 +14,7 @@ siehe Instagram
 6-17+ Jahre
 
 ## Links
-<a class="external_link" href="http://www.knirpsenfarm-berlin.de/index.php">Website</a><br>
-<a class="external_link" href="https://www.facebook.com/KinderbauernhofKnirpsenfarm/">Facebook</a><br>
+<a class="external_link" href="https://www.instagram.com/juki_mobil/">Website</a><br>
 
 ## Wo
 mobil in Neu-Hohenschönhausen unterwegs
