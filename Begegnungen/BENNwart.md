@@ -3,7 +3,7 @@
 
 ## Wochenplan
 <div class="mediacontainer">
-  <img src="Images/BENN/Bild1.png" />
+  <img src="/Begegnungen/Images/BENN/Bild1.png" />
 </div>
 
 ## Offen
