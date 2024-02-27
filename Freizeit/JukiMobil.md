@@ -20,5 +20,5 @@ siehe Instagram
 mobil in Neu-Hohenschönhausen unterwegs
 
 ## Kontakt
-[katharina.kauten@kietzfuerkids.de](katharina.kauten@kietzfuerkids.de)
+[katharina.kauten@kietzfuerkids.de](katharina.kauten@kietzfuerkids.de)<br>
 01514 2017744
