@@ -33,10 +33,10 @@ Nachbar*innen aus dem Kiez (0 - 99 Jahre)
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Begegnungen/Images/BENNwart/_DSC2979 copy.jpg" />
-  <img src="Begegnungen/Images/BENNwart/_DSC3080 copy.jpg" />
-  <img src="Begegnungen/Images/BENNwart/_DSC3124 copy.jpg" />
-  <img src="Begegnungen/Images/BENNwart/_DSC3414 copy.jpg" />
+  <img src="/Begegnungen/Images/BENNwart/_DSC2979 copy.jpg" />
+  <img src="/Begegnungen/Images/BENNwart/_DSC3080 copy.jpg" />
+  <img src="/Begegnungen/Images/BENNwart/_DSC3124 copy.jpg" />
+  <img src="/Begegnungen/Images/BENNwart/_DSC3414 copy.jpg" />
 </div>
 
 
