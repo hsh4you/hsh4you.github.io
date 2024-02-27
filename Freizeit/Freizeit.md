@@ -18,6 +18,9 @@
   <label class="youthclub" onclick="javascript:window.open('/Begegnungen/SchuleFrieden.html', '_self')">
     <img src="/Begegnungen/Images/SchuleFrieden/logo.png"><br><span class="notranslate">Schule des<br>Friedens</span>
   </label>
+  <label class="youthclub" onclick="javascript:window.open('/JukiMobil.html', '_self')">
+    <img src="/Freizeit/Images/JukiMobil/JukiMobil_Logo.png"><br><span class="notranslate">Juki Mobil</span>
+  </label>
   
  
  
