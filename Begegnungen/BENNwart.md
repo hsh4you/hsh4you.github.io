@@ -3,7 +3,7 @@
 
 ## Wochenplan
 <div class="mediacontainer">
-  <img src="/Begegnungen/Images/BENN/Bild1.png" />
+  <img src="/Begegnungen/Images/BENNwart/Bild1.png" />
 </div>
 
 ## Offen
@@ -36,10 +36,10 @@ Nachbar*innen aus dem Kiez (0 - 99 Jahre)
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="Images/BENN/1.jpg" />
-  <img src="Images/BENN/2.jpg" />
-  <img src="Images/BENN/3.jpg" />
-  <img src="Images/BENN/4.jpg" />
+  <img src="Begegnungen/Images/BENNwart/_DSC2979 copy.jpg" />
+  <img src="Begegnungen/Images/BENNwart/_DSC3080 copy.jpg" />
+  <img src="Begegnungen/Images/BENNwart/_DSC3124 copy.jpg" />
+  <img src="Begegnungen/Images/BENNwart/_DSC3414 copy.jpg" />
 </div>
 
 
