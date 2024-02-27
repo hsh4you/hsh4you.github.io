@@ -15,9 +15,6 @@ Do.: 15:00 Uhr - 17:00 Uhr
 und nach Vereinbarung
 
 
-## Aktivitäten
-
-
 ## Links
 <a class="external_link" href="[https://sozdia.de/taetigkeitsbereiche/gemeinwesen/benn-wartenberg/ueber-uns.html)">Webseite</a><br>
 
