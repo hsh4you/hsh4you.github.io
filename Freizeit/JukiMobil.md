@@ -14,10 +14,11 @@ siehe Instagram
 6-17+ Jahre
 
 ## Links
-<a class="external_link" href="https://www.instagram.com/juki_mobil/">Website</a><br>
+<a class="external_link" href="https://www.instagram.com/juki_mobil/">Instagram</a><br>
 
 ## Wo
 mobil in Neu-Hohenschönhausen unterwegs
 
 ## Kontakt
 [katharina.kauten@kietzfuerkids.de](katharina.kauten@kietzfuerkids.de)
+01514 2017744
