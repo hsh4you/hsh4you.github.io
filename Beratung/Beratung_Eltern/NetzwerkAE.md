@@ -16,9 +16,8 @@ Alleinerziehende allen Alters & Herkunft
 <a class="external_link" target="blank" href="https://www.instagram.com/alleinerziehend_in_lichtenberg/">Instagram</a>
 
 ## Kontakt
-[netzwerk-alleinerziehende@vav-hhausen.de](netzwerk-alleinerziehende@vav-hhausen.de)<br>
-<a href="tel:+493096277111">030 9627 7111</a><br>
-<a href="mobil:+4917647116277">0176 4711 6277</a>
+[beratung-alleinerziehende@vav-hhausen.de](beratung-alleinerziehende@vav-hhausen.de)<br>
+<a href="mobil:+4915901399647">015901399647</a>
 
 ## Wo
 <div id="gmap"></div>
