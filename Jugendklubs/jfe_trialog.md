@@ -34,7 +34,7 @@ wöchentliches Kochangebot „Junge Küche“, Fitnessraum, Tonstudio, Offener B
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="/Jugendklubs/images/JFE_Trialog/2024-Trialog-Rechtsberatung_Plakat.pdf" />
+  <img src="images/JFE_Trialog/rechttrialog.PNG" />
   <img src="images/JFE_Trialog/2.jpg" />
   <img src="images/JFE_Trialog/3.jpg" />
   <img src="images/JFE_Trialog/4.jpg" />
