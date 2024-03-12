@@ -2,34 +2,34 @@
 <img id="topmedia" src="/Begegnungen/Images/Buergertreff/logo.png" />
 
 ## Offen
-Mo bis Do 10-18Uhr<br>
-Fr 10-15Uhr<br>
-Jeder 2. Samstag 10-15Uhr<br>
+Montag bis Freitag   10 bis 16 Uhr
 
 ## Angebote
 Kicker, Malkurse, PC- und Smartphone-Kurse, offener Café-Treff, Nachbarschaftsfrühstück, Meditationsangebot, Kochabende, Beratung rund um Pflege und Alter, Empowerment-Workshops
 
 ## Wochenplan
-<pre id="weeklyschedule">
-Mo 15:00-18:00 Uhr Acryl-Kurs (2x mtl.)
-Di 15:00–18:00 offenes Nachbarschaftscafé
-Mi 10:00–12:00 Klöppeln (2x mtl.)
-Mi 14:00–15:30 Hilfe zu Smartphone & Tablet (2x mtl.)
-Mi 15:00–18:00 Malen nach Musik (2x mtl.)
-Mi 17:30–19:30 gemeinsamer Kochabend (2x mtl.)
-Do 17:00-18:30 PC-Kurs (2x mtl.)
-Fr 08:00–11:00 Beratung rund um Pflege im Alter (1x mtl.)
-Sa 10:30-12:30 Nachbarschaftsfrühstück (1x mtl.)
-Sa 16:00-18:30 Innerer Tanz: Körper-Reise & Mediation (1x mtl.)
-</pre>
-Gelegentlich gibt es auch noch offenen Café-Betrieb oder Workshops, wenn die Räume nicht mit anderen Angeboten belegt sind.
+• Jeden Donnerstag: „Komm’se Essen“ Mittag-Essen
+• Jeden Dienstag: „Komm’se rin“ Nachbarschafts-Café
+• Jeden Freitag Pilates und Bürgerbühne
+• Jeden 1. und 3. Montag im Monat: Malen mit Acryl-Farben
+• Jeden 1. und 3. Mittwoch im Monat: Plastizieren
+• Jeden 1. und 3. Mittwoch im Monat: Hilfe zu Smartphone und Tablet
+• Jeden 2. und 4. Donnerstag im Monat: Computer-Grundlagen
+• Jeden 1. und 3. Donnerstag im Monat: Selbsthilfe-Gruppe trockener
+Alkoholiker*innen
+• Einmal im Monat: Nachbarschafts-Frühstück
+• Einmal im Monat: Innerer Tanz: Musik-Meditation
+• Bald wieder: Backen im Lehmofen (Winterpause)
+Unregelmäßig: verschiedene Veranstaltungen (z. B. Workshops, Lesungen,
+Feste uvm.) zu bestimmten Themen und Anlässen
 
 ## Zielgruppe
-Erwachsene jeden Alters und Herkunft
+ab 16 Jahren
 
 ## Links
 <a class="external_link" href="http://www.gemeinsam-im-kiez.de/">Website</a><br>
 <a class="external_link" href="http://www.facebook.com/buergertreff">Facebook</a><br>
+<a class="external_link" href="https://www.instagram.com/buergertreff_cooperativemensch">Instagram</a>
 
 ## Wo
 <div id="gmap"></div>
