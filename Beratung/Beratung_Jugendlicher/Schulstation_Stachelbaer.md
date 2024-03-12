@@ -1,13 +1,16 @@
 ## Schulstation Stachelbär
 
 ## Offen
-Mo–Fr 7:30-15:30, Mi bis 14:30
+Mo-Do: 08.00 - 15.30 Uhr
+
+Fr: 08:00 - 13.30 Uhr
 
 ## Angebote
 für SchülerInnen<br>
 für Eltern<br>
 für LehrerInnen & ErzieherInnen<br>
-Entlastung und Unterstützung im Schulalltag, „Auszeit“, Soziales Lernen, Gewaltprävention, Schülerzeitung, Vermittlung bei Konflikten, Gruppen- & Einzelarbeit, Beratung, Elterncafes, erlebnispädagogisches Ferienangebot
+Entlastung und Unterstützung im Schulalltag, „Auszeit“, Soziales Lernen, Gewaltprävention, Schülerzeitung, Vermittlung bei Konflikten, Gruppen- & Einzelarbeit, Beratung, Elterncafes, erlebnispädagogisches Ferienangebot<br>
+Konfliktlotsenausbildung, Schülerrat/ SchülervertreterInnen stärken, Klassenrat, Erlebniscamp im Sommer
 
 
 ## Links
