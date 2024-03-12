@@ -2,13 +2,13 @@
 <img id="topmedia" src="images/Logos/Welseclub.png" />
 
 ## Wochenplan
-Mo. Tabletop / Pen & Paper
-Di. Offener Treff
-Mi. Offenes Kochangebot
-Do. Holzwerkstatt
-Fr. Musik AG
+Mo. Tabletop / Pen & Paper<br>
+Di. Offener Treff<br>
+Mi. Offenes Kochangebot<br>
+Do. Holzwerkstatt<br>
+Fr. Musik AG<br>
 Sa. 1x im Monat offener Samstag
-Graffiti
+Graffiti<br>
 
 Fahrradwerkstatt Di. bis Do. ab 15:00
 
