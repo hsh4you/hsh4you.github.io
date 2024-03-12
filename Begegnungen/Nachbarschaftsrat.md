@@ -9,7 +9,7 @@ Nachbarschaftsrat -  Sprechstunde nach Vereinbarung
 
 
 ## Links
-<a class="external_link" target="blank" href="https://www.vav-hhausen.de/Bereiche/Jugend/ocb.html">Webseite</a><br>
+<a class="external_link" target="blank" href="https://nachbarschaftsrat.familienanlauf.de/">Webseite</a><br>
 
                                                                                             
 ## Zielgruppe
