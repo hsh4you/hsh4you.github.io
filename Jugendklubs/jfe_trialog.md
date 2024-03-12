@@ -2,21 +2,23 @@
 <img id="topmedia" src="images/Logos/Trialog.jpg" />
 
 ## Wochenplan
-<div id='calendar' class="weeklyschedule"></div>
-<script>window.onload = loadWeeklySchedule(GCAL_ID_TRIALOG)</script>
+Mo  17 Uhr „Keks und Kakao“
+Di  18 Uhr „GirlsTalk“
+Mi  15 Uhr „Backen“ (Junge Küche)
+Do  15 Uhr „Kochen“ (Junge Küche)
+Fr  15 Uhr „Spielenachmittag“ + 18 Uhr „Abendbrot“
 
 ## Offen
-Mo-Fr 13-20 Uhr<br>
-Familiensamstage 12-18 Uhr
+Mo – Fr  immer 13 – 20 Uhr
 
 ## Angebote
 <p id="activities">
- wöchentliches Kochangebot „Junge Küche“, Beachvolleyball, Beachbar im Garten, Lagerfeuerstelle, Fitnessraum, kostenlose Rechtsberatung (bis 27 Jahren), Gartenprojekte, Graffiti-Projekte, Hausaufgabenhilfe & Familiensamstage, Vermietung der Räumlichkeiten, Billard, Kicker, Tischtennis, PC-Ecke, Basketball
+wöchentliches Kochangebot „Junge Küche“, Fitnessraum, Tonstudio, Offener Bereich, Streetball, Grafitti, Kochen und Backen, Billard, Kicker, Tischtennis, Dart, Vermietung der Räumlichkeiten, Garten/Außenbereich/Gartenprojekte, Beachbar im Garten, Flohmärkte
 </p>
 
 ## Links
 <a class="external_link" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-trialog">Website</a><br>
-<a class="external_link" href="https://de-de.facebook.com/jfetrialog/">Facebook</a><br>
+<a class="external_link" href="https://de-de.facebook.com/jfe.trialog/">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/jfe.trialog/">Instagram</a>
 
 ## Zielgruppe
