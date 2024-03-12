@@ -17,7 +17,7 @@ Bürgerberatung, Veranstaltungen organisieren, auf Bedürfnisse reagieren und Ge
 
 ## Kontakt
 [stadtteilkoordination@vav-hhausen.de](mailto:stadtteilkoordination@vav-hhausen.de)<br>
-<a href="tel:+493096277117">030 96277117</a>
+<a href="tel:+493096277117">030 96277117</a><br>
 <a href="tel:+491729463989">0172 9463989</a>
 
 ## Wo
