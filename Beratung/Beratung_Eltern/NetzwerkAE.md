@@ -1,5 +1,5 @@
 ## Anlauf- und Beratungsstelle Alleinerziehende Lichtenberg
-<img id="topmedia" src="/Beratung/Beratung_Eltern/images/Logo_Netzwerk-Alleinerziehende.jpg" />
+<img id="topmedia" src="/Beratung/Beratung_Eltern/images/VaV_Logo-220329.png" />
 
 ## Sprechzeiten
 nach Absprache
