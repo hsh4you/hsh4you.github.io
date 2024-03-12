@@ -1,5 +1,5 @@
 ## Nachbarschaftsrat Lichtenberg
-<img id="topmedia" src="/Jugendklubs/images/Logos/offener_club_berlin.png" />
+<img id="topmedia" src="/Begegnungen/Images/Nachbarschaftsrat/Logo-Nachbarschaftsrat(1).jpg" />
 
 ## Offen
 Sprechstunde nach Vereinbarung
@@ -23,10 +23,5 @@ Nachbarschaftsrat -  Sprechstunde nach Vereinbarung
 <div id="gmap"></div>
 <script>window.onload = showMap('Matenzeile 2-4, 13053 Berlin', 0, 'gmap_mini')</script>
 
-## Eindrücke
-<div class="mediacontainer">
-  <img src="/Jugendklubs/images/OCB/1.JPG" />
-  <img src="/Jugendklubs/images/OCB/2.jpg" />
-  <img src="/Begegnungen/Images/OCBIntegration/1.jpg" />
-  <img src="/Begegnungen/Images/OCBIntegration/2.JPG" />
-</div>
+## Träger
+FAN FamilienANlauf e.V., Wiecker Str. 3 c, 13051 Berlin
