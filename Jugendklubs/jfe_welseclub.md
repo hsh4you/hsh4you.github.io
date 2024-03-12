@@ -7,7 +7,7 @@ Di. Offener Treff<br>
 Mi. Offenes Kochangebot<br>
 Do. Holzwerkstatt<br>
 Fr. Musik AG<br>
-Sa. 1x im Monat offener Samstag
+Sa. 1x im Monat offener Samstag<br>
 Graffiti<br>
 
 Fahrradwerkstatt Di. bis Do. ab 15:00
