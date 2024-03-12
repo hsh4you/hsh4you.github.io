@@ -20,7 +20,7 @@ Kickboxen, Skaten/BMX & Scooter, Bewegungs-& Ballspiele, Fitness, Pubertätsstun
 <a class="external_link" href="https://www.instagram.com/piaolymp/">Instagram</a>
 
 ## Zielgruppe
-8-25 Jahre
+ 8 – 27 Jahre (nur Mädchen*)
 
 ## Kontakt
 [piaolymp@kietz-fuer-kids-freizeitsport.de](mailto:piaolymp@kietz-fuer-kids-freizeitsport.de)
