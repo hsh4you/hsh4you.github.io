@@ -6,7 +6,8 @@
 <script>window.onload = loadWeeklySchedule(GCAL_ID_PIA_OLYMP)</script>
 
 ## Offen
-Mo-Fr 14-19 Uhr
+Dienstag – Freitag   13:00 - 19:00 Uhr
+Samstag              10:00 – 15:00 Uhr
 
 ## Angebote
 <p id="activities">
