@@ -37,3 +37,7 @@
    <label class="youthclub" onclick="javascript:window.open('/Begegnungen/BENNwart.html', '_self')">
     <img src="/Begegnungen/Images/BENNwart/LogoBENNwart.png"><br><span class="notranslate">BENN Wartenberg</span>
   </label>
+     <label class="youthclub" onclick="javascript:window.open('/Begegnungen/Nachbarschaftsrat.html', '_self')">
+  <img src="/Begegnungen/Images/Nachbarschaftsrat/Logo-Nachbarschaftsrat(1).jpg"><br><span class="notranslate">Nachbarschaftsrat<br>Lichtenberg</span>
+  </label>
+
