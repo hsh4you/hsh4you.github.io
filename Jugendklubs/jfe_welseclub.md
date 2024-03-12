@@ -2,17 +2,23 @@
 <img id="topmedia" src="images/Logos/Welseclub.png" />
 
 ## Wochenplan
-<div id='calendar' class="weeklyschedule"></div>
-<script>window.onload = loadWeeklySchedule(GCAL_ID_WELSECLUB)</script>
+Mo. Tabletop / Pen & Paper
+Di. Offener Treff
+Mi. Offenes Kochangebot
+Do. Holzwerkstatt
+Fr. Musik AG
+Sa. 1x im Monat offener Samstag
+Graffiti
+
+Fahrradwerkstatt Di. bis Do. ab 15:00
 
 ## Offen
-Mo-Do 13-20 Uhr<br>
-Fr 13-21 Uhr
+Montag bis Freitag 13:00 bis 20:00 Uhr
 
 ## Angebote
-<p id="activities">
-Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Theatergruppe, Kampfkunst, Gartenprojekt, Familiensonntage, Kochen/Backen, Computer, Sportraum, Billard, Kicker, Tischtennis
-</p>
+Billard, Tischtennis, Kicker, Gesellschaftsspiele, Rollenspiele (Pen&Paper),
+Holzwerkstatt, Fahrradwerkstatt, Kreativangebote, Graffiti,
+Hausaufgabenhilfe, musisch- kreative Angebote
 
 ## Links
 <a class="external_link" href="https://www.pad-berlin.de/jugendarbeit-praevention-und-qualifikation/jfe-welseclub">Webseite</a><br>
@@ -20,7 +26,7 @@ Ludothek (Gesellschaftsspiele ausleihen), Rollenspiele, Fahrradwerkstatt, Theate
 <a class="external_link" href="https://www.instagram.com/jfe.welseclub/">Instagram</a>
 
 ## Zielgruppe
-10-27 Jahre
+ab 10 Jahren
 
 ## Kontakt
 [jfe.welseclub@pad-berlin.de](mailto:jfe.welseclub@pad-berlin.de)<br>
