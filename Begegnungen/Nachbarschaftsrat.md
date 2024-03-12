@@ -1,9 +1,6 @@
 ## Nachbarschaftsrat Lichtenberg
 <img id="topmedia" src="/Jugendklubs/images/Logos/offener_club_berlin.png" />
 
-## Wochenplan
-
-
 ## Offen
 Sprechstunde nach Vereinbarung
 
@@ -25,7 +22,7 @@ Nachbarschaftsrat -  Sprechstunde nach Vereinbarung
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Werneuchener Str. 15b, 13055 Berlin', 0, 'gmap_mini')</script>
+<script>window.onload = showMap('Matenzeile 2-4, 13053 Berlin', 0, 'gmap_mini')</script>
 
 ## Eindrücke
 <div class="mediacontainer">
