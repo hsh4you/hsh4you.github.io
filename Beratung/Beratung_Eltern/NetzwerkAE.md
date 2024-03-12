@@ -11,9 +11,9 @@ Erstberatung, Auskünfte zu Angeboten für Alleinerziehende im Bezirk Lichtenber
 Alleinerziehende allen Alters & Herkunft
 
 ## Links
-<a class="external_link" target="blank" href="[https://alleinerziehend-in-lichtenberg.de/](https://alleinerziehend-in-lichtenberg.de/anlauf-und-beratungsstelle-fuer-alleinerziehende/)">Webseite</a><br>
-<a class="external_link" target="blank" href="https://www.facebook.com/NetzwerkAlleinerziehendeLichtenberg">Facebook</a>
-<a class="external_link" target="blank" href="[https://www.facebook.com/NetzwerkAlleinerziehendeLichtenberg](https://www.instagram.com/alleinerziehend_in_lichtenberg/)">Facebook</a>
+<a class="external_link" target="blank" href="https://alleinerziehend-in-lichtenberg.de/anlauf-und-beratungsstelle-fuer-alleinerziehende/">Webseite</a><br>
+<a class="external_link" target="blank" href="https://www.facebook.com/NetzwerkAlleinerziehendeLichtenberg">Facebook</a><br>
+<a class="external_link" target="blank" href="https://www.instagram.com/alleinerziehend_in_lichtenberg/">Instagram</a>
 
 ## Kontakt
 [netzwerk-alleinerziehende@vav-hhausen.de](netzwerk-alleinerziehende@vav-hhausen.de)<br>
