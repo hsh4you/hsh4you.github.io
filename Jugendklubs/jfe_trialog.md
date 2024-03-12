@@ -2,11 +2,11 @@
 <img id="topmedia" src="images/Logos/Trialog.jpg" />
 
 ## Wochenplan
-Mo  17 Uhr „Keks und Kakao“
-Di  18 Uhr „GirlsTalk“
-Mi  15 Uhr „Backen“ (Junge Küche)
-Do  15 Uhr „Kochen“ (Junge Küche)
-Fr  15 Uhr „Spielenachmittag“ + 18 Uhr „Abendbrot“
+Mo  17 Uhr „Keks und Kakao“<br>
+Di  18 Uhr „GirlsTalk“<br>
+Mi  15 Uhr „Backen“ (Junge Küche)<br>
+Do  15 Uhr „Kochen“ (Junge Küche)<br>
+Fr  15 Uhr „Spielenachmittag“ + 18 Uhr „Abendbrot“<br>
 
 ## Offen
 Mo – Fr  immer 13 – 20 Uhr
