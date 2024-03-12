@@ -9,9 +9,8 @@ Nachbarschaftsrat -  Sprechstunde nach Vereinbarung
 
 
 ## Links
-<a class="external_link" target="blank" href="https://www.vav-hhausen.de/Bereiche/Jugend/ocb.html">Webseite</a><br>
-<a class="external_link" target="blank" href="https://www.facebook.com/offener.jugendclub">Facebook</a><br>
-<a class="external_link" target="blank" href="https://www.instagram.com/offener.club.berlin">Instagram</a>
+<a class="external_link" target="blank" href="[https://www.vav-hhausen.de/Bereiche/Jugend/ocb.html](https://nachbarschaftsrat.familienanlauf.de/)">Webseite</a><br>
+
                                                                                             
 ## Zielgruppe
 0-99 Jahre 
