@@ -8,18 +8,18 @@ Montag bis Freitag   10 bis 16 Uhr
 Kicker, Malkurse, PC- und Smartphone-Kurse, offener Café-Treff, Nachbarschaftsfrühstück, Meditationsangebot, Kochabende, Beratung rund um Pflege und Alter, Empowerment-Workshops
 
 ## Wochenplan
-• Jeden Donnerstag: „Komm’se Essen“ Mittag-Essen
-• Jeden Dienstag: „Komm’se rin“ Nachbarschafts-Café
-• Jeden Freitag Pilates und Bürgerbühne
-• Jeden 1. und 3. Montag im Monat: Malen mit Acryl-Farben
-• Jeden 1. und 3. Mittwoch im Monat: Plastizieren
-• Jeden 1. und 3. Mittwoch im Monat: Hilfe zu Smartphone und Tablet
-• Jeden 2. und 4. Donnerstag im Monat: Computer-Grundlagen
+• Jeden Donnerstag: „Komm’se Essen“ Mittag-Essen<br>
+• Jeden Dienstag: „Komm’se rin“ Nachbarschafts-Café<br>
+• Jeden Freitag Pilates und Bürgerbühne<br>
+• Jeden 1. und 3. Montag im Monat: Malen mit Acryl-Farben<br>
+• Jeden 1. und 3. Mittwoch im Monat: Plastizieren<br>
+• Jeden 1. und 3. Mittwoch im Monat: Hilfe zu Smartphone und Tablet<br>
+• Jeden 2. und 4. Donnerstag im Monat: Computer-Grundlagen<br>
 • Jeden 1. und 3. Donnerstag im Monat: Selbsthilfe-Gruppe trockener
-Alkoholiker*innen
-• Einmal im Monat: Nachbarschafts-Frühstück
-• Einmal im Monat: Innerer Tanz: Musik-Meditation
-• Bald wieder: Backen im Lehmofen (Winterpause)
+Alkoholiker*innen<br>
+• Einmal im Monat: Nachbarschafts-Frühstück<br>
+• Einmal im Monat: Innerer Tanz: Musik-Meditation<br>
+• Bald wieder: Backen im Lehmofen (Winterpause)<br>
 Unregelmäßig: verschiedene Veranstaltungen (z. B. Workshops, Lesungen,
 Feste uvm.) zu bestimmten Themen und Anlässen
 
