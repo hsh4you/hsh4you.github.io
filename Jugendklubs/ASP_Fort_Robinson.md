@@ -1,11 +1,9 @@
 ## ASP Fort Robinson
 <img id="topmedia" src="images/Logos/ASP_Fort_Robinson.jpg" />
 
-<!--
 ## Wochenplan
-<div id='calendar' class="weeklyschedule"></div>
-<script>window.onload = loadWeeklySchedule(GCAL_ID_ASP_FORT_ROBINSON)</script>
--->
+<img src="/Jugendklubs/images/ASP_Fort_Robinson/IMG_20240206_150214.jpg" />
+
 
 ## Offen
 Di-Fr 13-19 Uhr<br>
@@ -13,7 +11,7 @@ Sa 10–17 Uhr<br>
 (in den Ferien ab 10 Uhr)
 
 ## Angebote
-<p id="activities">Pferde AG für Anfänger & Fortgeschrittene, Reiten, Stockbrot, Hüttenbau, Bogenschießen, Grillen, Gärtnern, Angebote für Gruppen im Vormittagsbereich, Beratung junger Eltern von 12-13 Uhr nach Anmeldung
+<p id="activities">Pferde AG für Anfänger & Fortgeschrittene, Reiten, Stockbrot, Hüttenbau, Bogenschießen, Grillen, Gärtnern, Angebote für Gruppen im Vormittagsbereich
 </p>
 
 ## Links
@@ -33,8 +31,8 @@ Sa 10–17 Uhr<br>
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="images/ASP_Fort_Robinson/1.jpg" />
-  <img src="images/ASP_Fort_Robinson/2.jpg" />
-  <img src="images/ASP_Fort_Robinson/3.jpg" />
-  <img src="images/ASP_Fort_Robinson/4.jpg" />
+  <img src="/Jugendklubs/images/ASP_Fort_Robinson/4dd4bfff-e91f-48a5-af09-920e3f5bdd46.png" />
+  <img src="/Jugendklubs/images/ASP_Fort_Robinson/IMG_20221210_110051.jpg" />
+  <img src="/Jugendklubs/images/ASP_Fort_Robinson/IMG_20231206_150752.jpg" />
+  <img src="/Jugendklubs/images/ASP_Fort_Robinson/IMG_20230510_143232.jpg" />
 </div>
