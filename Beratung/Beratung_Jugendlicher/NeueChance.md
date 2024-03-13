@@ -2,7 +2,7 @@
   <img id="topmedia" src="/Beratung/Beratung_Jugendlicher/images/NeueChance/Logo Neue Chance gGmbH.jpg" />
 
 
-## Offen
+## Offenhttps://github.com/hsh4you/hsh4you.github.io/blob/master/Beratung/Beratung_Jugendlicher/NeueChance.md
  Mo. – Do. 9:00 – 17:00 Uhr, Fr. 09.00 – 15:00 Uhr, oder nach telefonischer Vereinbarung
 
 ## Angebote
