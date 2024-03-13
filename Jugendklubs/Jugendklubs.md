@@ -39,7 +39,7 @@ hier klicken für: <a href="openstreetmap.html"># interaktive Kartenansicht #</a
     <img src="images/Logos/offener_club_berlin.png"><br><span>OCB</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('Pia_Olymp.html', '_self')">
-    <img src="images/Logos/Pia.jpg"><br><span class="notranslate">Pia Olymp</span>
+    <img src="/Jugendklubs/images/Pia/Logo Pia Olymp Insta.png"><br><span class="notranslate">Pia Olymp</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('SPIK_JK.html', '_self')">
     <img src="images/Logos/SPIK.jpg"><br><span class="notranslate">SPIK</span>
