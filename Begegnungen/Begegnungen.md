@@ -17,7 +17,7 @@
     <img src="/Begegnungen/Images/GutePol/GPlogo.png"><br><span class="notranslate">Gute Pol -<br>Stadtteilkoordination</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('/Begegnungen/Kieztreff.html', '_self')">
-    <img src="/Begegnungen/Images/Kieztreff/logo.jpg"><br><span class="notranslate">Kieztreff<br>Lebensnetz</span>
+    <img src="/Begegnungen/Images/Kieztreff/Kieztreff_Titelbild_transparent_kl_(c) Sanja Cekov.png"><br><span class="notranslate">Kieztreff<br>Lebensnetz</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('/Begegnungen/WieckerStr.html', '_self')">
     <img src="/Begegnungen/Images/WieckerStr/5.jpg"><br><span class="notranslate">Nachbarschaftsgarten<br>Wiecker Str.</span>
