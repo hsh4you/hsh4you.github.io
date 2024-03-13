@@ -3,8 +3,7 @@
 
 <!--
 ## Wochenplan
-<div id='calendar' class="weeklyschedule"></div>
-<script>window.onload = loadWeeklySchedule(GCAL_ID_AUSBLICK)</script>
+  <img src="/Jugendklubs/images/Ausblick/Programm1.PNG" />
 -->
 
 ## Offen
