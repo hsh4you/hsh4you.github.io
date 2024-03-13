@@ -1,28 +1,28 @@
-## Nachbarschaftsrat Lichtenberg
-<img id="topmedia" src="/Begegnungen/Images/Nachbarschaftsrat/Logo-Nachbarschaftsrat(1).jpg" />
+## Nachbarschaftstreff an der Seefelder
+<img id="topmedia" src="/Begegnungen/Images/NachbarschaftstreffSeefelder/NTSeefelder_Schriftzug (2).png" />
 
 ## Offen
-Sprechstunde nach Vereinbarung
+Mo - Mi 10 - 17 Uhr
+Do - Fr von 12 - 17 Uhr
 
 ## Angebote
-Nachbarschaftsrat -  Sprechstunde nach Vereinbarung 
+Sprach-Café, Yoga, Gymnastik, Nähwerkstatt, Kleidertausch, Nachbarschafts-Flohmärkte, Kiez-Café, Kiez-Küche, Hausaufgabenhilfe, Nachbarschaftsfeste, Sozial- und Mieterberatungen, Ferienangebote, Lesungen u.a.
 
 
 ## Links
-<a class="external_link" target="blank" href="https://nachbarschaftsrat.familienanlauf.de/">Webseite</a><br>
+<a class="external_link" target="blank" href="[https://www.frei-zeit-haus.de/projekte/nachbarschaftstreff-seefelder.html">Webseite</a><br>
 
                                                                                             
 ## Zielgruppe
-0-99 Jahre 
+6 - 99 Jahre
 
 ## Kontakt
-[ruebsam@familienanlauf.de](mailto:ruebsam@familienanlauf.de)<br>
-<a href="tel:+49172 42 77 046">01724277046</a>
+[info@nachbarschaftstreff-seefelder.de](mailto:info@nachbarschaftstreff-seefelder.de)<br>
+<a href="tel:+493050177989">03050177989</a>
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Matenzeile 2-4, 13053 Berlin', 0, 'gmap_mini')</script>
+<script>window.onload = showMap('Seefelder Straße 50, 13053 Berlin', 0, 'gmap_mini')</script>
 
 ## Träger
-FAN FamilienANlauf e.V., Wiecker Str. 3 c, 13051 Berlin
-
+Frei-Zeit-Haus e.V.
