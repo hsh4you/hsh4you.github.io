@@ -1,9 +1,8 @@
 ## Mädchensportzentrum Pia Olymp
-<img id="topmedia" src="images/Logos/Pia.jpg" />
+<img id="topmedia" src="/Jugendklubs/images/Pia/Logo Pia Olymp Insta.png" />
 
 ## Wochenplan
-<div id='calendar' class="weeklyschedule"></div>
-<script>window.onload = loadWeeklySchedule(GCAL_ID_PIA_OLYMP)</script>
+ <img src="/Jugendklubs/images/Pia/Wochenplan.PNG" />
 
 ## Offen
 Dienstag – Freitag   13:00 - 19:00 Uhr<br>
@@ -31,6 +30,11 @@ Tanja Dabelstein (Projektleitung); pia-olymp@gsj-berlin.de; 030 32524593
 
 ## Eindrücke
 <div class="mediacontainer">
-  <img src="images/Pia/1.jpg" />
-  <img src="images/Pia/2.png" />
+  <img src="/Jugendklubs/images/Pia/Bild 1.PNG" />
+  <img src="/Jugendklubs/images/Pia/Bild 2.PNG" />
+  <img src="/Jugendklubs/images/Pia/Bild 3.PNG" />
+  <img src="/Jugendklubs/images/Pia/Bild 4.PNG" />
+  <img src="/Jugendklubs/images/Pia/Bild 5.PNG" />
+  <img src="/Jugendklubs/images/Pia/Bild 6.PNG" />
+  <img src="/Jugendklubs/images/Pia/Bild 7.PNG" />
 </div>
