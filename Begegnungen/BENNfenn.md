@@ -29,7 +29,7 @@ Nachbar*innen aus dem Kiez (0 - 99 Jahre)
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Schweriner Ring 27, 13059, Berlin', 0, 'gmap_mini')</script>
+<script>window.onload = showMap('Otto-Marquardt-Str. 6, 10369, Berlin', 0, 'gmap_mini')</script>
 
 ## Eindrücke
 <div class="mediacontainer">
