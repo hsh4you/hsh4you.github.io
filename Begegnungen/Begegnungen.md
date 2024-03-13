@@ -41,7 +41,7 @@
   <img src="/Begegnungen/Images/Nachbarschaftsrat/Logo-Nachbarschaftsrat(1).jpg"><br><span class="notranslate">Nachbarschaftsrat<br>Lichtenberg</span>
   </label>
        <label class="youthclub" onclick="javascript:window.open('/Begegnungen/StadtteilkoordinationHSHNord.html', '_self')">
-  <img src="/Begegnungen/Images/StadtteilkoordinationHSHNord/STK_38mm_quadratisch.jpg"><br><span class="notranslate">Stadtteilkoordination<br>Hohenschönhausen Nord</span>
+  <img src="/Begegnungen/Images/StadtteilkoordinationHSHNord/STK_38mm_quadratisch.jpg"><br><span class="notranslate">Stadtteilkoordination<br>HSH Nord</span>
   </label>
          <label class="youthclub" onclick="javascript:window.open('/Begegnungen/NachbarschaftstreffSeefelder.html', '_self')">
   <img src="/Begegnungen/Images/NachbarschaftstreffSeefelder/NTSeefelder_Schriftzug (2).png"><br><span class="notranslate">Nachbarschaftstreff<br>an der Seelder</span>
