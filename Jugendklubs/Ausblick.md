@@ -1,10 +1,8 @@
 ## Ausblick
 <img id="topmedia" src="images/Logos/Ausblick.jpg" />
 
-<!--
 ## Wochenplan
   <img src="/Jugendklubs/images/Ausblick/Programm1.PNG" />
--->
 
 ## Offen
 Mo-Fr 13-19 Uhr
