@@ -18,7 +18,9 @@
   <label class="youthclub" onclick="javascript:window.open('Beratung_Jugendlicher/Starthilfe_Network.html', '_self')">
     <img src="/Beratung/Beratung_Jugendlicher/images/FVAJ,jpg.png"><br><span class="notranslate">Starthilfe Network</span>
   </label>
-  
+    <label class="youthclub" onclick="javascript:window.open('Beratung_Jugendlicher/NeueChance.html', '_self')">
+    <img src="Beratung/Beratung_Jugendlicher/images/NeueChance/Logo Neue Chance gGmbH.jpg"><br><span class="notranslate">Neue Chance</span>
+  </label>
   
 - [Schulstation Feldmark-Schule](Beratung_Jugendlicher/Schulstation_Feldmark_Grundschule.html)
 - [Schulstation Stachelbär](Beratung_Jugendlicher/Schulstation_Stachelbaer.html)
