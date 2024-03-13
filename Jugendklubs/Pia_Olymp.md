@@ -11,7 +11,7 @@ Samstag              10:00 – 15:00 Uhr
 
 ## Angebote
 <p id="activities">
-Kickboxen, Skaten/BMX & Scooter, Bewegungs-& Ballspiele, Fitness, Pubertätsstunde, Streetdance, Trampolin, Garten, Tischtennis, Kickern, Kochen, Ferienfahrten, Workshops
+Sportangebote; Kicker; Billiard; Fit-Box; Koch-AG; Chillroom
 </p>
 
 ## Links
@@ -23,7 +23,7 @@ Kickboxen, Skaten/BMX & Scooter, Bewegungs-& Ballspiele, Fitness, Pubertätsstun
  8 – 27 Jahre (nur Mädchen*)
 
 ## Kontakt
-[piaolymp@kietz-fuer-kids-freizeitsport.de](mailto:piaolymp@kietz-fuer-kids-freizeitsport.de)
+Tanja Dabelstein (Projektleitung); pia-olymp@gsj-berlin.de; 030 32524593
 
 ## Wo
 <div id="gmap"></div>
