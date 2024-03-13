@@ -21,7 +21,7 @@ täglich: hauseigene Kiezbibliothek<br>
 •	Fundus an Buchspenden<br>
 
 ## Wochenplan
-<img src="/Begegnungen/Images/Kieztreff/Kieztreff_Plakat_kl.pdf" />
+<img src="/Begegnungen/Images/Kieztreff/Kieztreff_Plakat_kl.pdf"/>
 
 ## Zielgruppe
 Angebote für Alt & Jung
