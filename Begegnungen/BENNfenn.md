@@ -16,7 +16,7 @@ und nach Vereinbarung
 
 ## Links
 <a class="external_link" href="https://benn-fennpfuhl.de">Webseite</a><br>
-Facebook: Benn Fennpfuhl
+Facebook: Benn Fennpfuhl<br>
 Instagram: Benn_Fennpfuhl
 
 ## Zielgruppe
