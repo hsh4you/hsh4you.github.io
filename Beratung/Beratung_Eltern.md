@@ -21,6 +21,9 @@
   <label class="youthclub" onclick="javascript:window.open('Beratung_Eltern/NetzwerkAE.html', '_self')">
     <img src="/Beratung/Beratung_Eltern/images/VaV_Logo-220329.png"><br><span class="notranslate">Beratungsstelle <br>Alleinerziehende</span>
   </label>
+  <label class="youthclub" onclick="javascript:window.open('Beratung_Eltern/Balance.html', '_self')">
+    <img src="/Beratung/Beratung_Eltern/images/Balance/2019-03-01_FPZ-Logo_Standard_400x200_weiss.png"><br><span class="notranslate">Balance</span>
+  </label>
   
 
 - [Schulstation Feldmark-Grundschule](Beratung_Jugendlicher/Schulstation_Feldmark_Schule.html)
