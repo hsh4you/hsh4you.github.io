@@ -21,7 +21,7 @@ Kinder & Jugendliche 6 bis 20 Jahren
 
 ## Kontakt
 [Ausblickberlin@yahoo.de](mailto:Ausblickberlin@yahoo.de)<br>
-<a href="tel:+49309237093">030 9237 093</a>
+<a href="tel:+493092900402">030 92900402</a>
 
 ## Wo
 <div id="gmap"></div>
