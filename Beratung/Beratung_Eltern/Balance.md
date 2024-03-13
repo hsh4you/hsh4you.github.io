@@ -1,5 +1,5 @@
 ## Familienplanungszentrum Balance
-<img id="topmedia" src="/Beratung/Beratung_Eltern/images/Familienbuero logo.png" />
+<img id="topmedia" src="/Beratung/Beratung_Eltern/images/Balance/2019-03-01_FPZ-Logo_Standard_400x200_weiss.png" />
 
 ## Offen
 Sprechzeiten
@@ -34,6 +34,8 @@ Versorgung & Beratung bei weiblicher Genitalbeschneidung
 
 ## Kontakt
 <a href="tel:+493023623680">030 236 236 80</a><br>
+
+## Eindrücke
 
 
 ## Wo
