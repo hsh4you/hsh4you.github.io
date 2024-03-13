@@ -33,6 +33,7 @@ Versorgung & Beratung bei weiblicher Genitalbeschneidung
 ## Wo
 <div id="gmap"></div>
 <script>window.onload = showMap('Konrad-Wolf-Str. 12/12A, 13055 Berlin', 0, 'gmap_mini')</script>
+Eingang über Hinterhof, 1. Etage
 
 ## Kontakt
 <a href="tel:+493023623680">030 236 236 80</a><br>
