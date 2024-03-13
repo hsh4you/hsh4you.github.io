@@ -8,6 +8,9 @@
 ## Angebote
 Die Sozial- und Jugendhilfedienste Lichtenberg bieten vielfältige Unterstützung für junge Menschen und Erwachsene in schwierigen Lebenssituationen. Wir sind keine Beratungsstelle, sondern bieten regelmäßige Hilfen über einen längeren Zeitraum an. Bei Bedarf kann auch eine Trägerwohnung zur Verfügung gestellt werden, die sowohl für das Betreute Einzelwohnen der Jugendhilfe als auch für Erwachsene in schwierigen Lebenssituationen (Wohnungsnotfallhilfe nach § 67 SGB XII) bereitgestellt werden können. Benötigen auch Sie Hilfe? Dann kontaktieren Sie uns gern per Telefon oder E-Mail – oder kommen Sie einfach persönlich vorbei. Gemeinsam finden wir eine Lösung!
 
+  <img src="/Beratung/Beratung_Jugendlicher/images/NeueChance/Prog1.PNG" />
+    <img src="/Beratung/Beratung_Jugendlicher/images/NeueChance/Prog2.PNG" />
+
 ## Links
 <a class="external_link" href="www.neuechance.berlin">Website</a>
 
