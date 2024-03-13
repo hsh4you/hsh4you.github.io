@@ -2,7 +2,7 @@
 <img id="topmedia" src="/Begegnungen/Images/NachbarschaftstreffSeefelder/NTSeefelder_Schriftzug (2).png" />
 
 ## Offen
-Mo - Mi 10 - 17 Uhr
+Mo - Mi 10 - 17 Uhr<br>
 Do - Fr von 12 - 17 Uhr
 
 ## Angebote
