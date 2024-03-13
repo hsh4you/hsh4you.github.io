@@ -2,21 +2,20 @@
 <img id="topmedia" src="/Begegnungen/Images/BENNfenn/BENNFennpfuhl_LogoIllu_RGB-duo.png" />
 
 ## Wochenplan
-<div class="mediacontainer">
-  <img src="/Begegnungen/Images/BENNwart/Bild1.png" />
-</div>
+Freitag von 10:30-12:30 Uhr, Frühstück- Sprachcafé
+
+Mittwoch von 13:00 bis 17:00 Uhr, Wohnraum Projekt-Berlin-Lichtenberg 
 
 ## Offen
-Mo. – Don. 10:00 – 18:00 Uhr
+Montag, Mittwoch, Freitag: 10:00 – 14:00
 
-Sprechzeiten BENN Wartenberg:
-Di.:  10:00 Uhr - 12:00 Uhr
-Do.: 15:00 Uhr - 17:00 Uhr
+Dienstag, Donnerstag: 14:00 – 18:00
+
 und nach Vereinbarung
 
 
 ## Links
-<a class="external_link" href="https://sozdia.de/taetigkeitsbereiche/gemeinwesen/benn-wartenberg/ueber-uns#contentgrid.html">Webseite</a><br>
+<a class="external_link" href="https://benn-fennpfuhl.de">Webseite</a><br>
 
 
 ## Zielgruppe
