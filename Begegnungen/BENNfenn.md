@@ -23,9 +23,9 @@ Instagram: Benn_Fennpfuhl
 Nachbar*innen aus dem Kiez (0 - 99 Jahre)
 
 ## Kontakt
-[benn.wartenberg@sozdia.de](mailto:benn.wartenberg@sozdia.de)<br>
-<a href="tel:+493020620988">030 206 209 88</a><br>
-<a href="mobil:+491712117780">0171 211 77 80</a>
+[benn.fennpfuhl.berlin@cjd.de](mailto:benn.fennpfuhl.berlin@cjd.de)<br>
+<a href="tel:+493057795969"> 030 5779 5969</a><br>
+
 
 ## Wo
 <div id="gmap"></div>
