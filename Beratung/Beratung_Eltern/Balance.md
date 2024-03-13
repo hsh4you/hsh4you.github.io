@@ -2,7 +2,17 @@
 <img id="topmedia" src="/Beratung/Beratung_Eltern/images/Familienbuero logo.png" />
 
 ## Offen
-Mo- Mi + Fr 9-12 Uhr & Do 15-19 Uhr
+Sprechzeiten
+
+Montag: 9 – 14 Uhr
+
+Dienstag: 11 – 18 Uhr
+
+Mittwoch: 15 – 19 Uhr
+
+Donnerstag: 11 – 18 Uhr
+
+Freitag: 9 – 14 Uhr
 
 ## Angebote
 Gynäkologische & Hebammenangebote
@@ -23,11 +33,10 @@ Versorgung & Beratung bei weiblicher Genitalbeschneidung
 
 
 ## Kontakt
-[info@familienbuero-lichtenberg.de ](mailto:info@familienbuero-lichtenberg.de )<br>
-<a href="tel:+4930902967080 ">030 9029 67080 </a><br>
-Whatsapp: <a href="Whatsapp:+4915253909503 ">0152 5390 9503 </a> 
+<a href="tel:+493023623680">030 236 236 80</a><br>
+
 
 ## Wo
 <div id="gmap"></div>
-<script>window.onload = showMap('Große-Leege-Str. 103, 13055 Berlin', 0, 'gmap_mini')</script>
+<script>window.onload = showMap('Konrad-Wolf-Str. 12/12A, 13055 Berlin', 0, 'gmap_mini')</script>
 
