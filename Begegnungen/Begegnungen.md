@@ -46,4 +46,7 @@
          <label class="youthclub" onclick="javascript:window.open('/Begegnungen/NachbarschaftstreffSeefelder.html', '_self')">
   <img src="/Begegnungen/Images/NachbarschaftstreffSeefelder/NTSeefelder_Schriftzug (2).png"><br><span class="notranslate">Nachbarschaftstreff<br>an der Seelder</span>
   </label>
+       <label class="youthclub" onclick="javascript:window.open('/Begegnungen/BENNfenn.html', '_self')">
+  <img src="/Begegnungen/Images/BENNfenn/BENNFennpfuhl_LogoIllu_RGB-duo.png"><br><span class="notranslate">BENN<br>Fennpfuhl</span>
+  </label>
 
