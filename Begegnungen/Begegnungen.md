@@ -43,4 +43,7 @@
        <label class="youthclub" onclick="javascript:window.open('/Begegnungen/StadtteilkoordinationHSHNord.html', '_self')">
   <img src="/Begegnungen/Images/StadtteilkoordinationHSHNord/STK_38mm_quadratisch.jpg"><br><span class="notranslate">Stadtteilkoordination<br>Hohenschönhausen Nord</span>
   </label>
+         <label class="youthclub" onclick="javascript:window.open('/Begegnungen/NachbarschaftstreffSeefelder.html', '_self')">
+  <img src="/Begegnungen/Images/NachbarschaftstreffSeefelder/NTSeefelder_Schriftzug (2).png"><br><span class="notranslate">Nachbarschaftstreff<br>an der Seelder</span>
+  </label>
 
