@@ -16,7 +16,8 @@ und nach Vereinbarung
 
 ## Links
 <a class="external_link" href="https://benn-fennpfuhl.de">Webseite</a><br>
-
+Facebook: Benn Fennpfuhl
+Instagram: Benn_Fennpfuhl
 
 ## Zielgruppe
 Nachbar*innen aus dem Kiez (0 - 99 Jahre)
