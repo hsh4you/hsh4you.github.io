@@ -3,7 +3,7 @@
 <a class="external_link" href="https://www.polizei.de">Polizei</a><br>
 [110](tel:+4930110)
 
-Feuerwehr & Rettungsdienst<br>
+<a class="external_link" href="https://www.berliner-feuerwehr.de/">Feuerwehr & Rettungsdienst</a><br>
 [112](tel:+4930112)
 
 {% include_relative Notrufnummern_Eltern.md %}
