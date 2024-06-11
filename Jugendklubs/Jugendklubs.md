@@ -3,7 +3,7 @@
 Übersicht aller Jugendklubs in Hohenschönhausen<br>
 hier klicken für: <a href="openstreetmap.html"># interaktive Kartenansicht #</a>
 
-  <label class="youthclub" onclick="javascript:window.open('Arche.md', '_self')">
+  <label class="youthclub" onclick="javascript:window.open('Arche.html', '_self')">
     <img src="images/Logos/Arche.jpg"><br><span class="notranslate">Die Arche</span>
   </label>
   <label class="youthclub" onclick="javascript:window.open('ASP_Fort_Robinson.html', '_self')">
