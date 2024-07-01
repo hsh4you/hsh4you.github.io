@@ -26,6 +26,7 @@ Neue und alteingesessene Nachbar*innen aus dem Kiez
 
 ## Wo
 Unser Vor-Ort-Büro und Begegnungsraum ist in der Wartenberger Straße 24, 13053 Berlin. Es gibt einen barrierearmen Zugang über den Hof und einen Eingang hinter den Fahrstühlen im Foyer des Gebäudes.<br>
+
 <div id="gmap"></div>
 <script>window.onload = showMap('Wartenberger Straße 24, 13053, Berlin', 0, 'gmap_mini')</script>
 
