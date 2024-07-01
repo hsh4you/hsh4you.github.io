@@ -1,4 +1,4 @@
-## BENN Hsh Nord<br>Auf Gute Nachbarschaft
+## BENN Alt-Hohenschönhausen
 <img id="topmedia" src="/Begegnungen/Images/BENN/logo.jpg" />
 
 ## Wochenplan
