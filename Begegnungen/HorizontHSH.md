@@ -1,17 +1,10 @@
 ## Horizont Hohenschönhausen<br>
-<img id="topmedia" src="/Begegnungen/Images/BENNfenn/BENNFennpfuhl_LogoIllu_RGB-duo.png" />
-
-## Wochenplan
-Freitag von 10:30-12:30 Uhr, Frühstück- Sprachcafé
-
-Mittwoch von 13:00 bis 17:00 Uhr, Wohnraum Projekt-Berlin-Lichtenberg 
+<img id="topmedia" src="/Begegnungen/Images/horizont/logohorizont.PNG" />
 
 ## Offen
-Montag, Mittwoch, Freitag: 10:00 – 14:00
-
-Dienstag, Donnerstag: 14:00 – 18:00
-
-und nach Vereinbarung
+Dienstag: 14 - 18 Uhr<br>
+Mittwoch: 14 - 17 Uhr<br>
+Donnerstag: 10 - 14 Uhr<br>
 
 
 ## Links
