@@ -2,15 +2,15 @@
 <img id="topmedia" src="/Begegnungen/Images/BENNaltHSH/BENNaltHSH.PNG" />
 
 ## Offen
-Kommen Sie gern während der Sprechzeiten vorbei! 
-Unsere Sprechzeiten sind: 
-Dienstag von 14-18 Uhr
-Mittwoch von 10-12 Uhr 
-Donnerstag nach Vereinbarung
-Freitag von 10-14 Uhr
+Kommen Sie gern während der Sprechzeiten vorbei!<br>
+Unsere Sprechzeiten sind: <br>
+Dienstag von 14-18 Uhr<br>
+Mittwoch von 10-12 Uhr <br>
+Donnerstag nach Vereinbarung<br>
+Freitag von 10-14 Uhr<br>
 
 ## Aktivitäten
-Begegnungsangebote für die Nachbarschaft (Programm siehe Webseite), Verweisberatung, Orientierung im Kiez, Flotte-Standort, Sprachfrühstück mit Frauentreff Zwischenraum
+Begegnungsangebote für die Nachbarschaft (Programm siehe Webseite),<br> Verweisberatung, Orientierung im Kiez, Flotte-Standort,<br> Sprachfrühstück mit Frauentreff Zwischenraum
 
 ## Links
 <a class="external_link" href="http://www.benn-alt-hsh.de">Webseite</a><br>
@@ -25,8 +25,9 @@ Neue und alteingesessene Nachbar*innen aus dem Kiez
 
 
 ## Wo
+Unser Vor-Ort-Büro und Begegnungsraum ist in der Wartenberger Straße 24, 13053 Berlin. Es gibt einen barrierearmen Zugang über den Hof und einen Eingang hinter den Fahrstühlen im Foyer des Gebäudes.<br>
 <div id="gmap"></div>
-<script>window.onload = showMap('Warnitzer Str. 14, 13057, Berlin', 0, 'gmap_mini')</script>
+<script>window.onload = showMap('Wartenberger Straße 24, 13053, Berlin', 0, 'gmap_mini')</script>
 
 ## Eindrücke
 <div class="mediacontainer">
