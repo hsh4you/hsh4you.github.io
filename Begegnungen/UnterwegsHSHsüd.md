@@ -82,3 +82,9 @@ Interkultureller Garten Lichtenberg, Liebenwalder Straße 12, 13055 Berlin
 <div id="gmap"></div>
 <script>window.onload = showMap('Liebenwalder Straße 12, 13055, Berlin', 0, 'gmap_mini')</script>
 
+## Eindrücke
+<div class="mediacontainer">
+  <img src="/Begegnungen/Images/UnterwegsHSHsüd/Unbenannt1.PNG" />
+  <img src="/Begegnungen/Images/UnterwegsHSHsüd/Unbenannt2.PNG" />
+</div>
+
