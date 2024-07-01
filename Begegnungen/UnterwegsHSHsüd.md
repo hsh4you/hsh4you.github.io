@@ -56,9 +56,9 @@ Es gibt kreative Angebote für Kinder. Für die Erwachsenen gibt es eine Tasse K
 Kiez-Café, Eltern-Kind Café, Frauen-Café, Handarbeitsgruppe, Yoga, Bewegungs-Angebot für Kinder, Abendessen für Alle, Kreativ-Werkstatt, Reparatur-Café und diverse Veranstaltungen
 
 ## Links
-<a class="external_link" href="http://www.benn-alt-hsh.de">Webseite</a><br>
-<a class="external_link" href="https://www.facebook.com/p/Benn-Alt-Hsh-100091520454548/?locale=de_DE/">Facebook</a><br>
-<a class="external_link" href="https://www.instagram.com/benn_althohenschoenhausen/">Instagram</a>
+<a class="external_link" href="https://www.sozdia.de/taetigkeitsbereiche/gemeinwesen/unterwegs-in-hohenschoenhausen-sued/ueber-uns#contentgrid">Webseite</a><br>
+<a class="external_link" href="https://https://www.facebook.com/unterwegsinhshsued/">Facebook</a><br>
+<a class="external_link" href="https://www.instagram.com/unterwegsinhshsued/">Instagram</a>
 
 ## Zielgruppe
 alle Altersgruppen
