@@ -2,6 +2,9 @@
 <img id="topmedia" src="/Begegnungen/Images/UnterwegsHSHsüd/Unterwegs_logo.jpg" />
 
 ## Wochenplan
+
+<img src="/Begegnungen/Images/UnterwegsHSHsüd/Wochenplan Unterwegs in Hsh Sued.jpg" />
+
 Montag<br>
 
 Abendessen für Alle<br>
