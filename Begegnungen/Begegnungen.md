@@ -52,4 +52,7 @@
        <label class="youthclub" onclick="javascript:window.open('/Begegnungen/BENNfenn.html', '_self')">
   <img src="/Begegnungen/Images/BENNfenn/BENNFennpfuhl_LogoIllu_RGB-duo.png"><br><span class="notranslate">BENN<br>Fennpfuhl</span>
   </label>
+         <label class="youthclub" onclick="javascript:window.open('/Begegnungen/UnterwegsHSHsüd.html', '_self')">
+  <img src="/Begegnungen/Images/UnterwegsHSHsüd/Unterwegs_logo.jpg"><br><span class="notranslate">Unterwegs<br>in HSH Süd</span>
+  </label>
 
