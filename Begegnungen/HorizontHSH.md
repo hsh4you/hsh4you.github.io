@@ -8,9 +8,9 @@ Donnerstag: 10 - 14 Uhr<br>
 
 
 ## Links
-<a class="external_link" href="https://benn-fennpfuhl.de">Webseite</a><br>
-Facebook: Benn Fennpfuhl<br>
-Instagram: Benn_Fennpfuhl
+<a class="external_link" href="https://www.selbsthilfe-lichtenberg.de">Webseite</a><br>
+<a class="external_link" href="https://www.facebook.com/SHK Horizont Hohenschönhausen">Facebook</a><br>
+<a class="external_link" href="https://www.instagram.com/Horizont_HSH/">Instagram</a>
 
 ## Zielgruppe
 Nachbar*innen aus dem Kiez (0 - 99 Jahre)
