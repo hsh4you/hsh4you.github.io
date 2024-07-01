@@ -1,5 +1,5 @@
-## BENN Alt-Hohenschönhausen
-<img id="topmedia" src="/Begegnungen/Images/BENNaltHSH/BENNaltHSH.PNG" />
+## Unterwegs in Hohenschönhausen Süd
+<img id="topmedia" src="/Begegnungen/Images/UnterwegsHSHsüd/Unterwegs_logo.jpg" />
 
 ## Offen
 Kommen Sie gern während der Sprechzeiten vorbei!<br>
