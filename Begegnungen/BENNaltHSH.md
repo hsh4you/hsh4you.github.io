@@ -14,7 +14,7 @@ Begegnungsangebote für die Nachbarschaft (Programm siehe Webseite),<br> Verweis
 
 ## Links
 <a class="external_link" href="http://www.benn-alt-hsh.de">Webseite</a><br>
-<a class="external_link" href="http://[www.facebook.com/Benn Alt Hsh](https://www.facebook.com/p/Benn-Alt-Hsh-100091520454548/?locale=de_DE)">Facebook</a><br>
+<a class="external_link" href="https://www.facebook.com/p/Benn-Alt-Hsh-100091520454548/?locale=de_DE">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/benn_althohenschoenhausen/">Instagram</a>
 
 ## Zielgruppe
