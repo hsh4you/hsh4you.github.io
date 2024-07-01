@@ -1,33 +1,28 @@
 ## BENN Alt-Hohenschönhausen
 <img id="topmedia" src="/Begegnungen/Images/BENNaltHSH/BENNaltHSH.PNG" />
 
-## Wochenplan
-{% include weeklyevents_scripts.md %}
-<div id='calendar' class="weeklyschedule"></div>
-<script>window.onload = loadWeeklySchedule(GCAL_ID_BENN_HSH_NORD)</script>
-
 ## Offen
-Mo 13–16 Uhr<br>
-Di 17–19 Uhr<br>
-Mi 10–16 Uhr<br>
-Do nach Vereinbarung
+Kommen Sie gern während der Sprechzeiten vorbei! 
+Unsere Sprechzeiten sind: 
+Dienstag von 14-18 Uhr
+Mittwoch von 10-12 Uhr 
+Donnerstag nach Vereinbarung
+Freitag von 10-14 Uhr
 
 ## Aktivitäten
-<p id="activities">
-Sprachcafé, Kochabende, Lastenfahrrad ausleihen, Sozialberatung Farsi/Russisch/Arabisch/Vietnamesisch, Mietberatung durch Rechtsanwältin, Rechtsberatung auf Farsi
-</p>
+Begegnungsangebote für die Nachbarschaft (Programm siehe Webseite), Verweisberatung, Orientierung im Kiez, Flotte-Standort, Sprachfrühstück mit Frauentreff Zwischenraum
 
 ## Links
-<a class="external_link" href="http://www.benn-hohenschoenhausen.de">Webseite</a><br>
+<a class="external_link" href="http://www.benn-alt-hsh.de">Webseite</a><br>
 <a class="external_link" href="http://www.facebook.com/BENNHSHNORD">Facebook</a>
 
 ## Zielgruppe
-Nachbar*innen aus dem Kiez (16 - 99 Jahre)
+Neue und alteingesessene Nachbar*innen aus dem Kiez 
 
 ## Kontakt
-[benn@sozdia.de](mailto:benn@sozdia.de)<br>
-<a href="tel:+493092409984">030 9240 9984</a><br>
-<a href="mobil:+4915153595298">0151 5359 5298</a>
+[benn@alt-hsh.de](mailto:benn@alt-hsh.de)<br>
+<a href="tel:+493050958872">030 50958872</a><br>
+
 
 ## Wo
 <div id="gmap"></div>
