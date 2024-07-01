@@ -3,6 +3,7 @@
 
 ## Wochenplan
 Montag<br>
+
 Abendessen für Alle<br>
 Standort Stadtteilzentrum Campus Hedwig<br>
 jeden ersten Montag im Monat 17.00 – 19.00 Uhr<br>
@@ -11,6 +12,7 @@ Gemeinsames zubereiten und Abendessen, alle Menschen jeder Altersgruppe sind her
 
 
 Dienstag<br>
+
 Frauencafé<br>
 Standort Interkultureller Garten Lichtenberg<br>
 10.00 – 12.00 Uhr<br>
