@@ -55,4 +55,15 @@
          <label class="youthclub" onclick="javascript:window.open('/Begegnungen/UnterwegsHSHsüd.html', '_self')">
   <img src="/Begegnungen/Images/UnterwegsHSHsüd/Unterwegs_logo.jpg"><br><span class="notranslate">Unterwegs<br>in HSH Süd</span>
   </label>
+       <label class="youthclub" onclick="javascript:window.open('/Begegnungen/HorizontHSH.html', '_self')">
+  <img src="/Begegnungen/Images/horizont/logohorizont.PNG"><br><span class="notranslate">Horizont<br>HSH</span>
+  </label>
+
+
+
+
+
+
+
+  
 
