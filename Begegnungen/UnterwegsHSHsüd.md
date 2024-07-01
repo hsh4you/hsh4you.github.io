@@ -57,7 +57,7 @@ Kiez-Café, Eltern-Kind Café, Frauen-Café, Handarbeitsgruppe, Yoga, Bewegungs-
 
 ## Links
 <a class="external_link" href="https://www.sozdia.de/taetigkeitsbereiche/gemeinwesen/unterwegs-in-hohenschoenhausen-sued/ueber-uns#contentgrid">Webseite</a><br>
-<a class="external_link" href="https://https://www.facebook.com/unterwegsinhshsued/">Facebook</a><br>
+<a class="external_link" href="https://www.facebook.com/unterwegsinhshsued/">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/unterwegsinhshsued/">Instagram</a>
 
 ## Zielgruppe
