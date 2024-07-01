@@ -1,5 +1,5 @@
 ## BENN Alt-Hohenschönhausen
-<img id="topmedia" src="/Begegnungen/Images/BENNaltHSH/finales Logo BENN Alt-HSH.pdf" />
+<img id="topmedia" src="/Begegnungen/Images/BENNaltHSH/BENNaltHSH.PNG" />
 
 ## Wochenplan
 {% include weeklyevents_scripts.md %}
