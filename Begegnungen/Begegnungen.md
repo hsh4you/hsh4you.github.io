@@ -1,6 +1,9 @@
 ## Begegnungen
 
 
+  <label class="youthclub" onclick="javascript:window.open('BENNaltHSH.html', '_self')">
+    <img src="/Begegnungen/Images/BENNaltHSH/BENNaltHSH.PNG"><br><span class="notranslate">BENN<br>Alt-Hohenschönhausen</span>
+  </label>
   <label class="youthclub" onclick="javascript:window.open('BENN_HSH.html', '_self')">
     <img src="/Begegnungen/Images/BENN/logo.jpg"><br><span class="notranslate">BENN Hsh Nord -<br>Auf gute<br>Nachbarschaft</span>
   </label>
