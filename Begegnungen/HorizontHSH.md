@@ -22,7 +22,7 @@ Donnerstag: 10 - 14 Uhr<br>
 
 ## Links
 <a class="external_link" href="https://www.selbsthilfe-lichtenberg.de">Webseite</a><br>
-<a class="external_link" href="https://www.facebook.com/SHK Horizont Hohenschönhausen">Facebook</a><br>
+<a class="external_link" href="https://www.facebook.com/SelbsthilfekontaktstelleHorizont/">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/Horizont_HSH/">Instagram</a>
 
 ## Zielgruppe
