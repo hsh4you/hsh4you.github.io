@@ -14,7 +14,7 @@ Begegnungsangebote für die Nachbarschaft (Programm siehe Webseite),<br> Verweis
 
 ## Links
 <a class="external_link" href="http://www.benn-alt-hsh.de">Webseite</a><br>
-<a class="external_link" href="http://www.facebook.com/Benn Alt HSH">Facebook</a>
+<a class="external_link" href="http://www.facebook.com/Benn Alt HSH">Facebook</a><br>
 <a class="external_link" href="https://www.instagram.com/Benn Alt HSH/">Instagram</a>
 
 ## Zielgruppe
@@ -30,12 +30,3 @@ Unser Vor-Ort-Büro und Begegnungsraum ist in der Wartenberger Straße 24, 13053
 
 <div id="gmap"></div>
 <script>window.onload = showMap('Wartenberger Straße 24, 13053, Berlin', 0, 'gmap_mini')</script>
-
-## Eindrücke
-<div class="mediacontainer">
-  <img src="Images/BENN/1.jpg" />
-  <img src="Images/BENN/2.jpg" />
-  <img src="Images/BENN/3.jpg" />
-  <img src="Images/BENN/4.jpg" />
-</div>
-
