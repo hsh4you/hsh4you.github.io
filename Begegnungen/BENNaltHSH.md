@@ -14,7 +14,8 @@ Begegnungsangebote für die Nachbarschaft (Programm siehe Webseite),<br> Verweis
 
 ## Links
 <a class="external_link" href="http://www.benn-alt-hsh.de">Webseite</a><br>
-<a class="external_link" href="http://www.facebook.com/BENNHSHNORD">Facebook</a>
+<a class="external_link" href="http://www.facebook.com/Benn Alt HSH">Facebook</a>
+<a class="external_link" href="https://www.instagram.com/Benn Alt HSH/">Instagram</a>
 
 ## Zielgruppe
 Neue und alteingesessene Nachbar*innen aus dem Kiez 
