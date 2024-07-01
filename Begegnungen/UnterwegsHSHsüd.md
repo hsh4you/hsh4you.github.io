@@ -28,11 +28,11 @@ SozDia Stiftung Berlin
 ## Wo
 an zwei Standorten
 
-Stadtteilzentrum Campus Hedwig, Hedwigstraße 12, 13053 Berlin
+Stadtteilzentrum Campus Hedwig
 <div id="gmap"></div>
 <script>window.onload = showMap('Hedwigstraße 12, 13053, Berlin', 0, 'gmap_mini')</script>
 
-Interkultureller Garten Lichtenberg, Liebenwalder Straße 12, 13055 Berlin
+Interkultureller Garten Lichtenberg
 <div id="gmap"></div>
 <script>window.onload = showMap('Liebenwalder Straße 12, 13055, Berlin', 0, 'gmap_mini')</script>
 
