@@ -97,5 +97,6 @@ id: index
   });
 </script>
 
+<img src="images/startpage/Layout_Poster_KfA24_DinA4_DEF.jpg">
 
 
