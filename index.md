@@ -97,6 +97,6 @@ id: index
   });
 </script>
 
-<img src="images/startpage/Layout_Poster_KfA24_DinA4_DEF.jpg">
+<img src="images/startpage/Poster 2025.jpg.jpg">
 
 
