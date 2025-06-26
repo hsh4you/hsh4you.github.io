@@ -4,11 +4,11 @@ Umsetzung durch den <a class="external_link" href="https://kiezkalender-lichtenb
 <script type="text/javascript">
     var t = new Date();
 
-    // Kategorien 600 Alt-Hohenschönhausen 624 Hohenschönhausen
+    // Event Kiez: Hohenschoenhausen 820
 
     var options = {
         start_date: `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,"0")}-${String(t.getDate()).padStart(2,"0")}`,
-        categories: '600, 624'
+        event_kiez: '820'
     };
     var kiezkalender = new Kiezkalender("#kiezkalender", options);
 </script>
